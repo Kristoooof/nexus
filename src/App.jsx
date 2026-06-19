@@ -48,6 +48,7 @@ export default function App() {
   const [library, setLibrary] = useState(() => JSON.parse(localStorage.getItem('mediaLibrary') || '[]'))
   const [modalItem, setModalItem] = useState(null)
   const [recommendations, setRecommendations] = useState([])
+  const [visibleCount, setVisibleCount] = useState(50) // ÚJ: Betöltött elemek száma
 
   const [filters, setFilters] = useState({
     types: [],
@@ -91,6 +92,11 @@ export default function App() {
   useEffect(() => {
     localStorage.setItem('mediaLibrary', JSON.stringify(library))
   }, [library])
+
+  // ÚJ: Ha megváltoznak a szűrők, visszaállítjuk a látható elemek számát 50-re
+  useEffect(() => {
+    setVisibleCount(50)
+  }, [filters])
 
   const allGenres = useMemo(() => {
     let set = new Set()
@@ -151,6 +157,7 @@ export default function App() {
     setLibrary(library.filter(libId => libId !== id))
   }
 
+  // Szűrt lista (itt nincs slice, mindent megkap)
   const filteredMedia = useMemo(() => {
     return allMedia.filter(item => {
       const ext = extData[item.id] || { tags: [], pacing: 'Ismeretlen' }
@@ -174,8 +181,11 @@ export default function App() {
         }
       }
       return true
-    }).slice(0, 100)
+    })
   }, [allMedia, extData, filters])
+
+  // ÚJ: Csak a látható mennyiséget szeleteljük ki
+  const displayedMedia = filteredMedia.slice(0, visibleCount)
 
   if (loading) return <div className="container loading-screen"><h2>Adatok betöltése...</h2></div>
 
@@ -252,11 +262,21 @@ export default function App() {
             <div className="results-header">
               <h2>Találatok <span className="result-count">({filteredMedia.length})</span></h2>
             </div>
+            
             <div className="grid">
-              {filteredMedia.map(item => (
+              {displayedMedia.map(item => (
                 <MediaCard key={item.id} item={item} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
               ))}
             </div>
+            
+            {/* ÚJ: Load More gomb */}
+            {visibleCount < filteredMedia.length && (
+              <div className="load-more-container">
+                <button className="load-more-btn" onClick={() => setVisibleCount(prev => prev + 50)}>
+                  Továbbiak betöltése ({filteredMedia.length - visibleCount} elem rejtve)
+                </button>
+              </div>
+            )}
           </>
         )}
 
