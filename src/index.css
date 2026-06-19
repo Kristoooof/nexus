@@ -160,3 +160,16 @@ body {
   .modal-body { flex-direction: column; }
   .modal-img-wrap { max-width: 200px; margin: 0 auto; }
 }
+/* LOAD MORE GOMB */
+.load-more-container { display: flex; justify-content: center; margin-top: 32px; margin-bottom: 20px; }
+.load-more-btn { 
+  background: var(--surface-color); color: var(--text-main); 
+  border: 1px solid var(--glass-border); padding: 14px 32px; 
+  border-radius: 30px; cursor: pointer; font-size: 16px; 
+  transition: 0.2s; font-weight: 600;
+}
+.load-more-btn:hover { 
+  background: var(--primary); border-color: var(--primary); 
+  color: white; transform: translateY(-2px); 
+  box-shadow: 0 4px 15px rgba(108, 92, 231, 0.4);
+}
