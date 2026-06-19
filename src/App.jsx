@@ -161,7 +161,9 @@ export default function App() {
       const ext = extData[item.id] || { tags: [], pacing: 'Ismeretlen' }
       
       if (filters.search && !item.title.toLowerCase().includes(filters.search.toLowerCase())) return false
-      if (filters.types.length > 0 && !filters.types.includes(item.type)) return false
+      if (filters.types.length > 0) {
+        if (!item.type || !filters.types.includes(item.type)) return false
+      }
       if (filters.pacings.length > 0 && !filters.pacings.includes(ext.pacing)) return false
       
       if (filters.genres.length > 0) {
