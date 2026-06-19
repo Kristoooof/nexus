@@ -3,6 +3,7 @@ import json
 import os
 import math
 import time
+import random
 
 TMDB_API_KEY = os.getenv('TMDB_API_KEY')
 IGDB_CLIENT_ID = os.getenv('IGDB_CLIENT_ID')
@@ -19,7 +20,6 @@ def chunk_and_save(base_filename, data_list, max_items=50000):
         filepath = os.path.join(PUBLIC_DIR, f"{base_filename}.json")
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump([], f)
-        print(f"Mentve: {filepath} (0 elem - Üres fájl létrehozva)")
         return [f"{base_filename}.json"]
     
     chunks = math.ceil(len(data_list) / max_items)
@@ -36,6 +36,29 @@ def chunk_and_save(base_filename, data_list, max_items=50000):
         print(f"Mentve: {filepath} ({len(chunk_data)} elem)")
     return saved_files
 
+def load_existing_media():
+    """Betölti a már letöltött adatokat, hogy ne töröljük őket, hanem bővítsük."""
+    existing = {}
+    manifest_path = os.path.join(PUBLIC_DIR, 'manifest.json')
+    if not os.path.exists(manifest_path):
+        return []
+    
+    try:
+        with open(manifest_path, 'r', encoding='utf-8') as f:
+            manifest = json.load(f)
+        for key, files in manifest.items():
+            if key == 'bovitett': continue
+            for file in files:
+                filepath = os.path.join(PUBLIC_DIR, file)
+                if os.path.exists(filepath):
+                    with open(filepath, 'r', encoding='utf-8') as f2:
+                        items = json.load(f2)
+                        for item in items:
+                            existing[item['id']] = item # ID alapján felülírjuk/betesszük
+    except Exception as e:
+        print(f"Hiba a régi adatok olvasásakor: {e}")
+    return list(existing.values())
+
 def get_tmdb_movies():
     print("Filmek letöltése (TMDB)...")
     if not TMDB_API_KEY: return []
@@ -44,20 +67,21 @@ def get_tmdb_movies():
     
     movies = []
     try:
-        for page in range(1, 6):
-            resp = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=hu-HU&page={page}")
-            resp.raise_for_status()
-            data = resp.json()
-            for m in data.get('results', []):
-                movies.append({
-                    "id": f"tmdb_{m['id']}",
-                    "title": m.get('title', ''),
-                    "type": "film",
-                    "genres": [genre_map.get(gid, str(gid)) for gid in m.get('genre_ids', [])],
-                    "description": m.get('overview', ''),
-                    "image": f"https://image.tmdb.org/t/p/w500{m.get('poster_path')}" if m.get('poster_path') else ""
-                })
-            time.sleep(0.5)
+        # Véletlenszerű oldal, hogy mindig új filmeket kapjunk
+        page = random.randint(1, 500)
+        resp = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=hu-HU&page={page}")
+        resp.raise_for_status()
+        data = resp.json()
+        for m in data.get('results', []):
+            movies.append({
+                "id": f"tmdb_{m['id']}",
+                "title": m.get('title', ''),
+                "type": "film",
+                "genres": [genre_map.get(gid, str(gid)) for gid in m.get('genre_ids', [])],
+                "description": m.get('overview', ''),
+                "image": f"https://image.tmdb.org/t/p/w500{m.get('poster_path')}" if m.get('poster_path') else ""
+            })
+        time.sleep(0.5)
     except Exception as e:
         print(f"HIBA TMDB-nél: {e}")
     return movies
@@ -69,7 +93,9 @@ def get_igdb_games():
     try:
         token_resp = requests.post(f"https://id.twitch.tv/oauth2/token?client_id={IGDB_CLIENT_ID}&client_secret={IGDB_CLIENT_SECRET}&grant_type=client_credentials").json()
         headers = {'Client-ID': IGDB_CLIENT_ID, 'Authorization': f"Bearer {token_resp['access_token']}"}
-        body = "fields name,genres.name,summary,rating,cover.image_id; sort rating desc; limit 50;"
+        # Véletlenszerű offset
+        offset = random.randint(0, 500)
+        body = f"fields name,genres.name,summary,rating,cover.image_id; sort rating desc; limit 50; offset {offset};"
         resp = requests.post('https://api.igdb.com/v4/games', headers=headers, data=body)
         resp.raise_for_status()
         
@@ -88,9 +114,12 @@ def get_igdb_games():
 
 def get_openlibrary_books():
     print("Könyvek letöltése (OpenLibrary)...")
+    # Véletlenszerű műfaj
+    subjects = ['science_fiction', 'fantasy', 'mystery', 'thriller', 'romance', 'horror', 'history', 'young_adult']
+    subject = random.choice(subjects)
     books = []
     try:
-        resp = requests.get("https://openlibrary.org/subjects/science_fiction.json?limit=50", headers=HEADERS_OL)
+        resp = requests.get(f"https://openlibrary.org/subjects/{subject}.json?limit=50", headers=HEADERS_OL)
         resp.raise_for_status()
         data = resp.json()
         for b in data.get('works', []):
@@ -98,7 +127,7 @@ def get_openlibrary_books():
                 "id": f"ol_{b.get('key', '').split('/')[-1]}",
                 "title": b.get('title', ''),
                 "type": "konyv",
-                "genres": ["Science Fiction"],
+                "genres": [subject.replace('_', ' ').title()],
                 "author": b.get('authors', [{}])[0].get('name', '') if b.get('authors') else '',
                 "image": f"https://covers.openlibrary.org/b/id/{b.get('cover_id')}-M.jpg" if b.get('cover_id') else ""
             })
@@ -107,31 +136,43 @@ def get_openlibrary_books():
     return books
 
 def get_anilist_media(media_type="ANIME", country_code=None):
-    type_name = "ANIME" if media_type == "ANIME" else "MANGA"
-    if country_code == "KR": type_name = "MANHWA"
+    type_name = "ANIME" if media_type == "ANIME" else "MANHWA" if country_code == "KR" else "MANGA"
     print(f"{type_name} letöltése (AniList)...")
     
-    query = '''
-    query ($page: Int, $perPage: Int, $type: MediaType, $country: CountryCode) {
-      Page (page: $page, perPage: $perPage) {
-        media (type: $type, countryOfOrigin: $country, sort: POPULARITY_DESC) {
-          id
-          title { romaji english }
-          genres
-          tags { name }
-          coverImage { large }
-          description
-        }
-      }
-    }'''
-    variables = {'page': 1, 'perPage': 50, 'type': media_type, 'country': country_code}
+    page = random.randint(1, 100) # Véletlenszerű oldal
+    
+    # Két külön query, hogy a GraphQL ne kapjon null-t az animéknél
+    if country_code:
+        query = '''
+        query ($page: Int, $perPage: Int, $type: MediaType, $country: CountryCode) {
+          Page (page: $page, perPage: $perPage) {
+            media (type: $type, countryOfOrigin: $country, sort: POPULARITY_DESC) {
+              id title { romaji english } genres tags { name } coverImage { large } description
+            }
+          }
+        }'''
+        variables = {'page': page, 'perPage': 50, 'type': media_type, 'country': country_code}
+    else:
+        query = '''
+        query ($page: Int, $perPage: Int, $type: MediaType) {
+          Page (page: $page, perPage: $perPage) {
+            media (type: $type, sort: POPULARITY_DESC) {
+              id title { romaji english } genres tags { name } coverImage { large } description
+            }
+          }
+        }'''
+        variables = {'page': page, 'perPage': 50, 'type': media_type}
+
     items = []
     try:
         resp = requests.post("https://graphql.anilist.co", json={'query': query, 'variables': variables}, headers={'Content-Type': 'application/json'})
-        resp.raise_for_status()
         data = resp.json()
+        
+        if 'errors' in data:
+            print(f"GraphQL HIBA: {data['errors']}")
+            return []
+            
         for m in data.get('data', {}).get('Page', {}).get('media', []):
-            # ANGOL CÍM ELŐNYBEN!
             title = m.get('title', {}).get('english') or m.get('title', {}).get('romaji', '')
             items.append({
                 "id": f"anilist_{m['id']}",
@@ -165,19 +206,43 @@ def generate_extended_tags(all_media):
     return extended
 
 def main():
+    # 1. Betöltjük a meglévő adatokat
+    existing_data = load_existing_media()
+    print(f"Meglévő elemek betöltve: {len(existing_data)}")
+    
+    # 2. Letöltjük az új adatokat
+    new_movies = get_tmdb_movies()
+    new_games = get_igdb_games()
+    new_books = get_openlibrary_books()
+    new_animes = get_anilist_media("ANIME")
+    new_mangas = get_anilist_media("MANGA", "JP")
+    new_manhwas = get_anilist_media("MANGA", "KR")
+    
+    new_items = new_movies + new_games + new_books + new_animes + new_mangas + new_manhwas
+    print(f"Új elemek lekérve: {len(new_items)}")
+
+    # 3. Összefűzzük (régi + új), duplikációkat az ID alapján eldobjuk
+    merged_dict = {item['id']: item for item in existing_data}
+    for item in new_items:
+        if item and 'id' in item:
+            merged_dict[item['id']] = item
+            
+    all_data = list(merged_dict.values())
+    print(f"Összesített adatbázis mérete: {len(all_data)}")
+
+    # 4. Típusok szerinti szétválogatás mentéshez
+    movies = [m for m in all_data if m.get('type') == 'film']
+    games = [m for m in all_data if m.get('type') == 'jatek']
+    books = [m for m in all_data if m.get('type') == 'konyv']
+    animes = [m for m in all_data if m.get('type') == 'anime']
+    mangas = [m for m in all_data if m.get('type') == 'manga']
+    manhwas = [m for m in all_data if m.get('type') == 'manhwa']
+
+    # 5. JSON fájlok tisztítása és újraírása
     for filename in os.listdir(PUBLIC_DIR):
         if filename.endswith('.json'):
             os.remove(os.path.join(PUBLIC_DIR, filename))
 
-    movies = get_tmdb_movies()
-    games = get_igdb_games()
-    books = get_openlibrary_books()
-    animes = get_anilist_media("ANIME")
-    mangas = get_anilist_media("MANGA", "JP")
-    manhwas = get_anilist_media("MANGA", "KR")
-    
-    all_data = movies + games + books + animes + mangas + manhwas
-    
     manifest = {
         'film-adat': chunk_and_save('film-adat', movies),
         'jatek-adat': chunk_and_save('jatek-adat', games),
