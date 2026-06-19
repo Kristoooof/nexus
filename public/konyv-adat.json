@@ -584,7 +584,7 @@
         "title": "Heart of Darkness",
         "type": "konyv",
         "genres": [
-            "Mystery"
+            "Romance"
         ],
         "author": "Joseph Conrad",
         "image": "https://covers.openlibrary.org/b/id/12307847-M.jpg"
@@ -764,7 +764,7 @@
         "title": "Poirot investigates",
         "type": "konyv",
         "genres": [
-            "Mystery"
+            "Romance"
         ],
         "author": "Agatha Christie",
         "image": "https://covers.openlibrary.org/b/id/13670505-M.jpg"
@@ -814,7 +814,7 @@
         "title": "Death on the Nile",
         "type": "konyv",
         "genres": [
-            "Mystery"
+            "Romance"
         ],
         "author": "Agatha Christie",
         "image": "https://covers.openlibrary.org/b/id/14066646-M.jpg"
@@ -998,5 +998,475 @@
         ],
         "author": "Agatha Christie",
         "image": "https://covers.openlibrary.org/b/id/14578204-M.jpg"
+    },
+    {
+        "id": "ol_OL21177W",
+        "title": "Wuthering Heights",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Emily Brontë",
+        "image": "https://covers.openlibrary.org/b/id/12818862-M.jpg"
+    },
+    {
+        "id": "ol_OL66513W",
+        "title": "Emma",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Jane Austen",
+        "image": "https://covers.openlibrary.org/b/id/9278312-M.jpg"
+    },
+    {
+        "id": "ol_OL66562W",
+        "title": "Sense and Sensibility",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Jane Austen",
+        "image": "https://covers.openlibrary.org/b/id/9278292-M.jpg"
+    },
+    {
+        "id": "ol_OL29983W",
+        "title": "Little Women",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Louisa May Alcott",
+        "image": "https://covers.openlibrary.org/b/id/8775559-M.jpg"
+    },
+    {
+        "id": "ol_OL267096W",
+        "title": "Анна Каренина",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Лев Толстой",
+        "image": "https://covers.openlibrary.org/b/id/2560652-M.jpg"
+    },
+    {
+        "id": "ol_OL468431W",
+        "title": "The Great Gatsby",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "F. Scott Fitzgerald",
+        "image": "https://covers.openlibrary.org/b/id/10590366-M.jpg"
+    },
+    {
+        "id": "ol_OL1095427W",
+        "title": "Jane Eyre",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Charlotte Brontë",
+        "image": "https://covers.openlibrary.org/b/id/8235363-M.jpg"
+    },
+    {
+        "id": "ol_OL66534W",
+        "title": "Northanger Abbey",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Jane Austen",
+        "image": "https://covers.openlibrary.org/b/id/12567961-M.jpg"
+    },
+    {
+        "id": "ol_OL98501W",
+        "title": "Ethan Frome",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Edith Wharton",
+        "image": "https://covers.openlibrary.org/b/id/8303480-M.jpg"
+    },
+    {
+        "id": "ol_OL176092W",
+        "title": "The Moonstone",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Wilkie Collins",
+        "image": "https://covers.openlibrary.org/b/id/8237041-M.jpg"
+    },
+    {
+        "id": "ol_OL88813W",
+        "title": "A Room with a View",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "E. M. Forster",
+        "image": "https://covers.openlibrary.org/b/id/1748132-M.jpg"
+    },
+    {
+        "id": "ol_OL36287W",
+        "title": "Le Comte de Monte Cristo",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Alexandre Dumas",
+        "image": "https://covers.openlibrary.org/b/id/14566393-M.jpg"
+    },
+    {
+        "id": "ol_OL485504W",
+        "title": "Riders of the Purple Sage",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Zane Grey",
+        "image": "https://covers.openlibrary.org/b/id/872066-M.jpg"
+    },
+    {
+        "id": "ol_OL152161W",
+        "title": "Uncle Tom's Cabin",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Harriet Beecher Stowe",
+        "image": "https://covers.openlibrary.org/b/id/12728198-M.jpg"
+    },
+    {
+        "id": "ol_OL468488W",
+        "title": "This Side of Paradise",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "F. Scott Fitzgerald",
+        "image": "https://covers.openlibrary.org/b/id/8243609-M.jpg"
+    },
+    {
+        "id": "ol_OL81294W",
+        "title": "Women in Love",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "D. H. Lawrence",
+        "image": "https://covers.openlibrary.org/b/id/13140934-M.jpg"
+    },
+    {
+        "id": "ol_OL17453W",
+        "title": "She",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "H. Rider Haggard",
+        "image": "https://covers.openlibrary.org/b/id/295537-M.jpg"
+    },
+    {
+        "id": "ol_OL88881W",
+        "title": "Howards End",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "E. M. Forster",
+        "image": "https://covers.openlibrary.org/b/id/8235207-M.jpg"
+    },
+    {
+        "id": "ol_OL1103093W",
+        "title": "Cranford",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Elizabeth Cleghorn Gaskell",
+        "image": "https://covers.openlibrary.org/b/id/5188445-M.jpg"
+    },
+    {
+        "id": "ol_OL276365W",
+        "title": "The Portrait of a Lady",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Henry James",
+        "image": "https://covers.openlibrary.org/b/id/3352367-M.jpg"
+    },
+    {
+        "id": "ol_OL44973W",
+        "title": "Under the Greenwood Tree or, The Mellstock quire",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Thomas Hardy",
+        "image": "https://covers.openlibrary.org/b/id/902186-M.jpg"
+    },
+    {
+        "id": "ol_OL44986W",
+        "title": "Jude the Obscure",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Thomas Hardy",
+        "image": "https://covers.openlibrary.org/b/id/12973053-M.jpg"
+    },
+    {
+        "id": "ol_OL733640W",
+        "title": "Le rouge et le noir",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Stendhal",
+        "image": "https://covers.openlibrary.org/b/id/8231413-M.jpg"
+    },
+    {
+        "id": "ol_OL44990W",
+        "title": "The Woodlanders",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Thomas Hardy",
+        "image": "https://covers.openlibrary.org/b/id/8243078-M.jpg"
+    },
+    {
+        "id": "ol_OL77997W",
+        "title": "The pioneers",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "James Fenimore Cooper",
+        "image": "https://covers.openlibrary.org/b/id/9000512-M.jpg"
+    },
+    {
+        "id": "ol_OL485469W",
+        "title": "The Lone Star Ranger",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Zane Grey",
+        "image": "https://covers.openlibrary.org/b/id/4813849-M.jpg"
+    },
+    {
+        "id": "ol_OL109229W",
+        "title": "The ghost",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Arnold Bennett",
+        "image": "https://covers.openlibrary.org/b/id/5877895-M.jpg"
+    },
+    {
+        "id": "ol_OL109880W",
+        "title": "Framley Parsonage",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Anthony Trollope",
+        "image": "https://covers.openlibrary.org/b/id/8288051-M.jpg"
+    },
+    {
+        "id": "ol_OL98491W",
+        "title": "The Age of Innocence",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Edith Wharton",
+        "image": "https://covers.openlibrary.org/b/id/11196262-M.jpg"
+    },
+    {
+        "id": "ol_OL276328W",
+        "title": "Daisy Miller",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Henry James",
+        "image": "https://covers.openlibrary.org/b/id/6482238-M.jpg"
+    },
+    {
+        "id": "ol_OL276470W",
+        "title": "The Ambassadors",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Henry James",
+        "image": "https://covers.openlibrary.org/b/id/313610-M.jpg"
+    },
+    {
+        "id": "ol_OL276395W",
+        "title": "Washington Square",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Henry James",
+        "image": "https://covers.openlibrary.org/b/id/8243278-M.jpg"
+    },
+    {
+        "id": "ol_OL44994W",
+        "title": "The Return of the Native",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Thomas Hardy",
+        "image": "https://covers.openlibrary.org/b/id/8162989-M.jpg"
+    },
+    {
+        "id": "ol_OL258301W",
+        "title": "Доктор Живаго",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Boris Leonidovich Pasternak",
+        "image": "https://covers.openlibrary.org/b/id/1045432-M.jpg"
+    },
+    {
+        "id": "ol_OL16336633W",
+        "title": "Fifty Shades of Grey",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "E. L. James",
+        "image": "https://covers.openlibrary.org/b/id/12648183-M.jpg"
+    },
+    {
+        "id": "ol_OL15165350W",
+        "title": "Pride and Prejudice",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Jane Austen",
+        "image": "https://covers.openlibrary.org/b/id/13148521-M.jpg"
+    },
+    {
+        "id": "ol_OL5720023W",
+        "title": "Twilight",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Stephenie Meyer",
+        "image": "https://covers.openlibrary.org/b/id/12641977-M.jpg"
+    },
+    {
+        "id": "ol_OL274518W",
+        "title": "El amor en los tiempos del cólera",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Gabriel García Márquez",
+        "image": "https://covers.openlibrary.org/b/id/10096404-M.jpg"
+    },
+    {
+        "id": "ol_OL471603W",
+        "title": "The Mystery of the Blue Train",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Agatha Christie",
+        "image": "https://covers.openlibrary.org/b/id/14575533-M.jpg"
+    },
+    {
+        "id": "ol_OL2564006W",
+        "title": "Genji monogatari",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Murasaki Shikibu",
+        "image": "https://covers.openlibrary.org/b/id/6614001-M.jpg"
+    },
+    {
+        "id": "ol_OL1992198W",
+        "title": "In Cold Blood",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Truman Capote",
+        "image": "https://covers.openlibrary.org/b/id/228066-M.jpg"
+    },
+    {
+        "id": "ol_OL810989W",
+        "title": "Comus",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "John Milton",
+        "image": "https://covers.openlibrary.org/b/id/5622287-M.jpg"
+    },
+    {
+        "id": "ol_OL1673205W",
+        "title": "The Godfather",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Mario Puzo",
+        "image": "https://covers.openlibrary.org/b/id/6507069-M.jpg"
+    },
+    {
+        "id": "ol_OL8088746W",
+        "title": "Pelham",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Edward Bulwer Lytton, Baron Lytton",
+        "image": "https://covers.openlibrary.org/b/id/8974809-M.jpg"
+    },
+    {
+        "id": "ol_OL503503W",
+        "title": "Abel Sánchez",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Miguel de Unamuno",
+        "image": "https://covers.openlibrary.org/b/id/4902483-M.jpg"
+    },
+    {
+        "id": "ol_OL109873W",
+        "title": "The Eustace diamonds",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Anthony Trollope",
+        "image": "https://covers.openlibrary.org/b/id/8242844-M.jpg"
+    },
+    {
+        "id": "ol_OL36632W",
+        "title": "Jamaica Inn",
+        "type": "konyv",
+        "genres": [
+            "Romance"
+        ],
+        "author": "Daphne du Maurier",
+        "image": "https://covers.openlibrary.org/b/id/8765960-M.jpg"
     }
 ]
