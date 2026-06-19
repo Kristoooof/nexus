@@ -2,12 +2,18 @@
     "film-adat": [
         "film-adat.json"
     ],
-    "jatek-adat": [],
+    "jatek-adat": [
+        "jatek-adat.json"
+    ],
     "konyv-adat": [
         "konyv-adat.json"
     ],
-    "anime-adat": [],
-    "manga-adat": [],
+    "anime-adat": [
+        "anime-adat.json"
+    ],
+    "manga-adat": [
+        "manga-adat.json"
+    ],
     "bovitett": [
         "bovitett.json"
     ]
