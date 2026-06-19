@@ -5,21 +5,31 @@ body { font-family: system-ui, sans-serif; background: #121212; color: #eee; mar
 .main-nav button { background: none; border: none; color: #aaa; font-size: 18px; cursor: pointer; padding: 5px 15px; border-radius: 4px; }
 .main-nav button.active { color: #fff; background: #333; }
 
-.filters { background: #1e1e1e; padding: 20px; border-radius: 8px; margin-bottom: 20px; display: flex; flex-wrap: wrap; gap: 20px; align-items: center; }
-.filters input[type="text"] { padding: 8px; background: #333; color: #fff; border: 1px solid #555; border-radius: 4px; width: 200px; }
+/* SZŰRŐK ÚJRAIRVA */
+.filters { 
+  background: #1e1e1e; padding: 20px; border-radius: 8px; margin-bottom: 20px; 
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 15px;
+  overflow: visible; /* Fontos, hogy a dropdown látszódjon */
+}
+.filter-group { display: flex; flex-direction: column; gap: 5px; }
+.filter-group > label { font-size: 14px; color: #aaa; font-weight: bold; }
+.filters input[type="text"] { padding: 8px; background: #333; color: #fff; border: 1px solid #555; border-radius: 4px; width: 100%; box-sizing: border-box; }
 
-.checkbox-group { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
-.checkbox-group span, .logic-switch span { font-weight: bold; }
-.checkbox-group label, .logic-switch label { cursor: pointer; display: flex; align-items: center; gap: 5px; background: #333; padding: 5px 10px; border-radius: 4px; }
+.checkbox-group { display: flex; gap: 8px; flex-wrap: wrap; }
+.checkbox-group label { cursor: pointer; display: flex; align-items: center; gap: 5px; background: #333; padding: 5px 10px; border-radius: 4px; font-size: 14px; }
 
-.multi-select { position: relative; min-width: 200px; }
-.multi-select > label { background: #333; padding: 8px; border-radius: 4px; display: block; cursor: pointer; }
-.dropdown-panel { position: absolute; top: 40px; left: 0; width: 100%; background: #2a2a2a; border: 1px solid #555; border-radius: 4px; z-index: 100; max-height: 300px; display: flex; flex-direction: column; }
+.logic-switch { display: flex; gap: 8px; }
+.logic-switch label { background: #333; padding: 5px 10px; border-radius: 4px; cursor: pointer; font-size: 14px; display: flex; align-items: center; gap: 5px; }
+
+.multi-select { position: relative; }
+.multi-select > label { background: #333; padding: 8px; border-radius: 4px; display: block; cursor: pointer; font-size: 14px; box-sizing: border-box; }
+.dropdown-panel { position: absolute; top: 100%; left: 0; width: 100%; background: #2a2a2a; border: 1px solid #555; border-radius: 4px; z-index: 100; max-height: 250px; display: flex; flex-direction: column; box-sizing: border-box; margin-top: 2px; }
 .dropdown-panel input { margin: 10px; padding: 5px; background: #111; border: 1px solid #555; color: #fff; }
 .options-list { overflow-y: auto; }
-.option-item { display: flex; align-items: center; gap: 5px; padding: 8px 15px; cursor: pointer; }
+.option-item { display: flex; align-items: center; gap: 5px; padding: 8px 15px; cursor: pointer; font-size: 14px; }
 .option-item:hover { background: #444; }
 
+/* KÁRTYÁK ÉS GRID */
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 20px; }
 .card { background: #1e1e1e; border-radius: 8px; overflow: hidden; cursor: pointer; transition: 0.2s transform; border: 1px solid #333; }
 .card:hover { transform: translateY(-5px); border-color: #666; }
@@ -27,7 +37,7 @@ body { font-family: system-ui, sans-serif; background: #121212; color: #eee; mar
 .no-img { width: 100%; height: 270px; display: flex; align-items: center; justify-content: center; background: #333; color: #666; }
 .card h3 { margin: 10px; font-size: 16px; height: 40px; overflow: hidden; }
 .card p { font-size: 12px; color: #aaa; margin: 0 10px 10px; }
-.tag-container { margin: 0 10px 10px; }
+.tag-container { margin: 0 10px 10px; min-height: 20px; }
 .tag { background: #0066cc; padding: 2px 6px; border-radius: 4px; font-size: 10px; display: inline-block; margin-right: 4px; margin-bottom: 4px; }
 
 .btn-add { width: calc(100% - 20px); margin: 0 10px 10px; padding: 5px; background: #28a745; color: white; border: none; border-radius: 4px; cursor: pointer; }
@@ -37,12 +47,13 @@ body { font-family: system-ui, sans-serif; background: #121212; color: #eee; mar
 .clear-btn { background: #555; border: none; color: white; padding: 5px 10px; border-radius: 4px; cursor: pointer; float: right; }
 .btn-recommend-large { background: #ffc107; color: black; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; margin-bottom: 20px; font-weight: bold; }
 
-/* Modal */
-.modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.8); display: flex; justify-content: center; align-items: center; z-index: 1000; }
-.modal-content { background: #1e1e1e; padding: 20px; border-radius: 8px; max-width: 800px; width: 90%; max-height: 90vh; overflow-y: auto; position: relative; }
-.modal-close { position: absolute; top: 10px; right: 15px; background: none; border: none; color: #fff; font-size: 20px; cursor: pointer; }
-.modal-body { display: flex; gap: 20px; }
-.modal-img { width: 300px; border-radius: 8px; object-fit: cover; flex-shrink: 0; }
+/* MODAL */
+.modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.8); display: flex; justify-content: center; align-items: center; z-index: 1000; padding: 20px; box-sizing: border-box; }
+.modal-content { background: #1e1e1e; padding: 20px; border-radius: 8px; max-width: 800px; width: 100%; max-height: 90vh; overflow-y: auto; position: relative; }
+.modal-close { position: absolute; top: 10px; right: 15px; background: none; border: none; color: #fff; font-size: 24px; cursor: pointer; z-index: 10; }
+.modal-body { display: flex; gap: 20px; flex-wrap: wrap; }
+.modal-img { width: 100%; max-width: 300px; border-radius: 8px; object-fit: cover; flex-shrink: 0; margin: 0 auto; }
+.modal-info { flex: 1; min-width: 250px; }
 .modal-info h2 { margin-top: 0; }
 .modal-actions { display: flex; gap: 10px; margin-top: 20px; }
 .btn-recommend { background: #0066cc; color: white; border: none; padding: 8px 12px; border-radius: 4px; cursor: pointer; flex: 1; }
