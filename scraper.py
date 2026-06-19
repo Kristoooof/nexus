@@ -16,7 +16,6 @@ os.makedirs(PUBLIC_DIR, exist_ok=True)
 
 def chunk_and_save(base_filename, data_list, max_items=50000):
     if not data_list: 
-        # Ha nincs adat, üres fájlt hozunk létre, hogy a frontend ne kapjon 404-et!
         filepath = os.path.join(PUBLIC_DIR, f"{base_filename}.json")
         with open(filepath, 'w', encoding='utf-8') as f:
             json.dump([], f)
@@ -109,10 +108,11 @@ def get_openlibrary_books():
 
 def get_anilist_media(media_type="ANIME"):
     print(f"{media_type} letöltése (AniList)...")
+    # JAVÍTOTT QUERY: A type paraméter a media-ba került, nem a Page-be!
     query = '''
     query ($page: Int, $perPage: Int, $type: MediaType) {
-      Page (page: $page, perPage: $perPage, type: $type) {
-        media (sort: POPULARITY_DESC) {
+      Page (page: $page, perPage: $perPage) {
+        media (type: $type, sort: POPULARITY_DESC) {
           id
           title { romaji english }
           genres
@@ -161,6 +161,12 @@ def generate_extended_tags(all_media):
     return extended
 
 def main():
+    # RÉGI JSON FÁJLOK TÖRLÉSE a public mappából (hogy ne maradjon szemét)
+    for filename in os.listdir(PUBLIC_DIR):
+        if filename.endswith('.json'):
+            os.remove(os.path.join(PUBLIC_DIR, filename))
+            print(f"Törölve: {filename}")
+
     movies = get_tmdb_movies()
     games = get_igdb_games()
     books = get_openlibrary_books()
