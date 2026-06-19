@@ -4,8 +4,8 @@
         "title": "Megszállottság",
         "type": "film",
         "tags": [
-            27,
-            53
+            "Thriller",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -14,9 +14,9 @@
         "title": "Mortal Kombat 2",
         "type": "film",
         "tags": [
-            28,
-            12,
-            14
+            "Kaland",
+            "Akció",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -25,8 +25,8 @@
         "title": "Michael",
         "type": "film",
         "tags": [
-            10402,
-            18
+            "Dráma",
+            "Zenei"
         ],
         "pacing": "Közepes"
     },
@@ -35,8 +35,8 @@
         "title": "கருப்பு",
         "type": "film",
         "tags": [
-            28,
-            14
+            "Akció",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -45,8 +45,8 @@
         "title": "Elátkozott esküvő",
         "type": "film",
         "tags": [
-            35,
-            27
+            "Vígjáték",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -55,8 +55,8 @@
         "title": "Salitan",
         "type": "film",
         "tags": [
-            18,
-            10749
+            "Dráma",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -65,7 +65,7 @@
         "title": "L'homme inconnu",
         "type": "film",
         "tags": [
-            18
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -74,8 +74,8 @@
         "title": "పెద్ది",
         "type": "film",
         "tags": [
-            18,
-            28
+            "Dráma",
+            "Akció"
         ],
         "pacing": "Közepes"
     },
@@ -84,17 +84,17 @@
         "title": "A Leleplezés napja",
         "type": "film",
         "tags": [
-            53,
-            878
+            "Sci-Fi",
+            "Thriller"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_1523145",
         "title": "Твоё сердце будет разбито",
         "type": "film",
         "tags": [
-            10749
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -103,8 +103,8 @@
         "title": "है जवानी तो इश्क होना है",
         "type": "film",
         "tags": [
-            35,
-            10749
+            "Vígjáték",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -113,9 +113,9 @@
         "title": "Vacanze per un massacro",
         "type": "film",
         "tags": [
-            80,
-            28,
-            53
+            "Akció",
+            "Bűnügyi",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -124,11 +124,11 @@
         "title": "Super Mario Galaxis: A film",
         "type": "film",
         "tags": [
-            35,
-            12,
-            14,
-            16,
-            10751
+            "Animációs",
+            "Kaland",
+            "Fantasy",
+            "Családi",
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -137,21 +137,21 @@
         "title": "Star Wars: A Mandalóri és Grogu",
         "type": "film",
         "tags": [
-            28,
-            12,
-            878
+            "Kaland",
+            "Akció",
+            "Sci-Fi"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_1084244",
         "title": "Toy Story 5",
         "type": "film",
         "tags": [
-            16,
-            35,
-            12,
-            10751
+            "Kaland",
+            "Vígjáték",
+            "Animációs",
+            "Családi"
         ],
         "pacing": "Közepes"
     },
@@ -160,10 +160,10 @@
         "title": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
         "type": "film",
         "tags": [
-            80,
-            36,
-            28,
-            14
+            "Akció",
+            "Bűnügyi",
+            "Történelmi",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -172,8 +172,8 @@
         "title": "A te hibád: London",
         "type": "film",
         "tags": [
-            18,
-            10749
+            "Dráma",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -182,8 +182,8 @@
         "title": "Végzet",
         "type": "film",
         "tags": [
-            18,
-            10749
+            "Dráma",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -192,8 +192,8 @@
         "title": "ദൃഢം",
         "type": "film",
         "tags": [
-            80,
-            53
+            "Bűnügyi",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -202,8 +202,8 @@
         "title": "火遮眼",
         "type": "film",
         "tags": [
-            80,
-            28
+            "Akció",
+            "Bűnügyi"
         ],
         "pacing": "Közepes"
     },
@@ -212,8 +212,8 @@
         "title": "Lee Cronin: A múmia",
         "type": "film",
         "tags": [
-            9648,
-            27
+            "Rejtély",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -222,10 +222,10 @@
         "title": "Egymás bőrében",
         "type": "film",
         "tags": [
-            16,
-            12,
-            14,
-            10751
+            "Kaland",
+            "Fantasy",
+            "Animációs",
+            "Családi"
         ],
         "pacing": "Közepes"
     },
@@ -234,7 +234,7 @@
         "title": "나는 신혼 너는 재혼",
         "type": "film",
         "tags": [
-            18
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -243,8 +243,8 @@
         "title": "Szürke zóna",
         "type": "film",
         "tags": [
-            28,
-            53
+            "Akció",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -253,18 +253,18 @@
         "title": "A Hail Mary-küldetés",
         "type": "film",
         "tags": [
-            12,
-            878
+            "Kaland",
+            "Sci-Fi"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_976912",
         "title": "Graphic Desires",
         "type": "film",
         "tags": [
-            80,
-            53
+            "Bűnügyi",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -273,20 +273,20 @@
         "title": "Az univerzum védelmezői",
         "type": "film",
         "tags": [
-            878,
-            28,
-            14
+            "Akció",
+            "Fantasy",
+            "Sci-Fi"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_1439930",
         "title": "The Punisher: Az utolsó célpont",
         "type": "film",
         "tags": [
-            80,
-            18,
-            28
+            "Dráma",
+            "Akció",
+            "Bűnügyi"
         ],
         "pacing": "Közepes"
     },
@@ -295,9 +295,9 @@
         "title": "Dhurandhar 2",
         "type": "film",
         "tags": [
-            80,
-            28,
-            53
+            "Akció",
+            "Bűnügyi",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -306,8 +306,8 @@
         "title": "मैं वापस आऊंगा",
         "type": "film",
         "tags": [
-            18,
-            10749
+            "Dráma",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -316,7 +316,7 @@
         "title": "बंदर",
         "type": "film",
         "tags": [
-            53
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -325,19 +325,19 @@
         "title": "Backrooms - Hátsó szobák",
         "type": "film",
         "tags": [
-            9648,
-            27,
-            878
+            "Sci-Fi",
+            "Rejtély",
+            "Horror"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_1380291",
         "title": "Tom Clancy: Jack Ryan Szellemháború",
         "type": "film",
         "tags": [
-            28,
-            53
+            "Akció",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -346,32 +346,32 @@
         "title": "Agyugrász",
         "type": "film",
         "tags": [
-            35,
-            12,
-            878,
-            16,
-            10751
+            "Sci-Fi",
+            "Animációs",
+            "Kaland",
+            "Családi",
+            "Vígjáték"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_969681",
         "title": "Pókember: Vadonatúj nap",
         "type": "film",
         "tags": [
-            28,
-            12,
-            878
+            "Kaland",
+            "Akció",
+            "Sci-Fi"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_1358005",
         "title": "Munkahelyi románc",
         "type": "film",
         "tags": [
-            35,
-            10749
+            "Vígjáték",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -380,21 +380,21 @@
         "title": "Avatar: Tűz és hamu",
         "type": "film",
         "tags": [
-            12,
-            878,
-            14
+            "Kaland",
+            "Fantasy",
+            "Sci-Fi"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_1419406",
         "title": "A sötétség peremén",
         "type": "film",
         "tags": [
-            80,
-            18,
-            28,
-            53
+            "Dráma",
+            "Akció",
+            "Bűnügyi",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -403,9 +403,9 @@
         "title": "Haunted 3D: Echoes of the Past",
         "type": "film",
         "tags": [
-            53,
-            27,
-            10749
+            "Romantikus",
+            "Thriller",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -414,7 +414,7 @@
         "title": "The Summoning of Baby Blue",
         "type": "film",
         "tags": [
-            27
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -423,9 +423,9 @@
         "title": "Demon Slayer: Kimetsu No Yaiba Infinity Castle",
         "type": "film",
         "tags": [
-            16,
-            28,
-            14
+            "Akció",
+            "Fantasy",
+            "Animációs"
         ],
         "pacing": "Közepes"
     },
@@ -434,7 +434,7 @@
         "title": "Chum",
         "type": "film",
         "tags": [
-            27
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -443,8 +443,8 @@
         "title": "1000 férfi 12 óra alatt – A Bonnie Blue-sztori",
         "type": "film",
         "tags": [
-            10770,
-            99
+            "Dokumentum",
+            "TV film"
         ],
         "pacing": "Közepes"
     },
@@ -453,8 +453,8 @@
         "title": "Seven Snipers",
         "type": "film",
         "tags": [
-            28,
-            53
+            "Akció",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -463,9 +463,9 @@
         "title": "A megmentő",
         "type": "film",
         "tags": [
-            80,
-            28,
-            53
+            "Akció",
+            "Bűnügyi",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -474,7 +474,7 @@
         "title": "Rita",
         "type": "film",
         "tags": [
-            18
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -483,9 +483,9 @@
         "title": "Hulla van a nappaliban",
         "type": "film",
         "tags": [
-            18,
-            35,
-            53
+            "Dráma",
+            "Vígjáték",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -494,7 +494,7 @@
         "title": "Hokum",
         "type": "film",
         "tags": [
-            27
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -503,8 +503,8 @@
         "title": "Bosco d'amore",
         "type": "film",
         "tags": [
-            18,
-            10749
+            "Dráma",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -513,7 +513,7 @@
         "title": "Saccharine",
         "type": "film",
         "tags": [
-            27
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -522,9 +522,9 @@
         "title": "Pressure",
         "type": "film",
         "tags": [
-            10752,
-            36,
-            53
+            "Történelmi",
+            "Háborús",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -533,10 +533,10 @@
         "title": "Toy Story - Játékháború",
         "type": "film",
         "tags": [
-            16,
-            35,
-            12,
-            10751
+            "Kaland",
+            "Vígjáték",
+            "Animációs",
+            "Családi"
         ],
         "pacing": "Közepes"
     },
@@ -545,8 +545,8 @@
         "title": "A Remény rabjai",
         "type": "film",
         "tags": [
-            80,
-            18
+            "Dráma",
+            "Bűnügyi"
         ],
         "pacing": "Közepes"
     },
@@ -555,9 +555,9 @@
         "title": "Over Your Dead Body",
         "type": "film",
         "tags": [
-            35,
-            28,
-            53
+            "Akció",
+            "Vígjáték",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -566,8 +566,8 @@
         "title": "Horrorra akadva",
         "type": "film",
         "tags": [
-            27,
-            35
+            "Vígjáték",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -576,9 +576,9 @@
         "title": "GOAT - Will, a bajnok",
         "type": "film",
         "tags": [
-            16,
-            35,
-            10751
+            "Vígjáték",
+            "Animációs",
+            "Családi"
         ],
         "pacing": "Közepes"
     },
@@ -587,8 +587,8 @@
         "title": "Csúcsragadozó",
         "type": "film",
         "tags": [
-            28,
-            53
+            "Akció",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -597,7 +597,7 @@
         "title": "Horrorra akadva, avagy tudom, kit ettél tavaly nyárson",
         "type": "film",
         "tags": [
-            35
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -606,7 +606,7 @@
         "title": "Le calde notti di Poppea",
         "type": "film",
         "tags": [
-            35
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -615,20 +615,20 @@
         "title": "Csillagok között",
         "type": "film",
         "tags": [
-            18,
-            12,
-            878
+            "Dráma",
+            "Kaland",
+            "Sci-Fi"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_1092936",
         "title": "La valle dei sorrisi",
         "type": "film",
         "tags": [
-            18,
-            27,
-            53
+            "Dráma",
+            "Thriller",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -637,11 +637,11 @@
         "title": "Zootropolis 2.",
         "type": "film",
         "tags": [
-            35,
-            12,
-            16,
-            9648,
-            10751
+            "Animációs",
+            "Kaland",
+            "Családi",
+            "Rejtély",
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -650,8 +650,8 @@
         "title": "भारत भाग्य विधाता",
         "type": "film",
         "tags": [
-            18,
-            53
+            "Dráma",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -660,10 +660,10 @@
         "title": "Aang legendája: Az utolsó léghajlító",
         "type": "film",
         "tags": [
-            16,
-            28,
-            12,
-            14
+            "Kaland",
+            "Akció",
+            "Fantasy",
+            "Animációs"
         ],
         "pacing": "Közepes"
     },
@@ -672,9 +672,9 @@
         "title": "镖人：风起大漠",
         "type": "film",
         "tags": [
-            18,
-            28,
-            36
+            "Dráma",
+            "Akció",
+            "Történelmi"
         ],
         "pacing": "Közepes"
     },
@@ -683,9 +683,9 @@
         "title": "धुरंधर",
         "type": "film",
         "tags": [
-            80,
-            28,
-            53
+            "Akció",
+            "Bűnügyi",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -694,9 +694,9 @@
         "title": "A gonosz színei: Fekete",
         "type": "film",
         "tags": [
-            9648,
-            80,
-            53
+            "Bűnügyi",
+            "Rejtély",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -705,8 +705,8 @@
         "title": "Az ördög Pradát visel",
         "type": "film",
         "tags": [
-            18,
-            35
+            "Dráma",
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -715,20 +715,20 @@
         "title": "Vasököl",
         "type": "film",
         "tags": [
-            18,
-            28,
-            878
+            "Dráma",
+            "Akció",
+            "Sci-Fi"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_1433117",
         "title": "கர",
         "type": "film",
         "tags": [
-            80,
-            18,
-            53
+            "Dráma",
+            "Bűnügyi",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -737,7 +737,7 @@
         "title": "L'Adolescente",
         "type": "film",
         "tags": [
-            18
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -746,10 +746,10 @@
         "title": "Ne Zha 2",
         "type": "film",
         "tags": [
-            16,
-            28,
-            12,
-            14
+            "Kaland",
+            "Akció",
+            "Fantasy",
+            "Animációs"
         ],
         "pacing": "Közepes"
     },
@@ -758,9 +758,9 @@
         "title": "Witte Wieven",
         "type": "film",
         "tags": [
-            9648,
-            18,
-            27
+            "Dráma",
+            "Rejtély",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -769,9 +769,9 @@
         "title": "Sikoly 7",
         "type": "film",
         "tags": [
-            9648,
-            80,
-            27
+            "Bűnügyi",
+            "Rejtély",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -780,8 +780,8 @@
         "title": "Miután elbuktunk",
         "type": "film",
         "tags": [
-            18,
-            10749
+            "Dráma",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -790,8 +790,8 @@
         "title": "Addicted",
         "type": "film",
         "tags": [
-            18,
-            53
+            "Dráma",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -800,18 +800,18 @@
         "title": "Mátrix",
         "type": "film",
         "tags": [
-            28,
-            878
+            "Akció",
+            "Sci-Fi"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_48650",
         "title": "Egy éjszaka Rómában",
         "type": "film",
         "tags": [
-            18,
-            10749
+            "Dráma",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -820,7 +820,7 @@
         "title": "愛のぬくもり",
         "type": "film",
         "tags": [
-            10749
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -829,61 +829,61 @@
         "title": "Greenland: Az új menedék",
         "type": "film",
         "tags": [
-            12,
-            53,
-            878
+            "Kaland",
+            "Sci-Fi",
+            "Thriller"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_755898",
         "title": "Világok harca",
         "type": "film",
         "tags": [
-            53,
-            878
+            "Sci-Fi",
+            "Thriller"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_603",
         "title": "Mátrix",
         "type": "film",
         "tags": [
-            28,
-            878
+            "Akció",
+            "Sci-Fi"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_840464",
         "title": "Greenland: Az új menedék",
         "type": "film",
         "tags": [
-            12,
-            53,
-            878
+            "Kaland",
+            "Sci-Fi",
+            "Thriller"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_1242898",
         "title": "Predator: Halálbolygó",
         "type": "film",
         "tags": [
-            28,
-            12,
-            878
+            "Kaland",
+            "Akció",
+            "Sci-Fi"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_1613798",
         "title": "Bosszú",
         "type": "film",
         "tags": [
-            28,
-            53
+            "Akció",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -892,8 +892,8 @@
         "title": "The Housemaid - A téboly otthona",
         "type": "film",
         "tags": [
-            9648,
-            53
+            "Rejtély",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -902,9 +902,9 @@
         "title": "Mortal Kombat",
         "type": "film",
         "tags": [
-            28,
-            12,
-            14
+            "Kaland",
+            "Akció",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -913,19 +913,19 @@
         "title": "Ismeretlen támadók",
         "type": "film",
         "tags": [
-            28,
-            53,
-            878
+            "Akció",
+            "Sci-Fi",
+            "Thriller"
         ],
-        "pacing": "Közepes"
+        "pacing": "Gyors"
     },
     {
         "id": "tmdb_48650",
         "title": "Egy éjszaka Rómában",
         "type": "film",
         "tags": [
-            18,
-            10749
+            "Dráma",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -934,9 +934,9 @@
         "title": "Meg fognak ölni",
         "type": "film",
         "tags": [
-            35,
-            27,
-            28
+            "Akció",
+            "Vígjáték",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -945,7 +945,7 @@
         "title": "Horrorra akadva 5.",
         "type": "film",
         "tags": [
-            35
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -954,9 +954,9 @@
         "title": "డెకాయిట్",
         "type": "film",
         "tags": [
-            53,
-            28,
-            10749
+            "Akció",
+            "Romantikus",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -965,7 +965,7 @@
         "title": "Savior",
         "type": "film",
         "tags": [
-            18
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -974,8 +974,8 @@
         "title": "A bűn útja",
         "type": "film",
         "tags": [
-            80,
-            53
+            "Bűnügyi",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -984,8 +984,8 @@
         "title": "Deep Water",
         "type": "film",
         "tags": [
-            27,
-            53
+            "Thriller",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -994,9 +994,9 @@
         "title": "Én vétkem",
         "type": "film",
         "tags": [
-            18,
-            53,
-            10749
+            "Dráma",
+            "Romantikus",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -1005,9 +1005,9 @@
         "title": "A Sötét lovag",
         "type": "film",
         "tags": [
-            80,
-            28,
-            53
+            "Akció",
+            "Bűnügyi",
+            "Thriller"
         ],
         "pacing": "Közepes"
     },
@@ -1016,9 +1016,9 @@
         "title": "Kész dráma",
         "type": "film",
         "tags": [
-            18,
-            35,
-            10749
+            "Dráma",
+            "Vígjáték",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
@@ -1027,9 +1027,9 @@
         "title": "Drakula: Szerelmes történet",
         "type": "film",
         "tags": [
-            27,
-            10749,
-            14
+            "Fantasy",
+            "Romantikus",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -1038,8 +1038,8 @@
         "title": "Én vétkem - London",
         "type": "film",
         "tags": [
-            18,
-            10749
+            "Dráma",
+            "Romantikus"
         ],
         "pacing": "Közepes"
     },
