@@ -1,0 +1,40 @@
+name: Media Data Scraper
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # 12 óránként
+  workflow_dispatch: # manuális gomb a GitHub UI-on
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Hogy commitolni tudjon
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run scraper
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+          IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
+          TVDB_API_KEY: ${{ secrets.TVDB_API_KEY }}
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+        run: python scraper.py
+
+      - name: Commit and push data
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add *.json
+          git commit -m "Auto-update media data $(date -u)" || echo "No changes to commit"
+          git push
