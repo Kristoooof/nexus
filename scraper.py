@@ -12,6 +12,10 @@ CONTACT_EMAIL = os.getenv('CONTACT_EMAIL', 'karolyi.kristof12@gmail.com')
 
 HEADERS_OL = {'User-Agent': f'MediaPlatform/1.0 ({CONTACT_EMAIL})'}
 
+# Létrehozzuk a public mappát, ha nem létezik
+PUBLIC_DIR = 'public'
+os.makedirs(PUBLIC_DIR, exist_ok=True)
+
 # Helpers
 def fetch_json(url, headers=None, params=None, body=None):
     try:
@@ -26,7 +30,7 @@ def fetch_json(url, headers=None, params=None, body=None):
         return None
 
 def chunk_and_save(base_filename, data_list, max_items=50000):
-    """Feldarabolja az adatokat és elmenti multiple json fájlként."""
+    """Feldarabolja az adatokat és elmenti a public mappába multiple json fájlként."""
     if not data_list:
         return []
     
@@ -39,10 +43,12 @@ def chunk_and_save(base_filename, data_list, max_items=50000):
         chunk_data = data_list[start:end]
         
         filename = f"{base_filename}.json" if i == 0 else f"{base_filename}{i+1}.json"
-        with open(filename, 'w', encoding='utf-8') as f:
+        filepath = os.path.join(PUBLIC_DIR, filename) # A public mappába mentjük
+        
+        with open(filepath, 'w', encoding='utf-8') as f:
             json.dump(chunk_data, f, ensure_ascii=False, indent=4)
         saved_files.append(filename)
-        print(f"Mentve: {filename} ({len(chunk_data)} elem)")
+        print(f"Mentve: {filepath} ({len(chunk_data)} elem)")
     
     return saved_files
 
@@ -59,7 +65,7 @@ def get_tmdb_movies():
                     "id": f"tmdb_{m['id']}",
                     "title": m.get('title', ''),
                     "type": "film",
-                    "genres": m.get('genre_ids', []), # TMDB ID-kat ad, a frontendnek vagy nekünk kellene map-elni
+                    "genres": m.get('genre_ids', []),
                     "description": m.get('overview', ''),
                     "release_date": m.get('release_date', '')
                 })
@@ -128,7 +134,7 @@ def get_anilist_media(media_type="ANIME"):
                 "title": m['title'].get('romaji') or m['title'].get('english', ''),
                 "type": "anime" if media_type == "ANIME" else "manga",
                 "genres": m.get('genres', []),
-                "tags": [t['name'] for t in m.get('tags', [])], # Ez brutálisan sok specifikus taget ad!
+                "tags": [t['name'] for t in m.get('tags', [])],
                 "description": m.get('description', '').replace('<br>', '')
             })
     return items
@@ -140,7 +146,6 @@ def generate_extended_tags(all_media):
     for item in all_media:
         tags = set(item.get('genres', []) + item.get('tags', []))
         
-        # Pacing heuristic (nagyon egyszerű AI/logika helyett)
         pacing = "Közepes"
         if any(t in tags for t in ['Action', 'Adventure', 'Sci-Fi', 'Shounen']):
             pacing = "Gyors"
@@ -166,7 +171,6 @@ def main():
     
     all_data = movies + games + books + animes + mangas
     
-    # Darabolás és mentés
     manifest = {}
     manifest['film-adat'] = chunk_and_save('film-adat', movies)
     manifest['jatek-adat'] = chunk_and_save('jatek-adat', games)
@@ -174,12 +178,12 @@ def main():
     manifest['anime-adat'] = chunk_and_save('anime-adat', animes)
     manifest['manga-adat'] = chunk_and_save('manga-adat', mangas)
     
-    # Bővített adatok (tag-ek, pacing)
     extended = generate_extended_tags(all_data)
     manifest['bovitett'] = chunk_and_save('bovitett', extended)
     
-    # Manifest a frontendnek, hogy tudja milyen fájlokat töltsön be
-    with open('manifest.json', 'w', encoding='utf-8') as f:
+    # Manifest mentése a public mappába
+    manifest_path = os.path.join(PUBLIC_DIR, 'manifest.json')
+    with open(manifest_path, 'w', encoding='utf-8') as f:
         json.dump(manifest, f, ensure_ascii=False, indent=4)
     
     print("Adatfrissítés befejezve!")
