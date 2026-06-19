@@ -106,13 +106,15 @@ def get_openlibrary_books():
         print(f"HIBA OpenLibrary-nél: {e}")
     return books
 
-def get_anilist_media(media_type="ANIME"):
-    print(f"{media_type} letöltése (AniList)...")
-    # JAVÍTOTT QUERY: A type paraméter a media-ba került, nem a Page-be!
+def get_anilist_media(media_type="ANIME", country_code=None):
+    type_name = "ANIME" if media_type == "ANIME" else "MANGA"
+    if country_code == "KR": type_name = "MANHWA"
+    print(f"{type_name} letöltése (AniList)...")
+    
     query = '''
-    query ($page: Int, $perPage: Int, $type: MediaType) {
+    query ($page: Int, $perPage: Int, $type: MediaType, $country: CountryCode) {
       Page (page: $page, perPage: $perPage) {
-        media (type: $type, sort: POPULARITY_DESC) {
+        media (type: $type, countryOfOrigin: $country, sort: POPULARITY_DESC) {
           id
           title { romaji english }
           genres
@@ -122,17 +124,19 @@ def get_anilist_media(media_type="ANIME"):
         }
       }
     }'''
-    variables = {'page': 1, 'perPage': 50, 'type': media_type}
+    variables = {'page': 1, 'perPage': 50, 'type': media_type, 'country': country_code}
     items = []
     try:
         resp = requests.post("https://graphql.anilist.co", json={'query': query, 'variables': variables}, headers={'Content-Type': 'application/json'})
         resp.raise_for_status()
         data = resp.json()
         for m in data.get('data', {}).get('Page', {}).get('media', []):
+            # ANGOL CÍM ELŐNYBEN!
+            title = m.get('title', {}).get('english') or m.get('title', {}).get('romaji', '')
             items.append({
                 "id": f"anilist_{m['id']}",
-                "title": m.get('title', {}).get('romaji') or m.get('title', {}).get('english', ''),
-                "type": "anime" if media_type == "ANIME" else "manga",
+                "title": title,
+                "type": "anime" if media_type == "ANIME" else "manhwa" if country_code == "KR" else "manga",
                 "genres": m.get('genres', []),
                 "tags": [t['name'] for t in m.get('tags', [])[:10]],
                 "description": m.get('description', '').replace('<br>', '') if m.get('description') else '',
@@ -161,26 +165,26 @@ def generate_extended_tags(all_media):
     return extended
 
 def main():
-    # RÉGI JSON FÁJLOK TÖRLÉSE a public mappából (hogy ne maradjon szemét)
     for filename in os.listdir(PUBLIC_DIR):
         if filename.endswith('.json'):
             os.remove(os.path.join(PUBLIC_DIR, filename))
-            print(f"Törölve: {filename}")
 
     movies = get_tmdb_movies()
     games = get_igdb_games()
     books = get_openlibrary_books()
     animes = get_anilist_media("ANIME")
-    mangas = get_anilist_media("MANGA")
+    mangas = get_anilist_media("MANGA", "JP")
+    manhwas = get_anilist_media("MANGA", "KR")
     
-    all_data = movies + games + books + animes + mangas
+    all_data = movies + games + books + animes + mangas + manhwas
     
     manifest = {
         'film-adat': chunk_and_save('film-adat', movies),
         'jatek-adat': chunk_and_save('jatek-adat', games),
         'konyv-adat': chunk_and_save('konyv-adat', books),
         'anime-adat': chunk_and_save('anime-adat', animes),
-        'manga-adat': chunk_and_save('manga-adat', mangas)
+        'manga-adat': chunk_and_save('manga-adat', mangas),
+        'manhwa-adat': chunk_and_save('manhwa-adat', manhwas)
     }
     
     extended = generate_extended_tags(all_data)
