@@ -15,8 +15,8 @@
         "type": "film",
         "tags": [
             "Akció",
-            "Fantasy",
-            "Kaland"
+            "Kaland",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -74,8 +74,8 @@
         "title": "పెద్ది",
         "type": "film",
         "tags": [
-            "Dráma",
-            "Akció"
+            "Akció",
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -103,8 +103,8 @@
         "title": "है जवानी तो इश्क होना है",
         "type": "film",
         "tags": [
-            "Vígjáték",
-            "Romantikus"
+            "Romantikus",
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -113,9 +113,9 @@
         "title": "Vacanze per un massacro",
         "type": "film",
         "tags": [
-            "Bűnügyi",
             "Akció",
-            "Thriller"
+            "Thriller",
+            "Bűnügyi"
         ],
         "pacing": "Közepes"
     },
@@ -124,11 +124,11 @@
         "title": "Super Mario Galaxis: A film",
         "type": "film",
         "tags": [
+            "Családi",
+            "Animációs",
             "Vígjáték",
             "Kaland",
-            "Családi",
-            "Fantasy",
-            "Animációs"
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -148,10 +148,10 @@
         "title": "Toy Story 5",
         "type": "film",
         "tags": [
-            "Családi",
-            "Vígjáték",
             "Animációs",
-            "Kaland"
+            "Vígjáték",
+            "Kaland",
+            "Családi"
         ],
         "pacing": "Közepes"
     },
@@ -160,10 +160,10 @@
         "title": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
         "type": "film",
         "tags": [
-            "Történelmi",
             "Bűnügyi",
-            "Fantasy",
-            "Akció"
+            "Akció",
+            "Történelmi",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -172,8 +172,8 @@
         "title": "A te hibád: London",
         "type": "film",
         "tags": [
-            "Dráma",
-            "Romantikus"
+            "Romantikus",
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -202,8 +202,8 @@
         "title": "火遮眼",
         "type": "film",
         "tags": [
-            "Bűnügyi",
-            "Akció"
+            "Akció",
+            "Bűnügyi"
         ],
         "pacing": "Közepes"
     },
@@ -212,8 +212,8 @@
         "title": "Lee Cronin: A múmia",
         "type": "film",
         "tags": [
-            "Horror",
-            "Rejtély"
+            "Rejtély",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -222,10 +222,10 @@
         "title": "Egymás bőrében",
         "type": "film",
         "tags": [
-            "Családi",
-            "Fantasy",
             "Animációs",
-            "Kaland"
+            "Kaland",
+            "Fantasy",
+            "Családi"
         ],
         "pacing": "Közepes"
     },
@@ -253,8 +253,8 @@
         "title": "A Hail Mary-küldetés",
         "type": "film",
         "tags": [
-            "Sci-Fi",
-            "Kaland"
+            "Kaland",
+            "Sci-Fi"
         ],
         "pacing": "Gyors"
     },
@@ -274,8 +274,8 @@
         "type": "film",
         "tags": [
             "Akció",
-            "Fantasy",
-            "Sci-Fi"
+            "Sci-Fi",
+            "Fantasy"
         ],
         "pacing": "Gyors"
     },
@@ -284,9 +284,9 @@
         "title": "The Punisher: Az utolsó célpont",
         "type": "film",
         "tags": [
-            "Dráma",
             "Akció",
-            "Bűnügyi"
+            "Bűnügyi",
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -295,9 +295,9 @@
         "title": "Dhurandhar 2",
         "type": "film",
         "tags": [
-            "Bűnügyi",
             "Akció",
-            "Thriller"
+            "Thriller",
+            "Bűnügyi"
         ],
         "pacing": "Közepes"
     },
@@ -306,8 +306,8 @@
         "title": "मैं वापस आऊंगा",
         "type": "film",
         "tags": [
-            "Dráma",
-            "Romantikus"
+            "Romantikus",
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -325,9 +325,9 @@
         "title": "Backrooms - Hátsó szobák",
         "type": "film",
         "tags": [
-            "Sci-Fi",
+            "Rejtély",
             "Horror",
-            "Rejtély"
+            "Sci-Fi"
         ],
         "pacing": "Gyors"
     },
@@ -346,11 +346,11 @@
         "title": "Agyugrász",
         "type": "film",
         "tags": [
-            "Sci-Fi",
-            "Vígjáték",
-            "Kaland",
             "Családi",
-            "Animációs"
+            "Animációs",
+            "Kaland",
+            "Vígjáték",
+            "Sci-Fi"
         ],
         "pacing": "Gyors"
     },
@@ -360,8 +360,8 @@
         "type": "film",
         "tags": [
             "Akció",
-            "Sci-Fi",
-            "Kaland"
+            "Kaland",
+            "Sci-Fi"
         ],
         "pacing": "Gyors"
     },
@@ -370,8 +370,8 @@
         "title": "Munkahelyi románc",
         "type": "film",
         "tags": [
-            "Vígjáték",
-            "Romantikus"
+            "Romantikus",
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -380,9 +380,9 @@
         "title": "Avatar: Tűz és hamu",
         "type": "film",
         "tags": [
-            "Fantasy",
+            "Kaland",
             "Sci-Fi",
-            "Kaland"
+            "Fantasy"
         ],
         "pacing": "Gyors"
     },
@@ -391,9 +391,9 @@
         "title": "A sötétség peremén",
         "type": "film",
         "tags": [
-            "Bűnügyi",
             "Akció",
             "Thriller",
+            "Bűnügyi",
             "Dráma"
         ],
         "pacing": "Közepes"
@@ -403,9 +403,9 @@
         "title": "Haunted 3D: Echoes of the Past",
         "type": "film",
         "tags": [
+            "Romantikus",
             "Thriller",
-            "Horror",
-            "Romantikus"
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -424,8 +424,8 @@
         "type": "film",
         "tags": [
             "Akció",
-            "Fantasy",
-            "Animációs"
+            "Animációs",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -443,8 +443,8 @@
         "title": "1000 férfi 12 óra alatt – A Bonnie Blue-sztori",
         "type": "film",
         "tags": [
-            "Dokumentum",
-            "TV film"
+            "TV film",
+            "Dokumentum"
         ],
         "pacing": "Közepes"
     },
@@ -463,9 +463,9 @@
         "title": "A megmentő",
         "type": "film",
         "tags": [
-            "Bűnügyi",
             "Akció",
-            "Thriller"
+            "Thriller",
+            "Bűnügyi"
         ],
         "pacing": "Közepes"
     },
@@ -484,8 +484,8 @@
         "type": "film",
         "tags": [
             "Dráma",
-            "Vígjáték",
-            "Thriller"
+            "Thriller",
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -522,8 +522,8 @@
         "title": "Pressure",
         "type": "film",
         "tags": [
-            "Történelmi",
             "Thriller",
+            "Történelmi",
             "Háborús"
         ],
         "pacing": "Közepes"
@@ -533,10 +533,10 @@
         "title": "Toy Story - Játékháború",
         "type": "film",
         "tags": [
-            "Családi",
-            "Vígjáték",
             "Animációs",
-            "Kaland"
+            "Vígjáték",
+            "Kaland",
+            "Családi"
         ],
         "pacing": "Közepes"
     },
@@ -556,8 +556,8 @@
         "type": "film",
         "tags": [
             "Akció",
-            "Vígjáték",
-            "Thriller"
+            "Thriller",
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -576,9 +576,9 @@
         "title": "GOAT - Will, a bajnok",
         "type": "film",
         "tags": [
-            "Családi",
+            "Animációs",
             "Vígjáték",
-            "Animációs"
+            "Családi"
         ],
         "pacing": "Közepes"
     },
@@ -616,8 +616,8 @@
         "type": "film",
         "tags": [
             "Dráma",
-            "Sci-Fi",
-            "Kaland"
+            "Kaland",
+            "Sci-Fi"
         ],
         "pacing": "Gyors"
     },
@@ -637,11 +637,11 @@
         "title": "Zootropolis 2.",
         "type": "film",
         "tags": [
-            "Vígjáték",
-            "Kaland",
             "Családi",
-            "Rejtély",
-            "Animációs"
+            "Animációs",
+            "Kaland",
+            "Vígjáték",
+            "Rejtély"
         ],
         "pacing": "Közepes"
     },
@@ -661,9 +661,9 @@
         "type": "film",
         "tags": [
             "Akció",
-            "Fantasy",
             "Animációs",
-            "Kaland"
+            "Kaland",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -672,9 +672,9 @@
         "title": "镖人：风起大漠",
         "type": "film",
         "tags": [
-            "Dráma",
             "Akció",
-            "Történelmi"
+            "Történelmi",
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -683,9 +683,9 @@
         "title": "धुरंधर",
         "type": "film",
         "tags": [
-            "Bűnügyi",
             "Akció",
-            "Thriller"
+            "Thriller",
+            "Bűnügyi"
         ],
         "pacing": "Közepes"
     },
@@ -715,9 +715,9 @@
         "title": "Vasököl",
         "type": "film",
         "tags": [
-            "Dráma",
             "Akció",
-            "Sci-Fi"
+            "Sci-Fi",
+            "Dráma"
         ],
         "pacing": "Gyors"
     },
@@ -726,9 +726,9 @@
         "title": "கர",
         "type": "film",
         "tags": [
-            "Dráma",
             "Bűnügyi",
-            "Thriller"
+            "Thriller",
+            "Dráma"
         ],
         "pacing": "Közepes"
     },
@@ -747,9 +747,9 @@
         "type": "film",
         "tags": [
             "Akció",
-            "Fantasy",
             "Animációs",
-            "Kaland"
+            "Kaland",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -759,8 +759,8 @@
         "type": "film",
         "tags": [
             "Dráma",
-            "Horror",
-            "Rejtély"
+            "Rejtély",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -770,8 +770,8 @@
         "type": "film",
         "tags": [
             "Bűnügyi",
-            "Horror",
-            "Rejtély"
+            "Rejtély",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -829,11 +829,31 @@
         "title": "Greenland: Az új menedék",
         "type": "film",
         "tags": [
-            "Sci-Fi",
             "Thriller",
-            "Kaland"
+            "Kaland",
+            "Sci-Fi"
         ],
         "pacing": "Gyors"
+    },
+    {
+        "id": "tmdb_299536",
+        "title": "Bosszúállók: Végtelen háború",
+        "type": "film",
+        "tags": [
+            "Akció",
+            "Kaland",
+            "Sci-Fi"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "tmdb_687259",
+        "title": "镜花风月三之螺女挑情",
+        "type": "film",
+        "tags": [
+            "Horror"
+        ],
+        "pacing": "Közepes"
     },
     {
         "id": "tmdb_755898",
@@ -846,44 +866,12 @@
         "pacing": "Gyors"
     },
     {
-        "id": "tmdb_603",
-        "title": "Mátrix",
+        "id": "tmdb_270473",
+        "title": "ฟัด จัง โตะ",
         "type": "film",
         "tags": [
-            "Akció",
-            "Sci-Fi"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_840464",
-        "title": "Greenland: Az új menedék",
-        "type": "film",
-        "tags": [
-            "Sci-Fi",
-            "Thriller",
-            "Kaland"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_1242898",
-        "title": "Predator: Halálbolygó",
-        "type": "film",
-        "tags": [
-            "Akció",
-            "Sci-Fi",
-            "Kaland"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_1613798",
-        "title": "Bosszú",
-        "type": "film",
-        "tags": [
-            "Akció",
-            "Thriller"
+            "Romantikus",
+            "Vígjáték"
         ],
         "pacing": "Közepes"
     },
@@ -892,8 +880,82 @@
         "title": "The Housemaid - A téboly otthona",
         "type": "film",
         "tags": [
+            "Rejtély",
+            "Thriller"
+        ],
+        "pacing": "Közepes"
+    },
+    {
+        "id": "tmdb_1294203",
+        "title": "Én vétkem - London",
+        "type": "film",
+        "tags": [
+            "Dráma",
+            "Romantikus"
+        ],
+        "pacing": "Közepes"
+    },
+    {
+        "id": "tmdb_1292415",
+        "title": "Beast",
+        "type": "film",
+        "tags": [
+            "Akció",
+            "Dráma"
+        ],
+        "pacing": "Közepes"
+    },
+    {
+        "id": "tmdb_1242898",
+        "title": "Predator: Halálbolygó",
+        "type": "film",
+        "tags": [
+            "Akció",
+            "Kaland",
+            "Sci-Fi"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "tmdb_1472951",
+        "title": "Infiltrate",
+        "type": "film",
+        "tags": [
+            "Akció",
+            "Thriller"
+        ],
+        "pacing": "Közepes"
+    },
+    {
+        "id": "tmdb_1010581",
+        "title": "Én vétkem",
+        "type": "film",
+        "tags": [
+            "Dráma",
             "Thriller",
-            "Rejtély"
+            "Romantikus"
+        ],
+        "pacing": "Közepes"
+    },
+    {
+        "id": "tmdb_301528",
+        "title": "Toy Story 4",
+        "type": "film",
+        "tags": [
+            "Animációs",
+            "Vígjáték",
+            "Kaland",
+            "Családi"
+        ],
+        "pacing": "Közepes"
+    },
+    {
+        "id": "tmdb_12104",
+        "title": "Pink Floyd - A fal",
+        "type": "film",
+        "tags": [
+            "Dráma",
+            "Zenei"
         ],
         "pacing": "Közepes"
     },
@@ -903,29 +965,28 @@
         "type": "film",
         "tags": [
             "Akció",
-            "Fantasy",
-            "Kaland"
+            "Kaland",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
     {
-        "id": "tmdb_1265609",
-        "title": "Ismeretlen támadók",
+        "id": "tmdb_1171145",
+        "title": "A bűn útja",
         "type": "film",
         "tags": [
-            "Akció",
-            "Thriller",
-            "Sci-Fi"
+            "Bűnügyi",
+            "Thriller"
         ],
-        "pacing": "Gyors"
+        "pacing": "Közepes"
     },
     {
-        "id": "tmdb_48650",
-        "title": "Egy éjszaka Rómában",
+        "id": "tmdb_1127384",
+        "title": "Deep Water",
         "type": "film",
         "tags": [
-            "Dráma",
-            "Romantikus"
+            "Thriller",
+            "Horror"
         ],
         "pacing": "Közepes"
     },
@@ -961,85 +1022,22 @@
         "pacing": "Közepes"
     },
     {
-        "id": "tmdb_432123",
-        "title": "Savior",
+        "id": "tmdb_1613798",
+        "title": "Bosszú",
         "type": "film",
         "tags": [
-            "Dráma"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_1171145",
-        "title": "A bűn útja",
-        "type": "film",
-        "tags": [
-            "Bűnügyi",
-            "Thriller"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_1127384",
-        "title": "Deep Water",
-        "type": "film",
-        "tags": [
-            "Thriller",
-            "Horror"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_1010581",
-        "title": "Én vétkem",
-        "type": "film",
-        "tags": [
-            "Dráma",
-            "Thriller",
-            "Romantikus"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_155",
-        "title": "A Sötét lovag",
-        "type": "film",
-        "tags": [
-            "Bűnügyi",
             "Akció",
             "Thriller"
         ],
         "pacing": "Közepes"
     },
     {
-        "id": "tmdb_1325734",
-        "title": "Kész dráma",
+        "id": "tmdb_671",
+        "title": "Harry Potter és a Bölcsek köve",
         "type": "film",
         "tags": [
-            "Dráma",
-            "Vígjáték",
-            "Romantikus"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_1246049",
-        "title": "Drakula: Szerelmes történet",
-        "type": "film",
-        "tags": [
-            "Fantasy",
-            "Horror",
-            "Romantikus"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_1294203",
-        "title": "Én vétkem - London",
-        "type": "film",
-        "tags": [
-            "Dráma",
-            "Romantikus"
+            "Kaland",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -1057,8 +1055,8 @@
         "title": "Neocron Evolution",
         "type": "jatek",
         "tags": [
-            "Shooter",
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Shooter"
         ],
         "pacing": "Közepes"
     },
@@ -1085,10 +1083,10 @@
         "title": "Shipwrecked 64",
         "type": "jatek",
         "tags": [
-            "Adventure",
             "Strategy",
             "Platform",
-            "Indie"
+            "Indie",
+            "Adventure"
         ],
         "pacing": "Gyors"
     },
@@ -1106,8 +1104,8 @@
         "title": "Full Metal Daemon Muramasa",
         "type": "jatek",
         "tags": [
-            "Adventure",
-            "Visual Novel"
+            "Visual Novel",
+            "Adventure"
         ],
         "pacing": "Gyors"
     },
@@ -1135,8 +1133,8 @@
         "title": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition",
         "type": "jatek",
         "tags": [
-            "Adventure",
-            "Puzzle"
+            "Puzzle",
+            "Adventure"
         ],
         "pacing": "Gyors"
     },
@@ -1145,9 +1143,9 @@
         "title": "Blood on the Clocktower",
         "type": "jatek",
         "tags": [
-            "Card & Board Game",
             "Strategy",
             "Indie",
+            "Card & Board Game",
             "Role-playing (RPG)"
         ],
         "pacing": "Közepes"
@@ -1157,9 +1155,9 @@
         "title": "Grand Theft Auto V",
         "type": "jatek",
         "tags": [
-            "Shooter",
+            "Racing",
             "Adventure",
-            "Racing"
+            "Shooter"
         ],
         "pacing": "Gyors"
     },
@@ -1168,8 +1166,8 @@
         "title": "Grand Theft Auto V: Story Mode",
         "type": "jatek",
         "tags": [
-            "Shooter",
-            "Arcade"
+            "Arcade",
+            "Shooter"
         ],
         "pacing": "Közepes"
     },
@@ -1206,10 +1204,10 @@
         "title": "Outer Wilds: Archaeologist Edition",
         "type": "jatek",
         "tags": [
-            "Simulator",
-            "Adventure",
             "Indie",
-            "Puzzle"
+            "Puzzle",
+            "Adventure",
+            "Simulator"
         ],
         "pacing": "Gyors"
     },
@@ -1238,9 +1236,9 @@
         "title": "Metal Gear Solid: The Legacy Collection",
         "type": "jatek",
         "tags": [
-            "Shooter",
             "Adventure",
-            "Tactical"
+            "Tactical",
+            "Shooter"
         ],
         "pacing": "Gyors"
     },
@@ -1249,8 +1247,8 @@
         "title": "The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition",
         "type": "jatek",
         "tags": [
-            "Adventure",
-            "Puzzle"
+            "Puzzle",
+            "Adventure"
         ],
         "pacing": "Gyors"
     },
@@ -1259,9 +1257,9 @@
         "title": "Tobal 2",
         "type": "jatek",
         "tags": [
-            "Adventure",
-            "Fighting",
             "Arcade",
+            "Fighting",
+            "Adventure",
             "Role-playing (RPG)"
         ],
         "pacing": "Gyors"
@@ -1271,9 +1269,9 @@
         "title": "Deluxe Ski Jump 2",
         "type": "jatek",
         "tags": [
-            "Indie",
+            "Arcade",
             "Sport",
-            "Arcade"
+            "Indie"
         ],
         "pacing": "Közepes"
     },
@@ -1318,8 +1316,8 @@
         "title": "MLB Power Pros 2008",
         "type": "jatek",
         "tags": [
-            "Simulator",
-            "Sport"
+            "Sport",
+            "Simulator"
         ],
         "pacing": "Közepes"
     },
@@ -1328,9 +1326,9 @@
         "title": "The Zachtronics Solitaire Collection",
         "type": "jatek",
         "tags": [
-            "Card & Board Game",
+            "Puzzle",
             "Indie",
-            "Puzzle"
+            "Card & Board Game"
         ],
         "pacing": "Közepes"
     },
@@ -1339,8 +1337,8 @@
         "title": "Lizards Must Die",
         "type": "jatek",
         "tags": [
-            "Hack and slash/Beat 'em up",
-            "Indie"
+            "Indie",
+            "Hack and slash/Beat 'em up"
         ],
         "pacing": "Közepes"
     },
@@ -1349,9 +1347,9 @@
         "title": "Baldur's Gate 3: Digital Deluxe Edition",
         "type": "jatek",
         "tags": [
+            "Turn-based strategy (TBS)",
             "Adventure",
             "Tactical",
-            "Turn-based strategy (TBS)",
             "Role-playing (RPG)",
             "Strategy"
         ],
@@ -1362,9 +1360,9 @@
         "title": "Beyond Good & Evil: 20th Anniversary Edition",
         "type": "jatek",
         "tags": [
-            "Shooter",
+            "Puzzle",
             "Adventure",
-            "Puzzle"
+            "Shooter"
         ],
         "pacing": "Gyors"
     },
@@ -1373,9 +1371,9 @@
         "title": "Grand Theft Auto V: Special Edition",
         "type": "jatek",
         "tags": [
-            "Shooter",
+            "Racing",
             "Adventure",
-            "Racing"
+            "Shooter"
         ],
         "pacing": "Gyors"
     },
@@ -1384,9 +1382,9 @@
         "title": "Fuga: Melodies of Steel 2",
         "type": "jatek",
         "tags": [
+            "Turn-based strategy (TBS)",
             "Simulator",
             "Tactical",
-            "Turn-based strategy (TBS)",
             "Role-playing (RPG)",
             "Strategy"
         ],
@@ -1406,9 +1404,9 @@
         "title": "Undertale Yellow",
         "type": "jatek",
         "tags": [
-            "Adventure",
             "Turn-based strategy (TBS)",
             "Indie",
+            "Adventure",
             "Role-playing (RPG)"
         ],
         "pacing": "Gyors"
@@ -1442,9 +1440,9 @@
         "title": "Pixadom",
         "type": "jatek",
         "tags": [
-            "Adventure",
             "Platform",
             "Indie",
+            "Adventure",
             "Role-playing (RPG)"
         ],
         "pacing": "Gyors"
@@ -1454,8 +1452,8 @@
         "title": "Anstoss 3",
         "type": "jatek",
         "tags": [
-            "Simulator",
-            "Sport"
+            "Sport",
+            "Simulator"
         ],
         "pacing": "Közepes"
     },
@@ -1464,8 +1462,8 @@
         "title": "San Andreas Multiplayer",
         "type": "jatek",
         "tags": [
-            "Shooter",
-            "Racing"
+            "Racing",
+            "Shooter"
         ],
         "pacing": "Közepes"
     },
@@ -1474,8 +1472,8 @@
         "title": "Witch on the Holy Night",
         "type": "jatek",
         "tags": [
-            "Adventure",
-            "Visual Novel"
+            "Visual Novel",
+            "Adventure"
         ],
         "pacing": "Gyors"
     },
@@ -1512,8 +1510,8 @@
         "title": "Goblin Sword",
         "type": "jatek",
         "tags": [
-            "Adventure",
             "Platform",
+            "Adventure",
             "Role-playing (RPG)"
         ],
         "pacing": "Gyors"
@@ -1523,8 +1521,8 @@
         "title": "Pokémon Infinite Fusion",
         "type": "jatek",
         "tags": [
-            "Adventure",
             "Indie",
+            "Adventure",
             "Role-playing (RPG)"
         ],
         "pacing": "Gyors"
@@ -1544,8 +1542,8 @@
         "title": "Alone in the Dark: The New Nightmare",
         "type": "jatek",
         "tags": [
-            "Adventure",
-            "Puzzle"
+            "Puzzle",
+            "Adventure"
         ],
         "pacing": "Gyors"
     },
@@ -1554,8 +1552,8 @@
         "title": "The Binding of Isaac: Repentance",
         "type": "jatek",
         "tags": [
-            "Shooter",
-            "Indie"
+            "Indie",
+            "Shooter"
         ],
         "pacing": "Közepes"
     },
@@ -2008,5 +2006,2225 @@
             "Science Fiction"
         ],
         "pacing": "Közepes"
+    },
+    {
+        "id": "anilist_16498",
+        "title": "Shingeki no Kyojin",
+        "type": "anime",
+        "tags": [
+            "Revenge",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Military",
+            "Fantasy",
+            "Gore",
+            "Henshin",
+            "Super Power",
+            "Kaiju",
+            "Primarily Teen Cast",
+            "Mystery",
+            "Action",
+            "Post-Apocalyptic"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_101922",
+        "title": "Kimetsu no Yaiba",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Monster Girl",
+            "Demons",
+            "Male Protagonist",
+            "Drama",
+            "Revenge",
+            "Tragedy",
+            "Adventure",
+            "Fantasy",
+            "Shounen",
+            "Vampire",
+            "Travel",
+            "Primarily Teen Cast",
+            "Action",
+            "Swordplay"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_113415",
+        "title": "Jujutsu Kaisen",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Curses",
+            "Exorcism",
+            "Demons",
+            "Male Protagonist",
+            "Drama",
+            "Urban Fantasy",
+            "Youkai",
+            "Shounen",
+            "Super Power",
+            "Primarily Teen Cast",
+            "Dissociative Identities",
+            "Action"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_1535",
+        "title": "DEATH NOTE",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Fugitive",
+            "Male Protagonist",
+            "Memory Manipulation",
+            "Noir",
+            "Detective",
+            "Thriller",
+            "Psychological",
+            "Philosophy",
+            "Anti-Hero",
+            "Mystery",
+            "Primarily Adult Cast",
+            "Crime",
+            "Police"
+        ],
+        "pacing": "Közepes"
+    },
+    {
+        "id": "anilist_21459",
+        "title": "Boku no Hero Academia",
+        "type": "anime",
+        "tags": [
+            "Male Protagonist",
+            "Rescue",
+            "Crime",
+            "Urban Fantasy",
+            "Adventure",
+            "Superhero",
+            "Shounen",
+            "Ensemble Cast",
+            "Primarily Teen Cast",
+            "Super Power",
+            "School",
+            "Comedy",
+            "Action"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_11061",
+        "title": "HUNTER×HUNTER (2011)",
+        "type": "anime",
+        "tags": [
+            "Martial Arts",
+            "Revenge",
+            "Male Protagonist",
+            "Tragedy",
+            "Adventure",
+            "Fantasy",
+            "Shounen",
+            "Travel",
+            "Ensemble Cast",
+            "Primarily Male Cast",
+            "Super Power",
+            "Philosophy",
+            "Action"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_21087",
+        "title": "One Punch Man",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Parody",
+            "Surreal Comedy",
+            "Male Protagonist",
+            "Satire",
+            "Urban",
+            "Urban Fantasy",
+            "Superhero",
+            "Super Power",
+            "Comedy",
+            "Primarily Adult Cast",
+            "Action",
+            "Sci-Fi",
+            "Cyborg"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_21",
+        "title": "ONE PIECE",
+        "type": "anime",
+        "tags": [
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Conspiracy",
+            "Adventure",
+            "Fantasy",
+            "Travel",
+            "Shounen",
+            "Ensemble Cast",
+            "Super Power",
+            "Ships",
+            "Pirates",
+            "Comedy",
+            "Action",
+            "Found Family"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_20605",
+        "title": "Tokyo Ghoul",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Male Protagonist",
+            "Drama",
+            "Torture",
+            "Tragedy",
+            "Urban Fantasy",
+            "Body Horror",
+            "Human Experimentation",
+            "Gore",
+            "Action",
+            "Henshin",
+            "Psychological",
+            "Survival",
+            "Seinen",
+            "Mystery",
+            "Horror"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_20958",
+        "title": "Shingeki no Kyojin Season 2",
+        "type": "anime",
+        "tags": [
+            "Espionage",
+            "Drama",
+            "Shapeshifting",
+            "Tragedy",
+            "Dystopian",
+            "Military",
+            "Fantasy",
+            "Gore",
+            "Survival",
+            "Kaiju",
+            "Primarily Teen Cast",
+            "Mystery",
+            "Action",
+            "Post-Apocalyptic"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_5114",
+        "title": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+        "type": "anime",
+        "tags": [
+            "Alchemy",
+            "Drama",
+            "Male Protagonist",
+            "Tragedy",
+            "Conspiracy",
+            "Adventure",
+            "Fantasy",
+            "Military",
+            "Shounen",
+            "Ensemble Cast",
+            "Politics",
+            "Philosophy",
+            "Action",
+            "War"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_20",
+        "title": "NARUTO",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Ninja",
+            "Martial Arts",
+            "Revenge",
+            "Male Protagonist",
+            "Drama",
+            "Adventure",
+            "Fantasy",
+            "Shounen",
+            "Super Power",
+            "Found Family",
+            "Comedy",
+            "Action",
+            "Orphan",
+            "Coming of Age",
+            "Criminal Organization"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_11757",
+        "title": "Sword Art Online",
+        "type": "anime",
+        "tags": [
+            "Death Game",
+            "Romance",
+            "Video Games",
+            "Male Protagonist",
+            "Primarily Female Cast",
+            "Urban Fantasy",
+            "Adventure",
+            "Fantasy",
+            "Isekai",
+            "Heterosexual",
+            "Virtual World",
+            "Primarily Teen Cast",
+            "Action",
+            "Swordplay"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_21519",
+        "title": "Kimi no Na wa.",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Body Swapping",
+            "Romance",
+            "Drama",
+            "Memory Manipulation",
+            "Tragedy",
+            "Urban Fantasy",
+            "Urban",
+            "Gender Bending",
+            "Rural",
+            "Environmental",
+            "Time Manipulation",
+            "Coming of Age"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_20954",
+        "title": "Koe no Katachi",
+        "type": "anime",
+        "tags": [
+            "Disability",
+            "Suicide",
+            "Romance",
+            "Language Barrier",
+            "Drama",
+            "Bullying",
+            "Male Protagonist",
+            "Rehabilitation",
+            "Tragedy",
+            "Primarily Teen Cast",
+            "School",
+            "Coming of Age",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_99147",
+        "title": "Shingeki no Kyojin Season 3",
+        "type": "anime",
+        "tags": [
+            "Fugitive",
+            "Revenge",
+            "Male Protagonist",
+            "Drama",
+            "Shapeshifting",
+            "Tragedy",
+            "Memory Manipulation",
+            "Conspiracy",
+            "Military",
+            "Fantasy",
+            "Dystopian",
+            "Politics",
+            "Mystery",
+            "Action"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_21856",
+        "title": "Boku no Hero Academia 2",
+        "type": "anime",
+        "tags": [
+            "Revenge",
+            "Male Protagonist",
+            "Urban Fantasy",
+            "Adventure",
+            "Superhero",
+            "Shounen",
+            "Ensemble Cast",
+            "Primarily Teen Cast",
+            "Cultivation",
+            "Super Power",
+            "School",
+            "Comedy",
+            "Action"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_110277",
+        "title": "Shingeki no Kyojin: The Final Season",
+        "type": "anime",
+        "tags": [
+            "Time Skip",
+            "Revenge",
+            "Drama",
+            "Tragedy",
+            "Dystopian",
+            "Military",
+            "Fantasy",
+            "Politics",
+            "Kaiju",
+            "Survival",
+            "Anti-Hero",
+            "Mystery",
+            "Action",
+            "War"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_101759",
+        "title": "Yakusoku no Neverland",
+        "type": "anime",
+        "tags": [
+            "Primarily Child Cast",
+            "Female Protagonist",
+            "Demons",
+            "Drama",
+            "Tragedy",
+            "Dystopian",
+            "Fantasy",
+            "Thriller",
+            "Psychological",
+            "Survival",
+            "Coming of Age",
+            "Mystery",
+            "Prison",
+            "Horror",
+            "Orphan",
+            "Found Family"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_20755",
+        "title": "Ansatsu Kyoushitsu",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Anti-Hero",
+            "Drama",
+            "Assassins",
+            "Tentacles",
+            "Shounen",
+            "Ensemble Cast",
+            "Primarily Teen Cast",
+            "Super Power",
+            "School",
+            "Comedy",
+            "Aliens",
+            "Action",
+            "Teacher"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_21507",
+        "title": "Mob Psycho 100",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Parody",
+            "Male Protagonist",
+            "Drama",
+            "Satire",
+            "Urban",
+            "Urban Fantasy",
+            "Ghost",
+            "Primarily Teen Cast",
+            "Super Power",
+            "Psychological",
+            "Philosophy",
+            "Comedy",
+            "Action",
+            "Coming of Age",
+            "Slice of Life"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_127230",
+        "title": "Chainsaw Man",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Monster Boy",
+            "Demons",
+            "Male Protagonist",
+            "Drama",
+            "Shapeshifting",
+            "Tragedy",
+            "Urban Fantasy",
+            "Body Horror",
+            "Urban",
+            "Gore",
+            "Action",
+            "Anti-Hero",
+            "Horror"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_21355",
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+        "type": "anime",
+        "tags": [
+            "Curses",
+            "Magic",
+            "Romance",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Time Loop",
+            "Adventure",
+            "Fantasy",
+            "Isekai",
+            "Thriller",
+            "Time Manipulation",
+            "Psychological",
+            "Witch",
+            "Alternate Universe",
+            "Action",
+            "Medieval"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_20665",
+        "title": "Shigatsu wa Kimi no Uso",
+        "type": "anime",
+        "tags": [
+            "Female Protagonist",
+            "Disability",
+            "Romance",
+            "Music",
+            "Drama",
+            "Male Protagonist",
+            "Tragedy",
+            "Rehabilitation",
+            "Shounen",
+            "Classical Music",
+            "Primarily Teen Cast",
+            "Love Triangle",
+            "Coming of Age",
+            "Slice of Life"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_104578",
+        "title": "Shingeki no Kyojin Season 3 Part 2",
+        "type": "anime",
+        "tags": [
+            "Drama",
+            "Memory Manipulation",
+            "Tragedy",
+            "Dystopian",
+            "Military",
+            "Conspiracy",
+            "Fantasy",
+            "Shapeshifting",
+            "Shounen",
+            "Super Power",
+            "Survival",
+            "Mystery",
+            "Action",
+            "War"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_1735",
+        "title": "NARUTO: Shippuuden",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Ninja",
+            "Martial Arts",
+            "Revenge",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Adventure",
+            "Fantasy",
+            "Shounen",
+            "Super Power",
+            "Comedy",
+            "Action",
+            "Orphan",
+            "Coming of Age",
+            "Criminal Organization"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_21234",
+        "title": "Boku dake ga Inai Machi",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Time Skip",
+            "Primarily Child Cast",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Urban Fantasy",
+            "Detective",
+            "Thriller",
+            "Age Regression",
+            "Psychological",
+            "Time Manipulation",
+            "Snowscape",
+            "Mystery",
+            "Crime"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_100166",
+        "title": "Boku no Hero Academia 3",
+        "type": "anime",
+        "tags": [
+            "Male Protagonist",
+            "Drama",
+            "Urban Fantasy",
+            "Adventure",
+            "Superhero",
+            "Shounen",
+            "Ensemble Cast",
+            "Primarily Teen Cast",
+            "Cultivation",
+            "Super Power",
+            "Boarding School",
+            "School",
+            "Comedy",
+            "Action"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_9253",
+        "title": "Steins;Gate",
+        "type": "anime",
+        "tags": [
+            "Male Protagonist",
+            "Drama",
+            "Memory Manipulation",
+            "Tragedy",
+            "Time Loop",
+            "Conspiracy",
+            "Urban",
+            "Dystopian",
+            "Thriller",
+            "Denpa",
+            "Time Manipulation",
+            "Psychological",
+            "Alternate Universe",
+            "Sci-Fi"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_20464",
+        "title": "Haikyuu!!",
+        "type": "anime",
+        "tags": [
+            "School Club",
+            "Male Protagonist",
+            "Drama",
+            "Volleyball",
+            "Shounen",
+            "Primarily Male Cast",
+            "Ensemble Cast",
+            "Primarily Teen Cast",
+            "Fitness",
+            "School",
+            "Comedy",
+            "Coming of Age",
+            "Sports"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_97940",
+        "title": "Black Clover",
+        "type": "anime",
+        "tags": [
+            "Orphan",
+            "Magic",
+            "Demons",
+            "Male Protagonist",
+            "Revenge",
+            "Elf",
+            "Adventure",
+            "Fantasy",
+            "Shounen",
+            "Ensemble Cast",
+            "Super Power",
+            "Comedy",
+            "Action",
+            "Found Family"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_101291",
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Romance",
+            "Male Protagonist",
+            "Drama",
+            "Primarily Female Cast",
+            "Memory Manipulation",
+            "Urban Fantasy",
+            "Rehabilitation",
+            "Kuudere",
+            "Primarily Teen Cast",
+            "Heterosexual",
+            "Psychological",
+            "Comedy",
+            "Mystery",
+            "Dissociative Identities",
+            "Coming of Age"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_140960",
+        "title": "SPY×FAMILY",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Espionage",
+            "Male Protagonist",
+            "Fake Relationship",
+            "Assassins",
+            "Adoption",
+            "Conspiracy",
+            "Shounen",
+            "Parenthood",
+            "Comedy",
+            "Family Life",
+            "Action",
+            "Found Family",
+            "Slice of Life"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_101921",
+        "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+        "type": "anime",
+        "tags": [
+            "School Club",
+            "Surreal Comedy",
+            "Romance",
+            "Episodic",
+            "Slapstick",
+            "Kuudere",
+            "Ojou-sama",
+            "Primarily Teen Cast",
+            "Heterosexual",
+            "Psychological",
+            "Tsundere",
+            "School",
+            "Comedy",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_105333",
+        "title": "Dr. STONE",
+        "type": "anime",
+        "tags": [
+            "Sci-Fi",
+            "Time Skip",
+            "Male Protagonist",
+            "Urban Fantasy",
+            "Adventure",
+            "Shounen",
+            "Educational",
+            "Ensemble Cast",
+            "Environmental",
+            "Survival",
+            "Comedy",
+            "Action",
+            "Post-Apocalyptic",
+            "Lost Civilization"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_21827",
+        "title": "Violet Evergarden",
+        "type": "anime",
+        "tags": [
+            "Female Protagonist",
+            "Writing",
+            "Disability",
+            "Drama",
+            "Tragedy",
+            "Rehabilitation",
+            "Fantasy",
+            "Kuudere",
+            "Work",
+            "Coming of Age",
+            "Orphan",
+            "War",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_19815",
+        "title": "No Game No Life",
+        "type": "anime",
+        "tags": [
+            "Ecchi",
+            "Incest",
+            "Magic",
+            "Primarily Female Cast",
+            "Video Games",
+            "Male Protagonist",
+            "Gambling",
+            "Isekai",
+            "Adventure",
+            "Fantasy",
+            "Hikikomori",
+            "Alternate Universe",
+            "Comedy",
+            "Large Breasts"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_20447",
+        "title": "Noragami",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Female Protagonist",
+            "Gods",
+            "Urban",
+            "Shapeshifting",
+            "Youkai",
+            "Urban Fantasy",
+            "Adventure",
+            "Shounen",
+            "Anti-Hero",
+            "Comedy",
+            "Action",
+            "Found Family",
+            "Mythology"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_4224",
+        "title": "Toradora!",
+        "type": "anime",
+        "tags": [
+            "Female Protagonist",
+            "Flat Chest",
+            "Romance",
+            "Male Protagonist",
+            "Drama",
+            "Slapstick",
+            "Unrequited Love",
+            "Primarily Teen Cast",
+            "Heterosexual",
+            "Tsundere",
+            "School",
+            "Comedy",
+            "Love Triangle",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_20613",
+        "title": "Akame ga Kill!",
+        "type": "anime",
+        "tags": [
+            "Anti-Hero",
+            "Drama",
+            "Crime",
+            "Tragedy",
+            "Assassins",
+            "Adventure",
+            "Fantasy",
+            "Shounen",
+            "Thriller",
+            "Gore",
+            "Action",
+            "Politics",
+            "Psychological",
+            "Henshin",
+            "Super Power",
+            "Horror",
+            "Swordplay"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_101348",
+        "title": "VINLAND SAGA",
+        "type": "anime",
+        "tags": [
+            "Revenge",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Adventure",
+            "Seinen",
+            "War",
+            "Historical",
+            "Philosophy",
+            "Action",
+            "Coming of Age",
+            "Vikings",
+            "Foreign"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_104276",
+        "title": "Boku no Hero Academia 4",
+        "type": "anime",
+        "tags": [
+            "Male Protagonist",
+            "Drama",
+            "Crime",
+            "Gangs",
+            "Adventure",
+            "Superhero",
+            "Shounen",
+            "Ensemble Cast",
+            "Primarily Teen Cast",
+            "Super Power",
+            "Boarding School",
+            "School",
+            "Comedy",
+            "Action",
+            "Sci-Fi"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_124080",
+        "title": "Horimiya",
+        "type": "anime",
+        "tags": [
+            "Female Protagonist",
+            "Romance",
+            "Male Protagonist",
+            "Slapstick",
+            "Ensemble Cast",
+            "Primarily Teen Cast",
+            "Heterosexual",
+            "Tsundere",
+            "School",
+            "Comedy",
+            "Family Life",
+            "Coming of Age",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_20789",
+        "title": "Nanatsu no Taizai",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Ecchi",
+            "Magic",
+            "Demons",
+            "Male Protagonist",
+            "Age Gap",
+            "Adventure",
+            "Fantasy",
+            "Shounen",
+            "Ensemble Cast",
+            "Heterosexual",
+            "Super Power",
+            "Comedy",
+            "Spearplay",
+            "Action",
+            "Swordplay"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_21202",
+        "title": "Kono Subarashii Sekai ni Shukufuku wo!",
+        "type": "anime",
+        "tags": [
+            "Ecchi",
+            "Parody",
+            "Magic",
+            "Primarily Female Cast",
+            "Male Protagonist",
+            "Satire",
+            "Slapstick",
+            "Isekai",
+            "Adventure",
+            "Fantasy",
+            "Ensemble Cast",
+            "Anti-Hero",
+            "Comedy",
+            "Large Breasts"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_112151",
+        "title": "Kimetsu no Yaiba: Mugen Ressha-hen",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Curses",
+            "Monster Girl",
+            "Demons",
+            "Trains",
+            "Drama",
+            "Male Protagonist",
+            "Tragedy",
+            "Body Horror",
+            "Adventure",
+            "Fantasy",
+            "Shounen",
+            "Super Power",
+            "Mystery",
+            "Action",
+            "Swordplay"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_269",
+        "title": "BLEACH",
+        "type": "anime",
+        "tags": [
+            "Supernatural",
+            "Exorcism",
+            "Demons",
+            "Male Protagonist",
+            "Urban Fantasy",
+            "Adventure",
+            "Ghost",
+            "Shounen",
+            "Ensemble Cast",
+            "Afterlife",
+            "Super Power",
+            "Action",
+            "Swordplay"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_20623",
+        "title": "Kiseijuu: Sei no Kakuritsu",
+        "type": "anime",
+        "tags": [
+            "Male Protagonist",
+            "Drama",
+            "Shapeshifting",
+            "Body Horror",
+            "Urban Fantasy",
+            "Anthropomorphism",
+            "Action",
+            "Super Power",
+            "Psychological",
+            "Survival",
+            "Philosophy",
+            "Seinen",
+            "Aliens",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_99423",
+        "title": "Darling in the Franxx",
+        "type": "anime",
+        "tags": [
+            "Psychosexual",
+            "Orphan",
+            "Romance",
+            "Drama",
+            "Post-Apocalyptic",
+            "Dystopian",
+            "Tragedy",
+            "Mecha",
+            "Psychological",
+            "Cohabitation",
+            "Robots",
+            "Primarily Teen Cast",
+            "Super Robot",
+            "Action",
+            "Sci-Fi",
+            "Coming of Age"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_1575",
+        "title": "Code Geass: Hangyaku no Lelouch",
+        "type": "anime",
+        "tags": [
+            "Revenge",
+            "Class Struggle",
+            "Male Protagonist",
+            "Drama",
+            "Terrorism",
+            "Military",
+            "Conspiracy",
+            "Thriller",
+            "Mecha",
+            "Politics",
+            "Super Power",
+            "Anti-Hero",
+            "Action",
+            "Sci-Fi",
+            "War"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_105778",
+        "title": "Chainsaw Man",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Psychosexual",
+            "Demons",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Urban Fantasy",
+            "Body Horror",
+            "Gore",
+            "Cosmic Horror",
+            "Horror",
+            "Comedy",
+            "Dissociative Identities",
+            "Action",
+            "Coming of Age"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_105398",
+        "title": "Na Honjaman Level Up",
+        "type": "manga",
+        "tags": [
+            "Full Color",
+            "Magic",
+            "Male Protagonist",
+            "Gods",
+            "Urban Fantasy",
+            "Creature Taming",
+            "Adventure",
+            "Fantasy",
+            "Super Power",
+            "Necromancy",
+            "Action",
+            "Dungeon",
+            "War"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_101517",
+        "title": "Jujutsu Kaisen",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Curses",
+            "Monster Boy",
+            "Magic",
+            "Demons",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Urban Fantasy",
+            "Youkai",
+            "Shounen",
+            "Super Power",
+            "Action"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_30002",
+        "title": "Berserk",
+        "type": "manga",
+        "tags": [
+            "Revenge",
+            "Demons",
+            "Male Protagonist",
+            "Drama",
+            "Rape",
+            "Tragedy",
+            "Adventure",
+            "Fantasy",
+            "Gore",
+            "Cosmic Horror",
+            "Action",
+            "Psychological",
+            "Seinen",
+            "Philosophy",
+            "Horror",
+            "Found Family"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_30013",
+        "title": "ONE PIECE",
+        "type": "manga",
+        "tags": [
+            "Male Protagonist",
+            "Tragedy",
+            "Adventure",
+            "Fantasy",
+            "Travel",
+            "Shounen",
+            "Ensemble Cast",
+            "Politics",
+            "Super Power",
+            "Ships",
+            "Pirates",
+            "Comedy",
+            "Action",
+            "Found Family"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_53390",
+        "title": "Shingeki no Kyojin",
+        "type": "manga",
+        "tags": [
+            "Drama",
+            "Shapeshifting",
+            "Tragedy",
+            "Dystopian",
+            "Military",
+            "Conspiracy",
+            "Fantasy",
+            "Survival",
+            "Philosophy",
+            "Anti-Hero",
+            "Kaiju",
+            "Mystery",
+            "Action",
+            "War"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_87216",
+        "title": "Kimetsu no Yaiba",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Revenge",
+            "Demons",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Body Horror",
+            "Adventure",
+            "Shounen",
+            "Gore",
+            "Afterlife",
+            "Historical",
+            "Action",
+            "Swordplay"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_63327",
+        "title": "Tokyo Ghoul",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Cannibalism",
+            "Male Protagonist",
+            "Tragedy",
+            "Urban Fantasy",
+            "Dystopian",
+            "Gore",
+            "Action",
+            "Psychological",
+            "Seinen",
+            "Survival",
+            "Philosophy",
+            "Mystery",
+            "Horror",
+            "Coming of Age"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_34632",
+        "title": "Oyasumi Punpun",
+        "type": "manga",
+        "tags": [
+            "Suicide",
+            "Psychosexual",
+            "Male Protagonist",
+            "Drama",
+            "Urban",
+            "Tragedy",
+            "Denpa",
+            "Heterosexual",
+            "Seinen",
+            "Psychological",
+            "Philosophy",
+            "Coming of Age",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_85486",
+        "title": "Boku no Hero Academia",
+        "type": "manga",
+        "tags": [
+            "Terrorism",
+            "Male Protagonist",
+            "Drama",
+            "Urban Fantasy",
+            "Adventure",
+            "Fantasy",
+            "Superhero",
+            "Shounen",
+            "Ensemble Cast",
+            "Primarily Teen Cast",
+            "Super Power",
+            "Boarding School",
+            "School",
+            "Comedy",
+            "Action"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_74347",
+        "title": "One Punch-Man",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Parody",
+            "Surreal Comedy",
+            "Male Protagonist",
+            "Satire",
+            "Urban Fantasy",
+            "Superhero",
+            "Meta",
+            "Ensemble Cast",
+            "Super Power",
+            "Kaiju",
+            "Comedy",
+            "Action",
+            "Sci-Fi"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_30656",
+        "title": "Vagabond",
+        "type": "manga",
+        "tags": [
+            "Martial Arts",
+            "Male Protagonist",
+            "Drama",
+            "Rehabilitation",
+            "Adventure",
+            "Travel",
+            "Samurai",
+            "Seinen",
+            "Historical",
+            "Philosophy",
+            "Coming of Age",
+            "Action",
+            "Swordplay"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_108556",
+        "title": "SPY×FAMILY",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Female Protagonist",
+            "Slice of Life",
+            "Espionage",
+            "Surreal Comedy",
+            "Male Protagonist",
+            "Assassins",
+            "Adoption",
+            "Work",
+            "Comedy",
+            "Action",
+            "Found Family",
+            "War",
+            "Family Life"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_30642",
+        "title": "Vinland Saga",
+        "type": "manga",
+        "tags": [
+            "Revenge",
+            "Male Protagonist",
+            "Drama",
+            "Rehabilitation",
+            "Adventure",
+            "Seinen",
+            "Historical",
+            "Philosophy",
+            "Coming of Age",
+            "War",
+            "Action",
+            "Vikings",
+            "Foreign"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_87423",
+        "title": "Yakusoku no Neverland",
+        "type": "manga",
+        "tags": [
+            "Primarily Child Cast",
+            "Female Protagonist",
+            "Demons",
+            "Drama",
+            "Body Horror",
+            "Dystopian",
+            "Fantasy",
+            "Thriller",
+            "Psychological",
+            "Survival",
+            "Alternate Universe",
+            "Coming of Age",
+            "Mystery",
+            "Horror",
+            "Found Family",
+            "War"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_119257",
+        "title": "Jeonjijeok Dokja Sijeom",
+        "type": "manga",
+        "tags": [
+            "Death Game",
+            "Full Color",
+            "POV",
+            "Male Protagonist",
+            "Gods",
+            "Time Loop",
+            "Adventure",
+            "Fantasy",
+            "Meta",
+            "Denpa",
+            "Survival",
+            "Action",
+            "Post-Apocalyptic"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_72451",
+        "title": "Horimiya",
+        "type": "manga",
+        "tags": [
+            "Female Protagonist",
+            "Romance",
+            "Male Protagonist",
+            "Slapstick",
+            "Ensemble Cast",
+            "Primarily Teen Cast",
+            "Heterosexual",
+            "Tsundere",
+            "School",
+            "Comedy",
+            "Family Life",
+            "Coming of Age",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_106130",
+        "title": "Blue Lock",
+        "type": "manga",
+        "tags": [
+            "Male Protagonist",
+            "Drama",
+            "Shounen",
+            "Primarily Male Cast",
+            "Ensemble Cast",
+            "Fitness",
+            "Football",
+            "Battle Royale",
+            "Anti-Hero",
+            "Primarily Teen Cast",
+            "Action",
+            "Athletics",
+            "Sports"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_86635",
+        "title": "Kaguya-sama wa Kokurasetai: Tensaitachi no Renai Zunousen",
+        "type": "manga",
+        "tags": [
+            "School Club",
+            "Female Protagonist",
+            "Romance",
+            "Slapstick",
+            "Ojou-sama",
+            "Primarily Teen Cast",
+            "Ensemble Cast",
+            "Heterosexual",
+            "Psychological",
+            "Tsundere",
+            "School",
+            "Comedy",
+            "Coming of Age",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_30012",
+        "title": "BLEACH",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Male Protagonist",
+            "Urban Fantasy",
+            "Conspiracy",
+            "Adventure",
+            "Ghost",
+            "Shounen",
+            "Ensemble Cast",
+            "Afterlife",
+            "Super Power",
+            "War",
+            "Action",
+            "Swordplay"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_102988",
+        "title": "Tokyo卍Revengers",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Time Skip",
+            "Delinquents",
+            "Revenge",
+            "Romance",
+            "Male Protagonist",
+            "Drama",
+            "Gangs",
+            "Tragedy",
+            "Crime",
+            "Conspiracy",
+            "Shounen",
+            "Time Manipulation",
+            "Action"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_132029",
+        "title": "Dandadan",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Female Protagonist",
+            "Surreal Comedy",
+            "Romance",
+            "Tokusatsu",
+            "Drama",
+            "Male Protagonist",
+            "Youkai",
+            "Urban Fantasy",
+            "Ghost",
+            "Shounen",
+            "Super Power",
+            "Comedy",
+            "Aliens",
+            "Action",
+            "Sci-Fi"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_30026",
+        "title": "HUNTER×HUNTER",
+        "type": "manga",
+        "tags": [
+            "Revenge",
+            "Male Protagonist",
+            "Tragedy",
+            "Urban Fantasy",
+            "Adventure",
+            "Fantasy",
+            "Shounen",
+            "Travel",
+            "Ensemble Cast",
+            "Cultivation",
+            "Primarily Male Cast",
+            "Super Power",
+            "Comedy",
+            "Action"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_97852",
+        "title": "Komi-san wa, Komyushou desu.",
+        "type": "manga",
+        "tags": [
+            "Female Protagonist",
+            "Disability",
+            "Romance",
+            "Male Protagonist",
+            "Episodic",
+            "Slapstick",
+            "Kuudere",
+            "Ensemble Cast",
+            "School",
+            "Comedy",
+            "Love Triangle",
+            "Coming of Age",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_86123",
+        "title": "Black Clover",
+        "type": "manga",
+        "tags": [
+            "Magic",
+            "Demons",
+            "Male Protagonist",
+            "Drama",
+            "Elf",
+            "Fantasy",
+            "Shounen",
+            "Cultivation",
+            "Super Power",
+            "Comedy",
+            "Dissociative Identities",
+            "Action",
+            "Medieval",
+            "Lost Civilization"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_117195",
+        "title": "[Oshi no Ko]",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Female Protagonist",
+            "Revenge",
+            "Male Protagonist",
+            "Drama",
+            "Acting",
+            "Tragedy",
+            "Detective",
+            "Idol",
+            "Reincarnation",
+            "Psychological",
+            "Seinen",
+            "Mystery",
+            "Twins"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_30001",
+        "title": "MONSTER",
+        "type": "manga",
+        "tags": [
+            "Amnesia",
+            "Fugitive",
+            "Drama",
+            "Noir",
+            "Tragedy",
+            "Conspiracy",
+            "Thriller",
+            "Psychological",
+            "Seinen",
+            "Philosophy",
+            "Mystery",
+            "Twins",
+            "Crime",
+            "Foreign"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_30003",
+        "title": "20 Seiki Shounen",
+        "type": "manga",
+        "tags": [
+            "Fugitive",
+            "Cult",
+            "Drama",
+            "Dystopian",
+            "Conspiracy",
+            "Thriller",
+            "Ensemble Cast",
+            "Politics",
+            "Pandemic",
+            "Psychological",
+            "Seinen",
+            "Coming of Age",
+            "Mystery",
+            "Sci-Fi",
+            "Achronological Order"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_120760",
+        "title": "Kaijuu 8-gou",
+        "type": "manga",
+        "tags": [
+            "Male Protagonist",
+            "Shapeshifting",
+            "Urban",
+            "Urban Fantasy",
+            "Military",
+            "Shounen",
+            "Henshin",
+            "Super Power",
+            "Kaiju",
+            "Primarily Adult Cast",
+            "Action",
+            "Sci-Fi"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_31706",
+        "title": "JoJo no Kimyou na Bouken: Steel Ball Run",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Cowboys",
+            "Disability",
+            "Male Protagonist",
+            "Drama",
+            "Conspiracy",
+            "Adventure",
+            "Travel",
+            "Environmental",
+            "Super Power",
+            "Seinen",
+            "Mystery",
+            "Primarily Adult Cast",
+            "Action",
+            "Foreign"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_87170",
+        "title": "Fire Punch",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Suicide",
+            "Revenge",
+            "Cult",
+            "Drama",
+            "Anti-Hero",
+            "Tragedy",
+            "Dystopian",
+            "Thriller",
+            "Super Power",
+            "Psychological",
+            "Survival",
+            "Philosophy",
+            "Mystery",
+            "Action",
+            "Post-Apocalyptic"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_85611",
+        "title": "Tokyo Ghoul:re",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Amnesia",
+            "Drama",
+            "Shapeshifting",
+            "Tragedy",
+            "Dystopian",
+            "Body Horror",
+            "Gore",
+            "Action",
+            "Psychological",
+            "Seinen",
+            "Philosophy",
+            "Coming of Age",
+            "Mystery",
+            "Dissociative Identities",
+            "Horror"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_65243",
+        "title": "Haikyuu!!",
+        "type": "manga",
+        "tags": [
+            "School Club",
+            "Time Skip",
+            "Male Protagonist",
+            "Drama",
+            "Volleyball",
+            "Shounen",
+            "Primarily Male Cast",
+            "Ensemble Cast",
+            "Primarily Teen Cast",
+            "Philosophy",
+            "Comedy",
+            "Coming of Age",
+            "Sports"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_85143",
+        "title": "Sinui Tap",
+        "type": "manga",
+        "tags": [
+            "Full Color",
+            "Magic",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Conspiracy",
+            "Adventure",
+            "Fantasy",
+            "Travel",
+            "Ensemble Cast",
+            "Cultivation",
+            "Super Power",
+            "Mystery",
+            "Action",
+            "War"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_30021",
+        "title": "DEATH NOTE",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Male Protagonist",
+            "Drama",
+            "Gods",
+            "Tragedy",
+            "Urban Fantasy",
+            "Detective",
+            "Primarily Male Cast",
+            "Thriller",
+            "Psychological",
+            "Philosophy",
+            "Anti-Hero",
+            "Mystery",
+            "Crime",
+            "Police"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_30011",
+        "title": "NARUTO",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Martial Arts",
+            "Revenge",
+            "Male Protagonist",
+            "Tragedy",
+            "Adventure",
+            "Shounen",
+            "Super Power",
+            "Ninja",
+            "Action",
+            "Found Family",
+            "Coming of Age",
+            "War"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_101583",
+        "title": "Sono Bisque Doll wa Koi wo Suru",
+        "type": "manga",
+        "tags": [
+            "Fashion",
+            "Ecchi",
+            "Female Protagonist",
+            "Romance",
+            "Male Protagonist",
+            "Primarily Teen Cast",
+            "Heterosexual",
+            "Seinen",
+            "Makeup",
+            "Comedy",
+            "Gyaru",
+            "Otaku Culture",
+            "Cosplay",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_100994",
+        "title": "Jigokuraku",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Anti-Hero",
+            "Tragedy",
+            "Adventure",
+            "Samurai",
+            "Ensemble Cast",
+            "Gore",
+            "Survival",
+            "Historical",
+            "Philosophy",
+            "Ninja",
+            "Mystery",
+            "Action",
+            "Mythology"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_85135",
+        "title": "Koe no Katachi",
+        "type": "manga",
+        "tags": [
+            "Time Skip",
+            "Disability",
+            "Suicide",
+            "Romance",
+            "Language Barrier",
+            "Drama",
+            "Bullying",
+            "Male Protagonist",
+            "Rehabilitation",
+            "Heterosexual",
+            "School",
+            "Coming of Age",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_98416",
+        "title": "Dr. STONE",
+        "type": "manga",
+        "tags": [
+            "Sci-Fi",
+            "Male Protagonist",
+            "Adventure",
+            "Shounen",
+            "Educational",
+            "Ensemble Cast",
+            "Travel",
+            "Environmental",
+            "Survival",
+            "Comedy",
+            "Action",
+            "Post-Apocalyptic",
+            "War",
+            "Lost Civilization"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_31133",
+        "title": "Dorohedoro",
+        "type": "manga",
+        "tags": [
+            "Amnesia",
+            "Magic",
+            "Revenge",
+            "Body Horror",
+            "Dystopian",
+            "Adventure",
+            "Fantasy",
+            "Ensemble Cast",
+            "Gore",
+            "Action",
+            "Seinen",
+            "Anti-Hero",
+            "Comedy",
+            "Mystery",
+            "Dissociative Identities",
+            "Horror"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_125828",
+        "title": "SAKAMOTO DAYS",
+        "type": "manga",
+        "tags": [
+            "Male Protagonist",
+            "Crime",
+            "Gangs",
+            "Urban Fantasy",
+            "Assassins",
+            "Primarily Male Cast",
+            "Konbini",
+            "Comedy",
+            "Primarily Adult Cast",
+            "Action",
+            "Found Family",
+            "Family Life"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_30436",
+        "title": "Uzumaki",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Female Protagonist",
+            "Romance",
+            "Drama",
+            "Tragedy",
+            "Body Horror",
+            "Episodic",
+            "Gore",
+            "Cosmic Horror",
+            "Psychological",
+            "Seinen",
+            "Survival",
+            "Philosophy",
+            "Mystery",
+            "Horror",
+            "Lost Civilization"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_118586",
+        "title": "Sousou no Frieren",
+        "type": "manga",
+        "tags": [
+            "Female Protagonist",
+            "Time Skip",
+            "Magic",
+            "Demons",
+            "Drama",
+            "Elf",
+            "Adventure",
+            "Fantasy",
+            "Travel",
+            "Unrequited Love",
+            "Snowscape",
+            "Philosophy",
+            "Iyashikei"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_97553",
+        "title": "Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",
+        "type": "manga",
+        "tags": [
+            "Supernatural",
+            "Suicide",
+            "Romance",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Urban Fantasy",
+            "Kuudere",
+            "Heterosexual",
+            "Psychological",
+            "Cohabitation",
+            "Philosophy",
+            "Coming of Age",
+            "Primarily Adult Cast"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_146983",
+        "title": "Sayonara Eri",
+        "type": "manga",
+        "tags": [
+            "Female Protagonist",
+            "Male Protagonist",
+            "Drama",
+            "Tragedy",
+            "Acting",
+            "Urban Fantasy",
+            "Vampire",
+            "Filmmaking",
+            "Meta",
+            "Psychological",
+            "Coming of Age",
+            "POV"
+        ],
+        "pacing": "Lassú"
+    },
+    {
+        "id": "anilist_74489",
+        "title": "Houseki no Kuni",
+        "type": "manga",
+        "tags": [
+            "Anti-Hero",
+            "Drama",
+            "Shapeshifting",
+            "Tragedy",
+            "Body Horror",
+            "Post-Apocalyptic",
+            "Fantasy",
+            "Anthropomorphism",
+            "Cosmic Horror",
+            "Psychological",
+            "Seinen",
+            "Philosophy",
+            "Mystery",
+            "Action",
+            "Sci-Fi",
+            "Religion"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_30025",
+        "title": "Hagane no Renkinjutsushi",
+        "type": "manga",
+        "tags": [
+            "Disability",
+            "Alchemy",
+            "Drama",
+            "Male Protagonist",
+            "Tragedy",
+            "Conspiracy",
+            "Adventure",
+            "Fantasy",
+            "Military",
+            "Shounen",
+            "Politics",
+            "Philosophy",
+            "Comedy",
+            "Action",
+            "War"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_98263",
+        "title": "Tongari Boushi no Atelier",
+        "type": "manga",
+        "tags": [
+            "Female Protagonist",
+            "Magic",
+            "Revenge",
+            "Drama",
+            "Memory Manipulation",
+            "Adventure",
+            "Fantasy",
+            "Ensemble Cast",
+            "Drawing",
+            "Coming of Age",
+            "Witch",
+            "Found Family",
+            "Teacher"
+        ],
+        "pacing": "Gyors"
+    },
+    {
+        "id": "anilist_107237",
+        "title": "Blue Period",
+        "type": "manga",
+        "tags": [
+            "School",
+            "Male Protagonist",
+            "Drama",
+            "Educational",
+            "Drawing",
+            "College",
+            "Seinen",
+            "Philosophy",
+            "Coming of Age",
+            "Primarily Adult Cast",
+            "LGBTQ+ Themes",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú"
     }
 ]
