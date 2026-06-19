@@ -1,0 +1,7 @@
+{
+  "name": "nexus-sync",
+  "version": "1.0.0",
+  "description": "Nexus media sync script - fetches from IGDB, OpenLibrary, TVDB, TMDB, AniList",
+  "private": true,
+  "type": "module"
+}

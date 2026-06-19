@@ -1,0 +1,28 @@
+{
+  "name": "ContentTag",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "genre",
+        "sub_genre",
+        "element",
+        "trigger",
+        "tone",
+        "pacing"
+      ]
+    },
+    "usage_count": {
+      "type": "integer",
+      "default": 0
+    }
+  },
+  "required": [
+    "name",
+    "category"
+  ]
+}
