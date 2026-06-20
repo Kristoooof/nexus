@@ -61,19 +61,16 @@ def load_existing_media():
 def get_tmdb_movies():
     print("Filmek letöltése (TMDB)...")
     if not TMDB_API_KEY: return []
-    # Angol nyelvű műfajok lekérése
     genres_resp = requests.get(f"https://api.themoviedb.org/3/genre/movie/list?api_key={TMDB_API_KEY}&language=en-US").json()
     genre_map = {g['id']: g['name'] for g in genres_resp.get('genres', [])}
     
     movies = []
     try:
         page = random.randint(1, 500)
-        # Magyar cím és leírás
         resp_hu = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=hu-HU&page={page}")
         resp_hu.raise_for_status()
         data_hu = resp_hu.json()
         
-        # Eredeti (angol) cím
         resp_en = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=en-US&page={page}")
         resp_en.raise_for_status()
         data_en = resp_en.json()
@@ -114,7 +111,7 @@ def get_igdb_games():
             games.append({
                 "id": f"igdb_{g.get('id')}",
                 "title_en": g.get('name', ''),
-                "title_hu": "", # Játékoknál általában nincs külön magyar cím
+                "title_hu": "",
                 "type": "jatek",
                 "genres": [genre['name'] for genre in g.get('genres', [])],
                 "description": g.get('summary', ''),
@@ -179,9 +176,14 @@ def get_anilist_media(media_type="ANIME", country_code=None):
             
         for m in data.get('data', {}).get('Page', {}).get('media', []):
             start_date = m.get('startDate', {})
+            year = start_date.get('year')
+            month = start_date.get('month')
+            day = start_date.get('day')
+            
+            # JAVÍTOTT dátum formázás (csak ha létezik a year)
             date_str = ""
-            if start_date.get('year'):
-                date_str = f"{start_date.get('year')}-{start_date.get('month', 1):02d}-{start_date.get('day', 1):02d}"
+            if year:
+                date_str = f"{year}-{month or 1:02d}-{day or 1:02d}"
                 
             items.append({
                 "id": f"anilist_{m['id']}",
@@ -232,7 +234,7 @@ def main():
     merged_dict = {item['id']: item for item in existing_data}
     for item in new_items:
         if item and 'id' in item:
-            merged_dict[item['id']] = item # Felülírja a régit az új formátummal
+            merged_dict[item['id']] = item
             
     all_data = list(merged_dict.values())
     print(f"Összesített adatbázis mérete: {len(all_data)}")
