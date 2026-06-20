@@ -5,7 +5,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Young Adult"
+            "History"
         ],
         "author": "Charles Dickens",
         "image": "https://covers.openlibrary.org/b/id/13300802-M.jpg",
@@ -20,7 +20,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Horror"
+            "History"
         ],
         "author": "Mary Shelley",
         "image": "https://covers.openlibrary.org/b/id/12356249-M.jpg",
@@ -50,7 +50,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Young Adult"
+            "History"
         ],
         "author": "Mark Twain",
         "image": "https://covers.openlibrary.org/b/id/12043351-M.jpg",
@@ -755,7 +755,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "History"
         ],
         "author": "Lewis Carroll",
         "image": "https://covers.openlibrary.org/b/id/10527843-M.jpg",
@@ -770,7 +770,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "History"
         ],
         "author": "L. Frank Baum",
         "image": "https://covers.openlibrary.org/b/id/552443-M.jpg",
@@ -785,7 +785,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "History"
         ],
         "author": "Robert Louis Stevenson",
         "image": "https://covers.openlibrary.org/b/id/13859660-M.jpg",
@@ -815,7 +815,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "History"
         ],
         "author": "Niccolò Machiavelli",
         "image": "https://covers.openlibrary.org/b/id/12726168-M.jpg",
@@ -860,7 +860,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "History"
         ],
         "author": "Edith Nesbit",
         "image": "https://covers.openlibrary.org/b/id/28174-M.jpg",
@@ -1490,7 +1490,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Horror"
+            "History"
         ],
         "author": "Oscar Wilde",
         "image": "https://covers.openlibrary.org/b/id/14314858-M.jpg",
@@ -2215,6 +2215,621 @@
         "author": "Stephen King",
         "image": "https://covers.openlibrary.org/b/id/7886954-M.jpg",
         "date": "1994",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL66554W",
+        "title_en": "Pride and Prejudice",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Jane Austen",
+        "image": "https://covers.openlibrary.org/b/id/14348537-M.jpg",
+        "date": "1813",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL32466W",
+        "title_en": "A Christmas Carol",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Charles Dickens",
+        "image": "https://covers.openlibrary.org/b/id/12875748-M.jpg",
+        "date": "1843",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL53908W",
+        "title_en": "Adventures of Huckleberry Finn",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Mark Twain",
+        "image": "https://covers.openlibrary.org/b/id/8157718-M.jpg",
+        "date": "1876",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL45089W",
+        "title_en": "Robinson Crusoe",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Daniel Defoe",
+        "image": "https://covers.openlibrary.org/b/id/368541-M.jpg",
+        "date": "1686",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL455305W",
+        "title_en": "The Scarlet Letter",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Nathaniel Hawthorne",
+        "image": "https://covers.openlibrary.org/b/id/5654516-M.jpg",
+        "date": "1800",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL66562W",
+        "title_en": "Sense and Sensibility",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Jane Austen",
+        "image": "https://covers.openlibrary.org/b/id/9278292-M.jpg",
+        "date": "1811",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL8193465W",
+        "title_en": "A Tale of Two Cities",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Charles Dickens",
+        "image": "https://covers.openlibrary.org/b/id/13301713-M.jpg",
+        "date": "1800",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL29983W",
+        "title_en": "Little Women",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Louisa May Alcott",
+        "image": "https://covers.openlibrary.org/b/id/8775559-M.jpg",
+        "date": "1848",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL258902W",
+        "title_en": "Macbeth",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "William Shakespeare",
+        "image": "https://covers.openlibrary.org/b/id/872432-M.jpg",
+        "date": "1508",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL14942956W",
+        "title_en": "The Call of the Wild",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Jack London",
+        "image": "https://covers.openlibrary.org/b/id/12393037-M.jpg",
+        "date": "1903",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL503666W",
+        "title_en": "Don Quijote de la Mancha",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Miguel de Cervantes Saavedra",
+        "image": "https://covers.openlibrary.org/b/id/14428305-M.jpg",
+        "date": "1600",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL69612W",
+        "title_en": "The Secret Garden",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Frances Hodgson Burnett",
+        "image": "https://covers.openlibrary.org/b/id/12622062-M.jpg",
+        "date": "1911",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL893707W",
+        "title_en": "Madame Bovary",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Gustave Flaubert",
+        "image": "https://covers.openlibrary.org/b/id/12993424-M.jpg",
+        "date": "1856",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL244537W",
+        "title_en": "The Art of War",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "孙武 (Sun Tzu)",
+        "image": "https://covers.openlibrary.org/b/id/4849549-M.jpg",
+        "date": "1900",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL8721462W",
+        "title_en": "Great Expectations",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Charles Dickens",
+        "image": "https://covers.openlibrary.org/b/id/13322313-M.jpg",
+        "date": "1861",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL362702W",
+        "title_en": "Julius Caesar",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "William Shakespeare",
+        "image": "https://covers.openlibrary.org/b/id/7901303-M.jpg",
+        "date": "1656",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL93082W",
+        "title_en": "La Divina Commedia",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Dante Alighieri",
+        "image": "https://covers.openlibrary.org/b/id/11621024-M.jpg",
+        "date": "1472",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL267096W",
+        "title_en": "Анна Каренина",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Лев Толстой",
+        "image": "https://covers.openlibrary.org/b/id/2560652-M.jpg",
+        "date": "1876",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL262454W",
+        "title_en": "The Hound of the Baskervilles",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Arthur Conan Doyle",
+        "image": "https://covers.openlibrary.org/b/id/8063264-M.jpg",
+        "date": "1900",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL77746W",
+        "title_en": "Anne of Green Gables",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Lucy Maud Montgomery",
+        "image": "https://covers.openlibrary.org/b/id/14641084-M.jpg",
+        "date": "1908",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL166894W",
+        "title_en": "Преступление и наказание",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Фёдор Михайлович Достоевский",
+        "image": "https://covers.openlibrary.org/b/id/9411873-M.jpg",
+        "date": "1866",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1095427W",
+        "title_en": "Jane Eyre",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Charlotte Brontë",
+        "image": "https://covers.openlibrary.org/b/id/8235363-M.jpg",
+        "date": "1847",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1793164W",
+        "title_en": "Three Men in a Boat (to say nothing of the dog)",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Jerome Klapka Jérôme",
+        "image": "https://covers.openlibrary.org/b/id/8243006-M.jpg",
+        "date": "1889",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL262421W",
+        "title_en": "The Adventures of Sherlock Holmes [12 stories]",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Arthur Conan Doyle",
+        "image": "https://covers.openlibrary.org/b/id/6717853-M.jpg",
+        "date": "1892",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL362690W",
+        "title_en": "The Taming of the Shrew",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "William Shakespeare",
+        "image": "https://covers.openlibrary.org/b/id/7889534-M.jpg",
+        "date": "1631",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL102749W",
+        "title_en": "Moby Dick",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Herman Melville",
+        "image": "https://covers.openlibrary.org/b/id/10544254-M.jpg",
+        "date": "1851",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL45139W",
+        "title_en": "Moll Flanders",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Daniel Defoe",
+        "image": "https://covers.openlibrary.org/b/id/12997559-M.jpg",
+        "date": "1722",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL36861W",
+        "title_en": "Les Trois Mousquetaires",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Alexandre Dumas",
+        "image": "https://covers.openlibrary.org/b/id/11929973-M.jpg",
+        "date": "1844",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL100672W",
+        "title_en": "Candide",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Voltaire",
+        "image": "https://covers.openlibrary.org/b/id/12736044-M.jpg",
+        "date": "1746",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL69178W",
+        "title_en": "Narrative of the life of Frederick Douglass",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Frederick Douglass",
+        "image": "https://covers.openlibrary.org/b/id/8247724-M.jpg",
+        "date": "1845",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL78871W",
+        "title_en": "Twelve years a slave",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Solomon Northup",
+        "image": "https://covers.openlibrary.org/b/id/14856045-M.jpg",
+        "date": "1853",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL8193387W",
+        "title_en": "Hard Times",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Charles Dickens",
+        "image": "https://covers.openlibrary.org/b/id/8236916-M.jpg",
+        "date": "1854",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL63985W",
+        "title_en": "The Legend of Sleepy Hollow",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Washington Irving",
+        "image": "https://covers.openlibrary.org/b/id/8243083-M.jpg",
+        "date": "1820",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL362685W",
+        "title_en": "Troilus and Cressida",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "William Shakespeare",
+        "image": "https://covers.openlibrary.org/b/id/8789523-M.jpg",
+        "date": "1609",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL362427W",
+        "title_en": "Romeo and Juliet",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "William Shakespeare",
+        "image": "https://covers.openlibrary.org/b/id/8257991-M.jpg",
+        "date": "1597",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL99509W",
+        "title_en": "The Railway Children",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Edith Nesbit",
+        "image": "https://covers.openlibrary.org/b/id/13241123-M.jpg",
+        "date": "1900",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL176092W",
+        "title_en": "The Moonstone",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Wilkie Collins",
+        "image": "https://covers.openlibrary.org/b/id/8237041-M.jpg",
+        "date": "1800",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL362695W",
+        "title_en": "Antony and Cleopatra",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "William Shakespeare",
+        "image": "https://covers.openlibrary.org/b/id/8222096-M.jpg",
+        "date": "1734",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL19908W",
+        "title_en": "Kim",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Rudyard Kipling",
+        "image": "https://covers.openlibrary.org/b/id/1053011-M.jpg",
+        "date": "1901",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL77958W",
+        "title_en": "The Last of the Mohicans",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "James Fenimore Cooper",
+        "image": "https://covers.openlibrary.org/b/id/8236937-M.jpg",
+        "date": "1826",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL8662242W",
+        "title_en": "David Copperfield",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Charles Dickens",
+        "image": "https://covers.openlibrary.org/b/id/1048892-M.jpg",
+        "date": "1800",
         "score": 0,
         "age_rating": "Unknown",
         "cover_nsfw": false
