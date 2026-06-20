@@ -173,3 +173,22 @@ body {
   color: white; transform: translateY(-2px); 
   box-shadow: 0 4px 15px rgba(108, 92, 231, 0.4);
 }
+/* HEADER CONTROL WRAP */
+.header-controls { display: flex; align-items: center; gap: 20px; }
+.lang-btn { 
+  background: var(--surface-color); color: var(--text-main); 
+  border: 1px solid var(--glass-border); padding: 6px 12px; 
+  border-radius: 6px; cursor: pointer; font-weight: bold; 
+  font-size: 14px; transition: 0.2s; 
+}
+.lang-btn:hover { background: var(--primary); border-color: var(--primary); }
+
+/* SORT DROPDOWN */
+.sort-dropdown { 
+  width: 100%; padding: 10px 16px; 
+  background: rgba(0,0,0,0.3); color: var(--text-main); 
+  border: 1px solid var(--glass-border); border-radius: 8px; 
+  font-size: 14px; outline: none; cursor: pointer;
+}
+.sort-dropdown:focus { border-color: var(--primary); }
+.sort-dropdown option { background: var(--surface-color); color: var(--text-main); }
