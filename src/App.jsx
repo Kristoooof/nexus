@@ -1,5 +1,39 @@
 import { useState, useEffect, useMemo } from 'react'
 
+// Fordítási szótár
+const dict = {
+  hu: {
+    browse: "Böngészés", library: "Könyvtár", searchPh: "🔍 Cím keresése...",
+    type: "Típus", pacing: "Tempó", genres: "Műfajok", tags: "Specifikus Tagek",
+    logic: "Kapcsolat", sortBy: "Rendezés", popularity: "Népszerűség",
+    az: "Cím (A-Z)", za: "Cím (Z-A)", dateDesc: "Megjelenés (Újabbak előbb)", dateAsc: "Megjelenés (Régebbiek előbb)",
+    recommended: "✨ Ajánlott művek", clear: "Törlés ✖", results: "Találatok",
+    loadMore: (c) => `Továbbiak betöltése (${c} elem rejtve)`, myLibrary: "Saját Könyvtár",
+    libRecBtn: "💡 Ajánlj a könyvtáram alapján!", libRecHeader: "✨ Könyvtár alapján ajánlott",
+    emptyLib: "A könyvtárad még üres. Kattints egy kártyára, majd a \"+ Könyvtárba\" gombra a hozzáadáshoz!",
+    remove: "Eltávolít", pacingWord: "tempó", noDesc: "Nincs elérhető leírás.",
+    findSimilar: "✨ Hasonlót kérek!", addToLib: "+ Könyvtárba", removeFromLib: "- Eltávolít",
+    saved: "✔ Mentve", noImg: "Nincs kép", loading: "Adatok betöltése...",
+    types: { film: "film", jatek: "játék", konyv: "könyv", anime: "anime", manga: "manga", manhwa: "manhwa" },
+    pacings: { Gyors: "Gyors", Közepes: "Közepes", Lassú: "Lassú" }
+  },
+  en: {
+    browse: "Browse", library: "Library", searchPh: "🔍 Search title...",
+    type: "Type", pacing: "Pacing", genres: "Genres", tags: "Specific Tags",
+    logic: "Logic", sortBy: "Sort by", popularity: "Popularity",
+    az: "Title (A-Z)", za: "Title (Z-A)", dateDesc: "Release (Newest)", dateAsc: "Release (Oldest)",
+    recommended: "✨ Recommended", clear: "Clear ✖", results: "Results",
+    loadMore: (c) => `Load more (${c} items hidden)`, myLibrary: "My Library",
+    libRecBtn: "💡 Recommend based on my library!", libRecHeader: "✨ Library-based recommendations",
+    emptyLib: "Your library is empty. Click a card, then \"+ Add to Library\" to add!",
+    remove: "Remove", pacingWord: "pacing", noDesc: "No description available.",
+    findSimilar: "✨ Find similar!", addToLib: "+ Add to Library", removeFromLib: "- Remove",
+    saved: "✔ Saved", noImg: "No image", loading: "Loading data...",
+    types: { film: "Movie", jatek: "Game", konyv: "Book", anime: "Anime", manga: "Manga", manhwa: "Manhwa" },
+    pacings: { Gyors: "Fast", Közepes: "Medium", Lassú: "Slow" }
+  }
+}
+
 function MultiSelect({ label, options, selected, onChange }) {
   const [isOpen, setIsOpen] = useState(false)
   const [search, setSearch] = useState('')
@@ -45,8 +79,8 @@ export default function App() {
   const [loading, setLoading] = useState(true)
   
   const [view, setView] = useState('browse')
-  const [lang, setLang] = useState('hu') // 'hu' vagy 'en'
-  const [sortBy, setSortBy] = useState('popularity') // Új: Rendezés
+  const [lang, setLang] = useState('hu')
+  const [sortBy, setSortBy] = useState('popularity')
   
   const [library, setLibrary] = useState(() => JSON.parse(localStorage.getItem('mediaLibrary') || '[]'))
   const [modalItem, setModalItem] = useState(null)
@@ -54,13 +88,10 @@ export default function App() {
   const [visibleCount, setVisibleCount] = useState(50)
 
   const [filters, setFilters] = useState({
-    types: [],
-    pacings: [],
-    genres: [],
-    tags: [],
-    tagLogic: 'OR',
-    search: ''
+    types: [], pacings: [], genres: [], tags: [], tagLogic: 'OR', search: ''
   })
+
+  const t = dict[lang]
 
   useEffect(() => {
     async function loadData() {
@@ -102,8 +133,8 @@ export default function App() {
 
   const getTitle = (item) => {
     if (!item) return '';
-    if (lang === 'en') return item.title_en || item.title_hu || item.title || 'Nincs cím'
-    return item.title_hu || item.title_en || item.title || 'Nincs cím'
+    if (lang === 'en') return item.title_en || item.title_hu || 'No title'
+    return item.title_hu || item.title_en || 'Nincs cím'
   }
 
   const allGenres = useMemo(() => {
@@ -165,10 +196,9 @@ export default function App() {
     setLibrary(library.filter(libId => libId !== id))
   }
 
-  // Szűrés és Rendezés
   const filteredMedia = useMemo(() => {
     let result = allMedia.filter(item => {
-      const ext = extData[item.id] || { tags: [], pacing: 'Ismeretlen' }
+      const ext = extData[item.id] || { tags: [], pacing: 'Közepes' }
       
       const currentTitle = getTitle(item).toLowerCase()
       if (filters.search && !currentTitle.includes(filters.search.toLowerCase())) return false
@@ -193,13 +223,11 @@ export default function App() {
       return true
     })
 
-    // Rendezés
     result.sort((a, b) => {
       if (sortBy === 'az') return getTitle(a).localeCompare(getTitle(b))
       if (sortBy === 'za') return getTitle(b).localeCompare(getTitle(a))
       if (sortBy === 'date_desc') return (b.date || '').localeCompare(a.date || '')
       if (sortBy === 'date_asc') return (a.date || '').localeCompare(b.date || '')
-      // default: popularity (score)
       return (b.score || 0) - (a.score || 0)
     })
 
@@ -208,7 +236,7 @@ export default function App() {
 
   const displayedMedia = filteredMedia.slice(0, visibleCount)
 
-  if (loading) return <div className="container loading-screen"><h2>Adatok betöltése...</h2></div>
+  if (loading) return <div className="container loading-screen"><h2>{t.loading}</h2></div>
 
   return (
     <div className="app-wrapper">
@@ -220,8 +248,8 @@ export default function App() {
               {lang === 'hu' ? 'HU' : 'EN'}
             </button>
             <nav className="main-nav">
-              <button onClick={() => setView('browse')} className={view === 'browse' ? 'active' : ''}>Böngészés</button>
-              <button onClick={() => setView('library')} className={view === 'library' ? 'active' : ''}>Könyvtár ({library.length})</button>
+              <button onClick={() => setView('browse')} className={view === 'browse' ? 'active' : ''}>{t.browse}</button>
+              <button onClick={() => setView('library')} className={view === 'library' ? 'active' : ''}>{t.library} ({library.length})</button>
             </nav>
           </div>
         </div>
@@ -232,53 +260,52 @@ export default function App() {
           <>
             <div className="filters-panel glass-card">
               <div className="filter-row">
-                <input type="text" className="search-bar" placeholder="🔍 Cím keresése..." value={filters.search} onChange={e => setFilters({...filters, search: e.target.value})} />
+                <input type="text" className="search-bar" placeholder={t.searchPh} value={filters.search} onChange={e => setFilters({...filters, search: e.target.value})} />
               </div>
               
               <div className="filter-group">
-                <span className="filter-label">Típus</span>
+                <span className="filter-label">{t.type}</span>
                 <div className="pills-container">
-                  {['film', 'jatek', 'konyv', 'anime', 'manga', 'manhwa'].map(t => (
-                    <button key={t} className={`pill ${filters.types.includes(t) ? 'active' : ''}`} onClick={() => toggleArrayFilter('types', t)}>
-                      {t}
+                  {['film', 'jatek', 'konyv', 'anime', 'manga', 'manhwa'].map(typ => (
+                    <button key={typ} className={`pill ${filters.types.includes(typ) ? 'active' : ''}`} onClick={() => toggleArrayFilter('types', typ)}>
+                      {t.types[typ]}
                     </button>
                   ))}
                 </div>
               </div>
 
               <div className="filter-group">
-                <span className="filter-label">Tempó</span>
+                <span className="filter-label">{t.pacing}</span>
                 <div className="pills-container">
                   {['Gyors', 'Közepes', 'Lassú'].map(p => (
                     <button key={p} className={`pill ${filters.pacings.includes(p) ? 'active' : ''}`} onClick={() => toggleArrayFilter('pacings', p)}>
-                      {p}
+                      {t.pacings[p]}
                     </button>
                   ))}
                 </div>
               </div>
 
               <div className="filter-row multi-row">
-                <MultiSelect label="Műfajok" options={allGenres} selected={filters.genres} onChange={(arr) => setFilters({...filters, genres: arr})} />
-                <MultiSelect label="Specifikus Tagek" options={allTags} selected={filters.tags} onChange={(arr) => setFilters({...filters, tags: arr})} />
+                <MultiSelect label={t.genres} options={allGenres} selected={filters.genres} onChange={(arr) => setFilters({...filters, genres: arr})} />
+                <MultiSelect label={t.tags} options={allTags} selected={filters.tags} onChange={(arr) => setFilters({...filters, tags: arr})} />
                 
                 <div className="logic-switch">
-                  <span className="filter-label">Kapcsolat</span>
+                  <span className="filter-label">{t.logic}</span>
                   <div className="pills-container">
-                    <button className={`pill ${filters.tagLogic === 'OR' ? 'active' : ''}`} onClick={() => setFilters({...filters, tagLogic: 'OR'})}>VAGY</button>
-                    <button className={`pill ${filters.tagLogic === 'AND' ? 'active' : ''}`} onClick={() => setFilters({...filters, tagLogic: 'AND'})}>ÉS</button>
+                    <button className={`pill ${filters.tagLogic === 'OR' ? 'active' : ''}`} onClick={() => setFilters({...filters, tagLogic: 'OR'})}>OR</button>
+                    <button className={`pill ${filters.tagLogic === 'AND' ? 'active' : ''}`} onClick={() => setFilters({...filters, tagLogic: 'AND'})}>AND</button>
                   </div>
                 </div>
               </div>
 
-              {/* ÚJ: Rendezés */}
               <div className="filter-group">
-                <span className="filter-label">Rendezés</span>
+                <span className="filter-label">{t.sortBy}</span>
                 <select className="sort-dropdown" value={sortBy} onChange={(e) => setSortBy(e.target.value)}>
-                  <option value="popularity">Népszerűség</option>
-                  <option value="az">Cím (A-Z)</option>
-                  <option value="za">Cím (Z-A)</option>
-                  <option value="date_desc">Megjelenés (Újabbak előbb)</option>
-                  <option value="date_asc">Megjelenés (Régebbiek előbb)</option>
+                  <option value="popularity">{t.popularity}</option>
+                  <option value="az">{t.az}</option>
+                  <option value="za">{t.za}</option>
+                  <option value="date_desc">{t.dateDesc}</option>
+                  <option value="date_asc">{t.dateAsc}</option>
                 </select>
               </div>
             </div>
@@ -286,31 +313,31 @@ export default function App() {
             {recommendations.length > 0 && (
               <div className="recommendations-section glass-card">
                 <div className="section-header">
-                  <h2>✨ Ajánlott művek</h2>
-                  <button className="clear-btn" onClick={() => setRecommendations([])}>Törlés ✖</button>
+                  <h2>{t.recommended}</h2>
+                  <button className="clear-btn" onClick={() => setRecommendations([])}>{t.clear}</button>
                 </div>
                 <div className="grid">
                   {recommendations.map(item => (
-                    <MediaCard key={item.id} item={item} title={getTitle(item)} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
+                    <MediaCard key={item.id} t={t} item={item} title={getTitle(item)} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
                   ))}
                 </div>
               </div>
             )}
 
             <div className="results-header">
-              <h2>Találatok <span className="result-count">({filteredMedia.length})</span></h2>
+              <h2>{t.results} <span className="result-count">({filteredMedia.length})</span></h2>
             </div>
             
             <div className="grid">
               {displayedMedia.map(item => (
-                <MediaCard key={item.id} item={item} title={getTitle(item)} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
+                <MediaCard key={item.id} t={t} item={item} title={getTitle(item)} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
               ))}
             </div>
             
             {visibleCount < filteredMedia.length && (
               <div className="load-more-container">
                 <button className="load-more-btn" onClick={() => setVisibleCount(prev => prev + 50)}>
-                  Továbbiak betöltése ({filteredMedia.length - visibleCount} elem rejtve)
+                  {t.loadMore(filteredMedia.length - visibleCount)}
                 </button>
               </div>
             )}
@@ -320,19 +347,19 @@ export default function App() {
         {view === 'library' && (
           <>
             <div className="library-header">
-              <h2>Saját Könyvtár</h2>
-              {library.length > 0 && <button className="btn-recommend-large" onClick={handleLibraryRecommend}>💡 Ajánlj a könyvtáram alapján!</button>}
+              <h2>{t.myLibrary}</h2>
+              {library.length > 0 && <button className="btn-recommend-large" onClick={handleLibraryRecommend}>{t.libRecBtn}</button>}
             </div>
             
             {recommendations.length > 0 && (
               <div className="recommendations-section glass-card">
                 <div className="section-header">
-                  <h2>✨ Könyvtár alapján ajánlott</h2>
-                  <button className="clear-btn" onClick={() => setRecommendations([])}>Törlés ✖</button>
+                  <h2>{t.libRecHeader}</h2>
+                  <button className="clear-btn" onClick={() => setRecommendations([])}>{t.clear}</button>
                 </div>
                 <div className="grid">
                   {recommendations.map(item => (
-                    <MediaCard key={item.id} item={item} title={getTitle(item)} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
+                    <MediaCard key={item.id} t={t} item={item} title={getTitle(item)} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
                   ))}
                 </div>
               </div>
@@ -340,16 +367,16 @@ export default function App() {
 
             {library.length === 0 ? (
               <div className="empty-state glass-card">
-                <p>A könyvtárad még üres. Kattints egy kártyára, majd a "Könyvtárba" gombra a hozzáadáshoz!</p>
+                <p>{t.emptyLib}</p>
               </div>
             ) : (
               <div className="grid">
                 {allMedia.filter(m => library.includes(m.id)).map(item => (
                   <div key={item.id} className="card lib-card">
-                    {item.image ? <img src={item.image} alt={getTitle(item)} className="card-img" /> : <div className="no-img">Nincs kép</div>}
+                    {item.image ? <img src={item.image} alt={getTitle(item)} className="card-img" /> : <div className="no-img">{t.noImg}</div>}
                     <div className="card-content">
                       <h3>{getTitle(item)}</h3>
-                      <button className="btn-remove" onClick={() => removeFromLibrary(item.id)}>Eltávolít</button>
+                      <button className="btn-remove" onClick={() => removeFromLibrary(item.id)}>{t.remove}</button>
                     </div>
                   </div>
                 ))}
@@ -365,26 +392,26 @@ export default function App() {
             <button className="modal-close" onClick={() => setModalItem(null)}>✖</button>
             <div className="modal-body">
               <div className="modal-img-wrap">
-                {modalItem.image ? <img src={modalItem.image} alt={getTitle(modalItem)} className="modal-img" /> : <div className="no-img">Nincs kép</div>}
+                {modalItem.image ? <img src={modalItem.image} alt={getTitle(modalItem)} className="modal-img" /> : <div className="no-img">{t.noImg}</div>}
               </div>
               <div className="modal-info">
                 <h2>{getTitle(modalItem)}</h2>
                 <div className="modal-meta">
-                  <span className="meta-badge">{modalItem.type}</span>
-                  <span className="meta-badge">{extData[modalItem.id]?.pacing} tempó</span>
+                  <span className="meta-badge">{t.types[modalItem.type]}</span>
+                  <span className="meta-badge">{t.pacings[extData[modalItem.id]?.pacing]} {t.pacingWord}</span>
                   {modalItem.author && <span className="meta-badge">{modalItem.author}</span>}
                   {modalItem.date && <span className="meta-badge">{modalItem.date}</span>}
                 </div>
-                <p className="modal-desc">{modalItem.description || 'Nincs elérhető leírás.'}</p>
+                <p className="modal-desc">{modalItem.description || t.noDesc}</p>
                 <div className="tag-container">
                   {extData[modalItem.id]?.tags.map((tag, i) => <span key={i} className="tag">{tag}</span>)}
                 </div>
                 <div className="modal-actions">
-                  <button className="btn-recommend" onClick={() => handleRecommend(modalItem)}>✨ Hasonlót kérek!</button>
+                  <button className="btn-recommend" onClick={() => handleRecommend(modalItem)}>{t.findSimilar}</button>
                   {!library.includes(modalItem.id) ? (
-                    <button className="btn-add" onClick={() => { addToLibrary(modalItem.id); setModalItem(null) }}>+ Könyvtárba</button>
+                    <button className="btn-add" onClick={() => { addToLibrary(modalItem.id); setModalItem(null) }}>{t.addToLib}</button>
                   ) : (
-                    <button className="btn-remove" onClick={() => { removeFromLibrary(modalItem.id); setModalItem(null) }}>- Eltávolít</button>
+                    <button className="btn-remove" onClick={() => { removeFromLibrary(modalItem.id); setModalItem(null) }}>{t.removeFromLib}</button>
                   )}
                 </div>
               </div>
@@ -396,20 +423,20 @@ export default function App() {
   )
 }
 
-function MediaCard({ item, title, ext, onOpen, onAdd, isLib }) {
+function MediaCard({ t, item, title, ext, onOpen, onAdd, isLib }) {
   return (
     <div className="card" onClick={() => onOpen(item)}>
-      {item.image ? <img src={item.image} alt={title} className="card-img" /> : <div className="no-img">Nincs kép</div>}
+      {item.image ? <img src={item.image} alt={title} className="card-img" /> : <div className="no-img">{t.noImg}</div>}
       <div className="card-content">
         <h3>{title}</h3>
         <div className="card-meta">
-          <span>{item.type}</span> • <span>{ext?.pacing || '?'}</span>
+          <span>{t.types[item.type]}</span> • <span>{ext?.pacing ? t.pacings[ext.pacing] : '?'}</span>
         </div>
         <div className="tag-container">
           {ext?.tags.slice(0, 2).map((tag, i) => <span key={i} className="tag">{tag}</span>)}
         </div>
         <button className="btn-add" onClick={(e) => { e.stopPropagation(); onAdd(item.id) }} disabled={isLib}>
-          {isLib ? '✔ Mentve' : '+ Könyvtár'}
+          {isLib ? t.saved : t.addToLib}
         </button>
       </div>
     </div>
