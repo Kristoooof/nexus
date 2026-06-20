@@ -45,10 +45,13 @@ export default function App() {
   const [loading, setLoading] = useState(true)
   
   const [view, setView] = useState('browse')
+  const [lang, setLang] = useState('hu') // 'hu' vagy 'en'
+  const [sortBy, setSortBy] = useState('popularity') // Új: Rendezés
+  
   const [library, setLibrary] = useState(() => JSON.parse(localStorage.getItem('mediaLibrary') || '[]'))
   const [modalItem, setModalItem] = useState(null)
   const [recommendations, setRecommendations] = useState([])
-  const [visibleCount, setVisibleCount] = useState(50) // ÚJ: Betöltött elemek száma
+  const [visibleCount, setVisibleCount] = useState(50)
 
   const [filters, setFilters] = useState({
     types: [],
@@ -93,10 +96,15 @@ export default function App() {
     localStorage.setItem('mediaLibrary', JSON.stringify(library))
   }, [library])
 
-  // ÚJ: Ha megváltoznak a szűrők, visszaállítjuk a látható elemek számát 50-re
   useEffect(() => {
     setVisibleCount(50)
-  }, [filters])
+  }, [filters, lang, sortBy])
+
+  const getTitle = (item) => {
+    if (!item) return '';
+    if (lang === 'en') return item.title_en || item.title_hu || item.title || 'Nincs cím'
+    return item.title_hu || item.title_en || item.title || 'Nincs cím'
+  }
 
   const allGenres = useMemo(() => {
     let set = new Set()
@@ -157,12 +165,14 @@ export default function App() {
     setLibrary(library.filter(libId => libId !== id))
   }
 
-  // Szűrt lista (itt nincs slice, mindent megkap)
+  // Szűrés és Rendezés
   const filteredMedia = useMemo(() => {
-    return allMedia.filter(item => {
+    let result = allMedia.filter(item => {
       const ext = extData[item.id] || { tags: [], pacing: 'Ismeretlen' }
       
-      if (filters.search && !item.title.toLowerCase().includes(filters.search.toLowerCase())) return false
+      const currentTitle = getTitle(item).toLowerCase()
+      if (filters.search && !currentTitle.includes(filters.search.toLowerCase())) return false
+      
       if (filters.types.length > 0) {
         if (!item.type || !filters.types.includes(item.type)) return false
       }
@@ -182,9 +192,20 @@ export default function App() {
       }
       return true
     })
-  }, [allMedia, extData, filters])
 
-  // ÚJ: Csak a látható mennyiséget szeleteljük ki
+    // Rendezés
+    result.sort((a, b) => {
+      if (sortBy === 'az') return getTitle(a).localeCompare(getTitle(b))
+      if (sortBy === 'za') return getTitle(b).localeCompare(getTitle(a))
+      if (sortBy === 'date_desc') return (b.date || '').localeCompare(a.date || '')
+      if (sortBy === 'date_asc') return (a.date || '').localeCompare(b.date || '')
+      // default: popularity (score)
+      return (b.score || 0) - (a.score || 0)
+    })
+
+    return result
+  }, [allMedia, extData, filters, lang, sortBy])
+
   const displayedMedia = filteredMedia.slice(0, visibleCount)
 
   if (loading) return <div className="container loading-screen"><h2>Adatok betöltése...</h2></div>
@@ -194,10 +215,15 @@ export default function App() {
       <header className="main-header">
         <div className="container header-inner">
           <h1>Média<span>Bázis</span></h1>
-          <nav className="main-nav">
-            <button onClick={() => setView('browse')} className={view === 'browse' ? 'active' : ''}>Böngészés</button>
-            <button onClick={() => setView('library')} className={view === 'library' ? 'active' : ''}>Könyvtár ({library.length})</button>
-          </nav>
+          <div className="header-controls">
+            <button className="lang-btn" onClick={() => setLang(lang === 'hu' ? 'en' : 'hu')}>
+              {lang === 'hu' ? 'HU' : 'EN'}
+            </button>
+            <nav className="main-nav">
+              <button onClick={() => setView('browse')} className={view === 'browse' ? 'active' : ''}>Böngészés</button>
+              <button onClick={() => setView('library')} className={view === 'library' ? 'active' : ''}>Könyvtár ({library.length})</button>
+            </nav>
+          </div>
         </div>
       </header>
 
@@ -243,6 +269,18 @@ export default function App() {
                   </div>
                 </div>
               </div>
+
+              {/* ÚJ: Rendezés */}
+              <div className="filter-group">
+                <span className="filter-label">Rendezés</span>
+                <select className="sort-dropdown" value={sortBy} onChange={(e) => setSortBy(e.target.value)}>
+                  <option value="popularity">Népszerűség</option>
+                  <option value="az">Cím (A-Z)</option>
+                  <option value="za">Cím (Z-A)</option>
+                  <option value="date_desc">Megjelenés (Újabbak előbb)</option>
+                  <option value="date_asc">Megjelenés (Régebbiek előbb)</option>
+                </select>
+              </div>
             </div>
 
             {recommendations.length > 0 && (
@@ -253,7 +291,7 @@ export default function App() {
                 </div>
                 <div className="grid">
                   {recommendations.map(item => (
-                    <MediaCard key={item.id} item={item} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
+                    <MediaCard key={item.id} item={item} title={getTitle(item)} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
                   ))}
                 </div>
               </div>
@@ -265,11 +303,10 @@ export default function App() {
             
             <div className="grid">
               {displayedMedia.map(item => (
-                <MediaCard key={item.id} item={item} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
+                <MediaCard key={item.id} item={item} title={getTitle(item)} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
               ))}
             </div>
             
-            {/* ÚJ: Load More gomb */}
             {visibleCount < filteredMedia.length && (
               <div className="load-more-container">
                 <button className="load-more-btn" onClick={() => setVisibleCount(prev => prev + 50)}>
@@ -295,7 +332,7 @@ export default function App() {
                 </div>
                 <div className="grid">
                   {recommendations.map(item => (
-                    <MediaCard key={item.id} item={item} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
+                    <MediaCard key={item.id} item={item} title={getTitle(item)} ext={extData[item.id]} onOpen={setModalItem} onAdd={addToLibrary} isLib={library.includes(item.id)} />
                   ))}
                 </div>
               </div>
@@ -309,9 +346,9 @@ export default function App() {
               <div className="grid">
                 {allMedia.filter(m => library.includes(m.id)).map(item => (
                   <div key={item.id} className="card lib-card">
-                    {item.image ? <img src={item.image} alt={item.title} className="card-img" /> : <div className="no-img">Nincs kép</div>}
+                    {item.image ? <img src={item.image} alt={getTitle(item)} className="card-img" /> : <div className="no-img">Nincs kép</div>}
                     <div className="card-content">
-                      <h3>{item.title}</h3>
+                      <h3>{getTitle(item)}</h3>
                       <button className="btn-remove" onClick={() => removeFromLibrary(item.id)}>Eltávolít</button>
                     </div>
                   </div>
@@ -328,14 +365,15 @@ export default function App() {
             <button className="modal-close" onClick={() => setModalItem(null)}>✖</button>
             <div className="modal-body">
               <div className="modal-img-wrap">
-                {modalItem.image ? <img src={modalItem.image} alt={modalItem.title} className="modal-img" /> : <div className="no-img">Nincs kép</div>}
+                {modalItem.image ? <img src={modalItem.image} alt={getTitle(modalItem)} className="modal-img" /> : <div className="no-img">Nincs kép</div>}
               </div>
               <div className="modal-info">
-                <h2>{modalItem.title}</h2>
+                <h2>{getTitle(modalItem)}</h2>
                 <div className="modal-meta">
                   <span className="meta-badge">{modalItem.type}</span>
                   <span className="meta-badge">{extData[modalItem.id]?.pacing} tempó</span>
                   {modalItem.author && <span className="meta-badge">{modalItem.author}</span>}
+                  {modalItem.date && <span className="meta-badge">{modalItem.date}</span>}
                 </div>
                 <p className="modal-desc">{modalItem.description || 'Nincs elérhető leírás.'}</p>
                 <div className="tag-container">
@@ -358,12 +396,12 @@ export default function App() {
   )
 }
 
-function MediaCard({ item, ext, onOpen, onAdd, isLib }) {
+function MediaCard({ item, title, ext, onOpen, onAdd, isLib }) {
   return (
     <div className="card" onClick={() => onOpen(item)}>
-      {item.image ? <img src={item.image} alt={item.title} className="card-img" /> : <div className="no-img">Nincs kép</div>}
+      {item.image ? <img src={item.image} alt={title} className="card-img" /> : <div className="no-img">Nincs kép</div>}
       <div className="card-content">
-        <h3>{item.title}</h3>
+        <h3>{title}</h3>
         <div className="card-meta">
           <span>{item.type}</span> • <span>{ext?.pacing || '?'}</span>
         </div>
