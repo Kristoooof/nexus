@@ -66,11 +66,9 @@ def get_tmdb_movies():
     
     movies = []
     try:
-        # Biztonságosabb oldalszám (1-300) és újrapróbálkozás
         page = random.randint(1, 300)
         print(f"TMDB oldal: {page}")
         
-        # Próbálkozunk legfeljebb 3-szor, ha 500-as hiba van
         for attempt in range(3):
             try:
                 resp_hu = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=hu-HU&page={page}")
@@ -80,14 +78,14 @@ def get_tmdb_movies():
                 resp_en = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=en-US&page={page}")
                 resp_en.raise_for_status()
                 data_en = resp_en.json()
-                break # Ha sikeres, kilépünk a próbálkozásból
+                break
             except requests.exceptions.HTTPError as e:
                 if e.response.status_code >= 500 and attempt < 2:
                     print(f"TMDB szerver hiba, újrapróbálkozás ({attempt+1}/3)...")
-                    page = random.randint(1, 100) # Próbáljunk egy biztosan alacsony oldalt
+                    page = random.randint(1, 100)
                     time.sleep(2)
                 else:
-                    raise e # Ha más hiba, vagy elfogyott a próbálkozás, dobja a hibát
+                    raise e
         
         for m_hu, m_en in zip(data_hu.get('results', []), data_en.get('results', [])):
             if m_hu.get('adult', False): continue
@@ -206,7 +204,18 @@ def get_anilist_media(media_type="ANIME", country_code=None):
             return []
             
         for m in data.get('data', {}).get('Page', {}).get('media', []):
+            # 1. Szigorú 18+ jelenet kizárás
             if m.get('isAdult'): continue
+            
+            genres = m.get('genres', [])
+            tags = [t['name'] for t in m.get('tags', [])[:10]]
+            
+            # 2. SZIGORÚ Erotikus műfajok és tagek kizárása (Ecchi, Smut, Erotica, Hentai)
+            erotic_genres = ['Ecchi', 'Smut', 'Erotica', 'Hentai']
+            explicit_tags = ['Sexual Violence', 'Rape', 'Incest', 'Prostitution']
+            
+            if any(g in erotic_genres for g in genres) or any(t in explicit_tags for t in tags):
+                continue # Kihagyjuk a mentést! A sima Romance maradhat.
             
             start_date = m.get('startDate', {})
             year = start_date.get('year')
@@ -214,15 +223,15 @@ def get_anilist_media(media_type="ANIME", country_code=None):
             day = start_date.get('day')
             date_str = f"{year}-{month or 1:02d}-{day or 1:02d}" if year else ""
             
-            genres = m.get('genres', [])
-            tags = [t['name'] for t in m.get('tags', [])[:10]]
-            
+            # 3. Korhatár és NSFW borító logika (A maradék művekre)
             age_rating = "12+"
             cover_nsfw = False
-            if any(g in ['Ecchi', 'Smut', 'Horror'] for g in genres) or any(t in ['Nudity', 'Sexual Violence', 'Gore'] for t in tags):
+            
+            # Ha van benne porkrámpa vagy erős utalás (de nem erotikus műfajú)
+            if any(g in ['Horror'] for g in genres) or any(t in ['Gore', 'Bloodshed', 'Nudity'] for t in tags):
                 age_rating = "16+"
-            if any(g in ['Ecchi', 'Smut'] for g in genres) or any(t in ['Nudity'] for t in tags):
-                cover_nsfw = True
+            if any(t in ['Nudity'] for t in tags):
+                cover_nsfw = True # A borító kényes lehet, elfedjük
                 
             items.append({
                 "id": f"anilist_{m['id']}",
