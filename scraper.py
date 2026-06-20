@@ -76,16 +76,25 @@ def get_tmdb_movies():
         data_en = resp_en.json()
         
         for m_hu, m_en in zip(data_hu.get('results', []), data_en.get('results', [])):
+            if m_hu.get('adult', False): continue # 18+ jelenetek kihagyása
+            
+            genres_list = [genre_map.get(gid, '') for gid in m_hu.get('genre_ids', [])]
+            age_rating = "12+"
+            if any(g in ['Horror', 'Thriller'] for g in genres_list):
+                age_rating = "16+"
+                
             movies.append({
                 "id": f"tmdb_{m_hu['id']}",
                 "title_hu": m_hu.get('title', ''),
                 "title_en": m_en.get('title', '') or m_en.get('original_title', ''),
                 "type": "film",
-                "genres": [genre_map.get(gid, str(gid)) for gid in m_hu.get('genre_ids', [])],
+                "genres": genres_list,
                 "description": m_hu.get('overview', '') or m_en.get('overview', ''),
                 "image": f"https://image.tmdb.org/t/p/w500{m_hu.get('poster_path')}" if m_hu.get('poster_path') else "",
                 "date": m_hu.get('release_date', ''),
-                "score": m_hu.get('vote_average', 0)
+                "score": m_hu.get('vote_average', 0),
+                "age_rating": age_rating,
+                "cover_nsfw": False
             })
         time.sleep(0.5)
     except Exception as e:
@@ -100,7 +109,7 @@ def get_igdb_games():
         token_resp = requests.post(f"https://id.twitch.tv/oauth2/token?client_id={IGDB_CLIENT_ID}&client_secret={IGDB_CLIENT_SECRET}&grant_type=client_credentials").json()
         headers = {'Client-ID': IGDB_CLIENT_ID, 'Authorization': f"Bearer {token_resp['access_token']}"}
         offset = random.randint(0, 500)
-        body = f"fields name,genres.name,summary,rating,cover.image_id,first_release_date; sort rating desc; limit 50; offset {offset};"
+        body = f"fields name,genres.name,summary,rating,cover.image_id,first_release_date,age_ratings.rating; sort rating desc; limit 50; offset {offset};"
         resp = requests.post('https://api.igdb.com/v4/games', headers=headers, data=body)
         resp.raise_for_status()
         
@@ -108,16 +117,22 @@ def get_igdb_games():
             date_str = ""
             if g.get('first_release_date'):
                 date_str = datetime.datetime.fromtimestamp(g['first_release_date']).strftime('%Y-%m-%d')
+                
+            genres_list = [genre['name'] for genre in g.get('genres', [])]
+            age_rating = "16+" if any(x in genres_list for x in ['Shooter', 'Fighting']) else "12+"
+            
             games.append({
                 "id": f"igdb_{g.get('id')}",
                 "title_en": g.get('name', ''),
                 "title_hu": "",
                 "type": "jatek",
-                "genres": [genre['name'] for genre in g.get('genres', [])],
+                "genres": genres_list,
                 "description": g.get('summary', ''),
                 "image": f"https://images.igdb.com/igdb/image/upload/t_cover_big/{g['cover']['image_id']}.jpg" if g.get('cover') and g['cover'].get('image_id') else "",
                 "date": date_str,
-                "score": g.get('rating', 0)
+                "score": g.get('rating', 0),
+                "age_rating": age_rating,
+                "cover_nsfw": False
             })
     except Exception as e:
         print(f"HIBA IGDB-nél: {e}")
@@ -142,7 +157,9 @@ def get_openlibrary_books():
                 "author": b.get('authors', [{}])[0].get('name', '') if b.get('authors') else '',
                 "image": f"https://covers.openlibrary.org/b/id/{b.get('cover_id')}-M.jpg" if b.get('cover_id') else "",
                 "date": str(b.get('first_publish_year', '')),
-                "score": 0
+                "score": 0,
+                "age_rating": "Unknown",
+                "cover_nsfw": False
             })
     except Exception as e:
         print(f"HIBA OpenLibrary-nél: {e}")
@@ -157,7 +174,7 @@ def get_anilist_media(media_type="ANIME", country_code=None):
     query ($page: Int, $perPage: Int, $type: MediaType, $country: CountryCode) {
       Page (page: $page, perPage: $perPage) {
         media (type: $type, countryOfOrigin: $country, sort: POPULARITY_DESC) {
-          id title { romaji english } genres tags { name } coverImage { large } description startDate { year month day } averageScore
+          id title { romaji english } genres isAdult tags { name } coverImage { large } description startDate { year month day } averageScore
         }
       }
     }'''
@@ -175,27 +192,38 @@ def get_anilist_media(media_type="ANIME", country_code=None):
             return []
             
         for m in data.get('data', {}).get('Page', {}).get('media', []):
+            if m.get('isAdult'): continue # 18+ jelenetek kihagyása
+            
             start_date = m.get('startDate', {})
             year = start_date.get('year')
             month = start_date.get('month')
             day = start_date.get('day')
+            date_str = f"{year}-{month or 1:02d}-{day or 1:02d}" if year else ""
             
-            # JAVÍTOTT dátum formázás (csak ha létezik a year)
-            date_str = ""
-            if year:
-                date_str = f"{year}-{month or 1:02d}-{day or 1:02d}"
+            genres = m.get('genres', [])
+            tags = [t['name'] for t in m.get('tags', [])[:10]]
+            
+            # Korhatár és NSFW borító logika
+            age_rating = "12+"
+            cover_nsfw = False
+            if any(g in ['Ecchi', 'Smut', 'Horror'] for g in genres) or any(t in ['Nudity', 'Sexual Violence', 'Gore'] for t in tags):
+                age_rating = "16+"
+            if any(g in ['Ecchi', 'Smut'] for g in genres) or any(t in ['Nudity'] for t in tags):
+                cover_nsfw = True # A borító kényes lehet
                 
             items.append({
                 "id": f"anilist_{m['id']}",
                 "title_en": m.get('title', {}).get('english') or m.get('title', {}).get('romaji', ''),
                 "title_hu": "", 
                 "type": "anime" if media_type == "ANIME" else "manhwa" if country_code == "KR" else "manga",
-                "genres": m.get('genres', []),
-                "tags": [t['name'] for t in m.get('tags', [])[:10]],
+                "genres": genres,
+                "tags": tags,
                 "description": m.get('description', '').replace('<br>', '') if m.get('description') else '',
                 "image": m.get('coverImage', {}).get('large', ''),
                 "date": date_str,
-                "score": m.get('averageScore', 0)
+                "score": m.get('averageScore', 0),
+                "age_rating": age_rating,
+                "cover_nsfw": cover_nsfw
             })
     except Exception as e:
         print(f"HIBA AniList-nél: {e}")
