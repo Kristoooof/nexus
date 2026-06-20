@@ -20,7 +20,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "History"
+            "Science Fiction"
         ],
         "author": "Mary Shelley",
         "image": "https://covers.openlibrary.org/b/id/12356249-M.jpg",
@@ -755,7 +755,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "History"
+            "Science Fiction"
         ],
         "author": "Lewis Carroll",
         "image": "https://covers.openlibrary.org/b/id/10527843-M.jpg",
@@ -770,7 +770,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "History"
+            "Science Fiction"
         ],
         "author": "L. Frank Baum",
         "image": "https://covers.openlibrary.org/b/id/552443-M.jpg",
@@ -890,7 +890,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "Science Fiction"
         ],
         "author": "Arthur Conan Doyle",
         "image": "https://covers.openlibrary.org/b/id/8231444-M.jpg",
@@ -1040,7 +1040,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "Science Fiction"
         ],
         "author": "George Orwell",
         "image": "https://covers.openlibrary.org/b/id/9267242-M.jpg",
@@ -1250,7 +1250,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "Science Fiction"
         ],
         "author": "Edgar Rice Burroughs",
         "image": "https://covers.openlibrary.org/b/id/207226-M.jpg",
@@ -1340,7 +1340,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "Science Fiction"
         ],
         "author": "Jules Verne",
         "image": "https://covers.openlibrary.org/b/id/6976035-M.jpg",
@@ -1370,7 +1370,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "Science Fiction"
         ],
         "author": "Margaret Cavendish, Duchess of Newcastle",
         "image": "https://covers.openlibrary.org/b/id/103235-M.jpg",
@@ -1385,7 +1385,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Fantasy"
+            "Science Fiction"
         ],
         "author": "William Morris",
         "image": "https://covers.openlibrary.org/b/id/338173-M.jpg",
@@ -1505,7 +1505,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Horror"
+            "Science Fiction"
         ],
         "author": "Bram Stoker",
         "image": "https://covers.openlibrary.org/b/id/12216503-M.jpg",
@@ -1535,7 +1535,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Horror"
+            "Science Fiction"
         ],
         "author": "Bram Stoker",
         "image": "https://covers.openlibrary.org/b/id/2760301-M.jpg",
@@ -1610,7 +1610,7 @@
         "title_hu": "",
         "type": "konyv",
         "genres": [
-            "Horror"
+            "Science Fiction"
         ],
         "author": "Robert Louis Stevenson",
         "image": "https://covers.openlibrary.org/b/id/295773-M.jpg",
@@ -2830,6 +2830,576 @@
         "author": "Charles Dickens",
         "image": "https://covers.openlibrary.org/b/id/1048892-M.jpg",
         "date": "1800",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL52267W",
+        "title_en": "The Time Machine",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "H. G. Wells",
+        "image": "https://covers.openlibrary.org/b/id/9009316-M.jpg",
+        "date": "1895",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL64365W",
+        "title_en": "Brave New World",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Aldous Huxley",
+        "image": "https://covers.openlibrary.org/b/id/8231823-M.jpg",
+        "date": "1932",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL74502W",
+        "title_en": "The Iron Heel",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Jack London",
+        "image": "https://covers.openlibrary.org/b/id/8243314-M.jpg",
+        "date": "1907",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL118388W",
+        "title_en": "Flatland",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Edwin Abbott Abbott",
+        "image": "https://covers.openlibrary.org/b/id/10069547-M.jpg",
+        "date": "1884",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL52266W",
+        "title_en": "The Invisible Man",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "H. G. Wells",
+        "image": "https://covers.openlibrary.org/b/id/6419199-M.jpg",
+        "date": "0",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL15448W",
+        "title_en": "The Princess and Curdie",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "George MacDonald",
+        "image": "https://covers.openlibrary.org/b/id/14357835-M.jpg",
+        "date": "1832",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL52114W",
+        "title_en": "The War of the Worlds",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "H. G. Wells",
+        "image": "https://covers.openlibrary.org/b/id/36314-M.jpg",
+        "date": "0",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL76473W",
+        "title_en": "The Napoleon of Notting Hill",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Gilbert Keith Chesterton",
+        "image": "https://covers.openlibrary.org/b/id/6980094-M.jpg",
+        "date": "1904",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL450124W",
+        "title_en": "The Last Man",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Mary Shelley",
+        "image": "https://covers.openlibrary.org/b/id/882662-M.jpg",
+        "date": "1826",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1418137W",
+        "title_en": "The warlord of Mars #3",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Edgar Rice Burroughs",
+        "image": "https://covers.openlibrary.org/b/id/207141-M.jpg",
+        "date": "1914",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1099280W",
+        "title_en": "Vingt mille lieues sous les mers",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Jules Verne",
+        "image": "https://covers.openlibrary.org/b/id/6573517-M.jpg",
+        "date": "1870",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL262596W",
+        "title_en": "The Poison Belt",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Arthur Conan Doyle",
+        "image": "https://covers.openlibrary.org/b/id/5788361-M.jpg",
+        "date": "1913",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1417942W",
+        "title_en": "The Gods of Mars",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Edgar Rice Burroughs",
+        "image": "https://covers.openlibrary.org/b/id/207132-M.jpg",
+        "date": "1918",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1418244W",
+        "title_en": "The Chessmen of Mars",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Edgar Rice Burroughs",
+        "image": "https://covers.openlibrary.org/b/id/1930755-M.jpg",
+        "date": "1922",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL88800W",
+        "title_en": "The Machine Stops",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "E. M. Forster",
+        "image": "https://covers.openlibrary.org/b/id/7793883-M.jpg",
+        "date": "1909",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL381550W",
+        "title_en": "The Island of Dr. Moreau",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "H. G. Wells",
+        "image": "https://covers.openlibrary.org/b/id/968312-M.jpg",
+        "date": "1896",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL5960415W",
+        "title_en": "Gullivar of Mars",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Edwin Lester Linden Arnold",
+        "image": "https://covers.openlibrary.org/b/id/573770-M.jpg",
+        "date": "1964",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1176822W",
+        "title_en": "After London",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Richard Jefferies",
+        "image": "https://covers.openlibrary.org/b/id/2841895-M.jpg",
+        "date": "1885",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL61825W",
+        "title_en": "The Coming Race",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Edward Bulwer Lytton, Baron Lytton",
+        "image": "https://covers.openlibrary.org/b/id/2751882-M.jpg",
+        "date": "1871",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL103123W",
+        "title_en": "Fahrenheit 451",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Ray Bradbury",
+        "image": "https://covers.openlibrary.org/b/id/12993656-M.jpg",
+        "date": "1953",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL47752W",
+        "title_en": "The wood beyond the world",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "William Morris",
+        "image": "https://covers.openlibrary.org/b/id/5895767-M.jpg",
+        "date": "1894",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL88599W",
+        "title_en": "The king of the Golden River; or, The black brothers",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "John Ruskin",
+        "image": "https://covers.openlibrary.org/b/id/5884126-M.jpg",
+        "date": "1839",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL4104767W",
+        "title_en": "The Moon Pool",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "A. Merritt",
+        "image": "https://covers.openlibrary.org/b/id/9317374-M.jpg",
+        "date": "1919",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1417907W",
+        "title_en": "At the Earth's Core",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Edgar Rice Burroughs",
+        "image": "https://covers.openlibrary.org/b/id/9317372-M.jpg",
+        "date": "1914",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL52252W",
+        "title_en": "In the days of the comet",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "H. G. Wells",
+        "image": "https://covers.openlibrary.org/b/id/5783892-M.jpg",
+        "date": "1906",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL10215W",
+        "title_en": "Мы",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Евгений Иванович Замятин",
+        "image": "https://covers.openlibrary.org/b/id/5484189-M.jpg",
+        "date": "1924",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1099479W",
+        "title_en": "De la terre à la lune",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Jules Verne",
+        "image": "https://covers.openlibrary.org/b/id/5943556-M.jpg",
+        "date": "1865",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1418128W",
+        "title_en": "Thuvia, Maid of Mars",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Edgar Rice Burroughs",
+        "image": "https://covers.openlibrary.org/b/id/284442-M.jpg",
+        "date": "1916",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1099513W",
+        "title_en": "Voyage au Centre de la Terre",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Jules Verne",
+        "image": "https://covers.openlibrary.org/b/id/5890987-M.jpg",
+        "date": "1867",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL52151W",
+        "title_en": "When the Sleeper Awakes",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "H. G. Wells",
+        "image": "https://covers.openlibrary.org/b/id/574886-M.jpg",
+        "date": "1899",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL52195W",
+        "title_en": "The food of the gods and how it came to earth",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "H. G. Wells",
+        "image": "https://covers.openlibrary.org/b/id/314687-M.jpg",
+        "date": "1900",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1417916W",
+        "title_en": "The Beasts of Tarzan (Classic Ace SF, F-203)",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Edgar Rice Burroughs",
+        "image": "https://covers.openlibrary.org/b/id/2421421-M.jpg",
+        "date": "1914",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL675783W",
+        "title_en": "The Handmaid's Tale",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Margaret Atwood",
+        "image": "https://covers.openlibrary.org/b/id/8231851-M.jpg",
+        "date": "1985",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL51145W",
+        "title_en": "It Can't Happen Here",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Sinclair Lewis",
+        "image": "https://covers.openlibrary.org/b/id/12719018-M.jpg",
+        "date": "1935",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL575625W",
+        "title_en": "R.U.R. and The insect play",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Karel Čapek",
+        "image": "https://covers.openlibrary.org/b/id/4291026-M.jpg",
+        "date": "1920",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL5735363W",
+        "title_en": "The Hunger Games",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Suzanne Collins",
+        "image": "https://covers.openlibrary.org/b/id/12646537-M.jpg",
+        "date": "2008",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1418176W",
+        "title_en": "A Fighting Man Of Mars",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Edgar Rice Burroughs",
+        "image": "https://covers.openlibrary.org/b/id/13898460-M.jpg",
+        "date": "1931",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL103134W",
+        "title_en": "The Martian Chronicles",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Science Fiction"
+        ],
+        "author": "Ray Bradbury",
+        "image": "https://covers.openlibrary.org/b/id/9346537-M.jpg",
+        "date": "1950",
         "score": 0,
         "age_rating": "Unknown",
         "cover_nsfw": false
