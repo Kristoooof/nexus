@@ -286,5 +286,293 @@
         "image": "https://image.tmdb.org/t/p/w500/lb9TwiEuSl5vqFv8W5o0FhXqt3r.jpg",
         "date": "2019-01-11",
         "score": 7.7
+    },
+    {
+        "id": "tmdb_1040148",
+        "title_hu": "Ruby Gillman, tinikráken",
+        "title_en": "Ruby Gillman, Teenage Kraken",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Family",
+            "Fantasy",
+            "Comedy"
+        ],
+        "description": "Ruby Gillman, az édes és esetlen középiskolás diák rájön, hogy a harcos kráken királynők egyenes leszármazottja. A kráken védelmezi a világ óceánjait a hiú, hatalomra éhes sellőktől. Ruby sorsa, hogy örökölje a trónt parancsoló nagyanyjától, és újonnan felfedezett hatalmát használva megvédje azokat, akiket a legjobban szeret.",
+        "image": "https://image.tmdb.org/t/p/w500/txtic9YX90QNLvN3vK2tiPvtVer.jpg",
+        "date": "2023-06-28",
+        "score": 7.157
+    },
+    {
+        "id": "tmdb_17979",
+        "title_hu": "Karácsonyi ének",
+        "title_en": "A Christmas Carol",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "description": "Az 1800-as évek Londonja, karácsony idején. Az ünnep iránt semmilyen kötődést sem érez Ebenezer Scrooge, a kapzsi és szívtelen öregember. Egész életében csak a pénz érdekelte, az érzelmekre, az emberi kapcsolatokra nem pazarolt időt. Ám ez a karácsony más, mint a többi. Scrooge-ot meglátogatja a múlt, a jelen és a jövő karácsony szelleme, akik magukkal viszik egy időutazásra. Szembesítik addigi kiábrándító életével, érzéketlenségével és hamarosan bekövetkező halálával. A fösvény és mogorva vénember kap egy utolsó lehetőséget, hogy átértékelje az életét, és nemcsak a saját, hanem környezete sorsát is megváltoztassa. (port.hu)",
+        "image": "https://image.tmdb.org/t/p/w500/silBqxrWWzqZ1JwGdYliBSYDyLQ.jpg",
+        "date": "2009-11-04",
+        "score": 6.906
+    },
+    {
+        "id": "tmdb_15999",
+        "title_hu": "D a vámpírvadász - Vérszomj",
+        "title_en": "Vampire Hunter D: Bloodlust",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Horror"
+        ],
+        "description": "Meier Link, a vámpír elrabolja Charlotte-ot, a nagyhatalmú, gazdag földesúr ifjú leányát. Az apa felbéri D-t, a titokzatos vámpírvadászt, hogy hozza vissza a lányát- vagy ölje meg, ha már túl késő… Majd közli vele, hogy egy másik, emberekből álló vadászcsapatot is a vámpír után küldött. Kegyetlen verseny indul a vérdíjért és a trófeáért, melyben Charlotte maguknak a halandóknak sem lesz több, mint beszélő kulcs a megígért összeghez: élve, vagy halva.",
+        "image": "https://image.tmdb.org/t/p/w500/jp8k84nl7NQvXCrJdgBeF3mxGSt.jpg",
+        "date": "2001-04-21",
+        "score": 7.695
+    },
+    {
+        "id": "tmdb_277216",
+        "title_hu": "Egyenesen Comptonból",
+        "title_en": "Straight Outta Compton",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Music",
+            "History"
+        ],
+        "description": "Az 1980-as évek közepén a kaliforniai Compton utcái az ország legveszélyesebbjeinek számítottak. Öt fiatal férfi brutálisan őszinte zenébe öntötte élményeit arról, hogy hogyan nőttek fel, hogyan lázadtak a bántalmazó hatóságok ellen: kirobbanó hangot adtak egy elnémított generációnak. Az N.W.A. nevű formáció valósággal forradalmasítja a zenét és a popkultúrát. Azonban amilyen robbanásszerű a felemelkedés, olyan hirtelen jön a bukás is...",
+        "image": "https://image.tmdb.org/t/p/w500/rXxalYuaRtEs4PN5OdJpuNpPA9s.jpg",
+        "date": "2015-08-11",
+        "score": 7.8
+    },
+    {
+        "id": "tmdb_8967",
+        "title_hu": "Az élet fája",
+        "title_en": "The Tree of Life",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "description": "Öccsének korai halálának évfordulóján Jack O'Brien, a modern világ rohanásába belefásult építész visszagondol sorsfordító gyermekkorára, azokra a texasi kisvárosban töltött évekre, mikor elveszítette ártatlanságát, angyali édesanyjához és szigorú édesapjához fűződő kapcsolata pedig örökre megváltozott. Az emlékek felidézése közben talán nem csupán a saját, de az egész emberiség helyét is megtalálja az univerzumban.",
+        "image": "https://image.tmdb.org/t/p/w500/a7swxzX7cuU0lMVociH21FlJ9IY.jpg",
+        "date": "2011-05-17",
+        "score": 6.724
+    },
+    {
+        "id": "tmdb_97630",
+        "title_hu": "Zero Dark Thirty - A Bin Láden hajsza",
+        "title_en": "Zero Dark Thirty",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "description": "Az Oszama bin Laden utáni hajtóvadászat két amerikai elnöki ciklus és az egész világ figyelmét lekötötte több mint egy évtizeden át. Végül azonban egy apró, ám briliáns CIA-ügynökökből álló csoportnak sikerült őt előkerítenie. Küldetésüket természetesen teljes titokban kellett véghezvinniük. S noha az akció számos részlete azóta nyilvánosságra került, a hírszerzési műveletek legfontosabb mozzanatainak többsége - beleértve az említett CIA-csoport központi szerepét - most kerül először a nagyvászonra az Oscar-díjas páros, Kathryn Bigelow és Mark Boal legújabb lebilincselő filmjében.",
+        "image": "https://image.tmdb.org/t/p/w500/8GLhXUAfspBwqlbZFoW9iYqFsrZ.jpg",
+        "date": "2012-12-19",
+        "score": 6.993
+    },
+    {
+        "id": "tmdb_10622",
+        "title_hu": "Jackie, a jó fiú",
+        "title_en": "Mr. Nice Guy",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Action",
+            "Comedy"
+        ],
+        "description": "Jackie Chan televíziós showmant alakít, aki kolléganője megmentésére siet. Dianához olyan videofelvétel kerül, amelyen két egymással harcoló banda összecsapása látható. A bandák nem szeretnék, ha nyilvánosságra kerülne a dolog, ezért a nyár nyomába erednek. Még szerencse, hogy Jackie épp a közelben van, mikor rátámadnak.",
+        "image": "https://image.tmdb.org/t/p/w500/yd92OfrYtBHlwGDRryGu7J6l0QD.jpg",
+        "date": "1997-01-31",
+        "score": 6.5
+    },
+    {
+        "id": "tmdb_9003",
+        "title_hu": "Hellraiser",
+        "title_en": "Hellraiser",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "description": "Frank-nek birtokában van egy rejtélyes puzzle doboz, melyben az érzéki extázist ígérő szellemek lakoznak. Miután a dobozt kinyitja, a férfi szétszaggatott testének véres maradványai borítják a padlót. Egy idő múlva Frank bátyja Larry, annak felesége Julia és lánya Kirsty, Frank régi házába költözik. Larryt költözéskor baleset éri, és vére a padlóra kerül. Ez táptalajként szolgál Frank szellemének. Az élőhalott Frank, hogy új erőre kapjon, ráveszi volt szeretőjét, hogy szerezzen neki férfiakat, és segítsen vérüket ontani. Utolsóként Larryt ölik meg. Közben Kirsty kezébe kerül a sötétség doboza. Kirsty a saját életét csak úgy tudja megmenteni, hogy Frank-et visszaadja a démonoknak...",
+        "image": "https://image.tmdb.org/t/p/w500/x8s5RwL8XxhWapss92whtTASE3d.jpg",
+        "date": "1987-09-11",
+        "score": 6.879
+    },
+    {
+        "id": "tmdb_68",
+        "title_hu": "Brazil",
+        "title_en": "Brazil",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Science Fiction"
+        ],
+        "description": "A kishivatalnok, Sam Lowry egy jövőbeli, mindent ellenőrző információs minisztérium alkalmazottja. Szorgalmas munka helyett arról ábrándozik a számítógépek között, hogy magányos hősként megvédi álmai asszonyát a szörnyektől. A feladata azonban az, hogy felkutassa a kormányzat egyik ellenségét; gépelési hiba folytán egyszer csak egy teljesen más személy kerül a körözöttek listájára, akit a biztonsági erők hamarosan megtalálnak és likvidálnak. Sam túl későn ér a helyszínre, hogy segítsen, azonban a szerencsétlen mentőakció során megismerkedik álmai asszonyával. A nő megváltoztatja az egész életét, és amikor áthelyezik a kínzás és a terror minisztériumába, már kételkedik állami szolgálatának helyességében. Álmai mellett dönt, és ezzel súlyos helyzetbe sodorja magát.",
+        "image": "https://image.tmdb.org/t/p/w500/aewan59WcFThBimkTVVoNf2o5Vb.jpg",
+        "date": "1985-02-20",
+        "score": 7.663
+    },
+    {
+        "id": "tmdb_82633",
+        "title_hu": "Fékezhetetlen",
+        "title_en": "Lawless",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Western"
+        ],
+        "description": "A nagy gazdasági világválság idején járunk. A Bondurant-fivérek, Forrest, Jack és Howard igazi legendának számítanak a Virginia állambeli Franklin megyében, hiszen a szesztilalom idején jól menő csempészüzletet tudhatnak magukénak. A jólét azonban veszélybe kerül, amikor feltűnik a színen Charles Rakes különleges ügynök, a törvény új ura, aki azonban korruptabb mindenkinél, és részesedést követel magának a fivérek üzletéből. Ők azonban nem hajtanak fejet senki előtt, így felveszik a harcot Rakes ellen.",
+        "image": "https://image.tmdb.org/t/p/w500/ezUfmLZVvvHOzMoXxkSrdMW9rM5.jpg",
+        "date": "2012-08-29",
+        "score": 7.068
+    },
+    {
+        "id": "tmdb_1249589",
+        "title_hu": "天才游戏",
+        "title_en": "Game of Identity",
+        "type": "film",
+        "genres": [
+            "Mystery",
+            "Crime"
+        ],
+        "description": "The story tells the story of Liu Quan Long, a lowly born and independent struggling young man who got the opportunity to exchange his life with a boy from another class in a famous university. Unexpectedly, what was waiting for him was a thrilling game.  Liu Quan Long is an impoverished young man who can't afford to go to university but has a great talent. Before meeting Chen Lun, he was an Internet cafe administrator outside the university who would never be noticed.  Chen Lun has a distinguished family and studied at an elite university just across the street from an internet cafe, but he had no intention of going to school. In order to cope with his parents abroad, he offered Liu Quan Long an invitation to the game of \"identity exchange\" and asked Liu Quan Long to replace him.",
+        "image": "https://image.tmdb.org/t/p/w500/9hXg73Gosne5bLHbo23Bh0oGR1R.jpg",
+        "date": "2026-04-04",
+        "score": 4.333
+    },
+    {
+        "id": "tmdb_9298",
+        "title_hu": "Ali G Indahouse",
+        "title_en": "Ali G Indahouse",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "\"Csigidicsá, te, figyuzzá, tesó, szavazzá' má' rám, jó, mer' ha paramentes képvisellő lennék, akkó' csumára nem lenne több anyagi gondod, mer' én a legtutibb anyagot szállítom neked, tesóm, és a lotyódnak is kitömöm a bukszáját, de simán, érted, tesó, mer' tarcsunk össze itt a gettóba', nem, de most mér' csapod rám az ajtód, buzogány csávó? Csak azé' mer' feka vagyok?\" Igen, ő az. Testileg fehér, lelkileg feka, de agyilag sötét. Itt az igazi dzsí, a full extrás műmájer gettócsávó és turbó üzemmódban osztja az észt, hozza a vészt és kéri a részt a raszta-gangszta.",
+        "image": "https://image.tmdb.org/t/p/w500/tDS9u1QD8NThBNWIJP1hZkxfgP2.jpg",
+        "date": "2002-03-21",
+        "score": 6.061
+    },
+    {
+        "id": "tmdb_1305194",
+        "title_hu": "Mi prima la sexóloga 2 (de la fantasía a la realidad)",
+        "title_en": "Mi prima la sexóloga 2 (de la fantasía a la realidad)",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "After six months of dating, Malena and Manuel decide it's time to move to the next level and create a Cousins Club where members will learn about sex.",
+        "image": "https://image.tmdb.org/t/p/w500/7JbIS90ZpwRFphsk8qSzQPe96EO.jpg",
+        "date": "2024-05-15",
+        "score": 7.182
+    },
+    {
+        "id": "tmdb_48340",
+        "title_hu": "Sanctum",
+        "title_en": "Sanctum",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "Egy búvárcsapat különleges expedícióra indul a világ leghatalmasabb, legszebb és legnehezebben megközelíthető víz alatti barlangjába. Ám amikor a tomboló trópusi vihar nyomán lezúduló víztömeg elzárja a kivezető utat, a csoport egyre mélyebbre kényszerül a járatokba. Hamarosan nemcsak a halálosan veszélyes, ismeretlen tereppel, hanem az egyre jobban elharapódzó pánikkal is meg kell küzdeniük, ha meg akarják találni a tengerhez vezető utat és életben akarnak kijutni.",
+        "image": "https://image.tmdb.org/t/p/w500/1VsNbj3yb6NzltHcCUdkUfTTVM2.jpg",
+        "date": "2011-02-03",
+        "score": 6.055
+    },
+    {
+        "id": "tmdb_1278853",
+        "title_hu": "Woodwalkers 2",
+        "title_en": "Woodwalkers 2",
+        "type": "film",
+        "genres": [
+            "Fantasy",
+            "Family",
+            "Adventure"
+        ],
+        "description": "For shapeshifter Carag and his friends Brandon, Holly, and Lou, a new school year begins at Clearwater High. But first, the Woodwalker Council must decide whether Carag's mentor and patron of the school, Andrew Milling, is guilty of attacking humans. Carag is in a dilemma: he wants to put a stop to Milling's actions, but Milling promises to take him to his true puma family if he covers for him before the council.",
+        "image": "https://image.tmdb.org/t/p/w500/6IQy8Q1jQPF93dd7XbzUsS5a3P9.jpg",
+        "date": "2026-01-29",
+        "score": 6.875
+    },
+    {
+        "id": "tmdb_1061990",
+        "title_hu": "City Hunter",
+        "title_en": "City Hunter",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "description": "A magánnyomozóként dolgozó kivételes mesterlövész és reménytelen playboy, Szaeba Rjó kénytelen-kelletlen szövetséget köt elhunyt társa húgával, hogy kinyomozzák, hogyan halt meg.",
+        "image": "https://image.tmdb.org/t/p/w500/mDO22YhjE6USo7Ez8mZBaBMahkJ.jpg",
+        "date": "2024-04-24",
+        "score": 6.5
+    },
+    {
+        "id": "tmdb_546726",
+        "title_hu": "Sub Rosa",
+        "title_en": "Sub Rosa",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Bullied by his father to grow up, a teen fights between the love of his step-mother over his father's life.",
+        "image": "https://image.tmdb.org/t/p/w500/yVwt1gPaQxCUV8iC8i1rca6FSji.jpg",
+        "date": "2014-08-10",
+        "score": 6.0
+    },
+    {
+        "id": "tmdb_2133",
+        "title_hu": "Viharzóna",
+        "title_en": "The Perfect Storm",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Action"
+        ],
+        "description": "Senki sem készülhetett fel ekkora viharra... 1991 őszén az Atlanti-óceán északi részén iszonyú erejű, emlékezetes vihar tombolt napokon át. Az évszázad viharának kiáltották ki a sokat próbált halászok. Billy Tyne kapitány kardhalvadászatra hívja össze legénységét. Tudja, hogy az idő októberben bármikor rosszra fordulhat, de belevág a nagy zsákmány reményében. Öten követik őt: a két hősszerelmes ifjú, Bobby és Bugsy, a nemrégen elvált Murph, Alfred, a hallgatag jamaikai és egy ellenszenves férfi. Az első kudarc után veszélyesebb vizekre merészkedik a kapitány. A sikeres halászat után azonban elromlik a hajó felszerelése. Nehéz döntés előtt állnak: vagy áthajóznak a viharon, vagy várnak és elvesztik a zsákmányt...",
+        "image": "https://image.tmdb.org/t/p/w500/e5A7TwxP0LAs7wksIab5xjQdrym.jpg",
+        "date": "2000-06-29",
+        "score": 6.486
+    },
+    {
+        "id": "tmdb_418577",
+        "title_hu": "齊天大 “性”：大鬧女兒國",
+        "title_en": "Quest of the Sex: Rumble in the Women's Empire",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "West, her students Suen and Chu have to pass through Women’s Empire and visit the King, Kam. Kam’s sister Ann knew if suck the horny water from West could become powerful. Ann told West try to rape her and put them in the jail. Kam offer to set them free, but West have to marry her. West agrees about that, in fact they want to escape in the mess. When they escape, Ann kidnaps West and sucks her horny water. It makes Ann become powerful, West have sex with Suen, Suen become powerful and fight with Ann. Finally, Suen …",
+        "image": "https://image.tmdb.org/t/p/w500/jGLV5BYPYzRdgjxqznVTRowZxPd.jpg",
+        "date": "2003-09-12",
+        "score": 5.5
+    },
+    {
+        "id": "tmdb_8645",
+        "title_hu": "Az esemény",
+        "title_en": "The Happening",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Science Fiction"
+        ],
+        "description": "Az eseménynek nincsenek előjelei, váratlanul éri Amerikát. Néhány pillanat leforgása alatt az emberek magatartásában gyökeres változás áll be. Senki sem tudja, mi okozta ezt, valami újfajta járvány sújtja az emberiséget? A biológiatanár Elliott számára az a legfontosabb, hogy a feleségével együtt biztonságos helyet találjon, ha egyáltalán létezik ilyen. Igaz, a házassága éppen válságban van, ám a feleségével, Almával úgy döntenek, hogy együtt menekülnek. Ennek során csatlakozik hozzájuk Julian, Elliott tanár barátja a kislányával. Együtt próbálják elérni Pennsylvania menedékét.",
+        "image": "https://image.tmdb.org/t/p/w500/kwFhg06ozvLakJwOL8EmHXwbs78.jpg",
+        "date": "2008-06-11",
+        "score": 5.405
     }
 ]
