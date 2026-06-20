@@ -192,3 +192,21 @@ body {
 }
 .sort-dropdown:focus { border-color: var(--primary); }
 .sort-dropdown option { background: var(--surface-color); color: var(--text-main); }
+/* NSFW COVER BLUR */
+.nsfw-cover { position: relative; cursor: pointer; overflow: hidden; }
+.nsfw-cover img.blurred { filter: blur(20px) grayscale(100%); transform: scale(1.1); transition: filter 0.3s; }
+.nsfw-overlay { 
+  position: absolute; top: 0; left: 0; right: 0; bottom: 0; 
+  display: flex; flex-direction: column; justify-content: center; align-items: center; 
+  background: rgba(0,0,0,0.6); color: white; text-align: center; padding: 10px; 
+}
+.nsfw-icon { font-size: 32px; margin-bottom: 8px; }
+.nsfw-text { font-weight: bold; font-size: 14px; color: #ff4a4a; margin-bottom: 4px; }
+.nsfw-click { font-size: 11px; color: #ccc; }
+
+/* MODAL IMG WRAP FIX */
+.modal-img-wrap { flex: 1; min-width: 250px; max-width: 300px; display: flex; justify-content: center; }
+.modal-img-wrap .nsfw-cover { width: 100%; border-radius: 12px; }
+.modal-img-wrap .nsfw-cover img.blurred { width: 100%; height: auto; object-fit: cover; }
+.modal-img-wrap .nsfw-overlay .nsfw-icon { font-size: 48px; }
+.modal-img-wrap .nsfw-overlay .nsfw-text { font-size: 18px; }
