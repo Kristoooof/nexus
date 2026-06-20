@@ -66,17 +66,31 @@ def get_tmdb_movies():
     
     movies = []
     try:
-        page = random.randint(1, 500)
-        resp_hu = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=hu-HU&page={page}")
-        resp_hu.raise_for_status()
-        data_hu = resp_hu.json()
+        # Biztonságosabb oldalszám (1-300) és újrapróbálkozás
+        page = random.randint(1, 300)
+        print(f"TMDB oldal: {page}")
         
-        resp_en = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=en-US&page={page}")
-        resp_en.raise_for_status()
-        data_en = resp_en.json()
+        # Próbálkozunk legfeljebb 3-szor, ha 500-as hiba van
+        for attempt in range(3):
+            try:
+                resp_hu = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=hu-HU&page={page}")
+                resp_hu.raise_for_status()
+                data_hu = resp_hu.json()
+                
+                resp_en = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=en-US&page={page}")
+                resp_en.raise_for_status()
+                data_en = resp_en.json()
+                break # Ha sikeres, kilépünk a próbálkozásból
+            except requests.exceptions.HTTPError as e:
+                if e.response.status_code >= 500 and attempt < 2:
+                    print(f"TMDB szerver hiba, újrapróbálkozás ({attempt+1}/3)...")
+                    page = random.randint(1, 100) # Próbáljunk egy biztosan alacsony oldalt
+                    time.sleep(2)
+                else:
+                    raise e # Ha más hiba, vagy elfogyott a próbálkozás, dobja a hibát
         
         for m_hu, m_en in zip(data_hu.get('results', []), data_en.get('results', [])):
-            if m_hu.get('adult', False): continue # 18+ jelenetek kihagyása
+            if m_hu.get('adult', False): continue
             
             genres_list = [genre_map.get(gid, '') for gid in m_hu.get('genre_ids', [])]
             age_rating = "12+"
@@ -192,7 +206,7 @@ def get_anilist_media(media_type="ANIME", country_code=None):
             return []
             
         for m in data.get('data', {}).get('Page', {}).get('media', []):
-            if m.get('isAdult'): continue # 18+ jelenetek kihagyása
+            if m.get('isAdult'): continue
             
             start_date = m.get('startDate', {})
             year = start_date.get('year')
@@ -203,13 +217,12 @@ def get_anilist_media(media_type="ANIME", country_code=None):
             genres = m.get('genres', [])
             tags = [t['name'] for t in m.get('tags', [])[:10]]
             
-            # Korhatár és NSFW borító logika
             age_rating = "12+"
             cover_nsfw = False
             if any(g in ['Ecchi', 'Smut', 'Horror'] for g in genres) or any(t in ['Nudity', 'Sexual Violence', 'Gore'] for t in tags):
                 age_rating = "16+"
             if any(g in ['Ecchi', 'Smut'] for g in genres) or any(t in ['Nudity'] for t in tags):
-                cover_nsfw = True # A borító kényes lehet
+                cover_nsfw = True
                 
             items.append({
                 "id": f"anilist_{m['id']}",
