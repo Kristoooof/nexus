@@ -2288,5 +2288,334 @@
         "score": 7.837,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_460465",
+        "title_hu": "Mortal Kombat",
+        "title_en": "Mortal Kombat",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Adventure"
+        ],
+        "description": "Van, aki abból él, hogy bírja, ha ütik. Cole Young ilyen. Pénzért bunyózik, és többnyire veszít. Nem tudja, hogy mennyivel többre hivatott, és milyen sok múlik rajta. Pedig csak el kellene gondolkodnia különös, sárkány alakú anyajegyén…",
+        "image": "https://image.tmdb.org/t/p/w500/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg",
+        "date": "2021-04-07",
+        "score": 7.046,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_24428",
+        "title_hu": "Bosszúállók",
+        "title_en": "The Avengers",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Amikor egy váratlan ellenség felbukkanása a globális biztonságot fenyegeti, Nick Fury, a S.H.I.E.L.D. néven ismert nemzetközi békefenntartó ügynökség igazgatója azon kapja magát, hogy szüksége van egy csapatra, amely megakadályozza a katasztrófát. Az egész világon átívelő toborzás veszi kezdetét!",
+        "image": "https://image.tmdb.org/t/p/w500/obxwM7McFADgsGDLiaiKG2NK5PL.jpg",
+        "date": "2012-04-25",
+        "score": 8.046,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1475803",
+        "title_hu": "Governor",
+        "title_en": "Governor",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "description": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
+        "image": "https://image.tmdb.org/t/p/w500/g0GjFVz4u5wDU8d6r7HySuduCZE.jpg",
+        "date": "2026-06-12",
+        "score": 6.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_4258",
+        "title_hu": "Horrorra akadva 5.",
+        "title_en": "Scary Movie 5",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "A boldog házaspár, Dan és Jody furcsa és ijesztő természetfeletti aktivitást tapasztalnak a házukban, a jelenések pedig pontosan akkor kezdődtek, amikor hazavitték újszülött kisbabájukat, Aident a kórházból. Amikor azonban a borzasztó események kihatnak a házaspár munkahelyeire is, a szerelmeseknek rá kell döbbenniük, egy irtózatos démon ólálkodik a család körül. Eldöntik, hogy nem hagyják magukat, ezért különböző szakértők segítségével és házuk teljes bekamerázásával próbálnak utánajárni a kísértethistóriának. A fenyegetés egyre nagyobb, ezért gyorsan meg kell szabadulniuk a démontól, mielőtt túl késő lenne!",
+        "image": "https://image.tmdb.org/t/p/w500/nNaDQkpci3f0ETpSF062FGGNWQL.jpg",
+        "date": "2013-04-11",
+        "score": 4.795,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1171145",
+        "title_hu": "A bűn útja",
+        "title_en": "Crime 101",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "description": "A bűn útja egy ékszertolvaj (Chris Hemsworth) története, akinek aprólékosan megtervezett rablásai a napos Los Angelesben, a 101-es autópálya mentén, fejtörést okoznak a rendőrséget. Egy magányos nyomozó (Mark Ruffalo) a nyomába ered. Amikor útjaik keresztezik egy kiábrándult biztosítási ügynökét (Halle Berry), sorsdöntő döntéseket kell hozniuk egy halálos végjátékban, ahol milliók forognak kockán.",
+        "image": "https://image.tmdb.org/t/p/w500/7ryVqPv2hKHgSWJPsMLnZlynHij.jpg",
+        "date": "2026-02-11",
+        "score": 7.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1265609",
+        "title_hu": "Ismeretlen támadók",
+        "title_en": "War Machine",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "description": "Az elit kiképzés utolsó, embert próbáló bevetésén egy katona egy óriási, földöntúli pusztítógép ellen vezeti egységét.",
+        "image": "https://image.tmdb.org/t/p/w500/rV8KlXpQi0LruJglMcigiOu7Kqi.jpg",
+        "date": "2026-02-12",
+        "score": 7.4,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_155",
+        "title_hu": "A Sötét lovag",
+        "title_en": "The Dark Knight",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "description": "Batman valamint két társa, egy rendőr és egy ügyész mindent elkövet, hogy megtisztítsa Gotham City utcáit a banditáktól. Már kezdik azt hinni, önként vállalt feladatukat siker koronázhatja, amikor megjelenik a bűnözők között valaki, aki minden elődjénél ravaszabb és veszélyesebb. Úgy hívják: Joker. A városban ettől kezdve a félelem az úr: elszabadul a korlátlan, értelmetlen, kivédhetetlennek tűnő gonoszság.",
+        "image": "https://image.tmdb.org/t/p/w500/uOIdtyKs6Jk0kSnMRQsWpxBnGcC.jpg",
+        "date": "2008-07-16",
+        "score": 8.531,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1325734",
+        "title_hu": "Kész dráma",
+        "title_en": "The Drama",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Comedy",
+            "Drama"
+        ],
+        "description": "A film középpontjában egy pár áll, akik az esküvőjüket megelőző napokban válságba kerülnek, amikor váratlan felfedezések kisiklatják azt, amit egyikük a másikról tudni vélt. A történet a szerelem vakságával foglalkozik.  (Szarka Károly)",
+        "image": "https://image.tmdb.org/t/p/w500/bzG1da6xgTe4ItXR4EHIrIsRUOn.jpg",
+        "date": "2026-04-01",
+        "score": 6.963,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_47612",
+        "title_hu": "Au Bonheur des Dames",
+        "title_en": "Au Bonheur des Dames",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Denise, an orphaned girl, moves to Paris where she hopes to find work at her uncle's store. But the glamorous department store 'Aux Bonheur des Dames' across the street crushes all the little businesses around. She finds a position there.",
+        "image": "https://image.tmdb.org/t/p/w500/lcshMRxDFWDtT2W9ImBeyuYnbg4.jpg",
+        "date": "1930-07-03",
+        "score": 6.426,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1220522",
+        "title_hu": "డెకాయిట్",
+        "title_en": "Dacoit",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Romance",
+            "Thriller"
+        ],
+        "description": "Betrayed by his better half, a man is convicted for a crime he didn't commit. Once free, he hunts her down in pursuit of vengeance, as their stories intertwine with a series of robberies.",
+        "image": "https://image.tmdb.org/t/p/w500/yUn0et9QaiHXME4awdwxeEsuslc.jpg",
+        "date": "2026-04-10",
+        "score": 6.6,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_949536",
+        "title_hu": "Kill Code",
+        "title_en": "Kill Code",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ],
+        "description": "North America has been divided into four main quadrants. A power-hungry corporation has taken over the conventional prison system and made criminals the new law enforcers.  The owner of that corporation, nanoscientist Eion Prescott, created a nano-virus called Onyx. Which is distributed through deadly watches to criminals. First, infecting them. Then, forcing them into eliminating each other for freedom. Who can topple the corporation's entire system from within?",
+        "image": "https://image.tmdb.org/t/p/w500/bXvSKLCillha6wxY0yxoRCM2WQl.jpg",
+        "date": "2026-04-16",
+        "score": 5.4,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_634649",
+        "title_hu": "Pókember: Nincs hazaút",
+        "title_en": "Spider-Man: No Way Home",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "description": "Peter Parker lelepleződik, már nem tudja elválasztani a normális és a szuperhős életét. Amikor Strange segítségét kéri, a tét még veszélyesebbé válik, és arra kényszeríti, hogy felfedezze, mit is jelent valójában Pókembernek lenni.",
+        "image": "https://image.tmdb.org/t/p/w500/nKFco1gLSpSwAb9Z8ZjDjM1Byol.jpg",
+        "date": "2021-12-15",
+        "score": 7.933,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1246049",
+        "title_hu": "Drakula: Szerelmes történet",
+        "title_en": "Dracula",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Fantasy",
+            "Romance"
+        ],
+        "description": "Bram Stoker klasszikus Drakulájának feldolgozásában a 15. században egy herceg a felesége elvesztése után megtagadja Istent, emiatt örök átok sújtja és Drakulává válik. A vérszívó élőhalott évszázadokon át vándorol, dacol a sorssal és a halállal, és egyetlen remény vezérli: újra találkozni elvesztett szerelmével. Egy pap azonban felismeri és szembeszáll vele azért, hogy elpusztítsa őt.",
+        "image": "https://image.tmdb.org/t/p/w500/rVpYvR5x61J1SSsUdFnvihJYeNN.jpg",
+        "date": "2025-07-30",
+        "score": 7.16,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1613798",
+        "title_hu": "Bosszú",
+        "title_en": "Vengeance",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "A különleges alakulatok legendás katonai hőse, Toro feleségét meggyilkolják. Egyetlen cél lebeg a szeme előtt: a bosszú. Amikor a sors váratlan fordulata folytán milliomos lesz, Carlos a vagyonát fegyverarzenállá alakítja, majd legközelebbi bajtársaival útnak indul, hogy levadássza a felelősöket. (Szarka Károly)",
+        "image": "https://image.tmdb.org/t/p/w500/ggJGx8fwwy21gEIXYusIlHcUn8z.jpg",
+        "date": "2026-02-26",
+        "score": 7.517,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1599189",
+        "title_hu": "剑来院线剧场版 十三之争",
+        "title_en": "剑来院线剧场版 十三之争",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/95OnjUQ1mlu7JHvIMcjYL6ah9Ah.jpg",
+        "date": "2026-05-01",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_863",
+        "title_hu": "Toy Story – Játékháború 2.",
+        "title_en": "Toy Story 2",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "description": "Minő borzalom: Woodyt elrabolják! Számos rettenthetetlen és számtalan nagyon is rettenthető játék-pajtása, a félelmetes űrbigyó Buzz Lightyear vezetésével mentőexpedícióra indul. Ezúttal az igazi nagyvilággal kell szembeszállniuk: kamionokat térítenek ki útjukból, megostromolnak egy játékáruházat, megmentik Woodyt egy mániákus játékgyűjtő kezei közül, és Buzz Lightyear ősi galaktikus ellensége, a félelmetes Zurg sem ússza meg szárazon.",
+        "image": "https://image.tmdb.org/t/p/w500/8xosEeE8RYc1FaiOPnL16QSlyrm.jpg",
+        "date": "1999-10-30",
+        "score": 7.61,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1368337",
+        "title_hu": "Odüsszeia",
+        "title_en": "The Odyssey",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Fantasy"
+        ],
+        "description": "Odüsszeusz, Ithaka legendás görög királya a trójai háború után hosszú és veszélyes útra indul hazafelé. Útközben olyan mitikus lényekkel találkozik , mint a küklopsz, Polüphémosz, a szirének és a boszorkányistennő, Kirké.  (Csillag Lajos)R3",
+        "image": "https://image.tmdb.org/t/p/w500/l1Y73TUlg8tC2lcPwexAOGesSVS.jpg",
+        "date": "2026-07-15",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1002398",
+        "title_hu": "Donselya",
+        "title_en": "Virgin",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Iris, an 18-year old virgin marries Joaquin, a rich widower, because of money. However, when he learns that Iris is not really a virgin, their honeymoon turns to a bloodbath.",
+        "image": "https://image.tmdb.org/t/p/w500/iVS3ZiPsKy8Hhc5Dipqgrjmoj2b.jpg",
+        "date": "2024-10-29",
+        "score": 6.7,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_920728",
+        "title_hu": "우리 지금 할래",
+        "title_en": "We Want Now",
+        "type": "film",
+        "genres": [
+            "Romance"
+        ],
+        "description": "A man who protects the island and his woman, Soo-hee, live on a remote island that is nothing more than an uninhabited island. And Bok-soon, who lost her mind after being abandoned by the man she loved. This is an island where only three people live, even if they die. Then one day, a photographer who seems to be holding something secret comes to the island. However, the man who guards the island misunderstands the visitor and kills him because of it. Bok-soon, who loved the dead photographer, commits suicide upon seeing the photographer's death. A man who has gone mad after killing someone hears a story from Soo-hee, who lives with him, and only later finds out all the secrets...",
+        "image": "https://image.tmdb.org/t/p/w500/mQ95TSIl1QqNWCMQs1lTRgZUWT8.jpg",
+        "date": "2016-04-20",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_432123",
+        "title_hu": "Savior",
+        "title_en": "Savior",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "What would it look like if Jesus was born in the 21st century? Savior is a contemprary interpretation of the Christmas story set in modern England.",
+        "image": "https://image.tmdb.org/t/p/w500/wcZleoLz2us9dCxraSivVhyES0z.jpg",
+        "date": "2015-12-01",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
