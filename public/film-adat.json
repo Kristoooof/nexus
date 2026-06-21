@@ -1958,5 +1958,335 @@
         "score": 7.052,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_140300",
+        "title_hu": "Kung Fu Panda 3.",
+        "title_en": "Kiki's Delivery Service",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Family"
+        ],
+        "description": "Amikor Po és az apja ellátogat egy titkos pandafaluba, gonosz szellem támadja meg Kínát, így Po kénytelen egy szedett-vedett sereget verbuválva felvenni a harcot.",
+        "image": "https://image.tmdb.org/t/p/w500/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+        "date": "2016-01-23",
+        "score": 6.928,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1321179",
+        "title_hu": "왕과 사는 남자",
+        "title_en": "Kung Fu Panda 3",
+        "type": "film",
+        "genres": [
+            "History",
+            "Drama"
+        ],
+        "description": "While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.",
+        "image": "https://image.tmdb.org/t/p/w500/kkJB3SeUJp7Y0IXXLkv5QZHJGkH.jpg",
+        "date": "2026-02-04",
+        "score": 7.225,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_25376",
+        "title_hu": "Szemekbe zárt titkok",
+        "title_en": "The King's Warden",
+        "type": "film",
+        "genres": [
+            "Mystery",
+            "Thriller",
+            "Drama"
+        ],
+        "description": "Benjamin, egy nyugdíjba vonult törvényszéki alkalmazott úgy dönt, hogy könyvet ír egy régi megerőszakolással egybekötött gyilkossági ügyről, amit véleménye szerint rosszul oldott meg a rendőrség. Ettől a regénytől azt reméli, hogy lezárhatja múltja megoldatlan gyilkossági ügyeit, és egykori viszonzatlan szerelmére a felettese iránt is gyógyírt keres - életének e két fontos szála már évtizedek óta elvarratlanok. Megnyitja hát a már lezárt aktákat, és nyomozni kezd a zavaros és rémísztő ügyben.",
+        "image": "https://image.tmdb.org/t/p/w500/vtjuUUdKyDhrF8Oca5cg3wZfSqW.jpg",
+        "date": "2009-08-13",
+        "score": 7.975,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_585534",
+        "title_hu": "モーニング・ムーンは粗雑に",
+        "title_en": "The Secret in Their Eyes",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Hoping to put to rest years of unease concerning a past case, retired criminal investigator Benjamín begins writing a novel based on the unsolved mystery of a newlywed’s rape and murder. With the help of a former colleague, judge Irene, he attempts to make sense of the past.",
+        "image": "https://image.tmdb.org/t/p/w500/ogRSqsyiiQOxPXQR6y2WUMwcMb8.jpg",
+        "date": "1981-06-21",
+        "score": 4.3,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_884605",
+        "title_hu": "Barátnőt felveszünk",
+        "title_en": "Morning Moon Is Cruel",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "description": "A gyermekkori otthona elvesztésének küszöbén Maddie egy érdekes álláshirdetést fedez fel: gazdag helikopteres szülők keresnek valakit, aki „randevúzna” introvertált 19 éves fiukkal, mielőtt az egyetemre indul. Meglepetésére Maddie hamarosan rájön, hogy Percy nem könnyű eset.",
+        "image": "https://image.tmdb.org/t/p/w500/4qEWrhjZe0vaJNwdICH3CnSt60q.jpg",
+        "date": "2023-06-15",
+        "score": 6.677,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1263256",
+        "title_hu": "Happy, a flúgos golfos 2.",
+        "title_en": "No Hard Feelings",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Tekintsünk vissza Happy Gilmore golfkarrierjére a Tour Championship megnyerése után.  A nagysikerű 1996-os kultikus vígjáték folytatása, melyben Happy Gilmore még nem számolt le a golffal – távolról sem. Adam Sandler lobbanékony legendája visszatér pár ütésre, hogy valóra váltsa a gyereke álmát.",
+        "image": "https://image.tmdb.org/t/p/w500/4sha09PEIqpCXLu5cj5GFgpULic.jpg",
+        "date": "2025-07-25",
+        "score": 6.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_792307",
+        "title_hu": "Szegény párák",
+        "title_en": "Happy Gilmore 2",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Romance",
+            "Comedy"
+        ],
+        "description": "Elképesztő történet Bella Baxter fantasztikus fejlődéséről. A fiatal nőt a zseniális elméjű és szokatlan módszereket alkalmazó tudós, Dr. Godwin Baxter hozza vissza az életbe. A férfi védelmét élvezve, Bella vágyik a tudásra. Szomjazza a világ dolgait, így elszökik Duncan Wedderburnnel, a dörzsölt és züllött ügyvéddel, s ketten együtt kontinenseken átívelő, szélsebes kalandra indulnak. Korának előítéleteitől szabadon, Bella roppant iramban fejlődik, hogy szándékának eleget téve kiálljon az egyenlőség és szabadság mellett.",
+        "image": "https://image.tmdb.org/t/p/w500/rrlR4tfI1KMT3IAipHIUExZAe4D.jpg",
+        "date": "2023-12-07",
+        "score": 7.639,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_232672",
+        "title_hu": "Kavarás",
+        "title_en": "Poor Things",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "description": "Az első randik szabálya egyszerű: tégy próbát, dönts gyorsan, ha pedig nem tetszik a másik, lépj le azonnal - és örökre. E film férfi hőse (Adam Sandler) így is tenne. Amikor első randija az egyébként kedvesnek tűnő szöszivel (Drew Barrymore) nem jön össze, elegánsan távozni készül... ám a sors úgy hozza, hogy kénytelen mellette maradni. Méghozzá összezárva egy családi üdülőhelyen, korábbi házasságaikból származó gyerkőceik víg társaságában. A kezdeti ellenszenvből gyors utálat lesz. Azután sok bonyodalom következik, és közben a férfi és a nő fokozatosan felfedezi, hogy a másik nem is olyan kiállhatatlan, mint első látásra hitte.",
+        "image": "https://image.tmdb.org/t/p/w500/lpUTBaJx7S2HCtMFBUQimCHgalF.jpg",
+        "date": "2014-05-21",
+        "score": 6.898,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1559575",
+        "title_hu": "Kafir: Gerbang Sukma",
+        "title_en": "Blended",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "description": "Recently divorced mom Lauren and widowed dad Jim let their friends push them into a blind date, which goes disastrously wrong. Unsurprisingly, neither wants to see the other ever again. However, fate intervenes when both Jim and Lauren, unbeknownst to each other, purchase one-half of the same vacation package at a South African resort for families, during spring break. They and their children are forced to share the same romantic suite and participate in a slew of family activities together.",
+        "image": "https://image.tmdb.org/t/p/w500/vmggNXdqYLql6rUYR96r0YjnL6U.jpg",
+        "date": "2026-01-29",
+        "score": 6.5,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1123640",
+        "title_hu": "卍舞Ⅲ いかせてあげる、極楽浄土",
+        "title_en": "Kafir: The Spirit Gate",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Eight years after Herman's tragic death due to black magic, Sri is rebuilding her life with her daughter, Dina, and Andi, who has married Rani. Sri's father informs her that her mother is seriously ill. They come to visit, and that's the beginning of their disaster. A past sin Sri has been hiding now threatens her family.",
+        "image": "https://image.tmdb.org/t/p/w500/mvyxrQtti8b8fn5ZoAc36VcwArt.jpg",
+        "date": "1996-05-18",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_49519",
+        "title_hu": "Croodék",
+        "title_en": "Manji Mai 3: I will let you go Paradise Jodo",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Comedy"
+        ],
+        "description": "Croodék igazi modern család. Abban az ősi, elfeledett korban élnek, amikor a természet még kísérletező szakaszában van: fura lények és növények veszi körül vagy próbálják megenni őket, és ők nem hagyják magukat. Sokáig nem dugják ki az orrukat a barlangjukból, de egy szerencsétlen baleset következtében kénytelenek előjönni, és attól kezdve számukra csupa kaland, meglepetés és váratlanul felbukkanó húsevő az élet. Azután találkoznak egy fiatalemberrel, aki született kísérletező. Ráadásul megtetszik neki a család kamaszlánya – és vele együtt szeretné felfedezni ezt a folyton fejlődő, ismeretlen, de nagyon érdekes világot.",
+        "image": "https://image.tmdb.org/t/p/w500/lXgg3hUjD23l8UVdAXEGVEGwiwG.jpg",
+        "date": "2013-03-15",
+        "score": 6.941,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_37799",
+        "title_hu": "Social Network - A Közösségi háló",
+        "title_en": "The Croods",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "2003 egyik őszi éjszakáján a kollégiumi szobájában egy egyetemista új komputerprogramot tervezett - a haverjai közösségi életét áttette a netre, hogy megkönnyítse a kapcsolattartásukat. És ez bomba ötletnek bizonyult. Mark Zuckenberg nem sokkal később már a világ legfiatalabb milliárdosa volt, de ezzel alaposan felkavarta a magán- és szakmai életét is.David Fincher új rendezése, a Social Network - A közösségi háló magával ragadó történet egy lázadó, meg nem alkuvó emberről. Egy zöldfülű zseniről, akit kirúgnak a csajok, de ő forradalmat robbant ki azzal, ahogy egy egész generáció számára felforgatja az emberi kapcsolatokat. Az izgalmas, viharos és humorban is bővelkedő alkotás a Facebook születését majd - miután kiderül, mennyit ér - a tulajdonlása körüli ádáz küzdelmet mutatja be.",
+        "image": "https://image.tmdb.org/t/p/w500/5UOUiC57PPWxACcI0fh3QW5JMN5.jpg",
+        "date": "2010-10-01",
+        "score": 7.375,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_252522",
+        "title_hu": "黛比的幸福生活",
+        "title_en": "The Social Network",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "In 2003, Harvard undergrad and computer programmer Mark Zuckerberg begins work on a new concept that eventually turns into the global social network known as Facebook. Six years later, Mark is one of the youngest billionaires ever, but his unprecedented success leads to both personal and legal complications when he ends up on the receiving end of two lawsuits, one involving his former friend.",
+        "image": "",
+        "date": "2012-01-26",
+        "score": 6.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_423108",
+        "title_hu": "Démonok között 3: Az ördög kényszerített",
+        "title_en": "The Happy Life of Debbie",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "description": "A gyilkosnak nem jár felmentés. Kivéve, ha ártatlan. Ed és Lorraine Warren, a legendás démonűző pár mindig a jót szolgálta, de néha a gonosz eszközévé válik. Ezúttal egy olyan ügyben harcolnak a nem e világi hatalmak ellen, amelynek során valaki meghalt és a brutális gyilkosságot talán egy ártatlan ember követte el: akit a benne bujkáló démon kényszerített szörnyű tettére. A Warren-házaspár úgy érzi, akkor is választ kell találnia a kérdésre, ha közben a saját életük kerül veszélybe…",
+        "image": "https://image.tmdb.org/t/p/w500/3LuhbwmmYZuEvR0GyjyPidT32NB.jpg",
+        "date": "2021-05-25",
+        "score": 7.35,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_2057",
+        "title_hu": "Eredendő bűn",
+        "title_en": "The Conjuring: The Devil Made Me Do It",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Mystery",
+            "Romance",
+            "History"
+        ],
+        "description": "Luis Antonio Vargas, a gazdag kávéültetvényes levelezés útján szerez magának feleséget, aki elég fiatal ahhoz, hogy gyermeket szüljön neki. Vargas nem szenvedélyre vagy szerelemre vágyik, gyakorlatias céljai vannak leendő nejével: legyen jó társaság, és hozza világra örököseit. Amikor megérkezik a postai úton szerzett menyasszony, Julia Russell, a férfi elámul érzéki szépségén. Ez a nő nem az a szerény lány, akire a küldött fénykép alapján számított. Csakhogy a fiatalasszony, nem sokkal az esküvő után rejtélyesen eltűnik.",
+        "image": "https://image.tmdb.org/t/p/w500/xn06hGRsbeQW6j9ElWkYjspij6s.jpg",
+        "date": "2001-05-08",
+        "score": 6.138,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_621",
+        "title_hu": "Pomádé",
+        "title_en": "Original Sin",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "description": "Nyaralás közben találkozott a tengerparton Danny Zuko és Sandy Olleon. Akkor kezdődött a két fiatal szerelme. Ám a nyár gyorsan véget ért, és mindketten azt hitték, többé sosem látják egymást. A gimiben azonban újra összefutnak. A sok civódás után mindig édes a békülés.",
+        "image": "https://image.tmdb.org/t/p/w500/Ta4d857SZau9atO1QH8ePHmGgG.jpg",
+        "date": "1978-06-16",
+        "score": 7.369,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_37135",
+        "title_hu": "Tarzan",
+        "title_en": "Grease",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Family",
+            "Adventure"
+        ],
+        "description": "Lendülj akcióba! A Tarzan vadító minőségben varázsolja a szobába a dzsungel minden izgalmát és örömét! Edgar Rice Burroughs klaszikusának Disney-féle feldolgozásában a kis Tarzan a sűrű erdő mélyén magára marad, és gorillák fogadják örökbe. Az emberszabásúak ugyan csodálkoznak különc majomtalanságain, de befogadják őt a csapatba. Nagyszájú haverja, Terk és a kissé ideges elefánt, Tantor társaságában Tarzan kitanulja a dzsungelbeli élet, a faágon szörfölés, a liánon lendülés minden csínját-bínját. De a paradicsomi idők nem tartanak örökké: emberek érkeznek a vidékre, és az ágyékkötős majomembernek választania kell barátai vagy fajtája között. Pedig az utóbbiak társaságában ott a bájos Jane is…",
+        "image": "https://image.tmdb.org/t/p/w500/bTvHlcqiOjGa3lFtbrTLTM3zasY.jpg",
+        "date": "1999-06-17",
+        "score": 7.406,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_286687",
+        "title_hu": "Szerelemlecke",
+        "title_en": "Tarzan",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Drama",
+            "Comedy"
+        ],
+        "description": "Hee-Soo (Kim Sun-Young) népszerű dalszerző, számos dallal a háta mögött. Most mégsem megy neki a munka.\r Magányos, nincs aki, ami inspirálja, amikoris találkozik egy középiskolás fiúval, (Byun Joon-Suk) a lakás liftjében.",
+        "image": "https://image.tmdb.org/t/p/w500/1bMvC9fOTQSfwIGwXBJNcy2cV9N.jpg",
+        "date": "2013-12-05",
+        "score": 6.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_453",
+        "title_hu": "Egy csodálatos elme",
+        "title_en": "Love Lesson",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "1947-et írunk és John Forbes Nash jr. megérkezik a Princeton egyetemre, hogy matematikát tanuljon. A titokzatos nyugat-virginiai zseninek sem pedigrés iskolai múltja, sem pénze nincs ahhoz, hogy bekerüljön az elit diákok körébe. A matematika szakon könyörtelen verseny folyik és sokan szívesen látnák Nash bukását. Mégis épp a rivalizálás adja meg neki a kellő lökést: egy este a helyi bárban megfigyeli, hogyan versengenek a fiúk egy szőke lányért és az ötlet, mely oly régóta kísérti, megfogan. Megírja dolgozatát a játkelméletről - a versengés matematikájáról -, mely bátran szembeszegül Adam Smithnek, a modern közgazdaságtan atyjának doktrínáival. 150 éve elfogadott gondolatvilága hirtelen idejétmúltnak tűnik és Nash élete örökre megváltozik. Ám szívére másfelől is vár feladat. Megismerkedik a gyönyörű és ragyogóan okos Aliciával, aki Nasht egy számára eleddig teljesen ismeretlen fogalommal ismerteti meg: a szerelemmel....",
+        "image": "https://image.tmdb.org/t/p/w500/s2ye5voDb4NLvatbfiSqhU0eQ7R.jpg",
+        "date": "2001-12-14",
+        "score": 7.856,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_235",
+        "title_hu": "Állj mellém!",
+        "title_en": "A Beautiful Mind",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "description": "Gordie Lachance író visszagondol gyermekkora egy sötét epizódjára. Négyen voltak elválaszthatatlan jó barátok: Gordie, Chris, Teddy és Vern. Egy napon eltűnt egy pajtásuk. Sokáig nem került elő és halottnak nyilvánították. Majd ismeretlen holttestet talál egy másik náluk idősebb fiúcsapat az erdei vasútvonal mellett. Gordie és társai magánnyomozásba kezdenek. A testet viszont eltüntetik előlük. Egyre durvuló rivalizálás kezdődik a két fiúcsapat között. Nem lehet az igazságot évekig titkolni. Valaki úgysem bírja tovább a nyomást és elszólja, vagy elsírja magát...",
+        "image": "https://image.tmdb.org/t/p/w500/oeukzMFDhe39Url5DzYQiSOgPcr.jpg",
+        "date": "1986-08-08",
+        "score": 7.837,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
