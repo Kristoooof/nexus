@@ -2,46 +2,69 @@
     {
         "id": "tmdb_1193314",
         "tags": [
-            "Comedy",
+            "Action",
             "Horror",
-            "Action"
+            "Comedy",
+            "Vampires",
+            "Heist",
+            "Locked room",
+            "Dark atmosphere"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_760873",
         "tags": [
+            "Science Fiction",
             "Thriller",
-            "Science Fiction"
+            "AI",
+            "Futuristic war",
+            "Dystopian",
+            "Male protagonist",
+            "Asia-inspired setting"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_11658",
         "tags": [
-            "Action",
-            "Drama",
             "History",
+            "War",
+            "Action",
             "Adventure",
-            "War"
+            "Drama",
+            "WWII",
+            "Alternate history",
+            "Tension",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_383785",
         "tags": [
+            "Mystery",
+            "Comedy",
+            "Family",
             "Action",
             "Adventure",
-            "Family",
-            "Comedy",
-            "Mystery"
+            "1950s",
+            "Desert setting",
+            "Quirky characters",
+            "Pastel colors"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_610253",
         "tags": [
-            "Horror"
+            "Horror",
+            "1970s",
+            "Television studio",
+            "Demonic possession",
+            "Found footage style",
+            "Male protagonist",
+            "Creepy atmosphere"
         ],
         "pacing": "Közepes"
     },
@@ -49,7 +72,13 @@
         "id": "tmdb_502416",
         "tags": [
             "Horror",
-            "Thriller"
+            "Thriller",
+            "1970s",
+            "Suburban",
+            "Basement",
+            "Serial killer",
+            "Male protagonist",
+            "Supernatural"
         ],
         "pacing": "Közepes"
     },
@@ -57,7 +86,13 @@
         "id": "tmdb_1468683",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "1980s",
+            "Neon lights",
+            "Bodybuilding",
+            "Crime",
+            "Female protagonist",
+            "Gritty"
         ],
         "pacing": "Lassú"
     },
@@ -65,15 +100,24 @@
         "id": "tmdb_14249",
         "tags": [
             "Romance",
+            "Drama",
             "Thriller",
-            "Drama"
+            "Wealthy elite",
+            "London",
+            "Obsession",
+            "Moral decay",
+            "Male protagonist"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_291860",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "Absurdist theater",
+            "Twin brothers",
+            "Crude humor",
+            "Musical numbers"
         ],
         "pacing": "Közepes"
     },
@@ -81,39 +125,59 @@
         "id": "tmdb_729097",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "Tennis",
+            "Love triangle",
+            "Competitive sports",
+            "Female protagonist"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_2005",
         "tags": [
+            "Music",
             "Comedy",
-            "Music"
+            "1960s",
+            "Beatlemania",
+            "Black and white",
+            "British",
+            "Band"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_10708",
         "tags": [
+            "Family",
             "Comedy",
-            "Family"
+            "Christmas",
+            "Suburban house",
+            "Child protagonist",
+            "Traps"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_9293",
         "tags": [
-            "Comedy",
-            "Romance"
+            "Romance",
+            "Drama",
+            "Time travel",
+            "British",
+            "Family bonds",
+            "Male protagonist"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_39451",
         "tags": [
+            "Romance",
             "Comedy",
-            "Romance"
+            "Flashbacks",
+            "Single father",
+            "Storytelling"
         ],
         "pacing": "Lassú"
     },
@@ -123,78 +187,125 @@
             "Thriller",
             "Drama",
             "Crime",
-            "Mystery"
+            "Mystery",
+            "1970s",
+            "San Francisco",
+            "Serial killer",
+            "Obsession",
+            "Male protagonist"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_679628",
-        "tags": [],
+        "tags": [
+            "Biopic",
+            "2000s London",
+            "Music industry",
+            "Female protagonist",
+            "Soul music"
+        ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_977294",
         "tags": [
+            "Action",
             "Thriller",
-            "Action"
+            "India",
+            "Underground fighting",
+            "Corrupt police",
+            "Mythology",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_585268",
         "tags": [
-            "Thriller",
+            "Action",
             "Adventure",
-            "Action"
+            "Thriller",
+            "Mercenary",
+            "Prison break",
+            "Trains",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_1715",
         "tags": [
-            "Drama"
+            "Drama",
+            "Boxing",
+            "Female protagonist",
+            "Trainer",
+            "Emotional depth",
+            "Underdog"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_3034",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "Music education",
+            "Rock and roll",
+            "Slacker teacher",
+            "Children",
+            "Upbeat"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_370665",
         "tags": [
-            "Comedy",
             "Action",
-            "Crime"
+            "Crime",
+            "Comedy",
+            "British underworld",
+            "Witty dialogue",
+            "Male protagonist",
+            "Stylish"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_1109086",
         "tags": [
+            "Action",
             "Thriller",
-            "Action"
+            "Cybercrime",
+            "Revenge",
+            "Male protagonist",
+            "Secret organization"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_458305",
         "tags": [
-            "Horror",
             "Science Fiction",
-            "Mystery"
+            "Horror",
+            "Mystery",
+            "Post-apocalyptic",
+            "Bio-punk",
+            "Nature vs technology",
+            "Female protagonist"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_8413",
         "tags": [
-            "Horror",
             "Science Fiction",
-            "Mystery"
+            "Horror",
+            "Mystery",
+            "Space mission",
+            "Dying sun",
+            "Isolation",
+            "Claustrophobia",
+            "Male ensemble"
         ],
         "pacing": "Közepes"
     },
@@ -202,7 +313,12 @@
         "id": "tmdb_458723",
         "tags": [
             "Horror",
-            "Mystery"
+            "Mystery",
+            "Grief",
+            "Lakeside house",
+            "Surreal",
+            "Female protagonist",
+            "Psychological terror"
         ],
         "pacing": "Közepes"
     },
@@ -210,58 +326,90 @@
         "id": "tmdb_1232449",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "Ghosts",
+            "Childhood home",
+            "LGBTQ+",
+            "Male protagonist",
+            "Magical realism"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_943",
         "tags": [
-            "Thriller",
             "Action",
-            "Crime"
+            "Crime",
+            "Thriller",
+            "Neo-noir",
+            "Los Angeles",
+            "Stoic male protagonist",
+            "Neon lights",
+            "Driving"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_868759",
         "tags": [
-            "Comedy",
+            "Action",
             "Romance",
-            "Action"
+            "Comedy",
+            "Modern romance",
+            "Australia",
+            "Enemies to lovers",
+            "Bright aesthetics"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_3580",
         "tags": [
-            "Mystery",
+            "Drama",
             "Crime",
-            "Drama"
+            "Mystery",
+            "Missing child",
+            "Rain",
+            "Desperate father",
+            "Moral ambiguity",
+            "Dark tone"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_897160",
         "tags": [
-            "Comedy",
             "Action",
-            "Drama"
+            "Drama",
+            "Comedy",
+            "Stuntman",
+            "Hollywood",
+            "Meta-comedy",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_509",
         "tags": [
+            "Romance",
             "Comedy",
-            "Romance"
+            "Paris",
+            "Whimsical",
+            "Shy female protagonist",
+            "Vibrant color palette"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_1241983",
         "tags": [
-            "Drama"
+            "Drama",
+            "Courtroom drama",
+            "French Alps",
+            "Marriage",
+            "Ambiguous truth",
+            "Female protagonist"
         ],
         "pacing": "Lassú"
     },
@@ -270,35 +418,53 @@
         "tags": [
             "Science Fiction",
             "Action",
-            "Crime"
+            "Crime",
+            "Pre-crime",
+            "Dystopian future",
+            "Futuristic city",
+            "Male protagonist",
+            "Fugitive"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_206487",
         "tags": [
+            "Science Fiction",
             "Thriller",
-            "Science Fiction"
+            "Dinner party",
+            "Parallel realities",
+            "Night time",
+            "Tension",
+            "Ensemble cast"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_10588",
         "tags": [
+            "Family",
             "Fantasy",
-            "Comedy",
             "Adventure",
-            "Family"
+            "Comedy",
+            "Board game",
+            "Jungle animals",
+            "1960s",
+            "Childhood"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_869",
         "tags": [
-            "Thriller",
             "Science Fiction",
             "Action",
-            "Adventure"
+            "Adventure",
+            "Thriller",
+            "Post-apocalyptic desert",
+            "Vehicle chases",
+            "Female protagonist",
+            "Tyrannical warlord"
         ],
         "pacing": "Gyors"
     },
@@ -306,46 +472,68 @@
         "id": "tmdb_192558",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "Los Angeles",
+            "Jazz",
+            "Aspiring actress",
+            "Musical",
+            "Vibrant colors"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_37257",
         "tags": [
+            "Thriller",
             "Drama",
             "Crime",
-            "Mystery"
+            "Missing wife",
+            "Media manipulation",
+            "Toxic marriage",
+            "Dark secrets"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_539745",
         "tags": [
-            "Drama",
-            "Family",
             "Comedy",
+            "Family",
+            "Animation",
             "Science Fiction",
-            "Animation"
+            "Drama",
+            "Afterlife",
+            "Jazz musician",
+            "New York City",
+            "Existential",
+            "Male protagonist"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_390635",
         "tags": [
-            "Action",
-            "Drama",
-            "Fantasy",
+            "Romance",
             "Animation",
-            "Romance"
+            "Action",
+            "Fantasy",
+            "Drama",
+            "Terminal illness",
+            "High school",
+            "Emotional",
+            "Female protagonist"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_663121",
         "tags": [
+            "Romance",
             "Comedy",
-            "Romance"
+            "Airport",
+            "Young adult",
+            "Chance encounter",
+            "Upbeat romance"
         ],
         "pacing": "Lassú"
     },
@@ -353,7 +541,11 @@
         "id": "tmdb_577328",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "South Korea to New York",
+            "Nostalgia",
+            "Slow burn",
+            "Ensemble"
         ],
         "pacing": "Lassú"
     },
@@ -361,24 +553,37 @@
         "id": "tmdb_12405",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "19th century England",
+            "Estate",
+            "Class differences",
+            "Slow burn romance",
+            "Female protagonist"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_37703",
         "tags": [
-            "Comedy",
             "Romance",
-            "Drama"
+            "Drama",
+            "Comedy",
+            "High school",
+            "Letter writing",
+            "Hidden identity",
+            "Female protagonist"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_17899",
         "tags": [
+            "Drama",
             "Comedy",
-            "Drama"
+            "Road trip",
+            "Dysfunctional family",
+            "Beauty pageant",
+            "Ensemble cast"
         ],
         "pacing": "Lassú"
     },
@@ -386,14 +591,25 @@
         "id": "tmdb_852363",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "Childhood friendship",
+            "Bullying",
+            "France",
+            "Emotional",
+            "Male protagonist"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_521029",
         "tags": [
-            "Horror"
+            "Horror",
+            "Detroit",
+            "Airbnb",
+            "Dark secrets",
+            "Basement",
+            "Female protagonist",
+            "Unpredictable"
         ],
         "pacing": "Közepes"
     },
@@ -401,25 +617,39 @@
         "id": "tmdb_1645",
         "tags": [
             "Thriller",
+            "Drama",
             "Crime",
-            "Drama"
+            "Texas desert",
+            "Relentless killer",
+            "Stolen money",
+            "Male protagonist",
+            "Suspense"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_324544",
         "tags": [
-            "Western",
             "Action",
-            "Fantasy"
+            "Fantasy",
+            "Western",
+            "Wild West",
+            "Trains",
+            "Masked hero",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_13885",
         "tags": [
+            "Drama",
             "Horror",
-            "Drama"
+            "1630s New England",
+            "Isolation",
+            "Religious paranoia",
+            "Family",
+            "Slow burn horror"
         ],
         "pacing": "Lassú"
     },
@@ -427,7 +657,12 @@
         "id": "tmdb_1012837",
         "tags": [
             "Action",
-            "Drama"
+            "Drama",
+            "Boxing",
+            "Childhood rivalry",
+            "Legacy",
+            "Male protagonist",
+            "Sports drama"
         ],
         "pacing": "Gyors"
     },
@@ -435,8 +670,12 @@
         "id": "tmdb_9833",
         "tags": [
             "Romance",
+            "Drama",
             "Thriller",
-            "Drama"
+            "1950s Italy",
+            "Wealthy expats",
+            "Identity theft",
+            "Male protagonist"
         ],
         "pacing": "Lassú"
     },
@@ -444,74 +683,115 @@
         "id": "tmdb_2666",
         "tags": [
             "Science Fiction",
-            "Mystery"
+            "Mystery",
+            "Lunar base",
+            "Isolation",
+            "Corporate greed",
+            "Space",
+            "Male protagonist"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_60935",
         "tags": [
-            "Horror",
             "Science Fiction",
-            "Mystery"
+            "Horror",
+            "Mystery",
+            "Small town",
+            "Supermarket",
+            "Creatures",
+            "Male protagonist",
+            "Bleak"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_8967",
         "tags": [
+            "Fantasy",
             "Drama",
-            "Fantasy"
+            "1940s Spain",
+            "Fascist regime",
+            "Mythical labyrinth",
+            "Female protagonist",
+            "Dark fantasy"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_2899",
         "tags": [
+            "Family",
             "Fantasy",
-            "Comedy",
             "Adventure",
-            "Family"
+            "Comedy",
+            "Magical kingdom",
+            "Witches",
+            "Male protagonist",
+            "Fairytale"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_1048923",
         "tags": [
+            "Drama",
             "Comedy",
-            "Drama"
+            "1970s boarding school",
+            "Winter",
+            "Unlikely friendship",
+            "Ensemble cast"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_94365",
         "tags": [
-            "Horror"
+            "Horror",
+            "Suburban home",
+            "Super 8 films",
+            "Pagan deity",
+            "Male protagonist",
+            "Writer"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_263132",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "High school",
+            "Fight club",
+            "Female protagonist",
+            "Satirical comedy"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_9053",
         "tags": [
-            "Thriller",
+            "Action",
             "Adventure",
-            "Action"
+            "Thriller",
+            "Spy thriller",
+            "Poker",
+            "Male protagonist",
+            "Globe-trotting"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_457332",
         "tags": [
-            "Comedy",
+            "Action",
             "Thriller",
-            "Action"
+            "Comedy",
+            "Japan",
+            "High-speed train",
+            "Assassins",
+            "Male protagonist",
+            "Chaotic"
         ],
         "pacing": "Gyors"
     },
@@ -520,15 +800,24 @@
         "tags": [
             "TV Movie",
             "Crime",
-            "Mystery"
+            "Mystery",
+            "Private island",
+            "Tech billionaire",
+            "Ensemble cast",
+            "Modern detective"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_216282",
         "tags": [
+            "Action",
             "Thriller",
-            "Action"
+            "Underworld syndicate",
+            "Rome",
+            "Assassins",
+            "Male protagonist",
+            "Stylized violence"
         ],
         "pacing": "Gyors"
     },
@@ -536,16 +825,25 @@
         "id": "tmdb_737057",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "Mental health",
+            "Sisters",
+            "Family bonds",
+            "Emotional struggle"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_11046",
         "tags": [
-            "Adventure",
+            "War",
             "Action",
-            "War"
+            "Adventure",
+            "Ancient Greece",
+            "Spartans",
+            "Stylized violence",
+            "Battle",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
@@ -554,7 +852,11 @@
         "tags": [
             "Science Fiction",
             "Action",
-            "Adventure"
+            "Adventure",
+            "Space opera",
+            "Farming village",
+            "Evil empire",
+            "Female protagonist"
         ],
         "pacing": "Gyors"
     },
@@ -562,15 +864,24 @@
         "id": "tmdb_369471",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "Music industry",
+            "Fame",
+            "Male and female protagonists",
+            "Emotional"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_20943",
         "tags": [
+            "Romance",
             "Comedy",
-            "Romance"
+            "London",
+            "Immature man",
+            "Lonely boy",
+            "Coming of age",
+            "Male protagonist"
         ],
         "pacing": "Lassú"
     },
@@ -578,61 +889,91 @@
         "id": "tmdb_1241894",
         "tags": [
             "Family",
-            "Fantasy"
+            "Fantasy",
+            "Magical kingdom",
+            "Falling star",
+            "Animated",
+            "Female protagonist"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_814215",
         "tags": [
-            "Drama",
+            "History",
             "War",
-            "History"
+            "Drama",
+            "WWII concentration camp",
+            "Family life",
+            "Banality of evil",
+            "Historical horror"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_49009",
         "tags": [
-            "Adventure",
+            "History",
             "Drama",
-            "History"
+            "Adventure",
+            "1757 America",
+            "Wilderness",
+            "War",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_11683",
         "tags": [
+            "Science Fiction",
             "Horror",
             "Thriller",
-            "Science Fiction"
+            "Spaceship",
+            "Hell dimension",
+            "Isolation",
+            "Gore",
+            "Male ensemble"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_49292",
         "tags": [
+            "Drama",
             "Thriller",
-            "Drama"
+            "Revenge",
+            "Coastal town",
+            "Amateur assassin",
+            "Male protagonist",
+            "Gritty"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_145220",
         "tags": [
-            "Comedy",
+            "Family",
             "Adventure",
             "Crime",
-            "Family"
+            "Comedy",
+            "1980s",
+            "Underground caves",
+            "Pirate treasure",
+            "Kids adventure"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_360780",
         "tags": [
-            "Comedy",
             "Action",
-            "Fantasy"
+            "Fantasy",
+            "Comedy",
+            "Small town",
+            "Supernatural",
+            "Legacy",
+            "Rural America"
         ],
         "pacing": "Gyors"
     },
@@ -641,75 +982,115 @@
         "tags": [
             "Thriller",
             "Crime",
-            "Mystery"
+            "Mystery",
+            "Dark city",
+            "Rain",
+            "Serial killer",
+            "Male protagonists",
+            "Gritty"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_760774",
         "tags": [
+            "History",
             "Drama",
-            "History"
+            "18th century Europe",
+            "Battlefields",
+            "Ambition",
+            "Male protagonist",
+            "Historical epic"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_26505",
         "tags": [
-            "Family",
-            "Adventure",
             "Animation",
-            "Fantasy"
+            "Family",
+            "Fantasy",
+            "Adventure",
+            "Spirit world",
+            "Bathhouse",
+            "Female protagonist",
+            "Japanese mythology"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_736732",
         "tags": [
-            "Drama"
+            "Drama",
+            "Turkey resort",
+            "Childhood memory",
+            "Father-daughter",
+            "Nostalgic",
+            "Melancholic"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_1280672",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "New York City",
+            "Surreal",
+            "Immigration",
+            "Odd jobs",
+            "Male protagonist"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_664236",
         "tags": [
-            "Comedy",
+            "Animation",
             "Family",
             "Adventure",
-            "Animation"
+            "Comedy",
+            "Sci-fi medieval",
+            "Shape-shifter",
+            "Female protagonist",
+            "Vibrant"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_1242937",
         "tags": [
-            "Horror"
+            "Horror",
+            "Suburban pool",
+            "Supernatural entity",
+            "Water",
+            "Family",
+            "Darkness"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_1195518",
         "tags": [
-            "Western",
+            "Adventure",
             "Crime",
-            "Adventure"
+            "Western",
+            "Outlaw revenge",
+            "Stylized",
+            "Male and female protagonists"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_58431",
         "tags": [
-            "Horror",
             "Romance",
+            "Horror",
             "Thriller",
-            "Comedy"
+            "Comedy",
+            "Biblical times",
+            "Satire",
+            "British",
+            "Male protagonist"
         ],
         "pacing": "Lassú"
     },
@@ -717,16 +1098,25 @@
         "id": "tmdb_467012",
         "tags": [
             "Horror",
-            "Mystery"
+            "Mystery",
+            "Grief",
+            "Creature in the shadows",
+            "Family",
+            "Dark house",
+            "Female protagonists"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_1247019",
         "tags": [
+            "Action",
             "Horror",
             "Thriller",
-            "Action"
+            "Police",
+            "Dark past",
+            "Serial killer",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
@@ -734,17 +1124,27 @@
         "id": "tmdb_3084",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "Wyoming mountains",
+            "Cowboys",
+            "Forbidden love",
+            "Male protagonists",
+            "Sweeping landscapes"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_601666",
         "tags": [
-            "Comedy",
             "Thriller",
+            "Drama",
             "Crime",
-            "Drama"
+            "Comedy",
+            "Fine dining",
+            "Remote island",
+            "Dark comedy",
+            "Satire",
+            "Ensemble cast"
         ],
         "pacing": "Lassú"
     },
@@ -752,29 +1152,47 @@
         "id": "tmdb_12163",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "Vienna",
+            "Night time",
+            "Walking and talking",
+            "Male and female protagonists"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_2604",
         "tags": [
+            "War",
             "Drama",
-            "War"
+            "Vietnam War",
+            "Boot camp",
+            "Dehumanization",
+            "Male ensemble"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_632856",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "Talking dogs",
+            "Profanity",
+            "Revenge quest",
+            "Animated",
+            "Canine protagonist"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_11977",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "1990s LA",
+            "Bowling",
+            "Mistaken identity",
+            "Slacker",
+            "Male protagonist"
         ],
         "pacing": "Közepes"
     },
@@ -782,23 +1200,34 @@
         "id": "tmdb_611291",
         "tags": [
             "Music",
-            "Documentary"
+            "Documentary",
+            "Glam rock",
+            "Archival footage",
+            "Biopic"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "tmdb_566451",
         "tags": [
+            "Animation",
             "Fantasy",
             "Drama",
-            "Animation"
+            "Magical house",
+            "Colombian family",
+            "Female protagonist",
+            "Vibrant"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_1395353",
         "tags": [
-            "Drama"
+            "Drama",
+            "1970s New York",
+            "Real estate",
+            "Male protagonist",
+            "Political rise"
         ],
         "pacing": "Lassú"
     },
@@ -806,14 +1235,23 @@
         "id": "tmdb_5038",
         "tags": [
             "Romance",
-            "Drama"
+            "Drama",
+            "Memory erasure",
+            "Snow",
+            "Eccentric female protagonist",
+            "Fractured narrative"
         ],
         "pacing": "Lassú"
     },
     {
         "id": "tmdb_1134055",
         "tags": [
-            "Action"
+            "Action",
+            "International assassin",
+            "Meticulous",
+            "Male protagonist",
+            "Neon lit",
+            "Methodical"
         ],
         "pacing": "Gyors"
     },
@@ -821,368 +1259,51 @@
         "id": "tmdb_2157",
         "tags": [
             "Science Fiction",
-            "Adventure"
+            "Adventure",
+            "Space western",
+            "Crew of a ship",
+            "Male protagonist",
+            "Witty banter"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_18269",
         "tags": [
-            "Romance",
+            "Animation",
             "Family",
+            "Romance",
             "Adventure",
-            "Animation"
+            "Steampunk",
+            "Cursed protagonist",
+            "Magical war",
+            "European setting"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "tmdb_430447",
         "tags": [
+            "Animation",
+            "Family",
             "Fantasy",
-            "Family",
             "Adventure",
-            "Animation"
+            "Italian Riviera",
+            "Sea monsters",
+            "Summer vacation",
+            "Male protagonists"
         ],
         "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_1267905",
-        "tags": [
-            "Comedy",
-            "Romance",
-            "Drama"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_8469",
-        "tags": [
-            "Comedy"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_1844",
-        "tags": [
-            "Romance",
-            "Drama",
-            "Mystery"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_1165642",
-        "tags": [
-            "Romance",
-            "Science Fiction",
-            "Drama",
-            "Animation"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_17610",
-        "tags": [
-            "Comedy",
-            "Adventure"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_925",
-        "tags": [
-            "Drama"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_105814",
-        "tags": [
-            "Horror"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_1306056",
-        "tags": [
-            "Comedy",
-            "Drama"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_433498",
-        "tags": [
-            "Adventure",
-            "Crime",
-            "Drama"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_10336",
-        "tags": [
-            "Horror",
-            "Action",
-            "Adventure",
-            "Fantasy",
-            "Thriller",
-            "Science Fiction"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_11081",
-        "tags": [
-            "Thriller"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_1118224",
-        "tags": [
-            "Thriller",
-            "Action",
-            "Mystery"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_645886",
-        "tags": [
-            "Drama",
-            "Crime"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_40125",
-        "tags": [
-            "Horror"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_45871",
-        "tags": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_926670",
-        "tags": [
-            "Comedy",
-            "Science Fiction",
-            "Action",
-            "Family"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_438650",
-        "tags": [
-            "Action",
-            "Crime",
-            "Drama"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_696157",
-        "tags": [
-            "Music",
-            "Drama",
-            "History"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_635996",
-        "tags": [
-            "Science Fiction",
-            "Drama"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_140300",
-        "tags": [
-            "Action",
-            "Adventure",
-            "Family",
-            "Comedy",
-            "Animation"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_1321179",
-        "tags": [
-            "Drama",
-            "History"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_25376",
-        "tags": [
-            "Thriller",
-            "Drama",
-            "Mystery"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_585534",
-        "tags": [
-            "Drama"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_884605",
-        "tags": [
-            "Comedy",
-            "Romance"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_1263256",
-        "tags": [
-            "Comedy"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_792307",
-        "tags": [
-            "Comedy",
-            "Romance",
-            "Science Fiction"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_232672",
-        "tags": [
-            "Comedy",
-            "Romance"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_1559575",
-        "tags": [
-            "Horror",
-            "Thriller",
-            "Drama",
-            "Mystery"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_1123640",
-        "tags": [
-            "Drama"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_49519",
-        "tags": [
-            "Comedy",
-            "Family",
-            "Adventure",
-            "Animation"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_37799",
-        "tags": [
-            "Drama"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_252522",
-        "tags": [
-            "Drama"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_423108",
-        "tags": [
-            "Horror",
-            "Thriller",
-            "Mystery"
-        ],
-        "pacing": "Közepes"
-    },
-    {
-        "id": "tmdb_2057",
-        "tags": [
-            "Drama",
-            "History",
-            "Thriller",
-            "Romance",
-            "Mystery"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_621",
-        "tags": [
-            "Comedy",
-            "Romance"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_37135",
-        "tags": [
-            "Family",
-            "Adventure",
-            "Animation"
-        ],
-        "pacing": "Gyors"
-    },
-    {
-        "id": "tmdb_286687",
-        "tags": [
-            "Comedy",
-            "Romance",
-            "Drama"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_453",
-        "tags": [
-            "Romance",
-            "Drama"
-        ],
-        "pacing": "Lassú"
-    },
-    {
-        "id": "tmdb_235",
-        "tags": [
-            "Crime",
-            "Drama"
-        ],
-        "pacing": "Lassú"
     },
     {
         "id": "igdb_863",
         "tags": [
-            "Turn-based strategy (TBS)",
             "Strategy",
-            "Simulator"
+            "Turn-based strategy (TBS)",
+            "Simulator",
+            "City building",
+            "Ancient Rome",
+            "Resource management"
         ],
         "pacing": "Közepes"
     },
@@ -1190,7 +1311,11 @@
         "id": "igdb_277143",
         "tags": [
             "Shooter",
-            "Adventure"
+            "Adventure",
+            "Post-apocalyptic",
+            "Male protagonist",
+            "Desert",
+            "Vehicular combat"
         ],
         "pacing": "Gyors"
     },
@@ -1199,7 +1324,10 @@
         "tags": [
             "Role-playing (RPG)",
             "Hack and slash/Beat 'em up",
-            "Adventure"
+            "Adventure",
+            "Dark fantasy",
+            "Monsters",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
@@ -1207,15 +1335,21 @@
         "id": "igdb_30155",
         "tags": [
             "Music",
-            "Simulator"
+            "Simulator",
+            "Rhythm game",
+            "Instruments",
+            "Concert"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_68",
         "tags": [
+            "Strategy",
             "Turn-based strategy (TBS)",
-            "Strategy"
+            "World War II",
+            "Hex grid",
+            "Historical"
         ],
         "pacing": "Közepes"
     },
@@ -1224,14 +1358,21 @@
         "tags": [
             "Role-playing (RPG)",
             "Turn-based strategy (TBS)",
-            "Adventure"
+            "Adventure",
+            "Steampunk",
+            "Mechs",
+            "Tactical"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_366551",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Sci-fi",
+            "Space exploration",
+            "Male protagonist",
+            "Aliens"
         ],
         "pacing": "Közepes"
     },
@@ -1240,7 +1381,10 @@
         "tags": [
             "Role-playing (RPG)",
             "Adventure",
-            "Indie"
+            "Indie",
+            "Pixel art",
+            "Caves",
+            "Exploration"
         ],
         "pacing": "Gyors"
     },
@@ -1249,22 +1393,32 @@
         "tags": [
             "Strategy",
             "Card & Board Game",
-            "Indie"
+            "Indie",
+            "Roguelike",
+            "Deck building",
+            "Dark fantasy"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_85643",
-        "tags": [],
+        "tags": [
+            "Puzzle",
+            "Relaxing",
+            "Minimalist"
+        ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_132645",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
+            "Role-playing (RPG)",
             "Visual Novel",
-            "Adventure"
+            "Adventure",
+            "Anime style",
+            "School setting",
+            "Mechs"
         ],
         "pacing": "Gyors"
     },
@@ -1273,7 +1427,10 @@
         "tags": [
             "Role-playing (RPG)",
             "Adventure",
-            "Indie"
+            "Indie",
+            "Pixel art",
+            "Action RPG",
+            "Dungeons"
         ],
         "pacing": "Gyors"
     },
@@ -1282,39 +1439,56 @@
         "tags": [
             "Shooter",
             "Indie",
-            "Simulator"
+            "Simulator",
+            "Hunting",
+            "First-person",
+            "Nature"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_1234",
         "tags": [
-            "Fighting"
+            "Fighting",
+            "Martial arts",
+            "Tournament",
+            "Character roster"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_1026",
         "tags": [
+            "Adventure",
             "Puzzle",
-            "Adventure"
+            "First-person",
+            "Sterile laboratory",
+            "AI antagonist",
+            "Dark humor"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_114536",
         "tags": [
-            "Visual Novel"
+            "Visual Novel",
+            "School setting",
+            "Meta-narrative",
+            "Psychological",
+            "Female characters"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_3568",
         "tags": [
-            "Real Time Strategy (RTS)",
-            "Role-playing (RPG)",
             "Strategy",
-            "Adventure"
+            "Role-playing (RPG)",
+            "Real Time Strategy (RTS)",
+            "Adventure",
+            "Medieval fantasy",
+            "Base building",
+            "Hero units"
         ],
         "pacing": "Gyors"
     },
@@ -1323,7 +1497,10 @@
         "tags": [
             "Adventure",
             "Indie",
-            "Platform"
+            "Platform",
+            "Pixel art",
+            "Forest",
+            "Mystery"
         ],
         "pacing": "Gyors"
     },
@@ -1332,29 +1509,43 @@
         "tags": [
             "Adventure",
             "Indie",
-            "Platform"
+            "Platform",
+            "Underground",
+            "Excavation",
+            "Puzzle"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_8293",
         "tags": [
+            "Adventure",
             "Point-and-click",
-            "Adventure"
+            "Pirates",
+            "Comedy",
+            "Caribbean"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_20398",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Open world",
+            "Post-soviet",
+            "Anomalies",
+            "First-person"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_143232",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Cyberpunk",
+            "Vampires",
+            "Dark atmosphere",
+            "Urban"
         ],
         "pacing": "Közepes"
     },
@@ -1363,8 +1554,11 @@
         "tags": [
             "Strategy",
             "Tactical",
+            "Simulator",
             "Adventure",
-            "Simulator"
+            "WWII",
+            "Squad management",
+            "Stealth"
         ],
         "pacing": "Gyors"
     },
@@ -1373,7 +1567,10 @@
         "tags": [
             "Strategy",
             "Adventure",
-            "Indie"
+            "Indie",
+            "Viking",
+            "Base building",
+            "Survival"
         ],
         "pacing": "Gyors"
     },
@@ -1381,14 +1578,21 @@
         "id": "igdb_12503",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Post-apocalyptic",
+            "Wasteland",
+            "Turn-based combat"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_119295",
         "tags": [
-            "Simulator"
+            "Simulator",
+            "Farming",
+            "Country life",
+            "Relaxing",
+            "Seasons"
         ],
         "pacing": "Közepes"
     },
@@ -1396,7 +1600,10 @@
         "id": "igdb_136770",
         "tags": [
             "Indie",
-            "Platform"
+            "Platform",
+            "Precision",
+            "Fast respawn",
+            "Difficult"
         ],
         "pacing": "Közepes"
     },
@@ -1404,7 +1611,11 @@
         "id": "igdb_41829",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Sci-fi",
+            "Space",
+            "Aliens",
+            "Exploration"
         ],
         "pacing": "Gyors"
     },
@@ -1412,16 +1623,21 @@
         "id": "igdb_1070",
         "tags": [
             "Adventure",
-            "Platform"
+            "Platform",
+            "Alien planet",
+            "Morphing",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_1454",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
-            "Turn-based strategy (TBS)"
+            "Role-playing (RPG)",
+            "Turn-based strategy (TBS)",
+            "Medieval",
+            "Kingdom management"
         ],
         "pacing": "Közepes"
     },
@@ -1430,7 +1646,10 @@
         "tags": [
             "Shooter",
             "Adventure",
-            "Platform"
+            "Platform",
+            "Alien invasion",
+            "Earth",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
@@ -1438,44 +1657,59 @@
         "id": "igdb_26916",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Dark fantasy",
+            "Open world",
+            "Dragons",
+            "Third-person"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_6256",
         "tags": [
-            "Real Time Strategy (RTS)",
             "Strategy",
             "Indie",
-            "Simulator"
+            "Real Time Strategy (RTS)",
+            "Simulator",
+            "Programming",
+            "Logic puzzles"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_22066",
         "tags": [
+            "Adventure",
             "Puzzle",
-            "Adventure"
+            "First-person",
+            "Optical illusions",
+            "Impossible geometry"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_196770",
         "tags": [
-            "Simulator"
+            "Simulator",
+            "Construction",
+            "Physics",
+            "Vehicles",
+            "Sandbox"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_241239",
         "tags": [
-            "Point-and-click",
-            "Simulator",
-            "Role-playing (RPG)",
-            "Adventure",
             "Visual Novel",
-            "Indie"
+            "Adventure",
+            "Simulator",
+            "Point-and-click",
+            "Role-playing (RPG)",
+            "Indie",
+            "Photography",
+            "School setting"
         ],
         "pacing": "Gyors"
     },
@@ -1483,15 +1717,21 @@
         "id": "igdb_12198",
         "tags": [
             "Visual Novel",
-            "Adventure"
+            "Adventure",
+            "Magic",
+            "Female protagonist",
+            "Romance"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_1029",
         "tags": [
+            "Adventure",
             "Puzzle",
-            "Adventure"
+            "First-person",
+            "Island",
+            "Observation"
         ],
         "pacing": "Gyors"
     },
@@ -1499,7 +1739,10 @@
         "id": "igdb_209628",
         "tags": [
             "Visual Novel",
-            "Indie"
+            "Indie",
+            "Cyberpunk",
+            "Hacking",
+            "Female protagonist"
         ],
         "pacing": "Közepes"
     },
@@ -1507,17 +1750,24 @@
         "id": "igdb_7334",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Dark fantasy",
+            "Gothic",
+            "Action combat",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_227211",
         "tags": [
-            "Shooter",
             "Tactical",
+            "Shooter",
             "Adventure",
-            "Indie"
+            "Indie",
+            "Turn-based",
+            "WWII",
+            "Squad-based"
         ],
         "pacing": "Gyors"
     },
@@ -1525,8 +1775,11 @@
         "id": "igdb_137295",
         "tags": [
             "Shooter",
+            "Hack and slash/Beat 'em up",
             "Role-playing (RPG)",
-            "Hack and slash/Beat 'em up"
+            "Sci-fi",
+            "Mazes",
+            "Co-op"
         ],
         "pacing": "Közepes"
     },
@@ -1534,15 +1787,21 @@
         "id": "igdb_391146",
         "tags": [
             "Adventure",
-            "Platform"
+            "Platform",
+            "Abstract",
+            "Audio-reaction",
+            "Rhythm"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_9143",
         "tags": [
+            "Fighting",
             "Arcade",
-            "Fighting"
+            "Weapons",
+            "Combat",
+            "Fast-paced"
         ],
         "pacing": "Közepes"
     },
@@ -1550,7 +1809,11 @@
         "id": "igdb_331204",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Sci-fi",
+            "Open world",
+            "Desert",
+            "Mutants"
         ],
         "pacing": "Gyors"
     },
@@ -1558,23 +1821,34 @@
         "id": "igdb_9577",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Steampunk",
+            "Victorian city",
+            "Lovecraftian",
+            "Turn-based"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_31",
         "tags": [
+            "Adventure",
             "Point-and-click",
-            "Adventure"
+            "Time travel",
+            "Cartoon",
+            "Puzzle-solving"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_2283",
         "tags": [
+            "Tactical",
             "Role-playing (RPG)",
-            "Tactical"
+            "Sci-fi",
+            "Mecha",
+            "Grid-based",
+            "Customization"
         ],
         "pacing": "Közepes"
     },
@@ -1582,7 +1856,11 @@
         "id": "igdb_42929",
         "tags": [
             "Hack and slash/Beat 'em up",
-            "Adventure"
+            "Adventure",
+            "Zombies",
+            "Mall",
+            "Survival",
+            "Photography"
         ],
         "pacing": "Gyors"
     },
@@ -1590,7 +1868,10 @@
         "id": "igdb_12013",
         "tags": [
             "Adventure",
-            "Platform"
+            "Platform",
+            "Prehistoric",
+            "Cavemen",
+            "Puzzle"
         ],
         "pacing": "Gyors"
     },
@@ -1599,7 +1880,10 @@
         "tags": [
             "Role-playing (RPG)",
             "Adventure",
-            "Indie"
+            "Indie",
+            "Pixel art",
+            "Dungeon crawler",
+            "Turn-based"
         ],
         "pacing": "Gyors"
     },
@@ -1607,15 +1891,21 @@
         "id": "igdb_297623",
         "tags": [
             "Music",
-            "Arcade"
+            "Arcade",
+            "Rhythm",
+            "Fast-paced",
+            "Neon visuals"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_266501",
         "tags": [
+            "Adventure",
             "Puzzle",
-            "Adventure"
+            "Isometric",
+            "Dreams",
+            "Surreal"
         ],
         "pacing": "Gyors"
     },
@@ -1623,7 +1913,10 @@
         "id": "igdb_310643",
         "tags": [
             "Shooter",
-            "Indie"
+            "Indie",
+            "Voxel",
+            "Arena",
+            "Fast-paced"
         ],
         "pacing": "Közepes"
     },
@@ -1631,14 +1924,19 @@
         "id": "igdb_115776",
         "tags": [
             "Strategy",
-            "Card & Board Game"
+            "Card & Board Game",
+            "Tabletop",
+            "Digital adaptation"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_309469",
         "tags": [
-            "Adventure"
+            "Adventure",
+            "Walking simulator",
+            "Narrative",
+            "First-person"
         ],
         "pacing": "Gyors"
     },
@@ -1646,18 +1944,23 @@
         "id": "igdb_301111",
         "tags": [
             "Visual Novel",
-            "Indie"
+            "Indie",
+            "Romance",
+            "Anthology",
+            "Short stories"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_11631",
         "tags": [
-            "Point-and-click",
-            "Role-playing (RPG)",
             "Adventure",
             "Puzzle",
-            "Indie"
+            "Point-and-click",
+            "Role-playing (RPG)",
+            "Indie",
+            "Hand-drawn",
+            "Gothic"
         ],
         "pacing": "Gyors"
     },
@@ -1665,39 +1968,55 @@
         "id": "igdb_135478",
         "tags": [
             "Shooter",
-            "Indie"
+            "Indie",
+            "Pixel art",
+            "Roguelike",
+            "Top-down"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_250469",
         "tags": [
-            "Racing"
+            "Racing",
+            "Arcade",
+            "Off-road",
+            "Vehicles",
+            "Physics"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_391882",
         "tags": [
-            "Racing"
+            "Racing",
+            "Open world",
+            "Underground",
+            "Car customization",
+            "Night"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_348499",
         "tags": [
+            "Card & Board Game",
             "Turn-based strategy (TBS)",
-            "Card & Board Game"
+            "Roguelike",
+            "Deck building",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_200905",
         "tags": [
+            "Indie",
             "Role-playing (RPG)",
-            "Puzzle",
             "Adventure",
-            "Indie"
+            "Puzzle",
+            "Word-based",
+            "Text manipulation"
         ],
         "pacing": "Gyors"
     },
@@ -1705,7 +2024,10 @@
         "id": "igdb_52440",
         "tags": [
             "Hack and slash/Beat 'em up",
-            "Adventure"
+            "Adventure",
+            "Medieval",
+            "Side-scroller",
+            "Violent"
         ],
         "pacing": "Gyors"
     },
@@ -1714,17 +2036,22 @@
         "tags": [
             "Role-playing (RPG)",
             "Adventure",
-            "Indie"
+            "Indie",
+            "Vampire",
+            "Pixel art",
+            "Metroidvania"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_318575",
         "tags": [
-            "Real Time Strategy (RTS)",
             "Strategy",
+            "Card & Board Game",
+            "Real Time Strategy (RTS)",
             "Tactical",
-            "Card & Board Game"
+            "Cyberpunk",
+            "Hacking"
         ],
         "pacing": "Közepes"
     },
@@ -1732,7 +2059,10 @@
         "id": "igdb_172496",
         "tags": [
             "Adventure",
-            "Indie"
+            "Indie",
+            "Abstract",
+            "Narrative",
+            "Atmospheric"
         ],
         "pacing": "Gyors"
     },
@@ -1740,7 +2070,10 @@
         "id": "igdb_51267",
         "tags": [
             "Visual Novel",
-            "Adventure"
+            "Adventure",
+            "Detective",
+            "Crime",
+            "Female protagonist"
         ],
         "pacing": "Gyors"
     },
@@ -1748,7 +2081,11 @@
         "id": "igdb_22439",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Sci-fi",
+            "Open world",
+            "Alien planet",
+            "Third-person"
         ],
         "pacing": "Gyors"
     },
@@ -1756,25 +2093,33 @@
         "id": "igdb_72327",
         "tags": [
             "Hack and slash/Beat 'em up",
-            "Indie"
+            "Indie",
+            "Pixel art",
+            "Ninjas",
+            "Fast-paced"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_21073",
         "tags": [
-            "Shooter",
             "Tactical",
-            "Adventure"
+            "Shooter",
+            "Adventure",
+            "WWII",
+            "Realistic",
+            "Squad-based"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_21324",
         "tags": [
-            "Turn-based strategy (TBS)",
             "Strategy",
-            "Card & Board Game"
+            "Card & Board Game",
+            "Turn-based strategy (TBS)",
+            "Fantasy",
+            "Online"
         ],
         "pacing": "Közepes"
     },
@@ -1782,39 +2127,49 @@
         "id": "igdb_224415",
         "tags": [
             "Indie",
-            "Simulator"
+            "Simulator",
+            "First-person",
+            "Job simulator",
+            "Comedy"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_117526",
         "tags": [
-            "Simulator",
-            "Role-playing (RPG)",
             "Hack and slash/Beat 'em up",
-            "Adventure",
             "Shooter",
+            "Adventure",
+            "Simulator",
+            "Platform",
+            "Role-playing (RPG)",
             "Indie",
-            "Platform"
+            "Open world",
+            "Zombies",
+            "Crafting"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_300789",
         "tags": [
-            "Role-playing (RPG)",
             "Music",
-            "Simulator"
+            "Simulator",
+            "Role-playing (RPG)",
+            "Band management",
+            "Rhythm"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_22238",
         "tags": [
-            "Shooter",
             "Strategy",
+            "Shooter",
             "Tactical",
-            "Simulator"
+            "Simulator",
+            "Submarines",
+            "WWII"
         ],
         "pacing": "Közepes"
     },
@@ -1822,7 +2177,11 @@
         "id": "igdb_25880",
         "tags": [
             "Shooter",
-            "Adventure"
+            "Adventure",
+            "WWII",
+            "First-person",
+            "Linear",
+            "Male protagonist"
         ],
         "pacing": "Gyors"
     },
@@ -1830,23 +2189,32 @@
         "id": "igdb_43651",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Post-apocalyptic",
+            "Desert",
+            "Turn-based"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_42931",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Sci-fi",
+            "Space",
+            "Exploration",
+            "Top-down"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_28278",
         "tags": [
-            "Quiz/Trivia",
             "Strategy",
-            "Card & Board Game"
+            "Card & Board Game",
+            "Quiz/Trivia",
+            "Party game",
+            "Comedy"
         ],
         "pacing": "Közepes"
     },
@@ -1856,16 +2224,21 @@
             "Arcade",
             "Adventure",
             "Indie",
-            "Platform"
+            "Platform",
+            "Pixel art",
+            "Challenging"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_372930",
         "tags": [
-            "Adventure",
             "Indie",
-            "Simulator"
+            "Adventure",
+            "Simulator",
+            "Nature",
+            "Animals",
+            "Relaxing"
         ],
         "pacing": "Gyors"
     },
@@ -1873,7 +2246,10 @@
         "id": "igdb_165192",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Medieval",
+            "Dungeon crawler",
+            "First-person"
         ],
         "pacing": "Gyors"
     },
@@ -1881,7 +2257,11 @@
         "id": "igdb_119402",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Sci-fi",
+            "Cyberpunk",
+            "Turn-based",
+            "Grid"
         ],
         "pacing": "Gyors"
     },
@@ -1889,49 +2269,67 @@
         "id": "igdb_11374",
         "tags": [
             "Shooter",
-            "Platform"
+            "Platform",
+            "Run and gun",
+            "Aliens",
+            "Side-scroller"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_41888",
         "tags": [
-            "Shooter"
+            "Shooter",
+            "Realistic",
+            "Military",
+            "Tactical",
+            "Multiplayer"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_318395",
         "tags": [
-            "Adventure"
+            "Adventure",
+            "Surreal",
+            "Art house",
+            "Atmospheric"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_54220",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
-            "Adventure"
+            "Role-playing (RPG)",
+            "Adventure",
+            "Pirates",
+            "Sea exploration",
+            "Open world"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_102254",
         "tags": [
-            "Role-playing (RPG)",
-            "Tactical",
             "Sport",
             "Strategy",
-            "Real Time Strategy (RTS)"
+            "Real Time Strategy (RTS)",
+            "Tactical",
+            "Role-playing (RPG)",
+            "Soccer",
+            "Management"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_65755",
         "tags": [
+            "Adventure",
             "Point-and-click",
-            "Adventure"
+            "Puzzle",
+            "Hand-drawn",
+            "Surreal"
         ],
         "pacing": "Gyors"
     },
@@ -1939,7 +2337,10 @@
         "id": "igdb_284570",
         "tags": [
             "Visual Novel",
-            "Adventure"
+            "Adventure",
+            "Romance",
+            "School setting",
+            "Drama"
         ],
         "pacing": "Gyors"
     },
@@ -1947,7 +2348,10 @@
         "id": "igdb_266690",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Sci-fi",
+            "Mystery",
+            "Turn-based"
         ],
         "pacing": "Gyors"
     },
@@ -1955,26 +2359,34 @@
         "id": "igdb_12329",
         "tags": [
             "Visual Novel",
-            "Adventure"
+            "Adventure",
+            "Supernatural",
+            "Female protagonist",
+            "Spiritual"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_5006",
         "tags": [
+            "Music",
             "Sport",
-            "Music"
+            "Rhythm",
+            "Instruments",
+            "Band"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_55077",
         "tags": [
-            "Simulator",
-            "Role-playing (RPG)",
             "Sport",
             "Strategy",
-            "Indie"
+            "Simulator",
+            "Role-playing (RPG)",
+            "Indie",
+            "Wrestling",
+            "Management"
         ],
         "pacing": "Közepes"
     },
@@ -1982,15 +2394,21 @@
         "id": "igdb_13166",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Dark fantasy",
+            "Action RPG",
+            "Demons"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_204034",
         "tags": [
+            "Tactical",
             "Shooter",
-            "Tactical"
+            "Realistic",
+            "Slow-paced",
+            "Military"
         ],
         "pacing": "Közepes"
     },
@@ -1998,33 +2416,45 @@
         "id": "igdb_42791",
         "tags": [
             "Strategy",
-            "Card & Board Game"
+            "Card & Board Game",
+            "Fantasy",
+            "Turn-based",
+            "Digital card game"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_33000",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
+            "Role-playing (RPG)",
             "Visual Novel",
-            "Adventure"
+            "Adventure",
+            "Anime",
+            "Mecha",
+            "School setting"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_138851",
         "tags": [
-            "Music"
+            "Music",
+            "Rhythm",
+            "K-pop",
+            "Visuals"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_2481",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
-            "Adventure"
+            "Role-playing (RPG)",
+            "Adventure",
+            "Fantasy",
+            "Overworld",
+            "Turn-based"
         ],
         "pacing": "Gyors"
     },
@@ -2032,7 +2462,11 @@
         "id": "igdb_8257",
         "tags": [
             "Strategy",
-            "Adventure"
+            "Adventure",
+            "Zombies",
+            "Base building",
+            "Survival",
+            "Top-down"
         ],
         "pacing": "Gyors"
     },
@@ -2040,14 +2474,20 @@
         "id": "igdb_103364",
         "tags": [
             "Shooter",
-            "Platform"
+            "Platform",
+            "Run and gun",
+            "Co-op",
+            "Aliens"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_114941",
         "tags": [
-            "Point-and-click"
+            "Point-and-click",
+            "Puzzle",
+            "Comedy",
+            "Cartoon"
         ],
         "pacing": "Közepes"
     },
@@ -2056,16 +2496,22 @@
         "tags": [
             "Role-playing (RPG)",
             "Turn-based strategy (TBS)",
-            "Adventure"
+            "Adventure",
+            "Sci-fi",
+            "Mechs",
+            "Grid-based"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_250635",
         "tags": [
-            "Shooter",
             "Tactical",
-            "Adventure"
+            "Shooter",
+            "Adventure",
+            "Modern military",
+            "Realistic",
+            "Stealth"
         ],
         "pacing": "Gyors"
     },
@@ -2074,7 +2520,10 @@
         "tags": [
             "Role-playing (RPG)",
             "Visual Novel",
-            "Adventure"
+            "Adventure",
+            "Cyberpunk",
+            "Detective",
+            "Text-heavy"
         ],
         "pacing": "Gyors"
     },
@@ -2082,43 +2531,58 @@
         "id": "igdb_315893",
         "tags": [
             "Indie",
-            "Platform"
+            "Platform",
+            "Precision",
+            "Single-screen",
+            "Difficult"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_103337",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
-            "Adventure"
+            "Role-playing (RPG)",
+            "Adventure",
+            "Fantasy",
+            "Kingdom building",
+            "Roguelike"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_9538",
         "tags": [
-            "Real Time Strategy (RTS)",
             "Strategy",
-            "Indie"
+            "Real Time Strategy (RTS)",
+            "Indie",
+            "Minimalist",
+            "Abstract"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_26834",
         "tags": [
-            "Role-playing (RPG)",
-            "Tactical",
+            "Turn-based strategy (TBS)",
             "Strategy",
             "Visual Novel",
-            "Turn-based strategy (TBS)"
+            "Tactical",
+            "Role-playing (RPG)",
+            "Anime",
+            "School setting",
+            "Mecha"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_117776",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Sci-fi",
+            "Post-apocalyptic",
+            "Turn-based",
+            "Desert"
         ],
         "pacing": "Közepes"
     },
@@ -2126,7 +2590,10 @@
         "id": "igdb_14709",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Fantasy",
+            "Open world",
+            "Humor"
         ],
         "pacing": "Gyors"
     },
@@ -2134,16 +2601,21 @@
         "id": "igdb_116794",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Dark fantasy",
+            "Dungeon crawler",
+            "Party-based"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_122008",
         "tags": [
-            "Puzzle",
             "Tactical",
-            "Card & Board Game"
+            "Card & Board Game",
+            "Puzzle",
+            "Fantasy",
+            "Grid-based"
         ],
         "pacing": "Közepes"
     },
@@ -2152,7 +2624,9 @@
         "tags": [
             "Visual Novel",
             "Adventure",
-            "Indie"
+            "Indie",
+            "Supernatural",
+            "Mystery"
         ],
         "pacing": "Gyors"
     },
@@ -2160,17 +2634,23 @@
         "id": "igdb_116",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Fantasy",
+            "Open world",
+            "First-person",
+            "Dungeons"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_59858",
         "tags": [
+            "Fighting",
             "Sport",
             "Arcade",
             "Indie",
-            "Fighting"
+            "Wrestling",
+            "Over-the-top"
         ],
         "pacing": "Közepes"
     },
@@ -2179,60 +2659,81 @@
         "tags": [
             "Shooter",
             "Racing",
-            "Adventure"
+            "Adventure",
+            "Futuristic",
+            "Anti-gravity",
+            "Fast-paced"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_146081",
         "tags": [
-            "Point-and-click",
-            "Puzzle",
             "Visual Novel",
-            "Adventure"
+            "Adventure",
+            "Puzzle",
+            "Point-and-click",
+            "Time travel",
+            "Mystery"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_1039",
         "tags": [
+            "Adventure",
             "Puzzle",
-            "Adventure"
+            "First-person",
+            "Laser",
+            "Machinery"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_338084",
         "tags": [
-            "Simulator",
-            "Role-playing (RPG)",
             "Hack and slash/Beat 'em up",
             "Adventure",
-            "Fighting"
+            "Simulator",
+            "Role-playing (RPG)",
+            "Fighting",
+            "Medieval",
+            "Open world"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_259944",
         "tags": [
-            "Shooter"
+            "Shooter",
+            "Hero shooter",
+            "Team-based",
+            "Classes",
+            "Colorful"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_364",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
-            "Turn-based strategy (TBS)"
+            "Role-playing (RPG)",
+            "Turn-based strategy (TBS)",
+            "Medieval",
+            "Tactical",
+            "Grid-based",
+            "Story-rich"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_6459",
         "tags": [
+            "Adventure",
             "Puzzle",
-            "Adventure"
+            "Surreal",
+            "Dreamlike",
+            "Atmospheric"
         ],
         "pacing": "Gyors"
     },
@@ -2240,21 +2741,31 @@
         "id": "igdb_80668",
         "tags": [
             "Adventure",
-            "Indie"
+            "Indie",
+            "Narrative",
+            "Emotional",
+            "Short"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_321048",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Sci-fi",
+            "Space",
+            "Exploration",
+            "Aliens"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_114942",
         "tags": [
-            "Point-and-click"
+            "Point-and-click",
+            "Puzzle",
+            "Cartoon",
+            "Comedy"
         ],
         "pacing": "Közepes"
     },
@@ -2264,7 +2775,9 @@
             "Role-playing (RPG)",
             "Turn-based strategy (TBS)",
             "Adventure",
-            "Indie"
+            "Indie",
+            "Roguelike",
+            "Pixel art"
         ],
         "pacing": "Gyors"
     },
@@ -2272,14 +2785,21 @@
         "id": "igdb_3683",
         "tags": [
             "Role-playing (RPG)",
-            "Turn-based strategy (TBS)"
+            "Turn-based strategy (TBS)",
+            "Sci-fi",
+            "Mechs",
+            "Customization"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_114943",
         "tags": [
-            "Point-and-click"
+            "Point-and-click",
+            "Puzzle",
+            "Horror",
+            "Gory",
+            "Comedy"
         ],
         "pacing": "Közepes"
     },
@@ -2287,7 +2807,10 @@
         "id": "igdb_26192",
         "tags": [
             "Shooter",
-            "Adventure"
+            "Adventure",
+            "WWII",
+            "First-person",
+            "Linear"
         ],
         "pacing": "Gyors"
     },
@@ -2295,7 +2818,10 @@
         "id": "igdb_311975",
         "tags": [
             "Shooter",
-            "Adventure"
+            "Adventure",
+            "Zombies",
+            "Co-op",
+            "Tropical island"
         ],
         "pacing": "Gyors"
     },
@@ -2304,25 +2830,34 @@
         "tags": [
             "Role-playing (RPG)",
             "Adventure",
-            "Indie"
+            "Indie",
+            "Pixel art",
+            "Dungeon crawler",
+            "Roguelike"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_320140",
         "tags": [
-            "Adventure"
+            "Adventure",
+            "Atmospheric",
+            "Mystery",
+            "Exploration"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_71399",
         "tags": [
-            "Role-playing (RPG)",
-            "Tactical",
+            "Turn-based strategy (TBS)",
             "Strategy",
             "Visual Novel",
-            "Turn-based strategy (TBS)"
+            "Tactical",
+            "Role-playing (RPG)",
+            "Anime",
+            "School setting",
+            "Fantasy"
         ],
         "pacing": "Közepes"
     },
@@ -2330,34 +2865,46 @@
         "id": "igdb_4833",
         "tags": [
             "Adventure",
-            "Simulator"
+            "Simulator",
+            "Survival",
+            "Ocean",
+            "Raft",
+            "Sharks"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_44617",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Fantasy",
+            "Action RPG",
+            "Demons",
+            "Fast-paced"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_7895",
         "tags": [
-            "Puzzle",
-            "Adventure",
             "Indie",
-            "Platform"
+            "Adventure",
+            "Puzzle",
+            "Platform",
+            "Atmospheric",
+            "Minimalist"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_1433",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
+            "Role-playing (RPG)",
             "Turn-based strategy (TBS)",
-            "Tactical"
+            "Tactical",
+            "Fantasy",
+            "Grid-based"
         ],
         "pacing": "Közepes"
     },
@@ -2366,24 +2913,32 @@
         "tags": [
             "Role-playing (RPG)",
             "Hack and slash/Beat 'em up",
-            "Adventure"
+            "Adventure",
+            "Fantasy",
+            "Co-op",
+            "Top-down"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_88904",
         "tags": [
-            "Arcade"
+            "Arcade",
+            "Retron",
+            "Action",
+            "Score attack"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_146761",
         "tags": [
-            "Puzzle",
-            "Adventure",
             "Indie",
-            "Simulator"
+            "Simulator",
+            "Adventure",
+            "Puzzle",
+            "First-person",
+            "Relaxing"
         ],
         "pacing": "Gyors"
     },
@@ -2391,7 +2946,10 @@
         "id": "igdb_381578",
         "tags": [
             "Adventure",
-            "Indie"
+            "Indie",
+            "Narrative",
+            "Atmospheric",
+            "Walking simulator"
         ],
         "pacing": "Gyors"
     },
@@ -2401,14 +2959,19 @@
             "Role-playing (RPG)",
             "Turn-based strategy (TBS)",
             "Adventure",
-            "Indie"
+            "Indie",
+            "Sci-fi",
+            "Space"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_163344",
         "tags": [
-            "Arcade"
+            "Arcade",
+            "Retro",
+            "Brick breaker",
+            "Score attack"
         ],
         "pacing": "Közepes"
     },
@@ -2417,48 +2980,63 @@
         "tags": [
             "Strategy",
             "Arcade",
-            "Simulator"
+            "Simulator",
+            "Tycoon",
+            "Business"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_125286",
         "tags": [
-            "Puzzle"
+            "Puzzle",
+            "Relaxing",
+            "Minimalist",
+            "Atmospheric"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_116680",
         "tags": [
-            "Shooter"
+            "Shooter",
+            "Realistic",
+            "Military",
+            "Tactical"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_116201",
         "tags": [
+            "Turn-based strategy (TBS)",
+            "Strategy",
             "Simulator",
             "Tactical",
-            "Strategy",
             "Indie",
-            "Turn-based strategy (TBS)"
+            "WWII",
+            "Grid-based"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_94873",
         "tags": [
-            "Platform"
+            "Platform",
+            "Precision",
+            "Fast-paced",
+            "Indie"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_119171",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
-            "Turn-based strategy (TBS)"
+            "Role-playing (RPG)",
+            "Turn-based strategy (TBS)",
+            "Fantasy",
+            "Army management"
         ],
         "pacing": "Közepes"
     },
@@ -2466,7 +3044,10 @@
         "id": "igdb_139377",
         "tags": [
             "Shooter",
-            "Arcade"
+            "Arcade",
+            "Top-down",
+            "Roguelike",
+            "Aliens"
         ],
         "pacing": "Közepes"
     },
@@ -2475,14 +3056,20 @@
         "tags": [
             "Shooter",
             "Racing",
-            "Arcade"
+            "Arcade",
+            "Futuristic",
+            "Vehicles"
         ],
         "pacing": "Közepes"
     },
     {
         "id": "igdb_106819",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Dark fantasy",
+            "Action RPG",
+            "Souls-like",
+            "Difficult"
         ],
         "pacing": "Közepes"
     },
@@ -2490,15 +3077,18 @@
         "id": "igdb_305098",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Fantasy",
+            "Open world",
+            "Story-rich"
         ],
         "pacing": "Gyors"
     },
     {
         "id": "igdb_8204",
         "tags": [
-            "Sport",
             "Racing",
+            "Sport",
             "Simulator"
         ],
         "pacing": "Közepes"
