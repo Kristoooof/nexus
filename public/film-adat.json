@@ -1154,7 +1154,7 @@
     {
         "id": "tmdb_49009",
         "title_hu": "Út a szabadságba",
-        "title_en": "The Way Back",
+        "title_en": "The Exorcist: Believer",
         "type": "film",
         "genres": [
             "Drama",
@@ -2615,6 +2615,324 @@
         "image": "https://image.tmdb.org/t/p/w500/wcZleoLz2us9dCxraSivVhyES0z.jpg",
         "date": "2015-12-01",
         "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_495925",
+        "title_hu": "映画ドラえもん のび太の宝島",
+        "title_en": "Teen Wolf",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Fantasy",
+            "Science Fiction",
+            "Comedy",
+            "Family"
+        ],
+        "description": "When a shy teenager's new-found powers help him score at basketball - and with the popular girls - he has some pretty hairy decisions to make.",
+        "image": "https://image.tmdb.org/t/p/w500/xiLRClQmKSVAbiu6rgCRzNQjcSX.jpg",
+        "date": "2018-03-03",
+        "score": 7.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10757",
+        "title_hu": "कभी ख़ुशी कभी ग़म",
+        "title_en": "Chip 'n Dale: Rescue Rangers",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Decades since their successful television series was canceled, Chip has succumbed to a life of suburban domesticity as an insurance salesman. Dale, meanwhile, has had CGI surgery and works the nostalgia convention circuit, desperate to relive his glory days. When a former cast mate mysteriously disappears, Chip and Dale must repair their broken friendship and take on their Rescue Rangers detective personas once again to save their friend’s life.",
+        "image": "https://image.tmdb.org/t/p/w500/12BvYKueY0eruZuTYIextEZaCC.jpg",
+        "date": "2001-12-14",
+        "score": 7.665,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_340666",
+        "title_hu": "Éjszakai ragadozók",
+        "title_en": "Do Revenge",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "description": "Susan Morrow, Los Angeles-i műkereskedő hihetetlen jómódban él férjével, Hutton Morrowval, ám mégsem érzi teljesnek az életét. Az egyik hétvégén Hutton elutazik az egyik szokásos és túlzottan gyakorta esedékes üzleti útjára, Susan pedig egy csomagot talál a postaládájában. A csomagban egy regényt van, melyet a volt férje, Edward Sheffield írt, akivel már évek óta nem beszélt. Este, egyedül az ágyban olvasni kezd. Susant olvasás közben mélyen megindítja Edward írása, és akarva-akaratlanul is felidézi a szerzővel közös szerelmi történetük legintimebb pillanatait. Megpróbál magába tekinteni, életének és karrierjének csillogó felszíne alá, és egyre inkább egyfajta bosszúként értelmezi a könyvet, melynek története arra kényszeríti, hogy átértékelje a döntéseit. Újraéled a szerelem, melyet elveszettnek hitt, és ahogy a történet halad, olyan felismerésre készteti, amely újraértelmezi a regény hősét és saját magát is.",
+        "image": "https://image.tmdb.org/t/p/w500/zcgrfbN7uMyw52ryhAr9zPXYmYV.jpg",
+        "date": "2016-11-04",
+        "score": 7.4,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_704239",
+        "title_hu": "A szervezet",
+        "title_en": "Howard the Duck",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "description": "Egy építőmunkás New Jerseyből egyik pillanatról a másikra titkos ügynökké válik, amikor régi gimis szerelme beszervezi egy kémküldetésre.",
+        "image": "https://image.tmdb.org/t/p/w500/uDBrMSpeA8gMBnkCwCP50zKmlfU.jpg",
+        "date": "2024-08-15",
+        "score": 6.058,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1123261",
+        "title_hu": "四大名妓之李香君",
+        "title_en": "Shin Ultraman",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "History"
+        ],
+        "description": "The Japanese government sets up a special task force to fight the giant creatures suddenly appearing across the country. Soon, the squad unexpectedly meets a giant silver humanoid who starts appearing every time a space monster attacks!",
+        "image": "https://image.tmdb.org/t/p/w500/oKtKHLaGqAXNKiADg3hzcQcr1ps.jpg",
+        "date": "2005-01-01",
+        "score": 2.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_628170",
+        "title_hu": "Anakan Mo Ako",
+        "title_en": "Murder on the Orient Express",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "In 1935, when his train is stopped by deep snow, detective Hercule Poirot is called on to solve a murder that occurred in his car the night before.",
+        "image": "https://image.tmdb.org/t/p/w500/bwHwgkZJ41hnZ66lmr5sJ0SIKm8.jpg",
+        "date": "1999-01-17",
+        "score": 4.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_15283",
+        "title_hu": "Pom Poko - A tanukik birodalma",
+        "title_en": "Holes",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Fantasy"
+        ],
+        "description": "Japánban sok legenda él a mosómedvékről. Ebben a történetben görbe tükröt tartanak az emberiség romlott életmódjáról, önzéséről. A Pom Poko kor előtt a nagy építkezések felemésztik az erdőket. A mosómedvék a megmaradt területek feletti uralomért egy utolsó, mindent eldöntő háborúra készülnek egymás ellen. A harc közben azonban rádöbbennek, hogy a még megmaradt terület is épp csak elegendő mindannyiuk számukra, ezért összefognak.",
+        "image": "https://image.tmdb.org/t/p/w500/dpPaQvC65UPX83UepEFPVPGazx5.jpg",
+        "date": "1994-07-16",
+        "score": 7.171,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_133805",
+        "title_hu": "Carrie",
+        "title_en": "Once Upon a Time in China II",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "description": "Carrie White egy szégyenlős fiatal lány, akinek nem megy könnyen a barátkozás. Osztálytársai is folyton ugratják, általában ő az élcelődés középpontja. Ráadásul otthon sem túl rózsás a helyzet, hiszen Carrie személyiségét nagyban befolyásolta bigott vallásos anyja, aki drákói szigorral neveli és minden külvilági hatás elől gondosan elzárja gyermekét.  Közeledik a szalagavató bál, Carrie egyik osztálytársnője pedig gonosz tervet eszel ki, mellyel ismét (sőt, minden eddiginél jobban) megalázhatja a visszafogott lányt. Arról azonban fogalma sincs, hogy Carrie különleges képességek birtokában van. Telekinetikus erejének poklát pedig épp azok számára tartogatja, akik ártani akarnak neki.",
+        "image": "https://image.tmdb.org/t/p/w500/4TF6bGBZh5ZVoJjzskr3eHLjZNj.jpg",
+        "date": "2013-10-16",
+        "score": 6.052,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_223",
+        "title_hu": "A Manderley-ház asszonya",
+        "title_en": "The Name of the Rose",
+        "type": "film",
+        "genres": [
+            "Mystery",
+            "Romance",
+            "Thriller",
+            "Drama"
+        ],
+        "description": "14th-century Franciscan monk William of Baskerville and his young novice arrive at a conference to find that several monks have been murdered under mysterious circumstances. To solve the crimes, William must rise up against the Church's authority and fight the shadowy conspiracy of monastery monks using only his intelligence; which is considerable.",
+        "image": "https://image.tmdb.org/t/p/w500/2WyBx0Ya0Hww99yxIcYtGGQ6Izi.jpg",
+        "date": "1940-03-23",
+        "score": 7.886,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_387814",
+        "title_hu": "맛있는 덫-정사",
+        "title_en": "Patriot Games",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Thriller"
+        ],
+        "description": "When CIA Analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets Jack and his family as revenge.",
+        "image": "https://image.tmdb.org/t/p/w500/aUuuzetIXKeKgCYtTHFsScfS5lL.jpg",
+        "date": "2015-10-07",
+        "score": 6.7,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_903",
+        "title_hu": "Bilincs és mosoly",
+        "title_en": "Marrowbone",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "description": "Luke egy fegyenctelepen tölti a \"köztulajdon szándékos rongálása\" miatt kapott büntetését. Alapjában véve hallgatag, de gyakran eszel ki hecceket az őrök bosszantására, vagy társai szórakoztatására. Ám amikor édesanyja halálhírére magánzárkába teszik (nehogy a gyász szökésre késztesse), a megaláztatás módja és mértéke a heccek királyából lázadóvá keményíti.",
+        "image": "https://image.tmdb.org/t/p/w500/4UQlD5lCMMNxalFAnGNsbzJER9E.jpg",
+        "date": "1967-11-01",
+        "score": 7.742,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_18988",
+        "title_hu": "Az oroszlán télen",
+        "title_en": "The Plague",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "description": "A XII. század végén II. Henrik uralkodik Anglia trónján. Övé fél Franciaország és a még mindig gyönyörű Aquitai Eleonora, akit II. Henrik a francia királytól, Lajostól hódított el. Eleonora 4 fiúgyermeknek adott életet. Henrik Lajos fiát, Eleonora pedig Richardot akarja megtenni örökösnek. Cselszövések, ármányok járják át a várat, ahová meghívott vendégként, II. Fülöp, Franciaország királya érkezik...",
+        "image": "https://image.tmdb.org/t/p/w500/y2eQm437UoWmwIixlWCnjbdKpXK.jpg",
+        "date": "1968-08-20",
+        "score": 7.4,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11808",
+        "title_hu": "Életre-halálra",
+        "title_en": "The Gangster, the Cop, the Devil",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Action"
+        ],
+        "description": "Mark Sheridan életében egymást követik a balszerencsés véletlenek, s pillanatok alatt egy kettős gyilkosság gyanúsítottjává válik, aki ráadásul hamarosan egy rabokkal teli repülőgépen találja magát. Amikor a repülő megsérül, Marknak sikerül elmenekülnie. Kegyetlen hajtóvadászat indul utána Sam Gerard rendőrbíró vezetésével, aki az üldözés közben egy kormány-összeesküvés nyomaira bukkan. A rendőrnek és a rabnak is minden leleményességére szüksége.",
+        "image": "https://image.tmdb.org/t/p/w500/osTEFfBUxj2WuaTsTmkyilhmvtf.jpg",
+        "date": "1998-03-06",
+        "score": 6.543,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_15789",
+        "title_hu": "Goofy - A film",
+        "title_en": "The Ghost Game",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Romance",
+            "Animation",
+            "Family"
+        ],
+        "description": "Goofyt eddig csak képregényekből és sorozatokból ismerhettük, de most végre elérkezett a négyballábas, ügye- és eszefogyott eb ideje: a Disney rajzolóitól megkapta élete nagy lehetőségét.",
+        "image": "https://image.tmdb.org/t/p/w500/bycmMhO3iIoEDzP768sUjq2RV4T.jpg",
+        "date": "1995-04-05",
+        "score": 7.037,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1251",
+        "title_hu": "Levelek Ivo Dzsimáról",
+        "title_en": "The Man-Eater",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "description": "Az amerikai hadsereg Japánhoz közeledik. A Csendes-óceán nagy része már az övék és a jenkik bíznak benne, hogy hamarosan véget ér a második világháború. Ám ahhoz, hogy japán földre tehessék a lábukat, előbb ki kell szorítani ellenségeiket Ivo Dzsima szigetéről. Ha elfoglalják, a repülőgépeik innen már Tokiót is elérhetik. A sziget védelmével Kuribayashi tábornokot bízzák meg. A kiváló katona tudja, hogy nincs esélyük, ennek ellenére teljesíti kötelességét. Katonáival együtt negyven napon át feltartóztatja az óriási túlerőben lévő amerikai haderőt.",
+        "image": "https://image.tmdb.org/t/p/w500/ovl0Mark9Fo1dJLvlHAXbfCh7X6.jpg",
+        "date": "2006-12-09",
+        "score": 7.487,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_235704",
+        "title_hu": "A kötelesség ára",
+        "title_en": "Xxxxxxxx",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Drama"
+        ],
+        "description": "A tizenéves észak-koreai ügynököt átküldik Dél-Koreába, hogy elkapja a bérgyilkost, aki sorra végzi ki az alvó ügynököket. Az érzelmei miatt azonban bajba kerül és mindent tetőz az is, hogy az északiak is elkezdenek rá vadászni...",
+        "image": "https://image.tmdb.org/t/p/w500/z1GnvMIea7ooskUcL6bVpnl0k1Y.jpg",
+        "date": "2013-11-05",
+        "score": 7.2,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9349",
+        "title_hu": "Tökéletes katona",
+        "title_en": "Crows Zero",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Action",
+            "Science Fiction"
+        ],
+        "description": "Valahol egy szupertitkos katonai bázis hibernálókamrájában majdnem kopaszra borotvált, acélos izmú férfiak alusszák gépálmukat. Olyan univerzális harcosok ők, akik bármikor, bárhol bevethetők, akikből egy speciális programmal kiirtották a legalapvetőbb emberi érzelmeket is. Nincsenek emlékeik, nem éreznek fájdalmat - vagy ha igen, nem vesznek róla tudomást -, könyörtelenül és gyorsan ölnek, és ha arról van szó, napokig harcolnak pihenés nélkül. Luc Devreux (Jean-Claude Van Damme) csak egy közülük - és mégis más, mint a többi. Amikor az egyik akcióban társai lelövik egy tévériporternő kameramanját, kilép a sorból. Döntésével nem akármilyen hadsereget zúdít magára: a tökéletes katonákat és mániákus parancsnokukat, Andrew Scottot - akit történetesen a világ másik legnépszerűbb akcióhőse, Dolph Lundgren alakit.",
+        "image": "https://image.tmdb.org/t/p/w500/q2yqiN401oqJRITJOJn9NvxepB7.jpg",
+        "date": "1992-07-10",
+        "score": 6.347,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_23023",
+        "title_hu": "Fogtündér",
+        "title_en": "Desperado",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "description": "Derek Thompson, a jégkorongliga egyik legkeményebb játékosa, ráadásul nem hisz a mesékben. Nem véletlen, hogy összetöri a legfiatalabb rajongói álmait. Hányaveti magatartása a magánéletében is megmutatkozik, ami a barátnőjével, Carlyval való kapcsolatát veszélyezteti. Ezt tetézi, amikor bemeséli Carly kislányának, Tessnek, hogy a fogtündér nem létezik. Mindez nem marad következmények nélkül. Derek váratlanul a hitetleneket vizsgáló bizottság előtt találja magát, akik két hét tündérlétre ítélik. A férfi azt hiszi, az egész rossz álom csupán. Ám legnagyobb megdöbbenésére szárnyak nőnek ki a hátából.",
+        "image": "https://image.tmdb.org/t/p/w500/3L3wk3eKE19c1TR33s7xVcjHbea.jpg",
+        "date": "2010-01-14",
+        "score": 5.483,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_45317",
+        "title_hu": "A harcos",
+        "title_en": "Fair Play",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A harcos szókimondó, szeretettel teli humorral átszőtt, és egyben megrázó története megtörtént eseményeken alapul. A film főhőse a hihetetlen visszatérést produkáló, és váratlanul bokszhőssé váló \"Irish\" Micky Ward, és féltestvére, Dicky Eklund. Akiknek előbb ellenfelekké kellett válniuk ahhoz, hogy végül igazi testvérekként tudják megszerezni a győzelmet, és meg tudják erősíteni a családi kötelékeket.",
+        "image": "https://image.tmdb.org/t/p/w500/m8YB3F0u73GBEFzSgiWnw3MpwBq.jpg",
+        "date": "2010-12-10",
+        "score": 7.378,
         "age_rating": "12+",
         "cover_nsfw": false
     }
