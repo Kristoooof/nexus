@@ -5,6 +5,7 @@ import math
 import time
 import random
 import datetime
+import re
 
 TMDB_API_KEY = os.getenv('TMDB_API_KEY')
 IGDB_CLIENT_ID = os.getenv('IGDB_CLIENT_ID')
@@ -15,6 +16,21 @@ CONTACT_EMAIL = os.getenv('CONTACT_EMAIL', 'karolyi.kristof12@gmail.com')
 HEADERS_OL = {'User-Agent': f'MediaPlatform/1.0 ({CONTACT_EMAIL})'}
 PUBLIC_DIR = 'public'
 os.makedirs(PUBLIC_DIR, exist_ok=True)
+
+# Cím tisztító funkció (kiveszi a Gold Edition, GOTY stb. szavakat)
+def normalize_title(title):
+    if not title: return ""
+    title = title.lower()
+    keywords_to_remove = [
+        'gold edition', 'game of the year edition', 'goty', 'deluxe edition', 
+        'ultimate edition', 'remastered', "director's cut", 'complete edition', 
+        'standard edition', 'premium edition', 'special edition', 'limited edition',
+        ' - special', ' - deluxe', ' - premium', ' - ultimate', ' - goty', ' - remastered'
+    ]
+    for kw in keywords_to_remove:
+        title = title.replace(kw, '')
+    title = re.sub(r'\s+', ' ', title).strip() # Felesleges szóközök eltávolítása
+    return title
 
 def chunk_and_save(base_filename, data_list, max_items=50000):
     if not data_list: 
@@ -67,8 +83,6 @@ def get_tmdb_movies():
     movies = []
     try:
         page = random.randint(1, 300)
-        print(f"TMDB oldal: {page}")
-        
         for attempt in range(3):
             try:
                 resp_hu = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=hu-HU&page={page}")
@@ -81,7 +95,6 @@ def get_tmdb_movies():
                 break
             except requests.exceptions.HTTPError as e:
                 if e.response.status_code >= 500 and attempt < 2:
-                    print(f"TMDB szerver hiba, újrapróbálkozás ({attempt+1}/3)...")
                     page = random.randint(1, 100)
                     time.sleep(2)
                 else:
@@ -199,39 +212,31 @@ def get_anilist_media(media_type="ANIME", country_code=None):
     try:
         resp = requests.post("https://graphql.anilist.co", json={'query': query, 'variables': variables}, headers={'Content-Type': 'application/json'})
         data = resp.json()
-        if 'errors' in data:
-            print(f"GraphQL HIBA: {data['errors']}")
-            return []
+        if 'errors' in data: return []
             
         for m in data.get('data', {}).get('Page', {}).get('media', []):
-            # 1. Szigorú 18+ jelenet kizárás
             if m.get('isAdult'): continue
             
             genres = m.get('genres', [])
             tags = [t['name'] for t in m.get('tags', [])[:10]]
             
-            # 2. SZIGORÚ Erotikus műfajok és tagek kizárása (Ecchi, Smut, Erotica, Hentai)
-            erotic_genres = ['Ecchi', 'Smut', 'Erotica', 'Hentai']
-            explicit_tags = ['Sexual Violence', 'Rape', 'Incest', 'Prostitution']
+            # SZIGORÚ kizárások: Erotika és LMBTQ+
+            banned_genres = ['Ecchi', 'Smut', 'Erotica', 'Hentai', 'Boys Love', 'Girls Love', 'Yaoi', 'Yuri']
+            banned_tags = ['Sexual Violence', 'Rape', 'Incest', 'Prostitution', 'LGBTQ+ Themes']
             
-            if any(g in erotic_genres for g in genres) or any(t in explicit_tags for t in tags):
-                continue # Kihagyjuk a mentést! A sima Romance maradhat.
+            if any(g in banned_genres for g in genres) or any(t in banned_tags for t in tags):
+                continue
             
             start_date = m.get('startDate', {})
             year = start_date.get('year')
-            month = start_date.get('month')
-            day = start_date.get('day')
-            date_str = f"{year}-{month or 1:02d}-{day or 1:02d}" if year else ""
+            date_str = f"{year}-{start_date.get('month', 1):02d}-{start_date.get('day', 1):02d}" if year else ""
             
-            # 3. Korhatár és NSFW borító logika (A maradék művekre)
             age_rating = "12+"
             cover_nsfw = False
-            
-            # Ha van benne porkrámpa vagy erős utalás (de nem erotikus műfajú)
-            if any(g in ['Horror'] for g in genres) or any(t in ['Gore', 'Bloodshed', 'Nudity'] for t in tags):
+            if any(g in ['Horror'] for g in genres) or any(t in ['Gore', 'Bloodshed'] for t in tags):
                 age_rating = "16+"
             if any(t in ['Nudity'] for t in tags):
-                cover_nsfw = True # A borító kényes lehet, elfedjük
+                cover_nsfw = True
                 
             items.append({
                 "id": f"anilist_{m['id']}",
@@ -260,11 +265,7 @@ def generate_extended_tags(all_media):
             pacing = "Gyors"
         elif any(t in tags for t in ['Slice of Life', 'Drama', 'Romance', 'Iyashikei']):
             pacing = "Lassú"
-        extended.append({
-            "id": item['id'],
-            "tags": list(tags),
-            "pacing": pacing
-        })
+        extended.append({"id": item['id'], "tags": list(tags), "pacing": pacing})
     return extended
 
 def main():
@@ -279,11 +280,26 @@ def main():
     new_manhwas = get_anilist_media("MANGA", "KR")
     
     new_items = new_movies + new_games + new_books + new_animes + new_mangas + new_manhwas
-    print(f"Új elemek lekérve: {len(new_items)}")
 
+    # Összefűzés és DUPLIKÁCIÓ SZŰRÉS
     merged_dict = {item['id']: item for item in existing_data}
+    
+    # Létrehozunk egy szótárat a már meglévő NORMALIZÁLT címekhez
+    existing_norm_titles = set()
+    for item in existing_data:
+        norm = normalize_title(item.get('title_en') or item.get('title_hu'))
+        if norm: existing_norm_titles.add(norm)
+
     for item in new_items:
         if item and 'id' in item:
+            norm_title = normalize_title(item.get('title_en') or item.get('title_hu'))
+            
+            # Ha a cím (Gold Edition-stripped) már létezik, kihagyjuk!
+            if norm_title and norm_title in existing_norm_titles:
+                print(f"Duplikáció kihagyva: {item.get('title_en')}")
+                continue
+                
+            if norm_title: existing_norm_titles.add(norm_title)
             merged_dict[item['id']] = item
             
     all_data = list(merged_dict.values())
