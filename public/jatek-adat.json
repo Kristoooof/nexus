@@ -6005,7 +6005,7 @@
         "description": "Red Dead Redemption 2 is the epic tale of outlaw Arthur Morgan and the infamous Van der Linde gang, on the run across America at the dawn of the modern age.",
         "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg",
         "date": "2018-10-26",
-        "score": 93.22631029744846,
+        "score": 93.22637278311858,
         "age_rating": "16+",
         "cover_nsfw": false
     },
@@ -6055,6 +6055,22 @@
         "date": "2013-03-05",
         "score": 93.09937773647209,
         "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_65504",
+        "title_en": "Steins;Gate: Linear Bounded Phenogram",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Adventure",
+            "Visual Novel"
+        ],
+        "description": "Steins;Gate: Linear Bounded Phenogram/Phenogram of Linear Restraint (STEINS;GATE 線形拘束のフェノグラム Senkei Kousoku no Phenogram?) is a visual novel released on April 25, 2013 containing a mixture of scenarios set during and after the original visual novel's story-line, but in different world lines.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co423j.jpg",
+        "date": "2014-04-25",
+        "score": 93.0443090887376,
+        "age_rating": "12+",
         "cover_nsfw": false
     }
 ]
