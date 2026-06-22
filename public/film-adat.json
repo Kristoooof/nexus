@@ -4610,5 +4610,346 @@
         "score": 6.484,
         "age_rating": "16+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1185806",
+        "title_hu": "Mancs őrjárat: A dínófilm",
+        "title_en": "I Want Your Sex",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "description": "Hőseink útja ezúttal a dinoszauruszokhoz vezet, hiszen egy kis probléma adódott a dzsungelben. A nagysikerű Mancs őrjárat harmadik fejezetében ismét újabb kalandokban lehet részük kicsiknek és nagyoknak egyaránt. (Csillag Lajos)",
+        "image": "https://image.tmdb.org/t/p/w500/mVx2O7ikolw0lQC3XEIM4C2uYwd.jpg",
+        "date": "2026-07-31",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_483",
+        "title_hu": "Veszett a világ",
+        "title_en": "Heart Eyes",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Thriller",
+            "Romance"
+        ],
+        "description": "Sailor Ripley éppen a börtönből szabadult. Találkozik szerelmével, Luluval és közösen megszöknek a lány vallási fanatikus anyja, Marietta, elől, aki ellenzi a kapcsolatukat. A fiatalok elindulnak New Orleans felé. Nem is sejtik, hogy a nyomukban van az anya által felbérelt magándetektív, Farragut, akinek feladata, hogy keresztezze a terveiket. Marietta azonban biztosra akar menni, ezért egy kegyetlen kábítószer-kereskedőt is utánuk küld ugyanezzel a megbízatással. Sailor és Lulu egyre furcsább emberekkel találkozik az útjuk során.",
+        "image": "https://image.tmdb.org/t/p/w500/e8WjlSVn5eeKHTY0Gri7VnmTdQQ.jpg",
+        "date": "1990-08-17",
+        "score": 7.037,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1279493",
+        "title_hu": "The Get Out",
+        "title_en": "Rurouni Kenshin Part I: Origins",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "In 1868, after the Bakumatsu war ends, the ex-assassin Kenshin Himura traverses Japan with an inverted sword, to defend the needy without killing.",
+        "image": "https://image.tmdb.org/t/p/w500/dKoz9NKjqFkurpSE5BPe3JUvncL.jpg",
+        "date": "2026-06-18",
+        "score": 8.5,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_6520",
+        "title_hu": "Az első lovag",
+        "title_en": "Street Fighter",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Romance"
+        ],
+        "description": "Artúr király harcba száll a gonosz Malaganttal, aki megint egy újabb várost akar uralma alá hajtani. E város úrnője, a gyönyörű Guinevere beleszeret uralkodójába, és úgy dönt, feleségül megy hozzá. Ám éppen mikor belépne a királyi vár kapuján, véletlenül összetalálkozik egy ismeretlen nomáddal, Lancelottal. Artúr király meglátja Lancelotban a bátor és becsületes hőst, és a híres Kerekasztal lovagjává teszi. Lancelot azonban csak egyet akar: az áhított nő kezét. És senki sem tudhatja előre, mire képes egy ilyen elsöprő erejű szerelem.",
+        "image": "https://image.tmdb.org/t/p/w500/3TRpFlPKQQdhH9QMJ1ndS5Y3fdV.jpg",
+        "date": "1995-07-07",
+        "score": 6.106,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10734",
+        "title_hu": "Szökés Alcatrazból",
+        "title_en": "D.I.S.C.O.",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "description": "Alcatraz a világ egyik legkeményebb és legbiztonságosabb börtöne volt. A San Francisco-i öbölben lévő szigetbörtönbe a legveszélyesebb rabokat zárták, Al Capone is itt raboskodott. 1960. január 18-án ide szállítják Frank Morris elítéltet, aki már több börtönből megszökött. A notórius szökevényt nem riasztja vissza, hogy innen még senkinek sem sikerült megszöknie. Alcatrazban is kivívja a többi rab tiszteletét, majd hozzálát, hogy kidolgozza a menekülési tervét. Az előkészületekbe két társát is bevonja. Aprólékos munkával addig mesterkedik, míg sikerül kijutniuk az erődítmény tetejére.",
+        "image": "https://image.tmdb.org/t/p/w500/A86bYFL2BfpOFuu4fgSOgm8mZnJ.jpg",
+        "date": "1979-06-22",
+        "score": 7.505,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_12201",
+        "title_hu": "A sötétség határán",
+        "title_en": "Emmanuelle in Space 3: A Lesson in Love",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "description": "Thomas Craven (Mel Gibson) elmagányosodott, veterán-nyomozó a bostoni rendőrség gyilkossági csoportjánál. Egy este épp rég nem látott lányával érkezik haza, amikor megtámadják őket és a 24 éves Emma (Bojana Novakovic) a karjai között hal meg. Mindenki úgy gondolja, hogy a golyót Cravennek szánták, azonban neki más gyanúja támad, ezért magánnyomozásba kezd. A nyomok az óriásvállalatok és az állam összefonódásainak tükörlabirintusába vezetnek egy bizonyos Darius Jedburgh (Ray Winstone) személyén keresztül, aki a kormány ügynökeként a bizonyítékokat tünteti el. Craven véres bosszúhadjárata egyetlen lánya gyilkosai után saját érzelmeihez és lelkiismeretéhez is elvezetik a tomboló és megállíthatatlan férfit.",
+        "image": "https://image.tmdb.org/t/p/w500/99SA3aeovv0IVRtNXaKDrfEhZ5h.jpg",
+        "date": "2010-01-28",
+        "score": 6.435,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11422",
+        "title_hu": "A Midway-i csata",
+        "title_en": "Texas Chainsaw 3D",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Drama",
+            "History",
+            "War"
+        ],
+        "description": "1942 elején Amerika és Japán a tengeren méri össze erejét. Nimitz tengernagyot komolyan aggasztja, hogy az utóbbi időben komoly veszteségeket szenvedtek, és csak három repülőgép-anyahajójuk van ütőképes állapotban. A titkosszolgálati jelentések mind azt valószínűsítik, hogy Midway-nél várható a japán támadás és Nimitz megpróbál minden rendelkezésére álló eszközt összeszedni, hogy szembeszállhasson az ellenséggel. A japán haditengerészet vezetője, Yamamoto admirális nagyon bízik a sikerben, hiszen ő is tudja, hogy több, mint négyszeres a túlerejük. De azt még a japánok is aggasztónak tartják, hogy egységeik között gyakori a kommunikációs probléma és nincs elég információjuk az amerikai hajók mozgásáról.",
+        "image": "https://image.tmdb.org/t/p/w500/3oS3LcW2RHDEf4BJBeuxWbFCiAX.jpg",
+        "date": "1976-06-18",
+        "score": 6.61,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_945729",
+        "title_hu": "Szeánsz Velencében",
+        "title_en": "Wanted: Girlfriend",
+        "type": "film",
+        "genres": [
+            "Mystery",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "A kísérteties hangulatú, második világháború utáni Velencében Hercule Poirot borzongató rejtéllyel szembesül Mindenszentek napján. A munkától visszavonultan, önkéntes száműzetésben élő detektív vonakodva bár, de részt vesz egy szeánszon, amit egy bomladozó, szellemjárta palazzóban tartanak. Miután az egyik vendéget meggyilkolják, Poirot árnyak és titkok csalfa világában találja magát.",
+        "image": "https://image.tmdb.org/t/p/w500/9fkr3Nembmyduq9OAZgfc2bqndf.jpg",
+        "date": "2023-09-13",
+        "score": 6.567,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_501170",
+        "title_hu": "Álom doktor",
+        "title_en": "The Mule",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Fantasy"
+        ],
+        "description": "A ragyogás nem múlik el. A kisfiú, aki túlélte mindazt, amit apja művelt vele és családjával a magányos Szépkilátás Hotelben, felnőtt – de viseli az egykori traumák nyomát. Miután nagy nehezen kiverekszi magát az alkoholizmusból, egy hospice-házban talál munkát, ahol halálukra váró ápoltjai Álom doktornak becézik.  Danny Torrance tudja magáról, hogy különleges erők laknak benne. És ezek akkor támadnak fel, amikor találkozik egy lánnyal, aki az övéhez hasonló képességgel rendelkezik, csak sokkal erősebbel.",
+        "image": "https://image.tmdb.org/t/p/w500/ppV3Ch2M7JvOdqEV19N0SSM6PFH.jpg",
+        "date": "2019-10-30",
+        "score": 7.145,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11976",
+        "title_hu": "Legenda",
+        "title_en": "Dumb and Dumber To",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "description": "A legendák földjén egy gonosz démon egyre erősebbé válik, s azt tervezi, hogy megteremti az Örök Éjszakát, és ezáltal megalapozza uralmát a világ felett. Tervének megvalósítását azonban gátolják az Egyszarvúak, a természet legtisztább, varázslatos teremtményei. Darkness ezért gonosz tervet sző: irtóhadjáratot indít, hogy az összes Egyszarvút eltörölje a Föld színéről. Ebbéli mesterkedéseinek megvalósulásától már csak egy hajszál választja el, amikor feltűnik a színen Jack, az egyetlen személy, aki felveheti vele a harcot. Ám amikor a legszebb unikornis halálos sebet kap, úgy tűnik, a világ elveszett.",
+        "image": "https://image.tmdb.org/t/p/w500/smddmBz5WDcdM7NVouD38Ar9LXw.jpg",
+        "date": "1985-08-28",
+        "score": 6.252,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_379686",
+        "title_hu": "Space Jam: Új kezdet",
+        "title_en": "Open Water",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Comedy",
+            "Adventure",
+            "Animation",
+            "Science Fiction"
+        ],
+        "description": "LeBron James és fia stúdiólátogatásra érkeznek a Warner Studios hatalmas telepére. Ám ott egy balesett miatt mindketten a Warner multiverzum fogságába esnek. Ezt a multiverzumot egy megkergült mesterséges intelligencia, az AI G irányítja, akinek valamilyen titokzatos mesterterve van. LeBron James a multiverzumban a Warner stúdió megannyi filmjének helyszínét bejárja majd, ahol azok ikonikus szereplőivel is találkozik, miközben az elveszett fiát keresi. Ebben természetesen a Looney Tunes sztárja, Tapsi Hapsi, Dodó kacsa és a többiek lesznek a segítségére.",
+        "image": "https://image.tmdb.org/t/p/w500/peP1KvnvoMjFQvNqSz7lk7mS0Hs.jpg",
+        "date": "2021-07-08",
+        "score": 6.641,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9947",
+        "title_hu": "Elektra",
+        "title_en": "A Christmas Carol",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Adventure"
+        ],
+        "description": "Elektra felgyógyult a halálosnak hitt sérüléséből, és azóta a világ legveszélyesebb bérgyilkosai között tartják számon. Legújabb megbízását egy titokzatos szövetségtől kapja. Egy férfit kell megölnie, akinek egyetlen bűne, hogy a nagyapja szembe került a renddel. Mark Miller és kislánya azonban nehéz célpont, túlságosan szeretetre méltóak. Életében először Elektra nem hajtja végre a feladatot, amivel azt éri el, hogy velük együtt ő maga is veszélybe kerül. A rend bármi áron le akar számolni velük. A kalandok új irányt adhatnak Elektra eddigi életének. Már ha túlélik azokat.",
+        "image": "https://image.tmdb.org/t/p/w500/cbiyCovNezp6ckPI4yzNfmWkwds.jpg",
+        "date": "2005-01-13",
+        "score": 5.052,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1690",
+        "title_hu": "Motel",
+        "title_en": "Porco Rosso",
+        "type": "film",
+        "genres": [
+            "Horror"
+        ],
+        "description": "A történet két amerikai egyetemistáról, Paxtonről és Josh-ról szól, akik hátizsákkal járják Európát. Egyszer találkoznak Olival - aki származására nézve izlandi - és elhatározzák, hogy együtt folytatják útjukat. Aztán a két jóbarát elkeveredik a sokak szerint az amerikai zsákos turisták Elíziumának tartott diákszállóba. Az egekig magasztalt szálláshely egy eldugott szlovákiai kisvárosban található és gyönyörű kelet-európai lányokkal van tele. A fiatalemberek hamarosan kiszúrják maguknak Natalyát és Svetlanát, a két egzotikus szépséget. A külső szemlélő számára azonban feltűnik, hogy ez az egymásra találás talán túlságosan is olajozottan ment. Habár eleinte a szórakozás elvonja figyelmüket a valóságtól, a két barát hamarosan ráébred, hogy rettenetes csapdába estek, amelyet feltárni annyi, mint alászállni Dante poklára - már ha túlélik a kalandot.",
+        "image": "https://image.tmdb.org/t/p/w500/jtGVEsNOPNOj1ndm0eKlxP6mwYV.jpg",
+        "date": "2006-01-06",
+        "score": 5.964,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9607",
+        "title_hu": "Super Mario fivérek",
+        "title_en": "Guinea Pig Part 2: Flower of Flesh and Blood",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Comedy",
+            "Family"
+        ],
+        "description": "A dinoszauruszok, mint köztudott, hatvanmillió évvel ezelőtt mind egyszálig kihaltak. De mi van, ha mégsem? Ha egy párhuzamos világban ők is tovább éltek, és pont olyan értelmessé és rosszindulatúvá váltak volna, mint az emberek? És csak arra várnának, hogy a mi világunkba betörve magukhoz kaparintsák a hatalmat? A két szuper vízvezeték-szerelőre, a legendás Mario fivérekre vár a feladat, hogy a New York alatt húzódó földalatti csőlabirintuson áthatolva megakadályozzák a gaz Koopa király terveit, és a bájos Daisy hercegnőt jogos örökségéhez segítsék...",
+        "image": "https://image.tmdb.org/t/p/w500/yt5bbMfKpg1nRr4k5edxs7tPK2m.jpg",
+        "date": "1993-05-28",
+        "score": 4.489,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1637212",
+        "title_hu": "Second Case of ಸೀತಾರಾಮ್",
+        "title_en": "Night Swim",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Crime"
+        ],
+        "description": "Forced into early retirement by a degenerative illness, former baseball player Ray Waller moves into a new house with his wife and two children. He hopes that the backyard swimming pool will be fun for the kids and provide physical therapy for himself. However, a dark secret from the home's past soon unleashes a malevolent force that drags the family into the depths of inescapable terror.",
+        "image": "https://image.tmdb.org/t/p/w500/29gHoVhYl8IohfOh3bB5h3Qt0WM.jpg",
+        "date": "2026-02-20",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_929204",
+        "title_hu": "Wallace és Gromit: A szárnyas bosszúja",
+        "title_en": "Hellraiser",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Science Fiction",
+            "Family"
+        ],
+        "description": "A nagykutya Gromit akcióba lendül, hogy megmentse gazdáját, amikor Wallace high-tech találmánya önálló életre kel, őt pedig egy sor gyanús bűntény elkövetésével vádolják.",
+        "image": "https://image.tmdb.org/t/p/w500/hd6e3pylaFPT7UGCbPyMor5H9Zk.jpg",
+        "date": "2024-12-18",
+        "score": 7.452,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10026",
+        "title_hu": "Szamba-hajsza",
+        "title_en": "Pegasus",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime",
+            "Thriller"
+        ],
+        "description": "A wyomingi álmos kisvárosban nincs helye olyan fiatalembernek, aki arról álmodik, hogy salsa zenekarban fog dobolni. Miután Harlan számot vet a lehetőségekkel, összecsomagol, majd a kocsijába pattanva nyugat felé veszi az irányt - irány Los Angeles, a showbiznisz Mekkája. Útközben egy autós kávézóban találkozik a rejtélyes Jude-dal, aki két bérgyilkos elől menekül. Jude elrejt egy kis csomagot Harlan kocsijában. Az Angyalok Városába érkezve Harlan a Puerto Rico-i barátjánál, Caesarnál éjszakázik. Másnap Caesarnak hűlt helye, ott van viszont a barátnője, a kedves Tuesday.",
+        "image": "https://image.tmdb.org/t/p/w500/3EO10jzBHh3Hkg4rxsKXktwfkR8.jpg",
+        "date": "2006-04-23",
+        "score": 4.943,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_612152",
+        "title_hu": "Titkos megszállottság",
+        "title_en": "Concrete",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Horror"
+        ],
+        "description": "A friss házas Jennifer brutális támadás áldozata lesz. Gyógyulása során semmit nem tud felidézni a múltjából, a szörnyű nap eseményeit sem. Russell örül, hogy felesége él és minél előbb haza szeretné vinni. Miközben Jennifer ismerkedik elszigetelt hegyi házukkal, Page nyomozó a támadó nyomába ered.",
+        "image": "https://image.tmdb.org/t/p/w500/3ZqigHrIixTFbXLlqf10aFhUO5L.jpg",
+        "date": "2019-07-18",
+        "score": 5.534,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1534660",
+        "title_hu": "Barurot",
+        "title_en": "Village of Doom",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Rejected by the military and frowned upon by his fellow villagers, a young man nicknamed 'Genius' falls into a series of dangerous love affairs during World War II.",
+        "image": "https://image.tmdb.org/t/p/w500/rCwhCTq7ztgTKTP6u25eWfTvUBo.jpg",
+        "date": "2025-09-12",
+        "score": 7.667,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_966220",
+        "title_hu": "Sniper. The White Raven",
+        "title_en": "Dirty Angels",
+        "type": "film",
+        "genres": [
+            "War",
+            "Action",
+            "Drama"
+        ],
+        "description": "Egy ukrán fizikatanár bosszút fogad, miután a megszálló katonák hatalmas tragédiát okoztak számára Donbasz megszállása során. A férfi egy orosz mesterlövészt vesz célba.",
+        "image": "https://image.tmdb.org/t/p/w500/66mrr3AK6grmkfGJ1wlCP8dkzjM.jpg",
+        "date": "2022-05-03",
+        "score": 7.689,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
