@@ -2705,13 +2705,13 @@
     {
         "id": "tmdb_628170",
         "title_hu": "Anakan Mo Ako",
-        "title_en": "Murder on the Orient Express",
+        "title_en": "The Mastermind",
         "type": "film",
         "genres": [
             "Drama",
             "Romance"
         ],
-        "description": "In 1935, when his train is stopped by deep snow, detective Hercule Poirot is called on to solve a murder that occurred in his car the night before.",
+        "description": "In a sedate Massachusetts suburb circa 1970, unemployed family man and amateur art thief J.B. Mooney sets out on his first heist. With the museum cased and accomplices recruited, he has an airtight plan. Or so he thinks.",
         "image": "https://image.tmdb.org/t/p/w500/bwHwgkZJ41hnZ66lmr5sJ0SIKm8.jpg",
         "date": "1999-01-17",
         "score": 4.8,
@@ -5549,6 +5549,336 @@
         "image": "https://image.tmdb.org/t/p/w500/quTEmZTxYK6C61k9d5h8DUtdwLe.jpg",
         "date": "2006-05-17",
         "score": 6.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1059064",
+        "title_hu": "A felbujtók",
+        "title_en": "Impossible Things",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Comedy"
+        ],
+        "description": "Rory és Cobby nem mindennapi páros: egy kétségbeesett apa és egy volt fegyenc, akiket egy rablás sodor egymás mellé. Amikor az akció balul sül el, különös társukkal – Rory terapeutájával – összefogva menekülnek a rendőrség, a maradi bürokraták és egy bosszúszomjas gengszter elől.",
+        "image": "https://image.tmdb.org/t/p/w500/rve6G8SfgJOIRY8DqMTasSXsd0j.jpg",
+        "date": "2024-08-02",
+        "score": 6.139,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_667257",
+        "title_hu": "Lehetetlen dolgok",
+        "title_en": "The Republic of Two",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Drama"
+        ],
+        "description": "Matilde 15 éves kora óta él együtt a férjével, akivel házasságuk az elmúlt évek során egyre mérgesebbé és erőszakosabbá vált. Amikor a férfi hirtelen meghal, az asszony egyedül marad a macskájával, ám úgy érzi, hogy a férfi továbbra is vele van.",
+        "image": "https://image.tmdb.org/t/p/w500/wnQXJUSvAGGvxpMqPQfS0gnhQu5.jpg",
+        "date": "2021-06-17",
+        "score": 8.395,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_274975",
+        "title_hu": "The Republic of Two",
+        "title_en": "In the Line of Fire",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Veteran Secret Service agent Frank Horrigan is a man haunted by his failure to save President Kennedy while serving protection detail in Dallas. Thirty years later, a man calling himself \"Booth\" threatens the life of the current President, forcing Horrigan to come back to protection detail to confront the ghosts from his past.",
+        "image": "https://image.tmdb.org/t/p/w500/gPuSu9t80q83PtF2qpwmGCwwO59.jpg",
+        "date": "2013-11-09",
+        "score": 3.7,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9386",
+        "title_hu": "Célkeresztben",
+        "title_en": "Day of the Dead",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller",
+            "Crime",
+            "Mystery"
+        ],
+        "description": "Frank Horrigan, a titkosszolgálat embere olyan magának való, kemény fickó, akinek munkája iránti elkötelezettségét a magánélete, barátai és a családja sínylették meg. Bár szakmájának az egyik legjobbja, ma is élénken emlékszik első elnöki megbízatásának kudarcára, amikor 1963 novemberében John F. Kennedy-t kellett volna megvédenie egy Dallas-ban tett látogatás során. Majd harminc évvel később az Egyesült Államok elnöke a közelgő választásokra készülődik, s a Fehér Ház titkosszolgálatának keretében Horrigan is részt vesz fenyegető levelek és telefonok rutinszerű kivizsgálásában. Az egyhangú, kissé unalmas munka azonban váratlan fordulatot vesz, amikor Horrigan felfedezi, hogy egy profi bérgyilkos jár az elnök nyomában.",
+        "image": "https://image.tmdb.org/t/p/w500/HHvEEkInpU7vNcdr97RNDVwrnn.jpg",
+        "date": "1993-07-08",
+        "score": 7.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_8408",
+        "title_hu": "A holtak napja",
+        "title_en": "Anakan Mo Ako",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Drama",
+            "Mystery"
+        ],
+        "description": "Az élőholtak eluralkodtak a földön és csak egy maroknyi ember éli túl. Ez a tudósokból és katonákból álló csapat egy elhagyatott rakétakilövőállomáson barikádozta el magát, ahol a vezető tudós groteszk kísérleteket végez azzal a céllal, hogy kontrollálni tudja a kiéhezetten portyázó zombikat.  A feszültség elviselhetetlenné válik, különösen, mikor az önjelölt, pszichésen zavart katonai vezető rájön, néhány emberét felhasználták a zombi kísérletekhez. Az utolsó leheletig tartó küzdelem vége a horror legsötétebb napja, amit a világ valaha is látott.",
+        "image": "https://image.tmdb.org/t/p/w500/gnrpi2xY34PmOX76GsZ6o1jf4rX.jpg",
+        "date": "1985-07-03",
+        "score": 7.02,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1352624",
+        "title_hu": "The Mastermind",
+        "title_en": "Take Shelter",
+        "type": "film",
+        "genres": [
+            "Mystery",
+            "Thriller",
+            "Drama",
+            "Crime"
+        ],
+        "description": "Plagued by a series of apocalyptic visions, a young husband and father questions whether to shelter his family from a coming storm, or from himself.",
+        "image": "https://image.tmdb.org/t/p/w500/oPaEQ3m4zHOzIAstgXCZZtzcHTL.jpg",
+        "date": "2025-10-16",
+        "score": 5.8,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_64720",
+        "title_hu": "Take Shelter",
+        "title_en": "Snatched",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Horror"
+        ],
+        "description": "Curtis LaForche (Michael Shannon) és felesége élete Samantha (Jessica Chastain) élete nem könnyű ugyan siket kislányuk folyamatos és költséges orvosi kezelései mellett, ám ők mégis boldogok, hogy együtt vannak, és szeretik egymást. Curtis-t azonban váratlanul rémálmok kezdik gyötörni, melyben egy mindent elsöprő, apokaliptikus vihart lát – a látomásszerű képek annyira magával ragadják a férfit, hogy a hátsó udvaron megszállottan építeni kezd egy óvóhelyet a vész esetére. Hiába fordulnak el a jócskán megváltozott embertől lassan szomszédai és barátai, Curtis legnagyobb félelme az, hogy álma valóra válik. De vajon megér-e annyit a látszólagos biztonság, hogy közben elveszítse azokat, akiket a legjobb szeret?",
+        "image": "https://image.tmdb.org/t/p/w500/dldIX0q5jewe8rSyCh8d5I1RYx3.jpg",
+        "date": "2011-09-30",
+        "score": 7.06,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_373569",
+        "title_hu": "Ó, anyám!",
+        "title_en": "Superman IV: The Quest for Peace",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "description": "Emilyt kirúgja a pasija, ő meg azt hiszi, hogy összedőlt a világ. Pedig a világ csak ezután dől össze: ugyanis a pár éppen egzotikus vakációra indult volna, és a magára maradt csaj jobb híján rábeszéli szuper óvatos anyukáját, hogy ő utazzon el vele Dél-Amerikába. Ennyire különböző két nő még nem volt egy családban. Nem bírják elviselni egymást, és ezt meg sem próbálják letagadni. A botrányos utazás azonban csak a kezdet: mert még el is rabolják őket. Ha ki akarnak jutni a dzsungelből, anya és lánya kénytelen összefogni... de ahhoz hihetetlen és elképesztően dilis kalandokat kell kiállniuk.",
+        "image": "https://image.tmdb.org/t/p/w500/rCEyNAPBdXPE3NYL9s35JvePtOT.jpg",
+        "date": "2017-05-03",
+        "score": 5.346,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11411",
+        "title_hu": "Superman 4: A sötétség hatalma",
+        "title_en": "Pokémon 3: The Movie",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "description": "Christopher Reeve immáron negyedszer indul harcba a világ legnagyobb szuperhőse képében, és részt vett a negyedik rész történetének kidolgozásában, ahol a nukleáris leszerelés kapja a főszerepet. Mikor Superman bejelenti, hogy megszabadítja a világot az összes atomfegyvertől, Lex Luthor létrehozza Atomembert, az emberfeletti erővel és haraggal bíró gonosztevőt, hogy elpusztítsa Supermant, mielőtt teljesíthetné ígéretét. Az egész világ beleremeg a két szuperhős küzdelmébe, amelyben Superman megakadályozza a Szabadságszobor pusztulását, az Etna kitörését, és még a lerombolt Kínai Nagyfalat is újraépíti. Szenzációs kalandok, elképesztő izgalmak: Supermannel szárnyra kap a képzelet!",
+        "image": "https://image.tmdb.org/t/p/w500/r4yLnSSIgoyc0Pbb2QoR3HgkndQ.jpg",
+        "date": "1987-07-24",
+        "score": 4.607,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10991",
+        "title_hu": "Pokémon 3. - Az öntudatlan betűi",
+        "title_en": "Fist of the North Star: Legend of Raoh - Chapter of Fierce Fighting",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Animation",
+            "Action",
+            "Family"
+        ],
+        "description": "Ash, Brock és Misty újabb viadalra készülnek. Az úton egy hegyi faluban megismerkednek egy kislánnyal. Molly édesapja professzor volt és éppen akkor tűnt el, amikor a végére járt volna legújabb kutatásának. Az Unown 26 féle Pokémon csapata: mindannyian egy betűt képviselnek. Együtt pedig kristályszerkezeteket hoznak létre. Talán ilyen szerkezet védi Molly házát, vagy az is lehet, hogy a mérhetetlen szomorúságból épül a palota? Molly nem akar semmi mást, mint újra egy igazi családot. Ash és lelkes csapata a kislány segítségére siet, hogy megoldják a professzor eltűnésének rejtélyét...",
+        "image": "https://image.tmdb.org/t/p/w500/e1TbccHsmErNIdICx99aGG3WOSV.jpg",
+        "date": "2000-07-08",
+        "score": 6.542,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_114372",
+        "title_hu": "真救世主伝説 北斗の拳 ラオウ伝 激闘の章",
+        "title_en": "After Hours",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Animation",
+            "Adventure",
+            "Romance"
+        ],
+        "description": "Desperate to escape his mind-numbing routine, uptown Manhattan office worker Paul Hackett ventures downtown for a hookup with a mystery woman.",
+        "image": "https://image.tmdb.org/t/p/w500/eQI4zxgXVj5wb6YGGmwauSPdvIp.jpg",
+        "date": "2007-04-28",
+        "score": 6.494,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10843",
+        "title_hu": "After Hours - Lidérces órák",
+        "title_en": "East Side Waltz Garden of Earthly Delights",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Thriller",
+            "Drama"
+        ],
+        "description": "Paul Hackett, a fiatal New York-i számítógép-programozó ígéretes este elé néz. Egy fiatal szőke lánnyal készül randevúzni, akivel alig néhány órája ismerkedett meg az egyik kávézóban. Taxival igyekszik a találkára, amikor a lendületes autózás közepette a huzat kiviszi Paul pénzét a lehúzott ablakon. A \"rászedett\" taxis otthagyja a kihalt utcán fizetni nem tudó utasát. Mindez azonban csak egy őrült, hihetetlen kalandokkal és lidércnyomással teli éjszaka kezdete csupán, amely az elképesztő metropoliszban Paulra vár.",
+        "image": "https://image.tmdb.org/t/p/w500/xCF8pUVC0vtlkKiFXAidkbWJlVt.jpg",
+        "date": "1985-09-13",
+        "score": 7.499,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1069482",
+        "title_hu": "イーストサイドワルツ 悦楽の園",
+        "title_en": "Luckiest Girl Alive",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A successful woman in New York City finds her life upended when she is forced to confront a dark truth that threatens to unravel her meticulously crafted life.",
+        "image": "https://image.tmdb.org/t/p/w500/wXZ84xbUsp1M5NpTFFad2e0M9qK.jpg",
+        "date": "1998-01-01",
+        "score": 6.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_799546",
+        "title_hu": "Szerencse lánya",
+        "title_en": "Death Note Relight 2: L's Successors",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Mystery"
+        ],
+        "description": "Egy írónő tökéletesen megkomponált New York-i élete teljesen felborul, amikor egy bűnügyi dokumentumfilm késztetésére szembenéz viszontagságos gimnáziumi múltjával.",
+        "image": "https://image.tmdb.org/t/p/w500/vikRKvYCfzQeTuyzAjOQGaLHBvv.jpg",
+        "date": "2022-09-30",
+        "score": 6.513,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_68555",
+        "title_hu": "デスノート：リライト2 Lを継ぐ者",
+        "title_en": "Just My Luck",
+        "type": "film",
+        "genres": [
+            "TV Movie",
+            "Thriller",
+            "Animation",
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ],
+        "description": "Manhattanite Ashley is known to many as the luckiest woman around. After a chance encounter with a down-and-out young man, however, she realizes that she's swapped her fortune for his.",
+        "image": "https://image.tmdb.org/t/p/w500/e7gHO1hJHhiPV7nRG6oRUHWFe2q.jpg",
+        "date": "2009-10-07",
+        "score": 7.324,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10025",
+        "title_hu": "Cserebere szerencse",
+        "title_en": "Pretty Guardian Sailor Moon Cosmos the Movie Part 2",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Romance"
+        ],
+        "description": "Ashley nem tehet róla: mindig jobb lábbal kell fel. Bármit tesz, bárhova megy, a szerencse kíséri. Egyik mázli a másikat követi, otthon, a munkahelyén és a kettõ között útközben mindig talál, csinál vagy lát valamit, amibõl fantasztikusan jó dolgok következnek. Legutóbbi bingó: egy liftbe szorul egy szupergazdag és szupercsinos sráccal, aki persze rögtön randira hívja. De ha valakinek minden ilyen jól sikerül, kell hogy legyen másvalaki valahol, akinek sosem jön be semmi. A város túlsó felében Jake a világ legnagyobb lúzere. Üldözi a balszerencse, cseberbõl vederbe telik az élete. Egy rettenetesen elbaltázott meghallgatás után még a rockzenekar is ki akarja rúgni, melynek eddig az impresszáriója volt. És egy bulin Ashley és Jake véletlenül egymás mellé keverednek. Véletlenül megcsókolják egymást.",
+        "image": "https://image.tmdb.org/t/p/w500/aLlLsXOZLbARyQKouNvQ1DGNTMV.jpg",
+        "date": "2006-05-12",
+        "score": 6.178,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_968870",
+        "title_hu": "劇場版 美少女戦士セーラームーンCosmos 後編",
+        "title_en": "The Host",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Fantasy",
+            "Romance"
+        ],
+        "description": "A parasitic alien soul is injected into the body of Melanie Stryder. Instead of carrying out her race's mission of taking over the Earth, \"Wanda\" (as she comes to be called) forms a bond with her host and sets out to aid other free humans.",
+        "image": "https://image.tmdb.org/t/p/w500/2xo26JW8YOunPhWKPHwpLuW5HQz.jpg",
+        "date": "2023-06-30",
+        "score": 7.963,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_72710",
+        "title_hu": "A burok",
+        "title_en": "A Touch of Zen",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "description": "A Földet békés idegenek, a Lelkek foglalják el. A Lelkek átveszik az irányítást a legtöbb ember elméje fölött, testüket azonban érintetlenül hagyják, és beleköltözve buroknak használják. A kevés emberi ellenálló egyikét, Melanie-t elfogja a Hajtók egyike, akik az utolsó emberektől védik az új fajt. Kétségbeesett csata után Melanie testébe beültetnek egy Vándor nevű Lelket. Vándort figyelmeztetik, hogy a heves érzelmek, a szenvedély és az élénk emlékek miatt nem könnyű egy emberben élni, ám van valami, amire nem számított: teste korábbi lakója nem hajlandó átadni az elméje fölötti uralmat.",
+        "image": "https://image.tmdb.org/t/p/w500/b1i7munBExHUZQocMIilSiHgfs0.jpg",
+        "date": "2013-03-22",
+        "score": 6.285,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_44154",
+        "title_hu": "俠女",
+        "title_en": "The Rape",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "description": "Yahagi Michiko is accosted and raped walking home one evening. From there she maneuvers the logistics of the police, hospital, and criminal justice system while balancing her home life including romantic relationships.",
+        "image": "https://image.tmdb.org/t/p/w500/lAYeZ2IJXwWbH02Z6Lx1bhpgqOv.jpg",
+        "date": "1970-07-10",
+        "score": 7.591,
         "age_rating": "12+",
         "cover_nsfw": false
     }
