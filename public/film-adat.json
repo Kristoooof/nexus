@@ -696,7 +696,7 @@
     {
         "id": "tmdb_12405",
         "title_hu": "Gettómilliomos",
-        "title_en": "EgyBest",
+        "title_en": "Slumdog Millionaire",
         "type": "film",
         "genres": [
             "Drama",
@@ -942,7 +942,7 @@
     {
         "id": "tmdb_94365",
         "title_hu": "Az emberi százlábú 3",
-        "title_en": "27 Dresses",
+        "title_en": "The Human Centipede 3 (Final Sequence)",
         "type": "film",
         "genres": [
             "Horror"
@@ -950,7 +950,7 @@
         "description": "A film egy szigorúan titkos börtönben játszódik a sivatag kellős közepén, ahol az igazgató azt tervezi, létrehoz egy 500 emberből álló emberi százlábút, mely megoldaná a problémát.",
         "image": "https://image.tmdb.org/t/p/w500/bQ4kMxVd04u7Pe6uEFpA0jrRPHJ.jpg",
         "date": "2015-05-22",
-        "score": 3.767,
+        "score": 3.763,
         "age_rating": "16+",
         "cover_nsfw": false
     },
@@ -972,7 +972,7 @@
     {
         "id": "tmdb_9053",
         "title_hu": "DOA - Élve vagy halva",
-        "title_en": "Tinker Bell and the Legend of the NeverBeast",
+        "title_en": "DOA: Dead or Alive",
         "type": "film",
         "genres": [
             "Adventure",
@@ -982,7 +982,7 @@
         "description": "A gazdag és velejéig romlott Donovan meghívja a világ legjobb harcosait, hogy bajnokságot rendezzen. Tina, az amcsi pro-pankrátor be akarja bizonyítani, hogy nem csak megrendezett meccseken tud nyerni, Kasumi, a ninja-hercegnő a tavalyi DOA-bajnokságon eltűnt bátyja után nyomoz, Christie, a mestertolvaj pedig el akarja lopni a szervező pénzét. Kezdetben riválisok, ám végül egyesítik erőiket Donovanék ellen.",
         "image": "https://image.tmdb.org/t/p/w500/vnBpd8Z9nDcMNvpFxlNEGybLSXd.jpg",
         "date": "2006-09-07",
-        "score": 5.253,
+        "score": 5.3,
         "age_rating": "16+",
         "cover_nsfw": false
     },
@@ -7033,6 +7033,254 @@
         "image": "https://image.tmdb.org/t/p/w500/xcc6529QLJol6Tf5QOSCy8aCJQQ.jpg",
         "date": "2021-07-29",
         "score": 6.606,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_6435",
+        "title_hu": "Átkozott boszorkák",
+        "title_en": "Practical Magic",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Comedy",
+            "Fantasy"
+        ],
+        "description": "Sally és Gillian, a két testvér mindig tudta, hogy nem olyan, mint a többi gyerek. Szüleik halála után különc nagynénjeik nevelték őket, és a háztartásuk egy cseppet sem volt hétköznapi, már kiskoruktól gyakorolták a családjukban generációról generációra öröklődő varázslást. Egy apró gond van csak a csodálatos örökséggel: egy átok, miszerint az a férfi, aki a család egyik nőtagjába beleszeret, idő előtt meghal. Sally igazi szerelemre vágyik, és megpróbál távol maradni a varázsló praktikáktól, míg Gillian bolondos és csapodár módon élvezi hatalmát a férfiak fölött. Amikor azonban Gillian találkozik Jimmy-vel, egyre különösebb dolgok történnek.",
+        "image": "https://image.tmdb.org/t/p/w500/8rkz9DGV28cYUtqN1ZR7CpWFJCv.jpg",
+        "date": "1998-10-16",
+        "score": 6.786,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_6278",
+        "title_hu": "2020: A tűz birodalma",
+        "title_en": "Reign of Fire",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Fantasy"
+        ],
+        "description": "Quinn 12 éves, amikor a londoni metró egyik alagútjában szemtanúja a Sárkány ébredésének. Sikerül kimenekülnie a mélyből, ám édesanyja nem éli túl a találkozást. Húsz évvel később a Föld elhagyott, felégett, romos pusztaság. A sárkányok elszaporodtak és erősebbek az embernél. Maroknyi túlélő maradt csupán, de már ők sem harcolnak. Barlangok mélyén, elhagyott erdőkben bujkálnak. Quinn lett ennek a kis közösségnek a vezére: egy elhagyott várkastélyban igyekeznek ellenállni a meg-megújuló támadásoknak, és a legfőbb céljuk, hogy megmentsék a gyerekeik életét. Ám a néptelen felföld felől különös vendégeik érkeznek. Sárkányölők. Van Zan és emberei felveszik a harcot. Quinn a túlélésre játszik, szeretné elkergetni őket, de nemsokára belátja, neki is harcolnia kell.",
+        "image": "https://image.tmdb.org/t/p/w500/3IrDCHMbxhErJwJTZdCB8m8FQBM.jpg",
+        "date": "2002-07-09",
+        "score": 6.209,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_8916",
+        "title_hu": "Z, a hangya",
+        "title_en": "Antz",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "description": "Az élet nem habos torta Z számára, aki egy kis dolgozó hangya nagy ötletekkel, és az esélye, hogy meghódítsa a gyönyörű Bala hercegnőt, szó szerint egy a milliárdhoz. De amikor Z rábeszéli katonahangya barátját, hogy átmenetileg cseréljenek posztot, a dolgok vad fordulatot vesznek. A termeszekkel vívott háborútól a \"Rovarkánaán\" keresésén át Z kalandjai végül odáig vezetnek, hogy meg kell ütköznie a könyörtelen Csáprágó tábornokkal, aki ki akarja irtani az egész bolyt. Z, az egykor legjelentéktelenebb dolgozó most a legnagyobb hőssé válhat mindannyiuk közül.",
+        "image": "https://image.tmdb.org/t/p/w500/eGTZ11CisudDK0Uq8bke1jLuUwq.jpg",
+        "date": "1998-10-02",
+        "score": 6.188,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_7445",
+        "title_hu": "Testvérek",
+        "title_en": "Brothers",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "War"
+        ],
+        "description": "Sam és Tommy teljesen ellentétei egymásnak. Sam, többszörösen kitüntetett katona, apja nyomdokain példás karriert futott be, míg Tommy - a család feketebáránya - épp most szabadult és csak sodródik az árral. Amikor Sam gépét lelövik a tálibok Afganisztán felett Tommy kötelességének érzi, hogy Grace és két kislánya segítségére legyen, megpróbálja a fivére családjában keletkezett űrt betölteni. A gyász és a szükség egy új családot teremt, ahol Tommy mindjobban magára talál. Immár nem, mint segítő, hanem, mint családfőként van jelen Grace oldalán. Mikor Sam váratlanul hazatér a két fivérnek szembe kell néznie egy új helyzettel, ahol szerelem, hűség, férfiasság már mindkettőjüknek mást jelent, mint korábban.",
+        "image": "https://image.tmdb.org/t/p/w500/2GEdJmpamgrTXq99hgD5voJED7l.jpg",
+        "date": "2009-12-02",
+        "score": 7.315,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_97020",
+        "title_hu": "Robotzsaru",
+        "title_en": "RoboCop",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "description": "Detroit, 2028. A robottechnológia monopóliuma egy nemzetközi óriáscég, az OmniCorp kezében van. Különböző harci drónjaikat sikerrel használja a hadsereg a tengerentúlon már évek óta - ez pedig sok milliárdos profitot jelent a cég számára. Az OmniCorp fejesei úgy döntenek, hogy hazai fronton is csatasorba állítják egyébként sokat vitatott technológiájukat, és erre nem sokkal később remek lehetőség adódik. Amikor Alex Murphy - a szerető férj és apa, valamint remek zsaru, aki mindent megtesz azért, hogy elsöpörje a bűnözést és a korrupciót Detroit utcáiról - súlyosan megsérül szolgálat közben. Az OmniCorp benne látja meg a lehetőséget, hogy létrehozzanak egy félig ember, félig robot rendőrtisztet. A vállalat álma, hogy minden városban szolgáljon egy Robotzsaru, ennek köszönhetően pedig további milliárdok kerüljenek a részvényesek számláira. Egy dologgal azonban nem számoltak: a robottesten belül továbbra is egy ember rejtőzik, akik igazságot akar szolgáltatni minden áron!",
+        "image": "https://image.tmdb.org/t/p/w500/9ynWGeV9BdO2LXNx8o8s9WK3OjI.jpg",
+        "date": "2014-01-30",
+        "score": 5.887,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_682012",
+        "title_hu": "Amélie et la métaphysique des tubes",
+        "title_en": "Little Amélie or the Character of Rain",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family"
+        ],
+        "description": "Amélie, egy belga lány Nishio-san társaságában fedezi fel az életet Japánban. Harmadik születésnapja fordulópontot jelent, és olyan sorsfordító események kezdetét jelzi, amelyek megváltoztatják a világról alkotott képét.",
+        "image": "https://image.tmdb.org/t/p/w500/As1MI46u7yWuBhZ5AI41GdB867G.jpg",
+        "date": "2025-06-25",
+        "score": 7.9,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_16269",
+        "title_hu": "賭神",
+        "title_en": "God of Gamblers",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Ko Chun, a renowned gambler, loses his memory in an accident and starts behaving like a child. Little Knife, an amateur gambler, offers him shelter and realizes that he has a penchant for gambling.",
+        "image": "https://image.tmdb.org/t/p/w500/lmAVK6B4uR8xgYTytjvAfoLuEBG.jpg",
+        "date": "1989-12-14",
+        "score": 7.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_73454",
+        "title_hu": "X: Night of Vengeance",
+        "title_en": "X",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Romance"
+        ],
+        "description": "A 17 éves fiatal lány, Shay (Hanna Mangan Lawrence) a város forgatagában arra kényszerül hogy a testével kereskedjen. Nincs hová mennie, nincs senkije a jövője baljós és bizonytalan, ráadásul a konkurencia éber figyelemmel kíséri minden mozdulatát. Egy éjjel Holly (Viva Bianca) aki maga is prostituált, véletlenszerűen találkozik Shay-jel, és jól fizető kuncsafthoz hívja, aki vele is tart hiszen állandó pénzszűkében van. De a pásztoróra közepén a férfit meglátogatja valaki és végez vele. A lányoknak a fürdőszobán keresztül sikerül elmenekülniük, de mivel szemtanúi voltak a gyilkosságnak, futniuk kell hogy mentsék az életüket.",
+        "image": "https://image.tmdb.org/t/p/w500/nvU6uTwSpMpitM6mnuYXb1LgxxX.jpg",
+        "date": "2011-11-23",
+        "score": 6.4,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1380553",
+        "title_hu": "Ungol",
+        "title_en": "Ungol",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Sexy vixens Audrey Avila and Stephanie Raz will give you the hottest moans in this newest sexy drama by Bobby Bonifacio, Jr. A blind woman owns a makeshift motel in a slums area. As she hears her clients' loud noises, she becomes sexually aroused.",
+        "image": "https://image.tmdb.org/t/p/w500/1UJgaTuyGBbkq3xZVKWTZ49Xbsw.jpg",
+        "date": "2024-11-08",
+        "score": 3.7,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1405185",
+        "title_hu": "Mama's Boy",
+        "title_en": "Mama's Boy",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A controversial affair unfolds when a young man, Glen, manipulates his stepmother, Lorraine and her sister, Leilanie, to fall for him to exact revenge on his father, Mauro. But there is twist and Glen is in for life-shattering shock.",
+        "image": "https://image.tmdb.org/t/p/w500/1zW70wqJWSsDakL0iDt80UyR9z7.jpg",
+        "date": "2024-12-31",
+        "score": 3.3,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1103621",
+        "title_hu": "หลานม่า",
+        "title_en": "How to Make Millions Before Grandma Dies",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "M, a university dropout low on money and luck, volunteers to take care of his terminally ill grandmother, in the hope of pocketing an inheritance.",
+        "image": "https://image.tmdb.org/t/p/w500/ciBi4QmK13W8TlCd2hcgucqgb0.jpg",
+        "date": "2024-04-04",
+        "score": 8.1,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1620",
+        "title_hu": "Hitman - A bérgyilkos",
+        "title_en": "Hitman",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Drama"
+        ],
+        "description": "Egy Interpol-ügynök hazamegy és egy bérgyilkost talál a szobájában. A 47-es rá vár. De mielőtt végezne áldozatával, elmondja, hogy került oda. Nigériától Moszkváig mérnöki precizitással kidolgozott gyilkosságok és menekülések jelzik a 47-es útját, miközben az Interpol embere mindig a sarkában maradt: de sosem érte utol az emberét. Átverések, árulások, kettős játszmák és gyilkosságok macska-egér játékába bonyolódva élnek évek óta. Lassacskán már abban sem biztosak, melyikük üldözi melyiküket. Most azonban eljött a végső leszámolás pillanata. Ám amikor titokzatos, közös múltjuk lezárulni látszik - hiszen egyikük mindjárt meghúzza a ravaszt - egy újabb fordulat ismét mindent megváltoztat.",
+        "image": "https://image.tmdb.org/t/p/w500/l8BxJ1TtO7bsanBo2ZZ3b9uyBTF.jpg",
+        "date": "2007-11-21",
+        "score": 6.16,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_467244",
+        "title_hu": "Érdekvédelmi terület",
+        "title_en": "The Zone of Interest",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "description": "Rudolf Höss, Auschwitz parancsnoka feleségével, Hedwiggel együtt megpróbál ideális életet teremteni családjuk számára a koncentrációs tábor közelében lévő rezidencián.",
+        "image": "https://image.tmdb.org/t/p/w500/jex9yWOSCC5KtACteFpwJdY8elY.jpg",
+        "date": "2023-12-15",
+        "score": 7.011,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_576784",
+        "title_hu": "Конёк-Горбунок",
+        "title_en": "Upon the Magic Roads",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "description": "Romantic John the Fool and his friend Foal set out on a series of unpredictable adventures in different magical worlds. The two buddies will have to outsmart an evil tyrant king, catch the firebird, and find John’s true love.",
+        "image": "https://image.tmdb.org/t/p/w500/xIGObb5MuHFW3fEfjzlARpSDeiQ.jpg",
+        "date": "2021-02-18",
+        "score": 6.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_2280",
+        "title_hu": "Segítség, felnőttem!",
+        "title_en": "Big",
+        "type": "film",
+        "genres": [
+            "Fantasy",
+            "Drama",
+            "Comedy"
+        ],
+        "description": "Egy tizenkét éves fiú a vidámpark kívánsággépétől azt kéri, hogy legyen végre felnőtt. A csoda megtörténik: másnap reggel egy harmincas férfi bőrében találja magát. Anyja idegennek nézi, elzavarja a háztól, s neki meg kell állnia a saját lábán. Rövidesen egy játékgyár főmérnöke lesz, gyermeki lelkének köszönhetően óriási üzleti sikereket ér el.",
+        "image": "https://image.tmdb.org/t/p/w500/8BzNFlo3UOOJitpcriKTUDlJtxS.jpg",
+        "date": "1988-06-03",
+        "score": 7.186,
         "age_rating": "12+",
         "cover_nsfw": false
     }
