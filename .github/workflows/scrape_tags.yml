@@ -1,0 +1,39 @@
+name: Tag Enricher Scraper
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # 6 óránként lefut
+  workflow_dispatch: # manuális gomb is van
+
+jobs:
+  scrape-tags:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run tag scraper
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
+          IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
+          CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+        run: python scraper_tags.py
+
+      - name: Commit and push enriched data
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add public/bovitett*.json public/manifest.json
+          git commit -m "Auto-enrich tags (batch of 300) $(date -u)" || echo "No changes to commit"
+          git push
