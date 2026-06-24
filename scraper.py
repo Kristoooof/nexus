@@ -17,7 +17,6 @@ HEADERS_OL = {'User-Agent': f'MediaPlatform/1.0 ({CONTACT_EMAIL})'}
 PUBLIC_DIR = 'public'
 os.makedirs(PUBLIC_DIR, exist_ok=True)
 
-# Cím tisztító funkció (kiveszi a Gold Edition, GOTY stb. szavakat)
 def normalize_title(title):
     if not title: return ""
     title = title.lower()
@@ -29,7 +28,7 @@ def normalize_title(title):
     ]
     for kw in keywords_to_remove:
         title = title.replace(kw, '')
-    title = re.sub(r'\s+', ' ', title).strip() # Felesleges szóközök eltávolítása
+    title = re.sub(r'\s+', ' ', title).strip()
     return title
 
 def chunk_and_save(base_filename, data_list, max_items=50000):
@@ -74,6 +73,26 @@ def load_existing_media():
         print(f"Hiba a régi adatok olvasásakor: {e}")
     return list(existing.values())
 
+# ÚJ: Betölti a már meglévő bővített (bovitett) adatokat, hogy ne írja felül a done flaget
+def load_existing_bovitett():
+    existing_ext = {}
+    manifest_path = os.path.join(PUBLIC_DIR, 'manifest.json')
+    if not os.path.exists(manifest_path):
+        return {}
+    try:
+        with open(manifest_path, 'r', encoding='utf-8') as f:
+            manifest = json.load(f)
+        for file in manifest.get('bovitett', []):
+            filepath = os.path.join(PUBLIC_DIR, file)
+            if os.path.exists(filepath):
+                with open(filepath, 'r', encoding='utf-8') as f2:
+                    items = json.load(f2)
+                    for item in items:
+                        existing_ext[item['id']] = item
+    except:
+        pass
+    return existing_ext
+
 def get_tmdb_movies():
     print("Filmek letöltése (TMDB)...")
     if not TMDB_API_KEY: return []
@@ -83,6 +102,8 @@ def get_tmdb_movies():
     movies = []
     try:
         page = random.randint(1, 300)
+        print(f"TMDB oldal: {page}")
+        
         for attempt in range(3):
             try:
                 resp_hu = requests.get(f"https://api.themoviedb.org/3/movie/popular?api_key={TMDB_API_KEY}&language=hu-HU&page={page}")
@@ -95,6 +116,7 @@ def get_tmdb_movies():
                 break
             except requests.exceptions.HTTPError as e:
                 if e.response.status_code >= 500 and attempt < 2:
+                    print(f"TMDB szerver hiba, újrapróbálkozás ({attempt+1}/3)...")
                     page = random.randint(1, 100)
                     time.sleep(2)
                 else:
@@ -220,7 +242,6 @@ def get_anilist_media(media_type="ANIME", country_code=None):
             genres = m.get('genres', [])
             tags = [t['name'] for t in m.get('tags', [])[:10]]
             
-            # SZIGORÚ kizárások: Erotika és LMBTQ+
             banned_genres = ['Ecchi', 'Smut', 'Erotica', 'Hentai', 'Boys Love', 'Girls Love', 'Yaoi', 'Yuri']
             banned_tags = ['Sexual Violence', 'Rape', 'Incest', 'Prostitution', 'LGBTQ+ Themes']
             
@@ -256,20 +277,40 @@ def get_anilist_media(media_type="ANIME", country_code=None):
         print(f"HIBA AniList-nél: {e}")
     return items
 
-def generate_extended_tags(all_media):
+# JAVÍTOTT: Nem írja felül a done flaget és a már kibővített tageket!
+def generate_extended_tags(all_media, existing_bovitett):
     extended = []
     for item in all_media:
+        item_id = item['id']
+        
+        # Ha már létezik és done=true, akkor megtartjuk a régit
+        if item_id in existing_bovitett and existing_bovitett[item_id].get('done'):
+            extended.append(existing_bovitett[item_id])
+            continue
+            
+        # Ha új, vagy még nincs done, generálunk egy újat
         tags = set(item.get('genres', []) + item.get('tags', []))
         pacing = "Közepes"
         if any(t in tags for t in ['Action', 'Adventure', 'Sci-Fi', 'Shounen']):
             pacing = "Gyors"
         elif any(t in tags for t in ['Slice of Life', 'Drama', 'Romance', 'Iyashikei']):
             pacing = "Lassú"
-        extended.append({"id": item['id'], "tags": list(tags), "pacing": pacing})
+            
+        # Ha már voltak korábbi tagek (de nem volt done), azokat is hozzáadjuk
+        if item_id in existing_bovitett:
+            tags.update(existing_bovitett[item_id].get('tags', []))
+            
+        extended.append({
+            "id": item_id,
+            "tags": list(tags),
+            "pacing": pacing,
+            "done": False # A második scraper majd true-ra állítja
+        })
     return extended
 
 def main():
     existing_data = load_existing_media()
+    existing_bovitett = load_existing_bovitett() # Betöltjük a régi bővített adatokat
     print(f"Meglévő elemek betöltve: {len(existing_data)}")
     
     new_movies = get_tmdb_movies()
@@ -280,11 +321,9 @@ def main():
     new_manhwas = get_anilist_media("MANGA", "KR")
     
     new_items = new_movies + new_games + new_books + new_animes + new_mangas + new_manhwas
+    print(f"Új elemek lekérve: {len(new_items)}")
 
-    # Összefűzés és DUPLIKÁCIÓ SZŰRÉS
     merged_dict = {item['id']: item for item in existing_data}
-    
-    # Létrehozunk egy szótárat a már meglévő NORMALIZÁLT címekhez
     existing_norm_titles = set()
     for item in existing_data:
         norm = normalize_title(item.get('title_en') or item.get('title_hu'))
@@ -293,8 +332,6 @@ def main():
     for item in new_items:
         if item and 'id' in item:
             norm_title = normalize_title(item.get('title_en') or item.get('title_hu'))
-            
-            # Ha a cím (Gold Edition-stripped) már létezik, kihagyjuk!
             if norm_title and norm_title in existing_norm_titles:
                 print(f"Duplikáció kihagyva: {item.get('title_en')}")
                 continue
@@ -325,7 +362,7 @@ def main():
         'manhwa-adat': chunk_and_save('manhwa-adat', manhwas)
     }
     
-    extended = generate_extended_tags(all_data)
+    extended = generate_extended_tags(all_data, existing_bovitett)
     manifest['bovitett'] = chunk_and_save('bovitett', extended)
     
     with open(os.path.join(PUBLIC_DIR, 'manifest.json'), 'w', encoding='utf-8') as f:
