@@ -8805,657 +8805,1001 @@
     {
         "id": "igdb_349235",
         "tags": [
+            "soulslike",
             "Role-playing (RPG)",
+            "Indie",
+            "nsfw version exists",
+            "literary reference",
+            "alice in wonderland",
             "Turn-based strategy (TBS)",
             "Adventure",
-            "Indie"
+            "dark fantasy",
+            "little red riding hood"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_163344",
         "tags": [
             "Arcade"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_150004",
         "tags": [
             "Strategy",
-            "Arcade",
-            "Simulator"
+            "Simulator",
+            "Arcade"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_125286",
         "tags": [
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_116680",
         "tags": [
             "Shooter"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_116201",
         "tags": [
+            "Strategy",
             "Tactical",
             "Simulator",
-            "Indie",
-            "Strategy",
-            "Turn-based strategy (TBS)"
+            "anime",
+            "Turn-based strategy (TBS)",
+            "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_94873",
         "tags": [
             "Platform"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_119171",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
-            "Turn-based strategy (TBS)"
+            "Role-playing (RPG)",
+            "character customization",
+            "violence",
+            "bloody",
+            "exploration",
+            "Turn-based strategy (TBS)",
+            "medieval",
+            "dark",
+            "monsters"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_139377",
         "tags": [
             "Shooter",
-            "Arcade"
+            "Arcade",
+            "virtual reality experience"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_11885",
         "tags": [
             "Racing",
+            "countdown timer",
             "Shooter",
-            "Arcade"
+            "helicopter",
+            "vehicle combat",
+            "upgradeable weapons",
+            "Arcade",
+            "motorcycle",
+            "motorsports",
+            "vehicular combat"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_106819",
         "tags": [
-            "Role-playing (RPG)"
+            "jrpg",
+            "grinding",
+            "Role-playing (RPG)",
+            "online multiplayer"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_305098",
         "tags": [
+            "fishing",
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "sailing"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_8204",
         "tags": [
             "Racing",
+            "online",
+            "Simulator",
             "Sport",
-            "Simulator"
+            "racing simulator",
+            "race cars",
+            "white noise",
+            "pax prime 2013",
+            "motorsports",
+            "microtransaction"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_124031",
         "tags": [
-            "Puzzle",
             "Strategy",
-            "Indie"
+            "apple arcade",
+            "available on - apple arcade",
+            "Indie",
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_145528",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
-            "Adventure"
+            "Role-playing (RPG)",
+            "turn-based rpg",
+            "dragon",
+            "hero",
+            "Adventure",
+            "streetpass support",
+            "turn-based combat",
+            "battle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_56006",
         "tags": [
+            "crime",
             "Adventure",
             "Visual Novel"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_1112",
         "tags": [
-            "Adventure",
             "Platform",
-            "Shooter"
+            "Shooter",
+            "aliens",
+            "pirates",
+            "robots",
+            "spaceship",
+            "Adventure",
+            "metroidvania",
+            "death",
+            "gravity"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_305296",
         "tags": [
             "Role-playing (RPG)",
-            "Indie",
+            "survival horror",
             "Shooter",
-            "Adventure"
+            "zombie survival",
+            "zombie shooter",
+            "survival mode",
+            "zombie apocalypse",
+            "Adventure",
+            "Indie",
+            "zombies",
+            "survival shooter"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_103206",
         "tags": [
-            "Role-playing (RPG)",
             "Shooter",
-            "Adventure"
+            "Role-playing (RPG)",
+            "Adventure",
+            "wild west"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_134157",
         "tags": [
+            "Strategy",
+            "terraria",
+            "Role-playing (RPG)",
             "Platform",
             "Simulator",
-            "Role-playing (RPG)",
             "Adventure",
-            "Indie",
-            "Strategy"
+            "Indie"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_28323",
         "tags": [
+            "steam",
             "Platform",
-            "Shooter"
+            "retro",
+            "side-scrolling",
+            "Shooter",
+            "anime",
+            "robots",
+            "compilation",
+            "old school"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_178264",
         "tags": [
+            "2d",
+            "stylized",
             "Simulator",
-            "Puzzle",
+            "choose your own adventure",
+            "anime",
+            "multiple protagonists",
             "Adventure",
             "Visual Novel",
-            "Indie"
+            "Indie",
+            "Puzzle",
+            "demons",
+            "gore"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_150100",
         "tags": [
             "Strategy",
+            "automation",
+            "Simulator",
+            "exploration",
+            "colony simulator",
+            "realism",
+            "building",
             "Indie",
-            "Simulator"
+            "resource management",
+            "farming"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_141828",
         "tags": [
-            "Role-playing (RPG)",
             "Turn-based strategy (TBS)",
+            "Role-playing (RPG)",
+            "pixel art",
             "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_83535",
         "tags": [
+            "Strategy",
             "Shooter",
-            "Puzzle",
-            "Indie",
             "Arcade",
-            "Strategy"
+            "Indie",
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_77199",
         "tags": [],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_29564",
         "tags": [
+            "train simulator",
             "Racing",
+            "Simulator",
             "Adventure",
-            "Indie",
-            "Simulator"
+            "Indie"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_21121",
         "tags": [],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_12151",
         "tags": [
+            "adult",
+            "Simulator",
+            "sexual content",
+            "lgbtq+",
             "Adventure",
             "Visual Novel",
-            "Simulator"
+            "female protagonist",
+            "eroge"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_116146",
         "tags": [
             "Role-playing (RPG)",
+            "cyberpunk",
             "Hack and slash/Beat 'em up",
+            "Adventure",
             "Indie",
-            "Adventure"
+            "violent"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_131887",
         "tags": [
+            "character mod",
+            "Fighting",
             "Platform",
-            "Fighting"
+            "unofficial"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_125410",
         "tags": [
+            "2d",
+            "difficult",
             "Platform",
-            "Indie",
+            "character customization",
             "Shooter",
-            "Arcade"
+            "pixel art",
+            "wall jump",
+            "Arcade",
+            "Indie",
+            "save point",
+            "level editor"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_178283",
         "tags": [
-            "Card & Board Game",
             "Strategy",
+            "pvp",
             "Sport",
-            "Simulator"
+            "Simulator",
+            "football",
+            "football manager",
+            "soccer manager",
+            "play to earn",
+            "Card & Board Game"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_141540",
         "tags": [
+            "investigation",
             "Role-playing (RPG)",
-            "Indie",
-            "Adventure"
+            "noir",
+            "character customization",
+            "exploration",
+            "crpg",
+            "detective",
+            "politics",
+            "Adventure",
+            "Indie"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_27844",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "orcs",
+            "classic",
+            "exploration",
+            "medieval",
+            "Adventure",
+            "magic",
+            "elves",
+            "story rich"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_98753",
         "tags": [
-            "Simulator",
+            "Strategy",
+            "Simulation",
+            "Classic",
             "Role-playing (RPG)",
+            "Funny",
+            "Simulator",
+            "Action",
+            "Casual",
             "Adventure",
             "Indie",
-            "Strategy"
+            "Minimalist",
+            "Retro",
+            "RPG",
+            "farming"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_37138",
         "tags": [
-            "Role-playing (RPG)",
-            "Visual Novel",
-            "Adventure",
             "Strategy",
-            "Turn-based strategy (TBS)"
+            "Role-playing (RPG)",
+            "samurai",
+            "adult",
+            "turn-based",
+            "anime",
+            "dating",
+            "Turn-based strategy (TBS)",
+            "ninja",
+            "Adventure",
+            "Visual Novel",
+            "murder"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_24176",
         "tags": [
+            "grapple",
+            "crude renditions of real people",
             "Sport",
-            "Fighting"
+            "martial arts",
+            "Fighting",
+            "box art - real photos",
+            "game critics awards",
+            "character creation",
+            "split-screen multiplayer"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_236660",
         "tags": [
-            "Puzzle",
+            "ghost",
+            "Point-and-click",
+            "time travel",
+            "detective",
+            "murder",
             "Adventure",
-            "Point-and-click"
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_138756",
         "tags": [
-            "Puzzle",
+            "Point-and-click",
+            "sexual content",
+            "lgbtq+",
             "Adventure",
-            "Point-and-click"
+            "Puzzle",
+            "nudity"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_240168",
         "tags": [
             "Role-playing (RPG)",
-            "Hack and slash/Beat 'em up"
+            "pvp",
+            "Hack and slash/Beat 'em up",
+            "online game",
+            "pve"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_19619",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "minigames",
+            "steampunk",
+            "mech",
+            "dating",
+            "Adventure",
+            "magic",
+            "death",
+            "vehicular combat"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_277807",
         "tags": [
             "Role-playing (RPG)",
+            "steam trading cards",
+            "cyberpunk",
             "Shooter",
-            "Adventure"
+            "steam cloud",
+            "Adventure",
+            "steam families"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_2985",
         "tags": [
+            "basketball",
             "Role-playing (RPG)",
-            "Adventure"
+            "serial killer",
+            "cyberpunk",
+            "anime",
+            "detective",
+            "murder",
+            "Adventure",
+            "life simulation"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_26345",
         "tags": [
-            "Tactical",
-            "Role-playing (RPG)",
-            "Adventure",
             "Strategy",
-            "Turn-based strategy (TBS)"
+            "Role-playing (RPG)",
+            "Tactical",
+            "grid-based movement",
+            "dog",
+            "turn-based",
+            "anime",
+            "jrpg",
+            "robots",
+            "Turn-based strategy (TBS)",
+            "Adventure",
+            "mummy"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_307930",
         "tags": [
             "Role-playing (RPG)",
-            "Hack and slash/Beat 'em up"
+            "pvp",
+            "Hack and slash/Beat 'em up",
+            "online game",
+            "hungary",
+            "pve"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_43036",
         "tags": [
-            "Puzzle",
+            "Point-and-click",
             "Adventure",
-            "Point-and-click"
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_114283",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "party-based combat",
+            "multiple endings",
+            "jrpg",
+            "party-based",
+            "Adventure",
+            "censored version",
+            "enhanced version",
+            "turn-based combat"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_338106",
         "tags": [
+            "bird",
+            "Platform",
+            "character customization",
+            "voxel",
+            "3d",
+            "wall climbing",
+            "flying",
             "Adventure",
-            "Platform"
+            "animal protagonist"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_136715",
         "tags": [
+            "psychological horror",
+            "Indie",
+            "torture",
+            "violence",
+            "sexual content",
+            "furry",
             "Visual Novel",
-            "Indie"
+            "drugs"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_14647",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "lovecraftian"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_396003",
         "tags": [
             "Platform",
-            "Shooter",
-            "Adventure",
-            "Arcade",
             "Racing",
-            "Fighting"
+            "character customization",
+            "Shooter",
+            "Fighting",
+            "Arcade",
+            "Adventure",
+            "building",
+            "arena shooter",
+            "free-to-play",
+            "endless runner",
+            "minigame collection",
+            "blockchain"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_386756",
         "tags": [
-            "Racing"
+            "minecraft",
+            "Racing",
+            "competitve",
+            "1v1",
+            "speedrun"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_322571",
         "tags": [
+            "vr only",
             "Sport",
+            "meta",
             "Platform"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_302968",
         "tags": [
-            "Indie",
-            "Shooter"
+            "Shooter",
+            "online coop",
+            "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_253071",
         "tags": [
             "Role-playing (RPG)"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_246290",
         "tags": [
-            "Role-playing (RPG)",
-            "Strategy"
+            "Strategy",
+            "Role-playing (RPG)"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_49875",
         "tags": [
+            "Strategy",
+            "launch titles",
+            "platform exclusive",
+            "high score",
+            "super game boy enhancement",
+            "backwards compatibility",
             "Puzzle",
-            "Strategy"
+            "block puzzle",
+            "blocks"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_221287",
         "tags": [
             "Simulator",
-            "Puzzle",
+            "Point-and-click",
             "Adventure",
             "Visual Novel",
-            "Point-and-click"
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_121214",
         "tags": [
-            "Adventure",
-            "Shooter"
+            "Shooter",
+            "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_102129",
         "tags": [
+            "rescue mission",
+            "Platform",
             "Adventure",
-            "Platform"
+            "bots"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_24223",
         "tags": [
+            "Shooter",
+            "fandub - brazilian portuguese",
             "Adventure",
-            "Shooter"
+            "fan translation - portuguese"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_331188",
         "tags": [
-            "Puzzle",
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_222485",
         "tags": [
+            "hallucination",
+            "darkness",
+            "Adventure",
             "Puzzle",
-            "Adventure"
+            "female antagonist"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_299596",
         "tags": [
+            "2d",
             "Role-playing (RPG)",
+            "Adventure",
             "Indie",
-            "Adventure"
+            "online multiplayer",
+            "stalker"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_28210",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "dlc content",
+            "dark fantasy"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_938",
         "tags": [
-            "Sport"
+            "Sport",
+            "pool",
+            "billiards"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_330539",
         "tags": [
             "Role-playing (RPG)",
             "Shooter",
-            "Simulator"
+            "Simulator",
+            "survival management",
+            "crafting survival",
+            "survival shooter"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_1103",
         "tags": [
-            "Adventure",
+            "16-bit",
+            "2d",
             "Platform",
-            "Shooter"
+            "Shooter",
+            "aliens",
+            "exploration",
+            "Adventure",
+            "metroidvania",
+            "time manipulation",
+            "female protagonist"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_112191",
         "tags": [
-            "Role-playing (RPG)",
+            "Simulator",
             "Turn-based strategy (TBS)",
-            "Simulator"
+            "Role-playing (RPG)"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_9632",
         "tags": [
-            "Simulator",
+            "Strategy",
             "Role-playing (RPG)",
+            "crafting",
+            "Simulator",
+            "action-adventure",
+            "minecraft inspired",
             "Adventure",
+            "building",
             "Indie",
-            "Strategy"
+            "resource management",
+            "battleship",
+            "blocks"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_13350",
         "tags": [
-            "Adventure",
-            "Platform"
+            "flip screen",
+            "Platform",
+            "chef's hat",
+            "crime",
+            "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_479",
         "tags": [
-            "Adventure",
             "Tactical",
+            "Adventure",
             "Shooter"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_3349",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "mascot",
+            "turn-based",
+            "ghosts",
+            "detective",
+            "Adventure",
+            "magic",
+            "gravity",
+            "dinosaurs"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_1595",
         "tags": [
+            "space simulation",
+            "Role-playing (RPG)",
+            "space battle",
+            "military",
             "Shooter",
             "Simulator",
-            "Role-playing (RPG)",
+            "aliens",
+            "crowdfunding - kickstarter",
+            "futuristic warfare",
+            "spaceship",
             "Adventure",
             "Indie"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_141408",
@@ -9463,428 +9807,678 @@
             "Role-playing (RPG)",
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_1128",
         "tags": [
+            "2d",
             "Role-playing (RPG)",
             "Platform",
-            "Adventure"
+            "bloody",
+            "ghosts",
+            "vampire",
+            "Adventure",
+            "magic",
+            "metroidvania",
+            "gravity"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_80002",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
             "Turn-based strategy (TBS)",
+            "Role-playing (RPG)",
             "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_149292",
         "tags": [
-            "Arcade",
+            "Simulator",
             "Sport",
-            "Simulator"
+            "Arcade",
+            "bowling"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_2276",
         "tags": [
+            "online",
+            "fairy",
+            "pirates",
+            "photography",
+            "action-adventure",
+            "Adventure",
+            "archery",
             "Puzzle",
-            "Adventure"
+            "post-apocalyptic"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_228",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "horde",
+            "orcs",
+            "titular antagonist",
+            "never-ending",
+            "alliance",
+            "rivaling factions",
+            "raiding"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_293325",
         "tags": [
-            "Role-playing (RPG)",
             "Point-and-click",
+            "Role-playing (RPG)",
             "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_24917",
         "tags": [
-            "Adventure"
+            "the game awards 2017",
+            "oculus touch support",
+            "Adventure",
+            "game critics awards",
+            "the game awards - nominee",
+            "the game awards - best vr game - nominee"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_11696",
         "tags": [
-            "Adventure"
+            "natural disaster",
+            "Adventure",
+            "multiple endings"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_26673",
         "tags": [
+            "psychological horror",
+            "2d",
             "Role-playing (RPG)",
-            "Indie",
-            "Adventure"
+            "exploration",
+            "turn-based",
+            "anime",
+            "jrpg",
+            "Adventure",
+            "casual",
+            "Indie"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_233",
         "tags": [
-            "Shooter"
+            "steam",
+            "rebellion",
+            "Shooter",
+            "run and gun",
+            "aliens",
+            "alternate history",
+            "zombies",
+            "dystopian"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_199418",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
+            "Role-playing (RPG)",
             "Turn-based strategy (TBS)",
-            "Indie"
+            "nft",
+            "Indie",
+            "auto battler"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_6440",
         "tags": [
             "Role-playing (RPG)",
+            "crafting",
+            "bloody",
+            "cooking",
             "Hack and slash/Beat 'em up",
-            "Adventure"
+            "rabbit",
+            "Adventure",
+            "grinding",
+            "hunting",
+            "dinosaurs"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_10121",
         "tags": [
-            "Sport"
+            "year in the title",
+            "digital distribution",
+            "Sport",
+            "digital rights management",
+            "soccer"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_23323",
         "tags": [
             "Role-playing (RPG)",
-            "Turn-based strategy (TBS)"
+            "anime",
+            "jrpg",
+            "sequel",
+            "Turn-based strategy (TBS)",
+            "turn-based combat"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_74",
         "tags": [
             "Role-playing (RPG)",
+            "assassin",
+            "organized crime",
             "Shooter",
-            "Adventure"
+            "aliens",
+            "bloody",
+            "exploration",
+            "minigames",
+            "Adventure",
+            "disease"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_316176",
         "tags": [
+            "cats",
+            "pixel art",
             "Platform"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_136790",
         "tags": [
+            "tolkien",
             "Role-playing (RPG)",
+            "mud",
+            "multi-user-dungeon",
             "Hack and slash/Beat 'em up"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_176552",
         "tags": [
             "Simulator"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_152765",
         "tags": [
+            "vampires",
             "Role-playing (RPG)",
             "Platform",
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_72",
         "tags": [
-            "Puzzle",
+            "steam",
+            "achievements",
+            "Platform",
+            "artificial intelligence",
+            "fairy",
+            "robots",
+            "elves",
             "Adventure",
-            "Platform"
+            "Puzzle",
+            "female protagonist"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_135999",
         "tags": [
-            "Puzzle",
-            "Music",
+            "tetris",
+            "vr experience",
+            "Arcade",
             "Indie",
-            "Arcade"
+            "Music",
+            "Puzzle",
+            "available on - horizon catalog"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_122556",
         "tags": [
+            "challenging",
             "Platform"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_481",
         "tags": [
+            "psychological horror",
+            "bloody",
+            "exploration",
+            "great depression",
+            "murder",
+            "Adventure",
+            "disease",
             "Puzzle",
-            "Adventure"
+            "death"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_30237",
         "tags": [
-            "Indie",
-            "Shooter"
+            "class-based",
+            "steam greenlight",
+            "Shooter",
+            "team-based",
+            "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_21874",
         "tags": [
-            "Role-playing (RPG)",
-            "Visual Novel",
-            "Adventure",
             "Strategy",
-            "Fighting"
+            "Role-playing (RPG)",
+            "Fighting",
+            "jrpg",
+            "srpg",
+            "Adventure",
+            "Visual Novel"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_346148",
         "tags": [
             "Tactical",
+            "education",
+            "arab",
             "Quiz/Trivia",
+            "cards",
+            "family friendly",
+            "wordle",
+            "Turn-based strategy (TBS)",
             "Puzzle",
-            "Card & Board Game",
-            "Turn-based strategy (TBS)"
+            "puzzles",
+            "Card & Board Game"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_330101",
         "tags": [
             "Role-playing (RPG)",
-            "Indie",
             "Platform",
-            "Adventure"
+            "Indie",
+            "rage game",
+            "mascot platformer",
+            "snail",
+            "Adventure",
+            "climbing"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_103333",
         "tags": [
-            "Shooter",
-            "Puzzle",
             "Role-playing (RPG)",
+            "Shooter",
+            "Arcade",
             "Adventure",
             "Indie",
-            "Arcade"
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_19131",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
-            "Tactical"
+            "Role-playing (RPG)",
+            "Tactical",
+            "cyberpunk",
+            "turn-based",
+            "anime",
+            "multiple endings",
+            "silent protagonist",
+            "day/night cycle",
+            "multiple protagonists"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_7881",
         "tags": [
+            "year in the title",
+            "artificial intelligence",
+            "online",
+            "Simulator",
             "Sport",
-            "Simulator"
+            "american football",
+            "football",
+            "soccer",
+            "box art - real photos"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_144934",
         "tags": [
-            "Indie",
-            "Quiz/Trivia"
+            "Quiz/Trivia",
+            "memes",
+            "humor",
+            "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_112412",
         "tags": [
             "Role-playing (RPG)"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_112875",
         "tags": [
             "Role-playing (RPG)",
+            "dark fantasy",
+            "3d",
+            "exploration",
+            "story driven",
+            "norse mythology",
             "Hack and slash/Beat 'em up",
-            "Adventure"
+            "Adventure",
+            "magic",
+            "greek mythology"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_21737",
         "tags": [
-            "Puzzle",
             "Strategy",
-            "Arcade"
+            "achievements",
+            "artificial intelligence",
+            "maze",
+            "ghosts",
+            "Arcade",
+            "sequel",
+            "abstract",
+            "Puzzle",
+            "time limit"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_131061",
         "tags": [
+            "character customization",
+            "Quiz/Trivia",
+            "idol",
+            "anime",
+            "leveling",
+            "detective",
+            "ninja",
             "Music",
-            "Quiz/Trivia"
+            "chef"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_106012",
         "tags": [],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_78559",
         "tags": [
-            "Adventure"
+            "amnesia",
+            "Adventure",
+            "text adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_11828",
         "tags": [
             "Role-playing (RPG)",
+            "future",
+            "jrpg",
+            "stereoscopic 3d",
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_22958",
         "tags": [
             "Quiz/Trivia",
-            "Puzzle",
+            "Point-and-click",
+            "minigames",
+            "crime",
+            "platform exclusive",
+            "detective",
             "Adventure",
             "Visual Novel",
-            "Point-and-click"
+            "Puzzle",
+            "touch controls",
+            "rotoscoping",
+            "dialogue trees"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_218633",
         "tags": [
             "Role-playing (RPG)",
-            "Indie",
-            "Adventure"
+            "Adventure",
+            "Indie"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_228530",
         "tags": [
+            "surrealism",
+            "sword",
+            "construction",
+            "training",
+            "Shooter",
+            "3d",
+            "motorcycle",
             "Adventure",
-            "Shooter"
+            "cars"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_215769",
         "tags": [
             "Role-playing (RPG)",
+            "cyberpunk",
             "Shooter",
-            "Adventure"
+            "cybernetics",
+            "Adventure",
+            "story dlc"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_796",
         "tags": [
-            "Sport"
+            "Sport",
+            "baseball"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_326089",
         "tags": [
+            "Simulator",
+            "steam cloud",
+            "steam families",
+            "dark humor",
+            "casual",
             "Indie",
-            "Simulator"
+            "life simulation",
+            "steam achievements"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_165206",
         "tags": [
-            "Shooter"
+            "Shooter",
+            "demon",
+            "lost soul",
+            "hell"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_396231",
         "tags": [
             "Strategy",
+            "persistent world",
+            "space simulation",
             "Tactical",
+            "space battle",
+            "spaceships",
+            "Simulator",
+            "aliens",
             "Indie",
-            "Simulator"
+            "alien attack",
+            "space warfare"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_26255",
         "tags": [
             "Strategy",
-            "Indie",
-            "Simulator"
+            "Simulator",
+            "cooking",
+            "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_227",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "orcs",
+            "bloody",
+            "exploration",
+            "time travel",
+            "ghosts",
+            "murder",
+            "Adventure",
+            "disease"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_69547",
         "tags": [
-            "Indie"
+            "modding support",
+            "character customization",
+            "eldritch horror",
+            "voxel",
+            "bees",
+            "building",
+            "Indie",
+            "farming"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_279630",
         "tags": [
+            "2d platformer",
             "Hack and slash/Beat 'em up",
+            "ninja",
             "Platform"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_9607",
@@ -9892,811 +10486,1238 @@
             "Adventure",
             "Visual Novel"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_43680",
         "tags": [
+            "polygonal 3d",
+            "fitness",
+            "high score",
+            "eyetoy support",
+            "Arcade",
+            "dancing",
             "Music",
-            "Arcade"
+            "motion control",
+            "music and rhythm"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_1440",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
+            "Role-playing (RPG)",
+            "horse",
             "Tactical",
-            "Turn-based strategy (TBS)"
+            "turn-based",
+            "anime",
+            "Turn-based strategy (TBS)",
+            "magic",
+            "evolution",
+            "permadeath",
+            "multiple protagonists"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_84972",
         "tags": [
-            "Adventure",
             "Point-and-click",
+            "japan only",
+            "Adventure",
             "Visual Novel"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_194106",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
+            "Role-playing (RPG)",
+            "anime",
+            "Adventure",
             "Visual Novel",
-            "Adventure"
+            "gacha system"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_18735",
         "tags": [
+            "helicopter",
+            "martial arts",
+            "parkour",
+            "Hack and slash/Beat 'em up",
+            "ninja",
             "Adventure",
-            "Hack and slash/Beat 'em up"
+            "magic",
+            "death",
+            "gravity"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_120710",
         "tags": [
-            "Adventure",
+            "cyborg",
+            "military",
+            "helicopter",
             "Point-and-click",
-            "Indie"
+            "choose your own adventure",
+            "space",
+            "Adventure",
+            "Indie",
+            "police",
+            "interactive fiction"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_140839",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
+            "Role-playing (RPG)",
+            "military",
             "Shooter",
-            "Adventure"
+            "space travel",
+            "aliens",
+            "futuristic",
+            "future",
+            "action-adventure",
+            "Adventure",
+            "permadeath"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_51226",
         "tags": [
-            "Strategy"
+            "Strategy",
+            "management",
+            "organized crime",
+            "crime",
+            "italian mafia",
+            "bink video"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_328028",
         "tags": [
-            "Puzzle",
+            "bombs",
+            "Platform",
             "Adventure",
             "Indie",
-            "Platform"
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_168668",
         "tags": [
-            "Adventure",
-            "Shooter"
+            "Shooter",
+            "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_222341",
         "tags": [
+            "psychological horror",
+            "psychological",
+            "survival horror",
+            "violence",
+            "Adventure",
             "Puzzle",
-            "Adventure"
+            "gore"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_27979",
         "tags": [
+            "goofy",
             "Role-playing (RPG)",
+            "kingdom",
+            "previously on - xbox gamepass",
+            "jrpg",
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_19874",
         "tags": [
+            "steam",
             "Platform",
-            "Shooter"
+            "side-scrolling",
+            "Shooter",
+            "pixel art",
+            "level selection",
+            "robots",
+            "compilation",
+            "death"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_303811",
         "tags": [
+            "Platform",
+            "the game awards - best audio design - nominee",
+            "robot protagonist",
+            "the game awards - best art direction - nominee",
+            "reference to other games",
+            "robots",
             "Adventure",
-            "Platform"
+            "the game awards - best action-adventure game - winner",
+            "the game awards - best score or music - nominee"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_21040",
         "tags": [
+            "souls as currency",
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "soulslike"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_7331",
         "tags": [
+            "online",
+            "Shooter",
+            "action-adventure",
+            "motorcycle",
             "Adventure",
-            "Shooter"
+            "treasure hunt",
+            "building",
+            "over the shoulder",
+            "multiple protagonists"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_222095",
         "tags": [
-            "Platform"
+            "never released outside of bundles",
+            "Platform",
+            "fan translation - portuguese"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_375",
         "tags": [
-            "Adventure",
+            "kojima",
             "Tactical",
-            "Shooter"
+            "cyberpunk",
+            "Shooter",
+            "helicopter",
+            "virus",
+            "mech",
+            "murder",
+            "Adventure",
+            "modern warfare"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_262678",
         "tags": [
+            "survival horror",
+            "3d",
+            "sequel",
+            "Adventure",
             "Puzzle",
-            "Adventure"
+            "voice acting",
+            "female protagonist",
+            "gore"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_427",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "cyberpunk",
+            "turn-based",
+            "anime",
+            "jrpg",
+            "motorcycle",
+            "Adventure",
+            "death",
+            "breeding"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_16983",
         "tags": [
+            "Strategy",
+            "roguelike",
             "Role-playing (RPG)",
-            "Strategy"
+            "assassin",
+            "orcs",
+            "wizards",
+            "turn-based",
+            "vampire",
+            "magic"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_132181",
         "tags": [
-            "Puzzle",
+            "psychological horror",
+            "cinematic",
+            "Shooter",
+            "exploration",
+            "story driven",
             "Adventure",
-            "Shooter"
+            "Puzzle",
+            "resource management",
+            "zombies",
+            "dark"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_74878",
         "tags": [
-            "Adventure",
             "Tactical",
-            "Shooter"
+            "Shooter",
+            "Adventure",
+            "xbox one x enhanced",
+            "4k ultra hd"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_112884",
         "tags": [
-            "Adventure",
+            "16-bit",
+            "bonus stage",
             "Platform",
-            "Arcade"
+            "fox",
+            "8-bit",
+            "anthropomorphism",
+            "Arcade",
+            "Adventure",
+            "running",
+            "hedgehog"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_8593",
         "tags": [
-            "Puzzle",
-            "Adventure"
+            "3d",
+            "time travel",
+            "stereoscopic 3d",
+            "Adventure",
+            "graphics overhaul",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_15467",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "cyberpunk",
+            "demon",
+            "turn-based",
+            "anime",
+            "collecting",
+            "Adventure",
+            "demons"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_74732",
         "tags": [
             "Music",
+            "music and rhythm",
             "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_115875",
         "tags": [
-            "Puzzle",
-            "Arcade",
             "Shooter",
-            "Simulator"
+            "Simulator",
+            "minigames",
+            "peripherals",
+            "Arcade",
+            "Puzzle",
+            "level editor"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_109596",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "world map",
+            "dungeon crawler",
+            "Adventure",
+            "turn-based combat"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_104974",
         "tags": [
+            "detective",
+            "serial killer",
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_96488",
         "tags": [
             "Shooter",
-            "Arcade"
+            "bullet hell",
+            "Arcade",
+            "vertical scrolling",
+            "shoot 'em up",
+            "enhanced version"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95687",
         "tags": [
-            "Puzzle",
-            "Indie"
+            "Indie",
+            "minimalism",
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95680",
         "tags": [
-            "Racing",
             "Sport",
-            "Arcade"
+            "Arcade",
+            "Racing"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95676",
         "tags": [
+            "slender man",
+            "fangame",
             "Adventure",
-            "Indie"
+            "Indie",
+            "slender",
+            "creepypasta"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_95649",
         "tags": [
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95645",
         "tags": [
-            "Puzzle",
-            "Adventure"
+            "previously on - prime gaming",
+            "Adventure",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_95644",
         "tags": [
-            "Adventure",
-            "Arcade"
+            "Arcade",
+            "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_95640",
         "tags": [
-            "Racing",
-            "Sport"
+            "Sport",
+            "Racing"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95565",
         "tags": [],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95556",
         "tags": [
             "Role-playing (RPG)",
+            "turn-based rpg",
+            "retro",
+            "pixel art",
+            "Adventure",
             "Indie",
-            "Adventure"
+            "old school",
+            "turn-based combat"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_95526",
         "tags": [
-            "Arcade",
-            "Simulator"
+            "Simulator",
+            "Arcade"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95288",
         "tags": [
-            "Adventure",
-            "Arcade"
+            "Arcade",
+            "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_95130",
         "tags": [
             "Arcade"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95127",
         "tags": [
-            "Racing",
-            "Sport"
+            "Sport",
+            "Racing"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95100",
         "tags": [
-            "Puzzle",
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95099",
         "tags": [
+            "Role-playing (RPG)",
+            "pvp",
+            "action-rpg",
+            "movie tie in",
+            "based on - movie",
             "Puzzle",
-            "Role-playing (RPG)"
+            "free-to-play"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95094",
         "tags": [
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95091",
         "tags": [
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95054",
         "tags": [
+            "customization",
             "Racing"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_95027",
         "tags": [
             "Role-playing (RPG)",
-            "Indie",
             "Shooter",
-            "Adventure"
+            "Adventure",
+            "Indie",
+            "zombies"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_94880",
         "tags": [
-            "Puzzle",
+            "casual game",
+            "Point-and-click",
+            "hidden object",
             "Adventure",
-            "Point-and-click"
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_94784",
         "tags": [
+            "in-game achievements",
+            "Shooter",
             "Adventure",
-            "Shooter"
+            "microtransaction",
+            "in-app purchases"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_94783",
         "tags": [
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_94750",
         "tags": [
+            "stereoscopic 3d",
+            "Platform",
             "Adventure",
-            "Platform"
+            "3d platformer"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_93901",
         "tags": [
+            "addiction",
+            "checkpoints",
             "Racing",
             "Shooter",
-            "Adventure"
+            "crime",
+            "Adventure",
+            "cars",
+            "bromance"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_93853",
         "tags": [
-            "Racing",
+            "Simulator",
             "Sport",
-            "Simulator"
+            "Racing"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_93817",
         "tags": [
             "Arcade"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_93649",
         "tags": [
             "Role-playing (RPG)"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_92204",
         "tags": [
-            "Puzzle",
-            "Arcade"
+            "relaxing",
+            "Arcade",
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_92116",
         "tags": [
             "Arcade"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_92113",
         "tags": [
             "Arcade"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_92096",
         "tags": [
-            "Puzzle",
-            "Arcade"
+            "Arcade",
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_92090",
         "tags": [
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_91995",
         "tags": [
-            "Puzzle",
-            "Adventure",
             "Point-and-click",
-            "Indie"
+            "Indie",
+            "Adventure",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_91990",
         "tags": [
             "Role-playing (RPG)"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_206513",
         "tags": [
+            "psychological trauma",
             "Visual Novel",
+            "Indie",
             "Music",
-            "Indie"
+            "music and rhythm"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_96632",
         "tags": [
+            "Simulator",
             "Visual Novel",
-            "Indie",
-            "Simulator"
+            "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_8042",
         "tags": [
-            "Simulator",
+            "steam",
             "Role-playing (RPG)",
+            "procedural generation",
+            "pet raising",
+            "virtual pet",
+            "digital pet",
+            "Simulator",
+            "game jam",
+            "Turn-based strategy (TBS)",
+            "pets",
             "Adventure",
-            "Indie",
-            "Turn-based strategy (TBS)"
+            "Indie"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_77378",
         "tags": [
-            "Platform"
+            "playable character - princess peach",
+            "Platform",
+            "mario",
+            "battery save",
+            "nintendo gateway system",
+            "playable character - luigi",
+            "game collection",
+            "playable character - toad"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_1780",
         "tags": [
-            "Adventure",
+            "2d",
             "Platform",
-            "Shooter"
+            "Shooter",
+            "minigames",
+            "mech",
+            "anime",
+            "Adventure",
+            "metroidvania",
+            "gravity",
+            "post-apocalyptic"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_1942",
         "tags": [
+            "underwater",
+            "sword",
             "Role-playing (RPG)",
-            "Adventure"
+            "bloody",
+            "Adventure",
+            "medieval",
+            "magic",
+            "collectible card game",
+            "monsters"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_66396",
         "tags": [
+            "Simulator",
             "Role-playing (RPG)",
-            "Indie",
-            "Simulator"
+            "espionage",
+            "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_5514",
         "tags": [
-            "Puzzle",
+            "live-action cutscene",
+            "digital distribution",
+            "Point-and-click",
+            "hidden object",
             "Adventure",
-            "Point-and-click"
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_84197",
         "tags": [
+            "retro",
+            "8-bit",
+            "deliberately retro",
+            "multiple endings",
             "Adventure",
-            "Indie"
+            "Indie",
+            "pixelated"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_164664",
         "tags": [
-            "Adventure"
+            "difficult",
+            "atmospheric",
+            "assassin",
+            "ninja",
+            "Adventure",
+            "story rich",
+            "dark",
+            "gore"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_109241",
         "tags": [
-            "Shooter",
+            "roguelike",
+            "religion",
             "Role-playing (RPG)",
+            "child protagonist",
+            "roguelite",
+            "Shooter",
+            "dungeon crawler",
+            "Arcade",
             "Adventure",
             "Indie",
-            "Arcade"
+            "multiple protagonists"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_8240",
         "tags": [
             "Strategy",
             "Tactical",
+            "military",
             "Shooter",
-            "Simulator"
+            "Simulator",
+            "online",
+            "over the shoulder",
+            "death",
+            "war",
+            "modern warfare",
+            "hostages"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_119133",
         "tags": [
+            "knights",
             "Role-playing (RPG)",
-            "Adventure"
+            "violence",
+            "exploration",
+            "Adventure",
+            "medieval",
+            "magic",
+            "brutal",
+            "monsters"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_4268",
         "tags": [
             "Strategy"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_275923",
         "tags": [
             "Role-playing (RPG)",
+            "economy",
+            "crafting",
+            "native american",
             "Shooter",
-            "Simulator"
+            "Simulator",
+            "customization",
+            "native americans",
+            "western",
+            "grinding"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_99821",
         "tags": [
-            "Adventure",
+            "mercenary",
             "Tactical",
-            "Shooter"
+            "military",
+            "Shooter",
+            "1960s",
+            "Adventure",
+            "conspiracy",
+            "tragic hero"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_18928",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "martial arts",
+            "turn-based",
+            "combat",
+            "colorful",
+            "magic",
+            "female protagonist",
+            "story rich"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_139403",
         "tags": [
+            "Platform",
+            "side-scrolling",
             "Adventure",
             "Indie",
-            "Platform"
+            "jungle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_140133",
         "tags": [
-            "Puzzle",
+            "survival horror",
+            "crowdfunding",
+            "pixel art",
+            "crowdfunding - nuuvem",
+            "brazil",
             "Adventure",
-            "Indie"
+            "Indie",
+            "based on - web show",
+            "Puzzle",
+            "crowdfunding - catarse"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_141663",
         "tags": [
             "Role-playing (RPG)",
+            "turn-based rpg",
+            "fanmade",
+            "unofficial",
+            "rom hack",
+            "fangame",
+            "Adventure",
             "Indie",
-            "Adventure"
+            "pokemon fangame",
+            "turn-based combat"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_98077",
         "tags": [
+            "multiple storylines",
+            "submarine",
             "Racing",
+            "sex work",
             "Shooter",
-            "Adventure"
+            "action-adventure",
+            "Adventure",
+            "building",
+            "cars",
+            "challenges"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_5563",
         "tags": [
+            "steam",
+            "world war ii - ww2",
             "Tactical",
             "Shooter",
-            "Simulator"
+            "Simulator",
+            "day/night cycle",
+            "planes",
+            "war",
+            "flight simulator",
+            "flight"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_6036",
         "tags": [
+            "infection",
+            "Shooter",
+            "high definition graphics",
+            "story driven",
             "Adventure",
-            "Shooter"
+            "disease",
+            "60 fps on consoles",
+            "post-apocalyptic"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_127155",
         "tags": [
+            "character mod",
+            "Fighting",
             "Platform",
-            "Fighting"
+            "unofficial"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_145327",
         "tags": [
-            "Simulator"
+            "play to earn",
+            "Simulator",
+            "agriculture",
+            "world building"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_5911",
         "tags": [
+            "online",
             "Shooter",
-            "Simulator"
+            "Simulator",
+            "vehicle combat",
+            "mech",
+            "tank",
+            "death",
+            "cult",
+            "vehicular combat"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_8773",
         "tags": [
-            "Adventure",
             "Strategy",
+            "Simulator",
             "Real Time Strategy (RTS)",
-            "Simulator"
+            "Adventure",
+            "space battle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_199736",
         "tags": [
+            "Strategy",
+            "roguelite",
             "Shooter",
             "Simulator",
-            "Indie",
-            "Strategy",
-            "Fighting"
+            "Fighting",
+            "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_25076",
         "tags": [
             "Role-playing (RPG)",
+            "fishing",
             "Shooter",
-            "Adventure"
+            "bloody",
+            "3d",
+            "western",
+            "animals",
+            "murder",
+            "Adventure",
+            "hunting"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_1802",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "time travel",
+            "time machine",
+            "multiple endings",
+            "jrpg",
+            "good vs evil",
+            "apocalypse",
+            "overworld"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_21704",
         "tags": [
-            "Adventure",
-            "Hack and slash/Beat 'em up"
+            "dick grayson",
+            "catwoman",
+            "Hack and slash/Beat 'em up",
+            "based on - comics",
+            "batman",
+            "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_13690",
         "tags": [
+            "Shooter",
             "Role-playing (RPG)",
             "Tactical",
-            "Shooter"
+            "dlc content"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_65504",
@@ -10704,245 +11725,373 @@
             "Adventure",
             "Visual Novel"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_287975",
         "tags": [
+            "soulslike",
             "Role-playing (RPG)",
+            "side quests",
+            "boss fight",
+            "multiple enemy boss fights",
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_10496",
         "tags": [
+            "fan translation - english",
             "Role-playing (RPG)",
-            "Adventure"
+            "turn-based rpg",
+            "sword & sorcery",
+            "Adventure",
+            "gender exclusive equipment",
+            "blobber"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_20196",
         "tags": [
-            "Adventure",
             "Tactical",
-            "Shooter"
+            "Adventure",
+            "Shooter",
+            "game collection"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_338072",
         "tags": [
+            "throwing weapons",
+            "rock climbing",
+            "fairy",
+            "wall climbing",
+            "horse riding",
+            "Adventure",
             "Puzzle",
-            "Adventure"
+            "motion control",
+            "bow and arrow"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_1662",
         "tags": [
             "Role-playing (RPG)",
+            "Fighting",
+            "versus",
+            "futuristic",
             "Arcade",
-            "Adventure",
-            "Fighting"
+            "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_11676",
         "tags": [
-            "Indie",
             "Sport",
-            "Arcade"
+            "Arcade",
+            "Indie",
+            "shareware",
+            "skiing"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_47304",
         "tags": [
-            "Racing"
+            "motorsports",
+            "Racing",
+            "licensed game"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_262942",
         "tags": [
             "Hack and slash/Beat 'em up"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_46147",
         "tags": [
-            "Role-playing (RPG)"
+            "tiered exploration",
+            "mana",
+            "Role-playing (RPG)",
+            "barbarian protagonist",
+            "commerce",
+            "save point",
+            "real-time combat"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_238878",
         "tags": [
-            "Racing"
+            "modding support",
+            "drm free",
+            "Racing",
+            "2.5d",
+            "unofficial",
+            "fangame",
+            "freeware",
+            "go-kart"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_5010",
         "tags": [
+            "year in the title",
+            "management",
+            "Simulator",
             "Sport",
-            "Simulator"
+            "polygonal 3d",
+            "motion control",
+            "baseball",
+            "dating",
+            "gravity"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_214973",
         "tags": [
-            "Puzzle",
+            "Card & Board Game",
+            "solitaire",
             "Indie",
-            "Card & Board Game"
+            "Puzzle",
+            "cards"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_264773",
         "tags": [
+            "spectacle fighter",
+            "based on - memes",
+            "aliens",
+            "memes",
             "Hack and slash/Beat 'em up",
-            "Indie"
+            "based on - movie",
+            "humor",
+            "Indie",
+            "conspiracy"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_279884",
         "tags": [
-            "Tactical",
-            "Role-playing (RPG)",
-            "Adventure",
             "Strategy",
-            "Turn-based strategy (TBS)"
+            "Role-playing (RPG)",
+            "Tactical",
+            "Turn-based strategy (TBS)",
+            "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_278326",
         "tags": [
-            "Puzzle",
+            "Shooter",
             "Adventure",
-            "Shooter"
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_45131",
         "tags": [
+            "addiction",
+            "checkpoints",
             "Racing",
             "Shooter",
-            "Adventure"
+            "crime",
+            "collector's edition",
+            "Adventure",
+            "cars",
+            "bromance"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_212264",
         "tags": [
+            "Strategy",
+            "Role-playing (RPG)",
             "Tactical",
             "Simulator",
-            "Role-playing (RPG)",
-            "Strategy",
-            "Turn-based strategy (TBS)"
+            "jrpg",
+            "Turn-based strategy (TBS)",
+            "story rich"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_4095",
         "tags": [
-            "Platform"
+            "lizards",
+            "Platform",
+            "transformation"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_136482",
         "tags": [
             "Role-playing (RPG)",
+            "undertale fangame",
+            "undertale",
+            "unofficial",
+            "fanmade",
             "Turn-based strategy (TBS)",
             "Adventure",
             "Indie"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_50261",
         "tags": [
+            "lord of the rings",
+            "roguelike",
+            "tolkien",
             "Role-playing (RPG)",
-            "Hack and slash/Beat 'em up"
+            "open-source",
+            "exploration",
+            "Hack and slash/Beat 'em up",
+            "ascii",
+            "permadeath"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_141229",
         "tags": [
-            "Platform",
-            "Simulator",
+            "Strategy",
+            "terraria",
             "Role-playing (RPG)",
+            "Platform",
+            "unofficial",
+            "Simulator",
             "Adventure",
-            "Indie",
-            "Strategy"
+            "Indie"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_317582",
         "tags": [
             "Role-playing (RPG)",
-            "Indie",
             "Platform",
-            "Adventure"
+            "Adventure",
+            "Indie"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_11226",
         "tags": [
+            "Simulator",
             "Sport",
-            "Simulator"
+            "football manager",
+            "funny"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_199038",
         "tags": [
+            "Shooter",
             "Racing",
-            "Shooter"
+            "unofficial"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_201065",
         "tags": [
+            "1980s",
+            "episodic",
+            "secret identity",
             "Adventure",
-            "Visual Novel"
+            "magic",
+            "Visual Novel",
+            "female protagonist",
+            "kinetic novel",
+            "multiple protagonists"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_122661",
         "tags": [
-            "Card & Board Game",
-            "Strategy"
+            "Strategy",
+            "Card & Board Game"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_135341",
         "tags": [
-            "Visual Novel"
+            "political thriller",
+            "aliens",
+            "sexual content",
+            "politics",
+            "furry",
+            "lgbtq+",
+            "Visual Novel",
+            "nudity"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_263446",
         "tags": [
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "digital distribution",
+            "playstation tv support",
+            "psone classics",
+            "playstation network",
+            "multiple endings",
+            "backwards compatibility",
+            "animated cutscenes"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_88973",
@@ -10951,235 +12100,274 @@
             "Platform",
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_91981",
         "tags": [
             "Strategy"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91977",
         "tags": [
-            "Puzzle",
-            "Adventure",
             "Point-and-click",
-            "Indie"
+            "Indie",
+            "Adventure",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_91350",
         "tags": [
             "Racing"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91318",
         "tags": [
-            "Puzzle",
-            "Card & Board Game"
+            "mahjong",
+            "Card & Board Game",
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91316",
         "tags": [
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91300",
         "tags": [
-            "Racing",
             "Sport",
-            "Adventure"
+            "xbox one x enhanced",
+            "Adventure",
+            "Racing"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_91253",
         "tags": [
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91231",
         "tags": [
             "Simulator"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91173",
         "tags": [],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91172",
         "tags": [
-            "Puzzle",
-            "Arcade"
+            "Arcade",
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91145",
         "tags": [
-            "Quiz/Trivia"
+            "Quiz/Trivia",
+            "word game"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91139",
         "tags": [
-            "Puzzle",
-            "Adventure"
+            "Adventure",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_91127",
         "tags": [],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91121",
         "tags": [
-            "Sport",
             "Platform",
-            "Arcade"
+            "golf",
+            "Sport",
+            "Arcade",
+            "cute"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91090",
         "tags": [],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91087",
         "tags": [
-            "Racing",
-            "Arcade"
+            "Arcade",
+            "Racing"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91069",
         "tags": [
-            "Puzzle",
-            "Adventure"
+            "Adventure",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_91068",
         "tags": [
             "Strategy"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_91066",
         "tags": [
-            "Puzzle",
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_90982",
         "tags": [
+            "available on - apple arcade",
+            "collaboration",
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90973",
         "tags": [
             "Strategy"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90866",
         "tags": [
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_90846",
         "tags": [
             "Simulator"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90801",
         "tags": [
-            "Puzzle",
-            "Adventure"
+            "Adventure",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_90791",
         "tags": [
-            "Puzzle",
-            "Adventure"
+            "Adventure",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_90788",
         "tags": [
-            "Puzzle",
-            "Arcade"
+            "Arcade",
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90769",
         "tags": [
             "Arcade"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90741",
         "tags": [
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90736",
         "tags": [],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90671",
         "tags": [
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90630",
         "tags": [
-            "Role-playing (RPG)",
             "Strategy",
+            "Role-playing (RPG)",
             "Tactical"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90518",
@@ -11187,103 +12375,124 @@
             "Shooter",
             "Arcade"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90517",
         "tags": [
+            "2d fighting",
             "Arcade",
-            "Fighting"
+            "Fighting",
+            "anime"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90435",
         "tags": [
-            "Puzzle",
-            "Indie"
+            "Indie",
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90288",
         "tags": [
-            "Racing",
-            "Arcade"
+            "Arcade",
+            "Racing"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90287",
-        "tags": [],
-        "pacing": "Közepes"
+        "tags": [
+            "word game"
+        ],
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90182",
         "tags": [
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90090",
         "tags": [
             "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_90065",
         "tags": [
-            "Puzzle",
-            "Adventure"
+            "Adventure",
+            "Puzzle"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_90064",
         "tags": [
             "Sport"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_361890",
         "tags": [
             "Tactical",
-            "Shooter"
+            "Shooter",
+            "free-to-play",
+            "tank combat",
+            "vehicular combat"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_10039",
         "tags": [
-            "Platform",
-            "Indie",
             "Shooter",
-            "Fighting"
+            "Fighting",
+            "Platform",
+            "Indie"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_120200",
         "tags": [
+            "Strategy",
             "Platform",
             "Shooter",
-            "Puzzle",
+            "available on - luna plus",
             "Indie",
-            "Strategy"
+            "Puzzle"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_110062",
         "tags": [
-            "Racing",
             "Sport",
-            "Arcade"
+            "Arcade",
+            "Racing"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_109465",
@@ -11291,14 +12500,16 @@
             "Role-playing (RPG)",
             "Adventure"
         ],
-        "pacing": "Gyors"
+        "pacing": "Gyors",
+        "done": true
     },
     {
         "id": "igdb_109459",
         "tags": [
             "Role-playing (RPG)"
         ],
-        "pacing": "Közepes"
+        "pacing": "Közepes",
+        "done": true
     },
     {
         "id": "igdb_103198",
