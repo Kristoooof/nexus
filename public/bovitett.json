@@ -12732,10 +12732,11 @@
     {
         "id": "igdb_91145",
         "tags": [
-            "Quiz/Trivia"
+            "Quiz/Trivia",
+            "word game"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_91139",
@@ -12744,38 +12745,40 @@
             "Puzzle"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_91127",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_91121",
         "tags": [
+            "Arcade",
             "Sport",
-            "Platform",
-            "Arcade"
+            "golf",
+            "cute",
+            "Platform"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_91090",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_91087",
         "tags": [
-            "Racing",
-            "Arcade"
+            "Arcade",
+            "Racing"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_91069",
@@ -12784,7 +12787,7 @@
             "Puzzle"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_91068",
@@ -12792,7 +12795,7 @@
             "Strategy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_91066",
@@ -12802,15 +12805,17 @@
             "Role-playing (RPG)"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90982",
         "tags": [
-            "Puzzle"
+            "available on - apple arcade",
+            "Puzzle",
+            "collaboration"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90973",
@@ -12818,7 +12823,7 @@
             "Strategy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90866",
@@ -12826,7 +12831,7 @@
             "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90846",
@@ -12834,7 +12839,7 @@
             "Simulator"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90801",
@@ -12843,7 +12848,7 @@
             "Puzzle"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90791",
@@ -12852,7 +12857,7 @@
             "Puzzle"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90788",
@@ -12861,7 +12866,7 @@
             "Arcade"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90769",
@@ -12869,7 +12874,7 @@
             "Arcade"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90741",
@@ -12877,13 +12882,13 @@
             "Puzzle"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90736",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90671",
@@ -12891,17 +12896,17 @@
             "Puzzle"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90630",
         "tags": [
-            "Tactical",
             "Role-playing (RPG)",
+            "Tactical",
             "Strategy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90518",
@@ -12910,16 +12915,18 @@
             "Shooter"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90517",
         "tags": [
             "Fighting",
-            "Arcade"
+            "2d fighting",
+            "Arcade",
+            "anime"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90435",
@@ -12928,22 +12935,24 @@
             "Indie"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90288",
         "tags": [
-            "Racing",
-            "Arcade"
+            "Arcade",
+            "Racing"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90287",
-        "tags": [],
+        "tags": [
+            "word game"
+        ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90182",
@@ -12951,7 +12960,7 @@
             "Puzzle"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90090",
@@ -12959,7 +12968,7 @@
             "Puzzle"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90065",
@@ -12968,7 +12977,7 @@
             "Puzzle"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_90064",
@@ -12976,49 +12985,53 @@
             "Sport"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_361890",
         "tags": [
-            "Tactical",
-            "Shooter"
+            "free-to-play",
+            "tank combat",
+            "Shooter",
+            "vehicular combat",
+            "Tactical"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_10039",
         "tags": [
             "Fighting",
             "Platform",
-            "Shooter",
-            "Indie"
+            "Indie",
+            "Shooter"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_120200",
         "tags": [
-            "Puzzle",
             "Shooter",
+            "available on - luna plus",
+            "Puzzle",
+            "Platform",
             "Strategy",
-            "Indie",
-            "Platform"
+            "Indie"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_110062",
         "tags": [
+            "Arcade",
             "Sport",
-            "Racing",
-            "Arcade"
+            "Racing"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_109465",
@@ -13027,7 +13040,7 @@
             "Role-playing (RPG)"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_109459",
@@ -13035,27 +13048,30 @@
             "Role-playing (RPG)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_103198",
         "tags": [
-            "Racing",
+            "Indie",
             "Platform",
             "Arcade",
-            "Indie"
+            "Racing"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_86647",
         "tags": [
             "Arcade",
-            "Shooter"
+            "shmup",
+            "Shooter",
+            "shoot 'em up",
+            "scrolling shooter"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_79343",
@@ -13063,107 +13079,145 @@
             "Strategy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_78059",
         "tags": [
             "Adventure",
-            "Racing",
             "Simulator",
-            "Strategy"
+            "Strategy",
+            "Racing"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_77537",
         "tags": [
             "Music",
+            "free-to-play",
             "Simulator"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_59433",
         "tags": [
+            "text adventure",
+            "slice of life",
             "Adventure",
+            "holiday themes",
+            "winter",
             "Visual Novel"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_36620",
         "tags": [
+            "2d platformer",
+            "pax east 2015",
+            "digital distribution",
+            "pax south 2017",
             "Adventure",
+            "darkness",
+            "collectibles",
+            "easter egg",
             "Platform",
             "Indie"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_1009",
         "tags": [
+            "story driven",
+            "Shooter",
+            "post-apocalyptic",
+            "murder",
             "Adventure",
-            "Shooter"
+            "infection",
+            "drugs",
+            "disease",
+            "hunting"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_119801",
         "tags": [
+            "hand-drawn",
             "Music",
-            "Puzzle",
+            "steam achievements",
             "Adventure",
+            "Puzzle",
+            "story rich",
+            "steam cloud",
+            "previously on - utomik",
+            "atmospheric",
+            "steam families",
             "Indie"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_1779",
         "tags": [
+            "Shooter",
+            "post-apocalyptic",
+            "robots",
             "Adventure",
-            "Platform",
-            "Shooter"
+            "future",
+            "metroidvania",
+            "death",
+            "female protagonist",
+            "collecting",
+            "Platform"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_38387",
         "tags": [
+            "Arcade",
             "Tactical",
             "Puzzle",
-            "Arcade",
+            "explosion",
+            "mascot",
             "Strategy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_51820",
         "tags": [
             "Role-playing (RPG)",
-            "Turn-based strategy (TBS)",
-            "Strategy"
+            "Strategy",
+            "gog preservation program",
+            "Turn-based strategy (TBS)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_15699",
         "tags": [
-            "Simulator",
             "Point-and-click",
+            "Simulator",
+            "cats",
+            "collecting",
             "Indie"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_144345",
@@ -13171,37 +13225,51 @@
             "Shooter"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_204350",
         "tags": [
+            "zombies",
+            "Shooter",
+            "post-apocalyptic",
             "Adventure",
-            "Shooter"
+            "4k",
+            "hand-to-hand combat"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_8973",
         "tags": [
-            "Sport",
+            "steam",
             "Simulator",
-            "Strategy"
+            "Sport",
+            "steam achievements",
+            "soccer",
+            "management",
+            "football",
+            "tournament",
+            "Strategy",
+            "cross-platform multiplayer"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_302654",
         "tags": [
-            "Indie",
             "Role-playing (RPG)",
             "Simulator",
-            "Strategy"
+            "online co-op",
+            "cooking",
+            "Strategy",
+            "Indie",
+            "online coop"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_191270",
@@ -13209,103 +13277,152 @@
             "Card & Board Game"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_119388",
         "tags": [
+            "sword",
+            "crafting",
+            "sequel",
+            "cooking",
             "Adventure",
-            "Puzzle"
+            "Puzzle",
+            "silent protagonist",
+            "skydiving",
+            "hunting"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_126098",
         "tags": [
+            "vr only",
+            "Shooter",
             "Adventure",
             "Puzzle",
-            "Shooter"
+            "female protagonist",
+            "black protagonist"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_2895",
         "tags": [
-            "Role-playing (RPG)"
+            "procedural generation",
+            "Role-playing (RPG)",
+            "turn-based",
+            "roguelike",
+            "pets",
+            "permadeath",
+            "ascii",
+            "open-source"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_28983",
         "tags": [
-            "Tactical",
-            "Strategy",
-            "Turn-based strategy (TBS)",
             "Simulator",
-            "Real Time Strategy (RTS)"
+            "Real Time Strategy (RTS)",
+            "Turn-based strategy (TBS)",
+            "Tactical",
+            "Strategy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_7194",
         "tags": [
+            "time manipulation",
+            "cyberpunk",
+            "murder",
+            "dystopian",
             "Adventure",
+            "anime",
+            "insanity",
+            "time travel",
             "Visual Novel"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_379",
         "tags": [
-            "Tactical",
+            "bloody",
+            "motorcycle",
+            "assassin",
+            "ghosts",
+            "Shooter",
+            "cold war",
+            "helicopter",
             "Adventure",
-            "Shooter"
+            "Tactical",
+            "hunting"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_26472",
         "tags": [
-            "Adventure",
             "Role-playing (RPG)",
+            "alternate history",
+            "detective",
+            "psychological exploration",
+            "police",
+            "self-discovery",
+            "Adventure",
+            "politics",
+            "drugs",
             "Indie"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_144133",
         "tags": [
             "Arcade",
+            "logic puzzle",
             "Indie"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_288502",
         "tags": [
-            "Adventure",
-            "Visual Novel",
+            "gothic",
+            "vampires",
+            "dark comedy",
             "Simulator",
-            "Indie"
+            "demo",
+            "Adventure",
+            "free demo",
+            "psychological",
+            "Indie",
+            "Visual Novel"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_51317",
         "tags": [
+            "metroidvania",
+            "freeware",
+            "user generated content",
+            "exploration",
             "Platform"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_45181",
@@ -13315,102 +13432,158 @@
             "Shooter"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_115289",
         "tags": [
+            "insects",
+            "sword",
+            "2d",
+            "side-scrolling",
             "Adventure",
+            "metroidvania",
+            "female protagonist",
+            "exploration",
             "Platform",
             "Indie"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_298274",
         "tags": [
-            "Platform"
+            "free-to-play",
+            "online multiplayer",
+            "web",
+            "browser-based",
+            "user generated content",
+            "casual",
+            "Platform",
+            "social"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_7346",
         "tags": [
+            "crafting",
+            "post-apocalyptic",
+            "archery",
+            "action-adventure",
+            "cooking",
             "Adventure",
-            "Puzzle"
+            "Puzzle",
+            "fairy",
+            "hunting"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_187043",
         "tags": [
-            "Card & Board Game"
+            "Card & Board Game",
+            "blockchain",
+            "free-to-play",
+            "crypto",
+            "blockchain game",
+            "nft"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_18349",
         "tags": [
+            "space battle",
             "Simulator",
-            "Indie"
+            "Indie",
+            "action-adventure"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_228374",
         "tags": [
+            "Role-playing (RPG)",
+            "Arcade",
             "Shooter",
             "Adventure",
-            "Arcade",
-            "Indie",
-            "Role-playing (RPG)"
+            "Indie"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_9927",
         "tags": [
+            "Role-playing (RPG)",
+            "tennis",
+            "detective",
+            "turn-based",
+            "murder",
             "Adventure",
-            "Role-playing (RPG)"
+            "grinding",
+            "demon",
+            "anime"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_24493",
         "tags": [
+            "Role-playing (RPG)",
+            "turn-based rpg",
+            "gacha system",
+            "turn-based",
             "Adventure",
-            "Visual Novel",
-            "Role-playing (RPG)"
+            "turn-based combat",
+            "daily login rewards",
+            "anime",
+            "gacha",
+            "Visual Novel"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_298526",
         "tags": [
-            "Adventure",
             "Role-playing (RPG)",
-            "Simulator"
+            "using dialogue to avoid combat",
+            "Simulator",
+            "steam achievements",
+            "Adventure",
+            "kingdom",
+            "steam trading cards",
+            "alchemy",
+            "steam cloud",
+            "medieval"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_7406",
         "tags": [
+            "action-adventure",
+            "underwater",
+            "cooking",
             "Adventure",
+            "open-source",
+            "metroidvania",
+            "magic",
+            "exploration",
             "Platform",
             "Indie"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89998",
@@ -13418,7 +13591,7 @@
             "Arcade"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89824",
@@ -13427,25 +13600,26 @@
             "Simulator"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89817",
         "tags": [
             "Puzzle",
-            "Arcade"
+            "Arcade",
+            "match 3"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89808",
         "tags": [
-            "Sport",
-            "Simulator"
+            "Simulator",
+            "Sport"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89766",
@@ -13455,7 +13629,7 @@
             "Indie"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89761",
@@ -13463,7 +13637,7 @@
             "Simulator"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89755",
@@ -13471,7 +13645,7 @@
             "Puzzle"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89752",
@@ -13480,16 +13654,20 @@
             "Arcade"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89738",
         "tags": [
             "Card & Board Game",
+            "spider",
+            "klondike",
+            "spider solitaire",
+            "solitaire",
             "Indie"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89734",
@@ -13497,36 +13675,36 @@
             "Sport"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89730",
         "tags": [
+            "Role-playing (RPG)",
             "Simulator",
             "Sport",
-            "Role-playing (RPG)",
             "Shooter"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89722",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89714",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89712",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89697",
@@ -13534,24 +13712,24 @@
             "Puzzle"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89547",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89540",
         "tags": [
             "Adventure",
-            "Racing",
             "Platform",
-            "Arcade"
+            "Arcade",
+            "Racing"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89537",
@@ -13559,273 +13737,482 @@
             "Sport"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89534",
         "tags": [
-            "Sport",
-            "Role-playing (RPG)"
+            "Role-playing (RPG)",
+            "Sport"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_89522",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_189139",
         "tags": [
-            "Adventure",
             "Role-playing (RPG)",
+            "nsfw version exists",
+            "nsfw_patch",
+            "Adventure",
             "Turn-based strategy (TBS)",
             "Indie"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8193478W",
         "tags": [
-            "History"
+            "British and irish fiction (fictional works by one author)",
+            "British fiction",
+            "Boys",
+            "Bildungsromans",
+            "History",
+            "Brigands and robbers",
+            "Children",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL450063W",
         "tags": [
-            "History"
+            "Fiction",
+            "Monsters",
+            "Frankenstein (Fictitious character)",
+            "History",
+            "Frankenstein's monster (Fictitious character)",
+            "Fiction, horror",
+            "Victor Frankenstein (Fictitious character)",
+            "Scientists"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL20600W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Juvenile",
+            "Young adult",
+            "Fantasy",
+            "YA",
+            "Classic",
+            "Utopias"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL53919W",
         "tags": [
-            "History"
+            "Fiction",
+            "19th Century",
+            "1835-1910",
+            "The Adventures of Tom Sawyer",
+            "History",
+            "Mark Twain",
+            "Classic",
+            "Historical"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL82586W",
         "tags": [
-            "Young Adult"
+            "good and evil",
+            "dementors",
+            "Juvenile works",
+            "the Elder Wand",
+            "Death",
+            "Young Adult",
+            "children's books",
+            "Juvenile literature"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL45885W",
         "tags": [
-            "Young Adult"
+            "Roald Dahl",
+            "Teens",
+            "Teenagers",
+            "Young adult",
+            "Young Adult",
+            "Open Library Staff Picks",
+            "YA",
+            "Tweens"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL14908941W",
         "tags": [
-            "Young Adult"
+            "Science fiction",
+            "Interpersonal relations",
+            "Television programs",
+            "nyt:series_books=2010-08-21",
+            "Young Adult",
+            "Sci-fi",
+            "New York Times bestseller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL4072567W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Laura Lee Hope",
+            "Kid's",
+            "Bobbsey Twins",
+            "Children's",
+            "Young Adult",
+            "Series",
+            "Children"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL15719630W",
         "tags": [
-            "Young Adult"
+            "nyt:paperback_books=2012-02-25",
+            "Family",
+            "Juvenile fiction",
+            "Courage",
+            "Young Adult",
+            "Social classes",
+            "Families",
+            "New York Times bestseller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8125760W",
         "tags": [
-            "Young Adult"
+            "plane crash",
+            "Divorce, fiction",
+            "Newbery Honor",
+            "survival",
+            "Young Adult",
+            "Canada, fiction",
+            "Children's fiction",
+            "Divorce"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL16808471W",
         "tags": [
-            "Young Adult"
+            "fiction",
+            "dystopian fiction",
+            "young adult",
+            "sci-fi",
+            "science fiction",
+            "dystopian",
+            "Young Adult",
+            "YA"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL17714701W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Race relations",
+            "National Book Awards Longlist",
+            "Police shootings",
+            "Young Adult",
+            "Witnesses",
+            "African American teenagers",
+            "black lives matter"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL453885W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Rats",
+            "Humorous stories",
+            "Musicians",
+            "Human-animal relationships",
+            "Swindlers and swindling",
+            "Young Adult",
+            "Cats"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL2628761W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Missing persons",
+            "Magic",
+            "Science Fiction & Fantasy",
+            "Fantasy",
+            "Young Adult",
+            "Fathers and daughters",
+            "Teen fantasy fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL2130549W",
         "tags": [
-            "Young Adult"
+            "Self-perception",
+            "Fiction",
+            "Juvenile fiction",
+            "Romance",
+            "Young Adult",
+            "Self-perception, fiction",
+            "Interpersonal relations, fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL679348W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Juvenile fiction",
+            "Orphans",
+            "Dead",
+            "Cemeteries",
+            "Supernatural",
+            "Young Adult",
+            "New York Times bestseller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL3972834W",
         "tags": [
-            "Young Adult"
+            "Freedom",
+            "Fiction",
+            "teenagers",
+            "aliens",
+            "young adult",
+            "Science fiction",
+            "Young Adult",
+            "Extraterrestrial beings"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL27086W",
         "tags": [
-            "Young Adult"
+            "Kid's",
+            "Young adult",
+            "Coming of Age",
+            "Children's",
+            "Tween",
+            "Young Adult",
+            "Children",
+            "Adolescence"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL114726W",
         "tags": [
-            "Young Adult"
+            "Kid's",
+            "Teens",
+            "Teenagers",
+            "YA",
+            "Young Adult",
+            "Childrens",
+            "Tweens",
+            "Children"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL869965W",
         "tags": [
-            "Young Adult"
+            "Juvenile",
+            "Children's",
+            "Young Adult",
+            "Walter Farley",
+            "Racing horses",
+            "Horses",
+            "Black Stallion",
+            "Childrens"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL16239519W",
         "tags": [
+            "Fiction",
+            "Orphans",
+            "Fantasy fiction",
+            "Magic",
+            "Monsters",
+            "Ability",
+            "Fantasy",
             "Young Adult"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL17356883W",
         "tags": [
-            "Young Adult"
+            "Juvenile fiction",
+            "Love & Romance",
+            "Cloth or Hardcover",
+            "Ability",
+            "Fantasy & Magic",
+            "Young Adult",
+            "Resistance to Government",
+            "Ungdomslitteratur"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL42383W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "History",
+            "Gene Stratton-Porter",
+            "Young Adult",
+            "Christian Life",
+            "Adult",
+            "Classic",
+            "Historical"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1417723W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Juvenile fiction",
+            "Soldiers, fiction",
+            "Young Adult",
+            "Rome, history, fiction",
+            "Adventure and adventurers, fiction",
+            "Great britain, history, to 1066, fiction",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL16282945W",
         "tags": [
-            "Young Adult"
+            "Kings and rulers",
+            "nyt:chapter_books=2011-12-31",
+            "Serie:The_Lunar_Chronicles",
+            "Young Adult",
+            "Social classes",
+            "Extraterrestrial beings",
+            "Overpopulation",
+            "New York Times bestseller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL268379W",
         "tags": [
-            "Young Adult"
+            "Folklore",
+            "Cuentos de terror estadounidenses",
+            "Cuentos de fantasmas estadounidenses",
+            "American Ghost stories",
+            "Tales",
+            "Young Adult",
+            "American Horror tales",
+            "Cuentos populares"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL2693077W",
         "tags": [
-            "Young Adult"
+            "teenagers",
+            "young adult",
+            "Nonfiction",
+            "teens",
+            "David Sedaris",
+            "juvenile",
+            "Young Adult",
+            "YA"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL20924915W",
         "tags": [
-            "Young Adult"
+            "Monsters -- Fiction",
+            "Magic",
+            "Monsters",
+            "First Person (Point of View)",
+            "Fantasy",
+            "Young Adult",
+            "Magic -- Fiction",
+            "Orphans -- Fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL17367560W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Magic",
+            "Romance",
+            "Court",
+            "High Fantasy",
+            "Fantasy",
+            "Young Adult",
+            "YA"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL17293267W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Orphans",
+            "Fantasy fiction",
+            "Magic",
+            "Love stories",
+            "Fantasy",
+            "Young Adult",
+            "Love"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL17076473W",
@@ -13833,383 +14220,691 @@
             "Young Adult"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL12388W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Parent and child",
+            "Parental kidnapping",
+            "Juvenile Fiction",
+            "Identity",
+            "Young Adult",
+            "Identity (Philosophical concept)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL729138W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Herman Wouk",
+            "Fiction, general",
+            "Young adult",
+            "Pulitzer Prize winner",
+            "New york (n.y.), fiction",
+            "Young Adult",
+            "Adult"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL17597665W",
         "tags": [
-            "Young Adult"
+            "Juvenile fiction",
+            "Friendship",
+            "Magic",
+            "Revenge",
+            "Fantasy",
+            "Young Adult",
+            "Brigands and robbers"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL17357353W",
         "tags": [
-            "Young Adult"
+            "Secrets",
+            "Juvenile fiction",
+            "Secrecy",
+            "JUVENILE FICTION / Love & Romance",
+            "LGBT",
+            "Young Adult",
+            "JUVENILE FICTION / Social Issues / Friendship"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL497779W",
         "tags": [
-            "Young Adult"
+            "People with disabilities",
+            "Fiction",
+            "Learning disabilities",
+            "Physically handicapped",
+            "Friendship",
+            "Young Adult",
+            "Young adult fiction",
+            "Best Books for Young Adults"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL276726W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Teenagers",
+            "Teens",
+            "Young adult",
+            "Juvenile",
+            "Sara Shepard",
+            "Young Adult",
+            "YA"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL5590818W",
         "tags": [
-            "Young Adult"
+            "Mexican Americans",
+            "Fiction",
+            "Juvenile fiction",
+            "Migrant labor",
+            "The Great Depression",
+            "The Dust Bowl",
+            "Young Adult",
+            "Poverty"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL19659793W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Brothers and sisters",
+            "Magic",
+            "Youths' writings",
+            "Young Adult",
+            "Prejudices",
+            "Resistance to Government",
+            "YOUNG ADULT FICTION / Legends, Myths, Fables / General"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL548168W",
         "tags": [
-            "Young Adult"
+            "Ella",
+            "castle",
+            "just Ella",
+            "princess",
+            "kingdom",
+            "queen",
+            "Young Adult",
+            "cinderella"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL479073W",
         "tags": [
-            "Young Adult"
+            "AKA",
+            "Kid's",
+            "Children's",
+            "Farley Mowat",
+            "Two Against the North",
+            "Young Adult",
+            "YA",
+            "Children"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL17305107W",
         "tags": [
-            "Young Adult"
+            "War",
+            "Survival skills",
+            "Juvenile fiction",
+            "Science fiction",
+            "Aliens",
+            "Young Adult",
+            "Extraterrestrial beings",
+            "war stories"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL16807297W",
         "tags": [
-            "Young Adult"
+            "Juvenile fiction",
+            "young adult",
+            "Science fiction",
+            "Guerrilla warfare",
+            "urban",
+            "fantasy",
+            "Young Adult",
+            "Supervillains"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL45867W",
         "tags": [
-            "Young Adult"
+            "World War",
+            "Aeronautics",
+            "hard water",
+            "Young Adult",
+            "resistance to interrogation",
+            "soft water",
+            "World War II",
+            "Royal Air Force"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8842598W",
         "tags": [
-            "Young Adult"
+            "Graphic Novel",
+            "Haunted House",
+            "Supernatural",
+            "Adventure",
+            "Amulet",
+            "Young Adult",
+            "Robots",
+            "Elves"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL20808172W",
         "tags": [
-            "Young Adult"
+            "Contemporary Romance",
+            "Fiction",
+            "Romance",
+            "High School",
+            "Young Adult",
+            "Contemporary",
+            "New Adult"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL17332803W",
         "tags": [
-            "Young Adult"
+            "Fiction",
+            "Magic",
+            "London (England) - Fiction",
+            "Magic - Fiction",
+            "Young Adult",
+            "Quantum theory",
+            "Fiction, fantasy, general",
+            "FICTION / Fantasy / Historical"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL37572598W",
         "tags": [
-            "Young Adult"
+            "Young Adult Fiction",
+            "nyt:young-adult-hardcover=2024-04-21",
+            "Young Adult",
+            "Thriller",
+            "Suspense",
+            "Children's fiction",
+            "New York Times bestseller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8911376W",
         "tags": [
-            "Young Adult"
+            "Children: Young Adult (Gr. 7-9)",
+            "Fiction",
+            "Teamwork (Sports)",
+            "Teenage boys",
+            "Young Adult",
+            "Graphic novels",
+            "Lifestyles - City Life",
+            "Comic books, strips"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL69300W",
         "tags": [
-            "Young Adult"
+            "My Teacher is an Alien",
+            "Bruce Colville",
+            "Young adult",
+            "Young Adult",
+            "My Teacher Fried My Brains",
+            "Book 2",
+            "Series",
+            "YA"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL138052W",
         "tags": [
-            "History"
+            "Alice (fictitious character : carroll), fiction",
+            "British and irish fiction (fictional works by one author)",
+            "classics",
+            "Imagination & Play",
+            "History",
+            "Fantasy & Magic",
+            "Fiction, fantasy, general",
+            "JUVENILE FICTION"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL18417W",
         "tags": [
-            "History"
+            "Fiction",
+            "Children's stories, Russian",
+            "Witches",
+            "History",
+            "Wizards in fiction",
+            "Spanish language materials",
+            "Wizards",
+            "Juvenile literature"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL24034W",
         "tags": [
-            "History"
+            "Fiction",
+            "Pirates",
+            "History",
+            "Treasure troves",
+            "Adventure and adventurers, fiction",
+            "Treasure-trove",
+            "Treasure Island (Imaginary place)",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL259010W",
         "tags": [
-            "Fantasy"
+            "Courtship",
+            "Hippolyta (Greek mythology)",
+            "Juvenile drama",
+            "Children's plays, English",
+            "Fantasy",
+            "Drama",
+            "Plays",
+            "Theseus (Greek mythology)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1089297W",
         "tags": [
-            "History"
+            "Political science, early works to 1800",
+            "Fiction",
+            "Morale politique",
+            "Classic Literature",
+            "Science politique",
+            "Machiavel, Nicolas, 1469-1527. Prince",
+            "History",
+            "Ouvrages avant 1800"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL151406W",
         "tags": [
-            "Fantasy"
+            "Nonsense verses",
+            "Fiction",
+            "English poetry",
+            "English Nonsense verses",
+            "Children's poetry, English",
+            "Fantasy",
+            "Alice (Fictitious character : Carroll)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL28570037W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Friendship",
+            "Animals",
+            "Fantasy",
+            "Animals, fiction",
+            "England, fiction",
+            "Friendship, fiction",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL99499W",
         "tags": [
-            "History"
+            "Fiction",
+            "Juvenile fiction",
+            "Brothers and sisters",
+            "History",
+            "Fantasy",
+            "Wishes",
+            "Fairies"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL15449W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Classic Literature",
+            "Fairy tales",
+            "Juvenile Fiction",
+            "Juvenile Literature",
+            "Fantasy",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262460W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Fiction in French",
+            "Adventure stories",
+            "Atlantis",
+            "Discovery and exploration",
+            "Dinosaurs",
+            "Fantasy",
+            "English Detective and mystery stories"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL18396W",
         "tags": [
-            "Fantasy"
+            "Juvenile fiction",
+            "Children's literature, Russian",
+            "Translations into Russian",
+            "Children's literature, English",
+            "Fantasy",
+            "Wizards",
+            "Oz (Imaginary place)",
+            "Children's stories, American"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL18415W",
         "tags": [
-            "Fantasy"
+            "Juvenile fiction",
+            "Fairy tales",
+            "Fantasy fiction",
+            "Children's stories",
+            "Fantasy",
+            "Children's stories, American",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL10263W",
         "tags": [
-            "Fantasy"
+            "childhood",
+            "loneliness",
+            "friendship",
+            "love",
+            "fantasy",
+            "Fantasy",
+            "adventure",
+            "loss"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL18409W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Juvenile fiction",
+            "Fantasy fiction",
+            "Fantasy",
+            "Oz (Imaginary place)",
+            "Princess Ozma (Fictitious character)",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL18412W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Classic Literature",
+            "Fairy tales",
+            "Juvenile fiction",
+            "Fantasy fiction",
+            "Fantasy",
+            "Oz (Imaginary place)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL18411W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Classic Literature",
+            "Fantasy fiction",
+            "Children's stories",
+            "Fantasy",
+            "Oz (Imaginary place)",
+            "Juvenile literature"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL407476W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Classic Literature",
+            "Fantasy fiction",
+            "Roman pour la jeunesse",
+            "Litterature fantastique",
+            "Juvenile Literature",
+            "Fantasy",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262358W",
         "tags": [
+            "Fiction",
+            "Christmas",
+            "Classic Literature",
+            "Christmas stories",
+            "Juvenile Fiction",
+            "Science Fiction & Fantasy",
             "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL151411W",
         "tags": [
+            "anthropomorphism",
+            "artists' illustrated books",
+            "adventure and adventurers",
+            "adventure and adventurers, fiction",
+            "adventure travel",
+            "adventure stories",
+            "animals",
             "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1168083W",
         "tags": [
-            "Fantasy"
+            "historical negationism",
+            "surveillance",
+            "rebels",
+            "sting operations",
+            "Fantasy",
+            "futurology",
+            "memory holes",
+            "censorship"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262390W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Classic Literature",
+            "Fairy tales",
+            "Juvenile Fiction",
+            "Fantasy",
+            "Oz (Imaginary place)",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262384W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Juvenile fiction",
+            "Classic Literature",
+            "Fantasy fiction",
+            "Children's stories",
+            "Fantasy",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262341W",
         "tags": [
-            "Fantasy"
+            "Short stories",
+            "Fiction",
+            "Classic Literature",
+            "Fairy tales",
+            "Juvenile Fiction",
+            "Fantasy",
+            "Children's stories, American"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262385W",
         "tags": [
-            "Fantasy"
+            "Fantasy fiction",
+            "Fairies, fiction",
+            "Fantasy",
+            "Parrots, fiction",
+            "Magic, fiction",
+            "Adventure and adventurers, fiction",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262352W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Classic Literature",
+            "Fairy tales",
+            "Fantasy fiction",
+            "Fantasy",
+            "Oz (imaginary place), fiction",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL18405W",
         "tags": [
-            "Fantasy"
+            "Juvenile fiction",
+            "Fairy tales",
+            "Fantasy fiction",
+            "Fantasy",
+            "Oz (imaginary place), fiction",
+            "Large type books",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262380W",
         "tags": [
-            "Fantasy"
+            "Dorothy Gale (Fictitious character)",
+            "Fiction",
+            "Juvenile fiction",
+            "Fantasy fiction",
+            "Fantasy",
+            "Wizard of Oz (Fictitious character)",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL18414W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Juvenile fiction",
+            "Fairy tales",
+            "Fantasy fiction",
+            "American Fantasy fiction",
+            "Fantasy",
+            "Oz (Imaginary place)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262376W",
@@ -14217,879 +14912,1606 @@
             "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL99541W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Rings",
+            "Friendship",
+            "Magic",
+            "History",
+            "Fantasy",
+            "England"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL15450W",
         "tags": [
-            "Fantasy"
+            "Fiction, romance, fantasy",
+            "Classic Literature",
+            "Fairy tales",
+            "Fantasy",
+            "Fiction, science fiction, general",
+            "Fiction, fantasy, general",
+            "Scottish Fantasy fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL27482W",
         "tags": [
-            "Fantasy"
+            "eagles",
+            "Battle of Five Armies",
+            "invisibility",
+            "thrushes",
+            "Arkenstone",
+            "Fantasy",
+            "hobbits"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262381W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Juvenile fiction",
+            "Fantasy fiction",
+            "Children's stories",
+            "Fantasy",
+            "Giants",
+            "Oz (Imaginary place)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1418187W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Classic Literature",
+            "Science fiction",
+            "John Carter (Fictitious character)",
+            "Fantasy",
+            "Princesses in fiction",
+            "Princesses",
+            "Dejah Thoris (Fictitious character)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262391W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Dorothy Gale (Fictitious character)",
+            "Classic Literature",
+            "Juvenile fiction",
+            "Children's stories",
+            "Fantasy",
+            "Oz (imaginary place), fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL99535W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Juvenile fiction",
+            "Fantasy fiction",
+            "Fantasy",
+            "Fiction, fantasy, general",
+            "Cities and towns",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL462007W",
         "tags": [
-            "Fantasy"
+            "Juvenile fiction",
+            "Toy and movable books",
+            "Specimens",
+            "English Children's fiction",
+            "Fantasy",
+            "Pop-up books",
+            "Open Library Staff Picks",
+            "Never-Never Land (Imaginary place)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL99539W",
         "tags": [
+            "English Fantasy fiction",
+            "Fiction",
+            "Juvenile fiction",
+            "Brothers and sisters",
+            "Magic",
+            "Great Britain in fiction",
+            "Magic in fiction",
             "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1527356W",
         "tags": [
+            "Readers",
+            "Fiction",
+            "Fairy tales",
+            "Children's stories, Italian",
+            "Puppets",
+            "Latin language",
             "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1100007W",
         "tags": [
-            "Thriller"
+            "Fiction",
+            "Korean language materials",
+            "Children's stories, French",
+            "Viajes alrededor del mundo",
+            "Historical fiction",
+            "Thriller",
+            "Translations from French",
+            "Translations into Gujarati"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL82563W",
         "tags": [
-            "Fantasy"
+            "series:Harry_Potter",
+            "Ghosts",
+            "Monsters",
+            "Witches",
+            "Vampires",
+            "Magic and Supernatural",
+            "Fantasy",
+            "Challenges and Overcoming Obstacles"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1112413W",
         "tags": [
-            "Fantasy"
+            "Imaginary Voyages",
+            "Voyages, imaginary",
+            "Women and literature",
+            "Early works to 1800",
+            "Sources",
+            "Fantasy",
+            "Voyages, Imaginary",
+            "Utopias"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL47721W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "English literature, history and criticism",
+            "Science fiction",
+            "Utopies",
+            "Fiction, general",
+            "Fantasy",
+            "Fiction, short stories (single author)",
+            "Utopias"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL2239396W",
         "tags": [
-            "Fantasy"
+            "French fiction",
+            "Fiction",
+            "Fiction in English",
+            "Fiction, general",
+            "Fantasy",
+            "Aesthetics",
+            "Translations from French",
+            "Translations into English"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL39108W",
         "tags": [
-            "Fantasy"
+            "Bombings, fiction",
+            "Terrorism, fiction",
+            "Anarchists, fiction",
+            "Royal Greenwich Observatory, fiction",
+            "Fantasy",
+            "Trading companies",
+            "Conspiracies, fiction",
+            "Drama"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL20165W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Classic Literature",
+            "Juvenile fiction",
+            "History",
+            "Children's stories",
+            "Fantasy",
+            "Space and time",
+            "Fiction, fantasy, general"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL82537W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "series:Harry_Potter",
+            "Juvenile fiction",
+            "Fantasy fiction",
+            "school stories",
+            "Fantasy",
+            "Nestlé Smarties Book Prize winner"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL27513W",
         "tags": [
-            "Fantasy"
+            "young adult fiction",
+            "Dwarves",
+            "fear",
+            "evil",
+            "Fantasy",
+            "Ficción",
+            "hope",
+            "Elves"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262388W",
         "tags": [
-            "Fantasy"
+            "Fiction",
+            "Classic Literature",
+            "Fantasy fiction",
+            "Adventure stories",
+            "Juvenile Fiction",
+            "Fantasy",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8193416W",
         "tags": [
-            "History"
+            "British and irish fiction (fictional works by one author)",
+            "Fiction",
+            "Conduct of life, fiction",
+            "Fantasy fiction",
+            "Youthfulness",
+            "History",
+            "Appearance (Philosophy)",
+            "Conduct of life"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL85892W",
         "tags": [
-            "Thriller"
+            "Fiction",
+            "Horror tales",
+            "Monsters",
+            "Horror stories",
+            "English literature",
+            "Thriller",
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8193406W",
         "tags": [
+            "British and irish fiction (fictional works by one author)",
+            "Long Now Manual for Civilization",
+            "Fathers and daughters -- Fiction",
+            "Psychological fiction",
+            "Fiction, psychological",
+            "Fathers and daughters, fiction",
+            "Wessex (england), fiction",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL85891W",
         "tags": [
-            "Thriller"
+            "Fiction",
+            "Classic Literature",
+            "Mummies",
+            "Fiction, horror",
+            "Archaeologists",
+            "Thriller",
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL2771987W",
         "tags": [
+            "Matriarchat",
+            "Fiction",
+            "Classic Literature",
+            "Utopie",
+            "Women",
+            "open_syllabus_project",
+            "Utopias",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL2895536W",
         "tags": [
+            "English Fantasy fiction",
+            "Fiction",
+            "Lesbians",
+            "Fantasy fiction, English",
+            "Fiction, mystery & detective, general",
+            "Vampires",
+            "Fiction, horror",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL276386W",
         "tags": [
+            "Fiction, ghost",
+            "London (England), fiction",
+            "Fiction, fantasy",
+            "James, Henry , Ps2116 .t8 2010, 813.4, Fiction",
+            "Social conditions",
+            "Governesses, fiction",
+            "Children, fiction",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL3388961W",
         "tags": [
+            "austin osman spare",
+            "classic literature",
+            "occult",
+            "esoteric",
+            "pan",
+            "decadent",
+            "arthur machen",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL24156W",
         "tags": [
-            "Horror"
+            "Fiction",
+            "Physicians in fiction",
+            "Multiple personality",
+            "Self-experimentation in medicine in fiction",
+            "Multiple personality in fiction",
+            "Self-experimentation in medicine",
+            "Horror",
+            "Physicians"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL3388994W",
         "tags": [
-            "Horror"
+            "Horror and supernatural fiction",
+            "Fiction",
+            "Fiction, horror",
+            "Horror",
+            "Short story"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL41078W",
         "tags": [
-            "Horror"
+            "catalepsy",
+            "Fiction",
+            "burial vaults",
+            "short stories (single author)",
+            "dragons",
+            "American Horror tales",
+            "Horror",
+            "American fiction (fictional works by one author)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL2288676W",
         "tags": [
+            "Fiction",
+            "Magic",
+            "Ancient Egypt",
+            "Witches",
+            "Fantasy",
+            "Fiction, horror",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262586W",
         "tags": [
+            "Fiction",
+            "Classic Literature",
+            "English Horror tales",
+            "English Short stories",
+            "Mystery",
+            "English Detective and mystery stories",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL3625242W",
         "tags": [
+            "Fiction",
+            "Classic Literature",
+            "English Horror tales",
+            "Vampires",
+            "Short Stories",
+            "Incest",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL41041W",
         "tags": [
+            "catalepsy",
+            "Fiction",
+            "aristocracy",
+            "burial vaults",
+            "short stories",
+            "dragons",
+            "American Horror tales",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81626W",
         "tags": [
-            "Thriller"
+            "Fiction",
+            "horror fiction",
+            "occult & supernatural fiction",
+            "thriller",
+            "American Horror tales",
+            "Thriller",
+            "psychological thrillers",
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL2700643W",
         "tags": [
+            "Fiction",
+            "Fiction, short stories (single author)",
+            "Fiction, horror",
+            "Large type books",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81634W",
         "tags": [
+            "Fiction",
+            "American Novelists",
+            "Fans (Persons)",
+            "Captives",
+            "Novelists",
+            "dope",
+            "pills",
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81633W",
         "tags": [
+            "Fiction",
+            "horror fiction",
+            "precognition",
+            "demonology",
+            "authors",
+            "hotelkeepers",
+            "gothic & horror",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81613W",
         "tags": [
+            "catatonia",
+            "thrillers",
+            "suspense",
+            "Schwinn bicycles",
+            "coming of age",
+            "horror",
+            "homosexuality",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81628W",
         "tags": [
-            "Horror"
+            "horror fiction",
+            "fantastic fiction",
+            "demons",
+            "adventure fiction",
+            "science fiction",
+            "American fiction",
+            "Horror",
+            "succubus"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81631W",
         "tags": [
+            "fiction",
+            "thrillers",
+            "suspense",
+            "occult",
+            "psychological trauma",
+            "spinal meningitis",
+            "horror",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81629W",
         "tags": [
+            "fiction",
+            "horror fiction",
+            "Executions and executioners",
+            "prisons",
+            "jails",
+            "sisters",
+            "death row inmates",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81630W",
         "tags": [
+            "rifles",
+            "assassination",
+            "murder",
+            "human shields",
+            "brain tumors",
+            "Federal Bureau of Investigation",
+            "procrastination",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL7973293W",
         "tags": [
-            "Horror"
+            "Confederacy",
+            "Fiction",
+            "Classic Literature",
+            "History",
+            "Short Stories",
+            "United States Civil War, 1861-1865",
+            "Horror",
+            "hanging"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL41050W",
         "tags": [
+            "gothic fiction",
+            "nobility",
+            "Hematidrosis",
+            "plagues",
+            "abbeys",
+            "horror",
+            "short story",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81618W",
         "tags": [
+            "research",
+            "horror fiction",
+            "Fiction",
+            "suspense & thriller",
+            "gothic & horror",
+            "horror tales",
+            "biological warfare",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81610W",
         "tags": [
-            "Horror"
+            "Fiction",
+            "suspense",
+            "Rabies",
+            "Dogs",
+            "Dogs in fiction",
+            "Rabies in fiction",
+            "Horror",
+            "psychological horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81623W",
         "tags": [
+            "Fiction",
+            "Fire",
+            "suspense",
+            "Genetic Engineering",
+            "Psychokinesis",
+            "Psychic ability",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL927199W",
         "tags": [
+            "Fiction",
+            "horror fiction",
+            "demons",
+            "priests",
+            "demonic possession",
+            "Gothic Revival",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8088702W",
         "tags": [
+            "Fiction, ghost",
+            "Fiction, romance, fantasy",
+            "Fiction",
+            "Fiction, short stories (single author)",
+            "Thriller",
+            "Suspense",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81627W",
         "tags": [
-            "Horror"
+            "alcoholism",
+            "nested narrative",
+            "heroin",
+            "Novellas",
+            "American Horror tales",
+            "anecdotes",
+            "Horror",
+            "diaries"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL41059W",
         "tags": [
-            "Horror"
+            "Cuentos de terror estadounidenses",
+            "Classic Literature",
+            "Children's fiction",
+            "Asesinato",
+            "Ficción",
+            "American Horror tales",
+            "Horror",
+            "American literature"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81607W",
         "tags": [
+            "Good and evil",
+            "Fiction",
+            "suspense",
+            "Translations into Russian",
+            "City and town life",
+            "American Horror tales",
+            "Specialty stores",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81599W",
         "tags": [
+            "Romans",
+            "Fiction",
+            "Boys",
+            "Talismans",
+            "Mothers and sons",
+            "Fantastique",
+            "Quests (Expeditions)",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81602W",
         "tags": [
+            "Fiction",
+            "Princes",
+            "suspense",
+            "epic fantasy",
+            "Fantasy",
+            "horror",
+            "Thriller",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81608W",
         "tags": [
+            "rosaries",
+            "Douay–Rheims Bible",
+            "vampires",
+            "devotional medals",
+            "crucifixes",
+            "terminal illness",
+            "euthanasia",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81619W",
         "tags": [
+            "carbon monoxide",
+            "greasers",
+            "smuggling",
+            "couriers",
+            "Plymouth Fury",
+            "Heimlich maneuver",
+            "horror",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81606W",
         "tags": [
+            "nightmares",
+            "speechwriting",
+            "Polaroid cameras",
+            "Dissociative identity disorder",
+            "paranormal",
+            "cuckoo clocks",
+            "word processors",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1911336W",
         "tags": [
+            "English Fantasy fiction",
+            "Fiction in English",
+            "Fiction",
+            "Blind",
+            "Translations into Russian",
+            "Science Fiction & Fantasy",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL149210W",
         "tags": [
+            "Romani",
+            "Allegories",
+            "gluttony",
+            "Littérature d'épouvante",
+            "Romanies",
+            "magic",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81597W",
         "tags": [
+            "fiction",
+            "horror fiction",
+            "hive minds",
+            "zombies",
+            "murderers",
+            "computer worms",
+            "cell phones",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81620W",
         "tags": [
+            "suspense",
+            "alcohol abuse",
+            "parasitic twins",
+            "authors",
+            "Conjoined twins",
+            "alcoholism",
+            "Anonyms and pseudonyms",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81621W",
         "tags": [
+            "law school",
+            "Nazis",
+            "Vietnam War",
+            "Germans",
+            "first-person narrative",
+            "post-traumatic stress disorder",
+            "World War II",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL103194W",
         "tags": [
+            "Fiction",
+            "Fiction in English",
+            "Boys",
+            "Male friendship",
+            "Carnival",
+            "sci-fi",
+            "Fathers and sons",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81584W",
         "tags": [
+            "dementia",
+            "gangrene",
+            "fishing",
+            "convenience stores",
+            "fantasy",
+            "garbage disposal units",
+            "Apple computers",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL134890W",
         "tags": [
+            "Fiction",
+            "Mystery fiction",
+            "dysfunctional families",
+            "Domestic fiction",
+            "Dilation and curettage",
+            "series:dollanganger",
+            "Horror fiction",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL707922W",
         "tags": [
+            "Fiction",
+            "Classic Literature",
+            "English Ghost stories",
+            "Fantasy",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL81603W",
         "tags": [
+            "Fiction",
+            "Suspense Thriller",
+            "suspense",
+            "Insomnia",
+            "Bram Stoker Award for Best Novel",
+            "Open Library Staff Picks",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL66554W",
         "tags": [
-            "History"
+            "Fiction, Romance, Historical, Regency",
+            "Brothers and sisters",
+            "British and Irish fiction (fictional works by one author)",
+            "Courtship",
+            "History",
+            "English literature",
+            "Drama",
+            "English fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL32466W",
         "tags": [
-            "History"
+            "Christmas",
+            "Toy and movable books",
+            "Ghosts",
+            "Children's plays, English",
+            "History",
+            "Drama",
+            "Christmas, fiction",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL53908W",
         "tags": [
-            "History"
+            "Child and youth fiction",
+            "adventure and adventurers",
+            "Adventure stories",
+            "Boys",
+            "History",
+            "American fiction (fictional works by one author)",
+            "Children's fiction",
+            "American literature"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL45089W",
         "tags": [
-            "History"
+            "Crusoe, robinson (fictitious character), fiction",
+            "British and irish fiction (fictional works by one author)",
+            "Fiction",
+            "Survival",
+            "History",
+            "Îles",
+            "Dans la littérature",
+            "Islands"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL455305W",
         "tags": [
-            "History"
+            "Puritans in fiction",
+            "Fiction",
+            "Adultery in fiction",
+            "Illegitimate children",
+            "History",
+            "Puritans",
+            "Adultery"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL66562W",
         "tags": [
-            "History"
+            "Fiction, Romance, Historical, Regency",
+            "Social classes, fiction",
+            "Family life, fiction",
+            "History",
+            "Inheritance and succession, fiction",
+            "Mate selection, fiction",
+            "Text-books for foreigners",
+            "Young women,  fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8193465W",
         "tags": [
-            "History"
+            "British and irish fiction (fictional works by one author)",
+            "Executions and executioners",
+            "British",
+            "History",
+            "English literature",
+            "Criticism and interpretation",
+            "English fiction",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL29983W",
         "tags": [
-            "History"
+            "Young women",
+            "Romans",
+            "Fiction",
+            "Soeurs",
+            "History",
+            "Jeunes filles",
+            "Fiction, women",
+            "Sisters"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL258902W",
         "tags": [
-            "History"
+            "Regicides",
+            "Kings and rulers",
+            "French-Canadian dialect",
+            "kings",
+            "History",
+            "Scotland",
+            "Texts",
+            "Drama"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL14942956W",
         "tags": [
-            "History"
+            "Crítica e interpretación",
+            "American Nature stories",
+            "Gold discoveries",
+            "Descubrimiento de oro",
+            "Bienestar",
+            "History",
+            "Cartoons and comics",
+            "Lobos"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL503666W",
         "tags": [
-            "History"
+            "Don Quixote (Cervantes Saavedra, Miguel de)",
+            "Fiction",
+            "Classic Literature",
+            "Quotations",
+            "Don Quixote (Fictitious character)",
+            "Social life and customs",
+            "History",
+            "Knights and knighthood"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL69612W",
         "tags": [
-            "History"
+            "Child and youth fiction",
+            "People with disabilities, fiction",
+            "Fiction, general",
+            "History",
+            "Gardens, fiction",
+            "Friendship, fiction",
+            "Great britain, fiction",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL893707W",
         "tags": [
-            "History"
+            "Manners and customs, fiction",
+            "Fiction",
+            "French literature",
+            "Middle class",
+            "literary fiction",
+            "Physicians' spouses",
+            "History",
+            "Adultery"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL244537W",
         "tags": [
-            "History"
+            "great_books_of_the_western_world",
+            "Military art and science",
+            "Philosophy",
+            "History",
+            "Early works to 1800",
+            "Self-Improvement",
+            "Business",
+            "Open Library Staff Picks"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8721462W",
         "tags": [
-            "History"
+            "British and irish fiction (fictional works by one author)",
+            "Child and youth fiction",
+            "Authors",
+            "Classic Literature",
+            "Boys",
+            "Bildungsromans",
+            "History",
+            "Benefactors"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL362702W",
         "tags": [
-            "History"
+            "Classic Literature",
+            "Conspiracies",
+            "History",
+            "Bibliography",
+            "Biography",
+            "Assassination",
+            "Antoine (Marcus Antonius)",
+            "Assassins"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL93082W",
         "tags": [
-            "History"
+            "Portraits",
+            "Poetry",
+            "Poetry (poetic works by one author)",
+            "Purgatory",
+            "Paradise",
+            "History",
+            "Hell",
+            "Literatura"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL267096W",
         "tags": [
-            "History"
+            "Fiction",
+            "Upper class women",
+            "Social life and customs",
+            "Social conditions",
+            "History",
+            "Adultery",
+            "Married women",
+            "Russian literature"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262454W",
         "tags": [
-            "History"
+            "English Civil War",
+            "crime novel",
+            "mires",
+            "History",
+            "tombs",
+            "Dogs",
+            "tors",
+            "England, fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL77746W",
         "tags": [
-            "History"
+            "Fiction",
+            "Juvenile fiction",
+            "Orphans",
+            "Friendship",
+            "History",
+            "Friendship in fiction",
+            "Country life",
+            "Prince Edward Island in fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL166894W",
         "tags": [
-            "History"
+            "Fiction",
+            "Psychological fiction",
+            "German language",
+            "Novela psicológica",
+            "History",
+            "Translations into Yiddish",
+            "Russian literature",
+            "English Translations"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1095427W",
         "tags": [
-            "History"
+            "Fiction",
+            "Romance",
+            "Charity schools, fiction",
+            "Married people, fiction",
+            "History",
+            "Married men",
+            "Man-woman relationships, fiction",
+            "Historical\""
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1793164W",
         "tags": [
-            "History"
+            "Fiction",
+            "Classic Literature",
+            "Male friendship",
+            "Humorous stories",
+            "History",
+            "Boats and boating",
+            "Description and travel",
+            "Humor (Fiction)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262421W",
         "tags": [
-            "History"
+            "Classic Literature",
+            "Apaces",
+            "Murder",
+            "Conclusions",
+            "History",
+            "Anglo-Saxons",
+            "amorality",
+            "Mystery"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL362690W",
         "tags": [
-            "History"
+            "Married people",
+            "Problems, exercises",
+            "Juvenile drama",
+            "History",
+            "Sex role",
+            "Man-woman relationships",
+            "Drama",
+            "Plays"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL102749W",
         "tags": [
-            "History"
+            "Whales",
+            "Translations into French",
+            "great_books_of_the_western_world",
+            "Science Fiction & Fantasy",
+            "Mentally ill",
+            "History",
+            "Whaling",
+            "American Sea stories"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL45139W",
         "tags": [
-            "History"
+            "Fiction",
+            "Children of prisoners",
+            "Social life and customs",
+            "Women",
+            "History",
+            "Criminals",
+            "English Adventure stories",
+            "English Picaresque literature"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL36861W",
         "tags": [
-            "History"
+            "Fiction",
+            "Swordplay",
+            "France in fiction",
+            "Swordsmen",
+            "History",
+            "Vietnamese language books",
+            "Adventure and adventurers"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL100672W",
         "tags": [
-            "History"
+            "Readers",
+            "Fiction",
+            "Moral conditions",
+            "Literatura francesa",
+            "History",
+            "Satire",
+            "Civilization",
+            "Conduct of life"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL69178W",
         "tags": [
-            "History"
+            "Abolitionists",
+            "Slavery",
+            "History",
+            "African American abolitionists",
+            "Slaves",
+            "Biography",
+            "Douglass, frederick, 1818-1895"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL78871W",
         "tags": [
-            "History"
+            "Slavery",
+            "African Americans",
+            "Slaves' writings, American",
+            "Plantation life",
+            "History",
+            "Slaves",
+            "Biography"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8193387W",
         "tags": [
-            "History"
+            "Fiction",
+            "Married people",
+            "Education",
+            "Social life and customs",
+            "Social conditions",
+            "History",
+            "Utilitarianism",
+            "Social problems"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL63985W",
         "tags": [
-            "History"
+            "Short stories",
+            "Fiction",
+            "Christmas",
+            "Ghosts",
+            "American Ghost stories",
+            "History",
+            "Children's stories, American"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL362685W",
         "tags": [
-            "History"
+            "Trojan War",
+            "Fiction",
+            "Troilus (Legendary character)",
+            "History",
+            "History and criticism",
+            "English drama",
+            "Cressida (Fictitious character)",
+            "Drama"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL362427W",
         "tags": [
-            "History"
+            "courtship",
+            "Drama inglés",
+            "British and irish drama (dramatic works by one author)",
+            "Conflicto entre generaciones",
+            "History",
+            "Classical Literature",
+            "Drama",
+            "Conflict of generations"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL99509W",
         "tags": [
-            "History"
+            "Family",
+            "Fiction",
+            "Classic Literature",
+            "Brothers and sisters",
+            "History",
+            "Children's stories",
+            "Country life",
+            "Family life"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL176092W",
         "tags": [
-            "History"
+            "Fiction",
+            "Detective and mystery stories",
+            "History",
+            "East Indians",
+            "Drama",
+            "Police",
+            "Jewelry theft"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL362695W",
         "tags": [
-            "History"
+            "Fiction",
+            "Antonius, Marcus, 83?-30 B.C.",
+            "English Young adult drama",
+            "Dramatic production",
+            "History",
+            "Bibliography",
+            "Antonius, Marcus,",
+            "Drama"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL19908W",
         "tags": [
-            "History"
+            "Fiction",
+            "Orphans",
+            "Irish in fiction",
+            "Boys",
+            "History",
+            "Boys in fiction",
+            "Irish",
+            "Lamas"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL77958W",
         "tags": [
-            "History"
+            "Fiction",
+            "Adventure stories",
+            "History",
+            "Historia",
+            "Historical fiction",
+            "Frontier and pioneer life",
+            "Ficción"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL8662242W",
@@ -15097,127 +16519,227 @@
             "History"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL52267W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Time travel in fiction",
+            "Fiction",
+            "Classic Literature",
+            "Literature",
+            "Self-experimentation in medicine in fiction",
+            "Dystopias in fiction",
+            "Scientists"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL64365W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Fiction",
+            "Moral and ethical aspects of Science",
+            "Passivity (Psychology)",
+            "Utopias",
+            "Science and state",
+            "Social problems",
+            "Brainwashing"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL74502W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Dysyopias, fiction",
+            "Oligarchy, fiction",
+            "Utopias,  fiction",
+            "Revolutionaries, fiction",
+            "Revolutions, fiction",
+            "Socialism,  fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL118388W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Film and video adaptations",
+            "Fiction, general",
+            "Fourth dimension",
+            "Meetkunde",
+            "Open Library Staff Picks",
+            "Denkbeeldige landen"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL52266W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Fiction",
+            "Classic Literature",
+            "Science fiction",
+            "Science Fiction & Fantasy",
+            "Ciencia-ficción",
+            "Mentally ill",
+            "Scientists"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL15448W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Fiction",
+            "Fairy tales",
+            "Fiction, general",
+            "Princesses, fiction",
+            "General",
+            "Princesses",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL52114W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Fiction",
+            "Juvenile fiction",
+            "Martians",
+            "Space warfare",
+            "Science Fiction & Fantasy",
+            "Imaginary wars and battles",
+            "Diseases"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL76473W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Fiction",
+            "Classic Literature",
+            "Fantastic fiction",
+            "Politics and government",
+            "Political fiction",
+            "English fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL450124W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "British and irish fiction (fictional works by one author)",
+            "Fiction",
+            "Plague",
+            "Twenty-first century",
+            "Fiction, science fiction, general",
+            "End of the world",
+            "Fiction, fantasy, general"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1418137W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Dejah Thoris (Fictitious character)",
+            "Fiction",
+            "Classic Literature",
+            "real science fiction",
+            "John Carter",
+            "Historical Fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1099280W",
         "tags": [
-            "Thriller"
+            "Fiction",
+            "Toy and movable books",
+            "Specimens",
+            "French language",
+            "Submarine boats",
+            "Thriller",
+            "Translations from French",
+            "Underwater exploration"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL262596W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Professor Challenger (Fictitious character)",
+            "Fiction",
+            "Classic Literature",
+            "British and Irish fiction (fictional works by one author)",
+            "Fiction, science fiction, general",
+            "Fiction, science fiction, action & adventure"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1417942W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Fiction",
+            "Classic Literature",
+            "American Science fiction",
+            "Science fiction",
+            "Science fiction, American",
+            "Fiction, science fiction, general",
+            "Historical Fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL1418244W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Fiction",
+            "Classic Literature",
+            "Science fiction",
+            "Barsoom (imaginary place), fiction",
+            "Barsoom",
+            "Fiction, science fiction, action & adventure",
+            "Historical Fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL88800W",
         "tags": [
-            "Science Fiction"
+            "Science Fiction",
+            "Technology",
+            "Fiction",
+            "Science fiction",
+            "Social aspects",
+            "English literature",
+            "Environmental disasters",
+            "Children's fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL381550W",
