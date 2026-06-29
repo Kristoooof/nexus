@@ -31,6 +31,11 @@ def normalize_title(title):
     title = re.sub(r'\s+', ' ', title).strip()
     return title
 
+# ÚJ: Segédfüggvény a szövegek normalizálására (kisbetű, aposztrófok eltávolítása)
+def normalize_str(s):
+    if not s: return ""
+    return s.lower().replace("'", "").replace("’", "").strip()
+
 def chunk_and_save(base_filename, data_list, max_items=50000):
     if not data_list: 
         filepath = os.path.join(PUBLIC_DIR, f"{base_filename}.json")
@@ -92,7 +97,6 @@ def load_existing_bovitett():
         pass
     return existing_ext
 
-# ÚJ PARAMÉTEREK: existing_ids és existing_norm_titles a duplikációk helyszíni ellenőrzéséhez
 def get_tmdb_movies(existing_ids, existing_norm_titles):
     print("Filmek letöltése (TMDB)...")
     if not TMDB_API_KEY: return []
@@ -102,7 +106,7 @@ def get_tmdb_movies(existing_ids, existing_norm_titles):
     movies = []
     target_new = 50
     attempts = 0
-    max_attempts = 5 # Max 5 oldal letöltése futásonként, hogy meglegyen az 50 új
+    max_attempts = 5
     
     try:
         while len(movies) < target_new and attempts < max_attempts:
@@ -124,11 +128,9 @@ def get_tmdb_movies(existing_ids, existing_norm_titles):
                 item_id = f"tmdb_{m_hu['id']}"
                 norm_title = normalize_title(m_en.get('title', '') or m_en.get('original_title', ''))
                 
-                # Duplikáció ellenőrzés
                 if item_id in existing_ids or norm_title in existing_norm_titles:
                     continue
                 
-                # Ha új, hozzáadjuk a listához ÉS a lookup setekhez
                 existing_ids.add(item_id)
                 existing_norm_titles.add(norm_title)
                 
@@ -171,7 +173,7 @@ def get_igdb_games(existing_ids, existing_norm_titles):
         
         while len(games) < target_new and attempts < max_attempts:
             attempts += 1
-            offset = random.randint(0, 5000) # Megnövelt tartomány
+            offset = random.randint(0, 5000)
             print(f"  IGDB Próba {attempts} - Offset: {offset} (Cél: {target_new} új)")
             
             body = f"fields name,genres.name,summary,rating,cover.image_id,first_release_date,age_ratings.rating; sort rating desc; limit 50; offset {offset};"
@@ -300,10 +302,14 @@ def get_anilist_media(existing_ids, existing_norm_titles, media_type="ANIME", co
                 genres = m.get('genres', [])
                 tags = [t['name'] for t in m.get('tags', [])[:10]]
                 
-                banned_genres = ['Ecchi', 'Smut', 'Erotica', 'Hentai', 'Boys Love', 'Girls Love', 'Yaoi', 'Yuri']
-                banned_tags = ['Sexual Violence', 'Rape', 'Incest', 'Prostitution', 'LGBTQ+ Themes']
+                # JAVÍTOTT SZIGORÚ SZŰRÉS (Normalizált szövegekkel az aposztrófok miatt)
+                banned_genres_norm = {normalize_str(g) for g in ['Ecchi', 'Smut', 'Erotica', 'Hentai', 'Boys Love', 'Girls Love', 'Yaoi', 'Yuri', 'BL', 'GL']}
+                banned_tags_norm = {normalize_str(t) for t in ['Sexual Violence', 'Rape', 'Incest', 'Prostitution', 'LGBTQ+ Themes', 'Boys Love', 'Girls Love', 'Yaoi', 'Yuri', 'BL', 'GL']}
                 
-                if any(g in banned_genres for g in genres) or any(t in banned_tags for t in tags):
+                genres_norm = [normalize_str(g) for g in genres]
+                tags_norm = [normalize_str(t) for t in tags]
+                
+                if any(g in banned_genres_norm for g in genres_norm) or any(t in banned_tags_norm for t in tags_norm):
                     continue
                 
                 item_id = f"anilist_{m['id']}"
@@ -341,7 +347,7 @@ def get_anilist_media(existing_ids, existing_norm_titles, media_type="ANIME", co
                     "age_rating": age_rating,
                     "cover_nsfw": cover_nsfw
                 })
-            time.sleep(1) # AniList rate limit tiszteletben tartása
+            time.sleep(1)
             
     except Exception as e:
         print(f"HIBA AniList-nél: {e}")
@@ -379,14 +385,12 @@ def main():
     existing_bovitett = load_existing_bovitett()
     print(f"Meglévő elemek betöltve: {len(existing_data)}")
     
-    # Lookup Setek gyors duplikáció ellenőrzéshez
     existing_ids = {item['id'] for item in existing_data}
     existing_norm_titles = set()
     for item in existing_data:
         norm = normalize_title(item.get('title_en') or item.get('title_hu'))
         if norm: existing_norm_titles.add(norm)
 
-    # ÚJ: Átadjuk a lookup seteket, hogy a függvények addig menjenek, amíg 50 újat nem találnak
     new_movies = get_tmdb_movies(existing_ids, existing_norm_titles)
     new_games = get_igdb_games(existing_ids, existing_norm_titles)
     new_books = get_openlibrary_books(existing_ids, existing_norm_titles)
