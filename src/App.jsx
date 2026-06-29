@@ -38,11 +38,23 @@ const dict = {
 function MultiSelect({ label, options, selected, onChange }) {
   const [isOpen, setIsOpen] = useState(false)
   const [search, setSearch] = useState('')
+  
   const filteredOptions = options.filter(opt => opt.toLowerCase().includes(search.toLowerCase()))
+  
+  // JAVÍTOTT: Kiválasztott elemek mindig legfelülre kerülnek
+  const sortedOptions = [...filteredOptions].sort((a, b) => {
+    const aSel = selected.includes(a)
+    const bSel = selected.includes(b)
+    if (aSel && !bSel) return -1
+    if (!aSel && bSel) return 1
+    return 0
+  })
+
   const toggleOption = (opt) => {
     if (selected.includes(opt)) onChange(selected.filter(o => o !== opt))
     else onChange([...selected, opt])
   }
+
   return (
     <div className="multi-select">
       <button className="ms-button" onClick={() => setIsOpen(!isOpen)}>
@@ -54,7 +66,7 @@ function MultiSelect({ label, options, selected, onChange }) {
           <div className="dropdown-panel">
             <input type="text" placeholder="Keresés..." value={search} onChange={e => setSearch(e.target.value)} autoFocus />
             <div className="options-list">
-              {filteredOptions.map(opt => (
+              {sortedOptions.map(opt => (
                 <label key={opt} className={`option-item ${selected.includes(opt) ? 'selected' : ''}`}>
                   <input type="checkbox" checked={selected.includes(opt)} onChange={() => toggleOption(opt)} />
                   {opt}
@@ -68,7 +80,6 @@ function MultiSelect({ label, options, selected, onChange }) {
   )
 }
 
-// Képet megjelenítő komponens (NSFW homályosítással)
 function CoverImage({ item, t, revealed, onReveal, className, noImgClass }) {
   if (!item.image) return <div className={noImgClass}>{t.noImg}</div>
   
@@ -95,7 +106,7 @@ export default function App() {
   const [view, setView] = useState('browse')
   const [lang, setLang] = useState('hu')
   const [sortBy, setSortBy] = useState('popularity')
-  const [revealedImages, setRevealedImages] = useState(new Set()) // Nyitott 18+ képek
+  const [revealedImages, setRevealedImages] = useState(new Set())
   
   const [library, setLibrary] = useState(() => JSON.parse(localStorage.getItem('mediaLibrary') || '[]'))
   const [modalItem, setModalItem] = useState(null)
