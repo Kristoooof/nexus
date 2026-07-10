@@ -37870,5 +37870,860 @@
         "score": 0.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_21937",
+        "title_hu": "Alive 2007",
+        "title_en": "Alive 2007",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ],
+        "description": "",
+        "image": "",
+        "date": "1900-01-01",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1592695",
+        "title_hu": "HEAVEN",
+        "title_en": "HEAVEN",
+        "type": "film",
+        "genres": [],
+        "description": "Experiment by Lex Barrett.",
+        "image": "https://image.tmdb.org/t/p/w500/d0mwQEEdw5b9SbIpBfVzf7NJs2S.jpg",
+        "date": "2021-10-10",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9286",
+        "title_hu": "Végső állomás 3.",
+        "title_en": "Final Destination 3",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "description": "A középiskolás Wendy rémálma valósággá válik. Egy apró, véletlen baleset következtében kisiklik a hullámvasút, melyen a barátaival ül, a kocsik a mélybe zuhannak és senki sem éli túl a balesetet. Wendy közbelépésének köszönhetően azonban megússzák, hogy a valóban bekövetkező baleset áldozataivá váljanak. De a Halált nem lehet kijátszani, a Halál nem mond le kiszemelt áldozatairól.",
+        "image": "https://image.tmdb.org/t/p/w500/e4hlLF7lryB8xrSENxyeyJaoogG.jpg",
+        "date": "2006-02-09",
+        "score": 6.152,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_127380",
+        "title_hu": "Szenilla nyomában",
+        "title_en": "Finding Dory",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Family"
+        ],
+        "description": "Az aranyhal-memóriájú kék halacska elindul, hogy válaszokat találjon a múltjával kapcsolatos kérdésekre. Kicsoda ő? Kik a szülei? Miért nem emlékszik semmire? És vajon hol tanult meg ámbrásul? Útja során barátai Marlin és Némó is elkísérik.",
+        "image": "https://image.tmdb.org/t/p/w500/kngfxJ1vGdFyspjPSRIqQIQzQ7u.jpg",
+        "date": "2016-06-16",
+        "score": 7.042,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_661374",
+        "title_hu": "Tőrbe ejtve - Az üveghagyma",
+        "title_en": "Glass Onion: A Knives Out Mystery",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Mystery"
+        ],
+        "description": "Benoit Blanc, a világhírű nyomozó Görögországba utazik, hogy felgöngyölítsen egy új rejtélyt, melyben egy milliárdos és az ő eklektikus baráti társasága szerepelnek.",
+        "image": "https://image.tmdb.org/t/p/w500/1NnNIFy9vnqnRXfLXMsWQmbCkRM.jpg",
+        "date": "2022-11-23",
+        "score": 7.029,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1720486",
+        "title_hu": "Lilo & Scratch",
+        "title_en": "Lilo & Scratch",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family",
+            "Science Fiction"
+        ],
+        "description": "Stitch is tasked with looking after Scratch, a cat Lilo has found but Scratch has more similarities with Stitch than meets the eye.",
+        "image": "https://image.tmdb.org/t/p/w500/sCqet6JlBUu2YLGdOAJyMwvLM8U.jpg",
+        "date": "2026-11-25",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1723336",
+        "title_hu": "Crimson Creek",
+        "title_en": "Crimson Creek",
+        "type": "film",
+        "genres": [
+            "Western",
+            "Adventure",
+            "Action"
+        ],
+        "description": "Where the damned go to die and the devil fears to tread. And the ones left alive all envy the dead in Crimson Creek no hope you'll find. You better shoot straight if you're gonna survive. Forget the rest. The Wild West just got wilder.",
+        "image": "",
+        "date": "2025-03-15",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1427010",
+        "title_hu": "Feliz cumple",
+        "title_en": "Feliz cumple",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "On his birthday, Claudio spends his time at work. As the day progresses, Claudio waits for some gesture that does not arrive, which, added to different misunderstandings, will lead him to anger.",
+        "image": "https://image.tmdb.org/t/p/w500/fFKH4t3SbElFjMdg2akHPGqRa3i.jpg",
+        "date": "2024-02-14",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_256274",
+        "title_hu": "Úgy fent, mint lent",
+        "title_en": "As Above, So Below",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "description": "Párizs utcái alatt 200 mérföldnyi alagútrendszer húzódik, melyet 1785-ben építették a világ legnagyobb tömegsírjának. Ez a holtak birodalma, ahol számtalan lélek lelt örök otthonra. De a világ nem tudja a legsötétebb titkát. Amikor egy csapat kutató bemerészkedik a feltérképezetlen katakombák csont-labirintusába, rábukkannak a titokra, melyet a holtak városa őriz...",
+        "image": "https://image.tmdb.org/t/p/w500/rdw2MLBX5IXAs6NaKdRszGqAUUT.jpg",
+        "date": "2014-08-14",
+        "score": 6.746,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1667360",
+        "title_hu": "Info Loker",
+        "title_en": "Info Loker",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Crime"
+        ],
+        "description": "Hardi is a jobless broke guy who is looking for a job, until one day he \"accidentally\" meets his old friend who now works as an illegal parking attendant. That meeting brings him to the job he was looking for, but the job is informal and has an unfavorable system.",
+        "image": "https://image.tmdb.org/t/p/w500/zkjNMlddeiUit5uk5766Y1n8H2Z.jpg",
+        "date": "2026-04-09",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1169537",
+        "title_hu": "Batwara 1947",
+        "title_en": "Batwara 1947",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Drama",
+            "War"
+        ],
+        "description": "The story of an elderly Muslim woman who refuses to leave her ancestral home in Lahore, only to have a Hindu refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
+        "image": "https://image.tmdb.org/t/p/w500/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",
+        "date": "2026-08-13",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_189570",
+        "title_hu": "Das boxende Känguruh",
+        "title_en": "The Boxing Kangaroo",
+        "type": "film",
+        "genres": [
+            "Documentary",
+            "Action"
+        ],
+        "description": "A man and a kangaroo stand up in front of each other with boxing gloves, and simulate a boxing match on a theatre stage.",
+        "image": "https://image.tmdb.org/t/p/w500/eOaxjcJsGPgdCpfdIOG2BeQO7EM.jpg",
+        "date": "1895-11-01",
+        "score": 4.807,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_553595",
+        "title_hu": "නිදහසේ පියා DS",
+        "title_en": "Father of Independence",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "description": "As the rage against British colonization in Sri Lanka continues, civilians are having a new hope about their new activists.",
+        "image": "https://image.tmdb.org/t/p/w500/ArY7LlpNDBTLQ3wRKBQbfebVnw4.jpg",
+        "date": "2018-10-13",
+        "score": 5.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1443822",
+        "title_hu": "大黑天神",
+        "title_en": "Sleepless in Seattle",
+        "type": "film",
+        "genres": [],
+        "description": "After the death of his mother, a young boy calls a radio station in an attempt to set his father up on a date. Across the country, an engaged woman becomes convinced that they belong together, despite their never having met. Will their paths collide despite the odds?",
+        "image": "https://image.tmdb.org/t/p/w500/jeyIIRjILhwLYitx2UbL9bJ5r7K.jpg",
+        "date": "2016-04-05",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1657157",
+        "title_hu": "Cuckoo",
+        "title_en": "Trib/ulations",
+        "type": "film",
+        "genres": [
+            "Thriller"
+        ],
+        "description": "Gutted after a breakup, Ella joins a dating program; \"ResusciDATE: Bringing love back to life.\" Orchestrated by an overly enthusiastic Matchmaker, Ella is met with a range of CandiDATES, from bad to worse. As rejection piles up, Ella spirals down a path of self-confrontation, unsure if she is capable of love at all.",
+        "image": "",
+        "date": "2028-01-01",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_848326",
+        "title_hu": "Rebel Moon – 1. rész: A tűz gyermeke",
+        "title_en": "Horrible Bosses 2",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Amikor a Szülőbolygó könyörtelen erői egy távoli hold nyugodt farmerfalujának lakóit fenyegetik, egy rejtélyes kívülálló válik a túlélésük egyetlen reményévé.",
+        "image": "https://image.tmdb.org/t/p/w500/icqB7AUwT69VrkX3ewxJitZK6Cp.jpg",
+        "date": "2023-12-15",
+        "score": 6.216,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1689640",
+        "title_hu": "A Record",
+        "title_en": "Fantasme",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/8wZlRRc4cSjPQ8PKt8P3PM3lZvJ.jpg",
+        "date": "2025-04-15",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_18804",
+        "title_hu": "Nézz az égre!",
+        "title_en": "The Contractor",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "description": "A  18 éves Guy Malyon a Cambridge Egyetemen ismerkedik meg és kezd szenvedélyes viszonyt az arisztokrata származású Gilda Bessével. A hedonista lány és a fiú évekkel később egy párizsi apartmanban lakik egy Mia nevű spanyol menekülttel hármasban. A háború közeledtével a fényképész Gilda csak karrierjével és egyedi életformájának fenntartásával törődik, Guy és Mia azonban kötelességének érzi, hogy harcoljon a fasizmus ellen - ez, valamint egy sötét titok talán örökre elválasztja a hármast....",
+        "image": "https://image.tmdb.org/t/p/w500/d6IaMQWqGOBGhKOzGhmIte9F67d.jpg",
+        "date": "2004-04-29",
+        "score": 5.939,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9327",
+        "title_hu": "Bölcsek kövére",
+        "title_en": "Horrible Bosses",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Science Fiction",
+            "Romance"
+        ],
+        "description": "Azzal még semmit sem mondtunk, ha eláruljuk, hogy Sherman Klump professzor a legnagyobb arc az egyetemen. Mindkét értelemben. Ő a bölcsek kövére! Ez a tudós kolosszális. Az agya fenomenális. A teste kriminális. A családja abnormális. A szerelmi élete pedig katasztrofális. Ez a minden hájjal megkent hasas pasas, ez a túlsúllyal sújtott makro-professzor, aki alig fér a bőrébe, miután már mindent kipróbált, hogy leadjon valamit kétszáz kilójából, végső elkeseredésében feltalál egy forradalmi génformulát. Ki is próbálja saját magán és észreveszi, hogy már nem az aki volt, pontosabban csak a fele régi önmagának. Egy korty a csodalöttyből, és az aranyos, szégyenlős tudósból egy fesztelen, nagysvádájú Casanova lesz, Haver Lamúr, akinek a nők nem tudnak ellenállni, és aki bármilyen helyzetből kidumálja magát.",
+        "image": "https://image.tmdb.org/t/p/w500/6Fufd3pjSTBN2TUNP7C3Iq97hUw.jpg",
+        "date": "1996-06-28",
+        "score": 5.644,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10052",
+        "title_hu": "Szitakötő",
+        "title_en": "Why",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Fantasy"
+        ],
+        "description": "Dr. Joe Darrow (Kevin Costner) képtelen elfelejteni a feleségét. Emily (Susanna Thompson) önkéntes vöröskeresztesként dolgozott Venezuelában, amikor baleset érte és meghalt. Hiába múlnak az évek, a férfi gyásza nem enyhül: sőt, mostanában egyre többször jut eszébe az asszony. Egyre több jel emlékezteti rá, és ezek a jelek egyre különösebbek. Joe Darrow nyomozni kezd, és eljut egy klinikára, ahol a halálból visszatért gyermekek különös látomásokról számolnak be. Ez azonban csak a kezdet. Megszállott kutatása során mind különösebb, félelmetesebb, és kevésbé evilági dolgokkal találja szemben magát.",
+        "image": "https://image.tmdb.org/t/p/w500/qxzwaI0LVJAcZoa2flE8CIVfgW9.jpg",
+        "date": "2002-02-22",
+        "score": 6.544,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1657895",
+        "title_hu": "no_mercy_in_mexico",
+        "title_en": "8 Mile",
+        "type": "film",
+        "genres": [
+            "Documentary",
+            "War"
+        ],
+        "description": "For Jimmy Smith, Jr., life is a daily fight just to keep hope alive. Feeding his dreams in Detroit's vibrant music scene, Jimmy wages an extraordinary personal struggle to find his own voice - and earn a place in a world where rhymes rule, legends are born and every moment… is another chance.",
+        "image": "https://image.tmdb.org/t/p/w500/sXXLUh3yA9Eki4AcW0amOwBKvTb.jpg",
+        "date": "2025-11-06",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_97630",
+        "title_hu": "Zero Dark Thirty - A Bin Láden hajsza",
+        "title_en": "DONOVAN 17: THE WEEKEND WARS",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "description": "Az Oszama bin Laden utáni hajtóvadászat két amerikai elnöki ciklus és az egész világ figyelmét lekötötte több mint egy évtizeden át. Végül azonban egy apró, ám briliáns CIA-ügynökökből álló csoportnak sikerült őt előkerítenie. Küldetésüket természetesen teljes titokban kellett véghezvinniük. S noha az akció számos részlete azóta nyilvánosságra került, a hírszerzési műveletek legfontosabb mozzanatainak többsége - beleértve az említett CIA-csoport központi szerepét - most kerül először a nagyvászonra az Oscar-díjas páros, Kathryn Bigelow és Mark Boal legújabb lebilincselő filmjében.",
+        "image": "https://image.tmdb.org/t/p/w500/8GLhXUAfspBwqlbZFoW9iYqFsrZ.jpg",
+        "date": "2012-12-19",
+        "score": 6.991,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1662585",
+        "title_hu": "Open Late",
+        "title_en": "Love, Simon",
+        "type": "film",
+        "genres": [
+            "Horror"
+        ],
+        "description": "Everyone deserves a great love story, but for 17-year-old Simon Spier, it's a little more complicated. He hasn't told his family or friends that he's gay, and he doesn't know the identity of the anonymous classmate that he's fallen for online.",
+        "image": "https://image.tmdb.org/t/p/w500/zHMxsNcjEye3FR0kVLs7u5t49v4.jpg",
+        "date": "2022-10-12",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1707602",
+        "title_hu": "Placebo",
+        "title_en": "Routine",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "An experimental half-documentary half-fiction about a young person’s routine of getting to sleep and waking up.",
+        "image": "https://image.tmdb.org/t/p/w500/aOtpxIEaucbBjqJ4egua05clxEn.jpg",
+        "date": "2024-05-29",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_274",
+        "title_hu": "A Bárányok hallgatnak",
+        "title_en": "Noah",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Thriller",
+            "Drama"
+        ],
+        "description": "Dr. Hannibal \"Kannibál\" Lecter az egyik legveszedelmesebb pszichopata gyilkos. Évek óta szigorúan őrzött börtönben ül, de az FBI-nak most a segítségére van szüksége. Valaki ugyanis a módszereit utánozza, és remélik, hogy az őrült orvos segítségükre tud lenni. Clarice Starling különleges ügynök kapja a feladatot, hogy férkőzzön Dr. Lecter bizalmába, és próbálja meg rávenni a segítségre. Ám a dolog nem ilyen egyszerű: Dr. Lecter nem csak őrült, de hihetetlenül intelligens is, így Clarice-nek nincs könnyű dolga.",
+        "image": "https://image.tmdb.org/t/p/w500/YONaAwbdCqeEeAKqcnyz36a70v.jpg",
+        "date": "1991-02-14",
+        "score": 8.345,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1361024",
+        "title_hu": "Монгол",
+        "title_en": "Insectasy",
+        "type": "film",
+        "genres": [
+            "History",
+            "Drama",
+            "War",
+            "Action"
+        ],
+        "description": "Sadie struggles to find balance as she juggles work, her social life and her erotic fascination with insects.",
+        "image": "https://image.tmdb.org/t/p/w500/fZqoK2NcdO4doCXpqwCqIfcWjyK.jpg",
+        "date": "2023-04-28",
+        "score": 6.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1635",
+        "title_hu": "A sziget",
+        "title_en": "F Valentine's Day",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Science Fiction"
+        ],
+        "description": "Licoln 6-Echo (Ewan McGregor) és Jordan-2 Delta (Scarlett Johansson) több száz társukhoz hasonlóan szigorú ellenőrzés alatt élnek, mindegyikük abban reménykedik, hogy kiválasztják a Szigetre, amely az egyetlen lakható hely maradt a Földön. Lincoln azonban hamarosan rájön, minden hazugság, amit eddig saját magáról és a világról tudott, a Sziget meséje pedig a legkegyetlenebb átverés. Miután kiderül számukra, hogy holtan értékesebbek, mint élve, Lincoln és Jordan megszöknek a zárt létesítményből.",
+        "image": "https://image.tmdb.org/t/p/w500/u8CNKild9IwwF7Ifa3gQiJZyHu.jpg",
+        "date": "2005-07-21",
+        "score": 6.7,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_762975",
+        "title_hu": "Bíbor szívek",
+        "title_en": "Sing Geetham",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "description": "A feltörekvő énekesnő érdekházasságot köt a hamarosan bevonuló tengerészgyalogossal, ám nemsokára egy tragédia túlságosan is valóságossá teszi megjátszott kapcsolatukat.",
+        "image": "https://image.tmdb.org/t/p/w500/qwWF6W7B2YBGoG5C0jPtYT5quiX.jpg",
+        "date": "2022-07-29",
+        "score": 8.046,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_697843",
+        "title_hu": "Tyler Rake: A kimenekítés 2.",
+        "title_en": "Extraction 2",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "Tyler Rake profi kommandós a halálból visszatérve újabb veszélyes küldetésre indul, hogy kiszabadítsa a börtönből egy könyörtelen gengszter családját.",
+        "image": "https://image.tmdb.org/t/p/w500/mk7B4kP3UtzBKZ1Cw6tTlaNrDqV.jpg",
+        "date": "2023-06-09",
+        "score": 7.388,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1703368",
+        "title_hu": "Sinfonia Doméstica",
+        "title_en": "Sinfonia Doméstica",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/n3IyUB8T2oMrPmHU8ZR3tvAGaZ3.jpg",
+        "date": "2026-05-06",
+        "score": 10.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1360829",
+        "title_hu": "Virgin Punk: Clockwork Gir",
+        "title_en": "VIRGIN PUNK Clockwork Girl",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Action",
+            "Science Fiction"
+        ],
+        "description": "Egy fiatal nő fejvadásszá válik, és személyes konfliktusaival küzdve vészhelyzeteket kell megoldania. Hatalmas emberek intrikái és a társadalom excentrikus elitje között sodródik a zűrzavar hálójában.",
+        "image": "https://image.tmdb.org/t/p/w500/oARmiq6Lar4RNAlPzsuRf8cqL8j.jpg",
+        "date": "2025-06-27",
+        "score": 8.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1431068",
+        "title_hu": "मैं वापस आऊंगा",
+        "title_en": "Main Vaapas Aaunga",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Drama",
+            "Mystery"
+        ],
+        "description": "Haunted by a childhood romance and recollections of love lost during the 1947 Partition of India, 95-year-old Ishar Singh Grewal shares his story with his grandson Nirvair, the past unfolding through memories of migration, longing, and a romance that endures across generations.",
+        "image": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
+        "date": "2026-06-10",
+        "score": 6.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_287947",
+        "title_hu": "Shazam!",
+        "title_en": "Shazam!",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        "description": "Mindannyiunkban ott bujkál a szuperhős – de van,  akiből elő is jön. A 14 éves Billy Batson egy árvaházból kerül nevelőszüleihez. Nem a legnépszerűbb srác az iskolában… de Shazam az ősöreg, különleges erejű varázsló mégis kiválasztja. Amikor a srác hangosan kimondja a varázsló nevét, átalakul. Igazi szuperhős válik belőle, annak minden kellékével: testhezálló, köpönyeggel kiegészített ruha, különleges eszközök, rendkívüli erő és meghökkentő képességek.",
+        "image": "https://image.tmdb.org/t/p/w500/dRuODqGUwoVgjZdd2tvWU2QWLG7.jpg",
+        "date": "2019-03-29",
+        "score": 6.976,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_184315",
+        "title_hu": "Herkules",
+        "title_en": "Hercules",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure"
+        ],
+        "description": "Herkules egy zsoldoshadsereg élén elindul, hogy véget vessen a Trákiában dúló véres polgárháborúnak. Félistenként földöntúli ereje segíti a harcban, azonban nem vetkőzheti le emberségét, amely egész életében kísérti. A legendás hérosznak útja során mitikus lényekkel is meg kell küzdenie.",
+        "image": "https://image.tmdb.org/t/p/w500/bwZpqAtmGcxnlxPU7hXcMf7zSrd.jpg",
+        "date": "2014-07-23",
+        "score": 5.802,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1677593",
+        "title_hu": "Tides",
+        "title_en": "Tides",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A quiet coming-of-age story about friendship, uncertainty, and the moments that change everything. As three young men navigate love, loss, and the weight of growing up, their bond is tested by a single event that forces them to confront who they are—and who they’re becoming.",
+        "image": "https://image.tmdb.org/t/p/w500/kwps7mOZtspDYWykqF3Deu7kvfd.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9837",
+        "title_hu": "Egyiptom hercege",
+        "title_en": "The Prince of Egypt",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Drama",
+            "Family"
+        ],
+        "description": "Rabszolgának született. Királyok nevelték. Vezér lett belőle. Történetét az egész világ ismeri, milliók tisztelik a nevét, ő Mózes. Az Egyiptom hercege az örökség és a sors epikus igényű drámája. Mózes története és útja a rabszolgától a hercegen át a felszabadítóig, évezredeken át fennmaradt, nemzedékek sorát nyűgözte le a hit, remény és szabadság időtlen témáival. A DreamWorks első egész estés animációs filmjéhez az Oscar-díjas Hans Zimmer írt dalokat és zenét. A film káprázatos képi világán pedig több mint 350 animátor, művész és technikus dolgozott.",
+        "image": "https://image.tmdb.org/t/p/w500/gFn3IFeGY2UIRCrq7Swosdw2Klx.jpg",
+        "date": "1998-12-16",
+        "score": 7.313,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1360838",
+        "title_hu": "捉刀人",
+        "title_en": "Blade of Fury",
+        "type": "film",
+        "genres": [
+            "Action"
+        ],
+        "description": "Pei Xing, known as the Jackal, once traded lives for money without emotion. After witnessing the powerful crush those fighting for justice, his sense of righteousness awakens. Now, he seeks revenge, punishing the wicked while facing off against other skilled swordsmans.",
+        "image": "https://image.tmdb.org/t/p/w500/8BftBKoayme0sENlu906xopbEwu.jpg",
+        "date": "2024-09-28",
+        "score": 6.333,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_178991",
+        "title_hu": "Les chutes",
+        "title_en": "Niagara Falls",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "A stationary camera looks west across Niagara Falls from the United States' side (the Niagara River rushes toward the falls from right to left). Virtually overlooking the falls and surrounded by the swift current not far from the camera is a small island where six or eight tourists watch the water, talk, and move about.",
+        "image": "https://image.tmdb.org/t/p/w500/rn62qKiMB2Mg9QwFUbzZycwkoWN.jpg",
+        "date": "1896-09-29",
+        "score": 4.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_747",
+        "title_hu": "Haláli hullák hajnala",
+        "title_en": "Shaun of the Dead",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Comedy"
+        ],
+        "description": "Shaun a törzshelyén, a Winchester Pubban tölti zsákutcába jutott életét legjobb cimborája, Ed társaságában, emellett állandóan veszekszik az anyjával és elhanyagolja a barátnőjét. Amikor Liz kiteszi a szűrét, Shaun rászánja magát, hogy ráncba szedje életét. Újra el kell nyernie barátnője szerelmét, rendbe kell hoznia a kapcsolatát anyjával, és szembe kell néznie a felelősségteljes felnőttkor nehézségeivel. Balszerencséjére azonban zombijárvány tör ki. Shaun, Ed, a mama és a mostohaapa, valamint Liz és barátai a Shaun által ismert legbiztonságosabb helyen, vagyis a Winchesterben barikádozzák el magukat.",
+        "image": "https://image.tmdb.org/t/p/w500/yfEdAEwgfAzC5DQdQLiPRmbRUzy.jpg",
+        "date": "2004-04-09",
+        "score": 7.545,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1642074",
+        "title_hu": "Midnight Oil",
+        "title_en": "Midnight Oil",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Comedy"
+        ],
+        "description": "Martin, a late night radio DJ, is strangely tasked with doing a giveaway during his show. A series of increasingly odd and disturbing calls strings Martin along a dark journey, taking him down roads he thought he would never cross.",
+        "image": "https://image.tmdb.org/t/p/w500/bZiH8JvWIAnXPkK4tRy9Dcglr1R.jpg",
+        "date": "2026-02-21",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_282621",
+        "title_hu": "Bhagyada Balegara",
+        "title_en": "Sleepers",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Two gangsters seek revenge on the state jail worker who during their stay at a youth prison sexually abused them. A sensational court hearing takes place to charge him for the crimes.",
+        "image": "https://image.tmdb.org/t/p/w500/bwDtXcFCTZL2Evu2AWijlDgJC5C.jpg",
+        "date": "2009-09-11",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1588820",
+        "title_hu": "Permiso",
+        "title_en": "The Wailing",
+        "type": "film",
+        "genres": [
+            "Horror"
+        ],
+        "description": "A stranger arrives in a little village and soon after a mysterious sickness starts spreading. A policeman is drawn into the incident and is forced to solve the mystery in order to save his daughter.",
+        "image": "https://image.tmdb.org/t/p/w500/8psYPkbXj0Gg3QXjnqBlfU2dw6v.jpg",
+        "date": "2025-12-03",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_4982",
+        "title_hu": "Amerikai gengszter",
+        "title_en": "The Princess Diaries 2: Royal Engagement",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "description": "Frank Lucasra nem figyelt fel senki, míg a belváros egyik fekete főgengszterének hallgatag sofőrje volt. Ám amikor főnöke váratlanul meghal, Frank kihasználja a hatalmi struktúrában keletkezett rést, és felépíti saját birodalmát, megteremti az Amerikai Álom saját személyére szabott verzióját. Richie Roberts a becsületes zsaru, akit a társai kinéznek maguk közül. Elég közel van az utcákhoz, hogy érezze a hatalmi viszonyok elmozdulását a kábítószeres alvilágban. Roberts meggyőződése, hogy valaki az ismert maffiacsaládok fölé került, és gyanítani kezdi, hogy egy fekete játékos bukkant fel a semmiből, és egyenesen a csúcsra tör.Lucas és Roberts is szigorú erkölcsi kódex szerint él, ez különbözteti meg őket társaiktól, ettől lesznek mindketten magányos harcosok a törvény két oldalán. A két férfi sorsa összefonódik, ahogy egyre közeleg a leszámolás perce, amelyből csak az egyikük kerülhet ki győztesen.",
+        "image": "https://image.tmdb.org/t/p/w500/7eShyJ3R4oYXKzRx0DXBCbiIZlP.jpg",
+        "date": "2007-11-02",
+        "score": 7.594,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_646",
+        "title_hu": "Dr. No",
+        "title_en": "Sleepy Hollow",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Thriller"
+        ],
+        "description": "A brit titkosszolgálat ügynökét, James Bond-ot Jamaicába küldik, hogy egyik társuk meggyilkolásának ügyében nyomozzon. Érkezését nem fogadja egyöntetű örömrivalgás, de ennek ellenére Bond pillanatok alatt megtalálja a nyomokat, amin elindulhat a gyilkos felkutatására. Hamarosan egy titokzatos tudóshoz jut el, Dr. Nohoz, majd egyre váratlanabb szálak bonyolódnak az ügybe.",
+        "image": "https://image.tmdb.org/t/p/w500/f9HsemSsBEHN5eoMble1bj6fDxs.jpg",
+        "date": "1962-10-07",
+        "score": 6.983,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1475756",
+        "title_hu": "The Voicemail",
+        "title_en": "Peninsula",
+        "type": "film",
+        "genres": [],
+        "description": "A soldier and his team battle hordes of post-apocalyptic zombies in the wastelands of the Korean Peninsula.",
+        "image": "https://image.tmdb.org/t/p/w500/rIKYLm6X442wasl61bk3aOwCBdU.jpg",
+        "date": "2024-01-24",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1429520",
+        "title_hu": "Sidelined 2: Intercepted",
+        "title_en": "Sidelined 2: Intercepted",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "description": "A sztár QB Drayton és a táncos Dallas kihívásokkal néznek szembe a kapcsolatukban, miközben a férfi felépül egy visszaesésből, a lány pedig kételkedik a jövőjében. Kötődésük próba előtt áll, ahogy a távolsággal és a személyes változásokkal küzdenek.  (Szarka Károly)",
+        "image": "https://image.tmdb.org/t/p/w500/sEIP1pTVXa8BJaYSuVeVG3wFN10.jpg",
+        "date": "2025-11-27",
+        "score": 6.921,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1694714",
+        "title_hu": "Untitled documentary",
+        "title_en": "La Traque",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "",
+        "image": "",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1673393",
+        "title_hu": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
+        "title_en": "How to Have Sex",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Romance",
+            "Drama"
+        ],
+        "description": "Three British teenage girls go on a rites-of-passage holiday—drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+        "image": "https://image.tmdb.org/t/p/w500/3dQwU1FaH2VsYFA9U9Shamkr1a8.jpg",
+        "date": "2026-05-07",
+        "score": 9.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1453131",
+        "title_hu": "Vägskälet",
+        "title_en": "Diary of a Wimpy Kid",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Greg Heffley is headed for big things, but first he has to survive the scariest, most humiliating experience of any kid’s life – middle school! That won’t be easy, considering he’s surrounded by hairy-freckled morons, wedgie-loving bullies and a moldy slice of cheese with nuclear cooties!",
+        "image": "https://image.tmdb.org/t/p/w500/ojiIgFIZrFug4rMflX39mdHiwnI.jpg",
+        "date": "2025-04-17",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1696152",
+        "title_hu": "Welcome Home",
+        "title_en": "Scapegoat",
+        "type": "film",
+        "genres": [
+            "Documentary",
+            "Family",
+            "Adventure"
+        ],
+        "description": "After a social media media influencer dies during surgery, the surgeon faces intense public scrutiny at the hands of the influencer's brother and widow.",
+        "image": "",
+        "date": "2026-09-01",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1694305",
+        "title_hu": "Faceless: Retribution",
+        "title_en": "22 Jump Street",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller",
+            "Adventure",
+            "Comedy"
+        ],
+        "description": "After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. But when Jenko meets a kindred spirit on the football team, and Schmidt infiltrates the bohemian art major scene, they begin to question their partnership. Now they don't have to just crack the case - they have to figure out if they can have a mature relationship. If these two overgrown adolescents can grow from freshmen into real men, college might be the best thing that ever happened to them.",
+        "image": "https://image.tmdb.org/t/p/w500/clVVWR9kvZoQsgoDyTDphGHMPZ7.jpg",
+        "date": "2026-12-18",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1655673",
+        "title_hu": "Dracula",
+        "title_en": "Terra: Reckoning",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Drama",
+            "TV Movie"
+        ],
+        "description": "Bram Stoker klasszikusát ijesztő elmesélésben láthatjuk, amelyben egy vonzó, ambiciózus, 30 évesekből álló csoport utazgat Magyarországon jövedelmező üzletek után kutatva, mit sem sejtve az életüket fenyegető szörnyű veszélyről.",
+        "image": "https://image.tmdb.org/t/p/w500/iYZraeNlnlcGhYmgSH8zFN6syXt.jpg",
+        "date": "2002-05-29",
+        "score": 10.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1168719",
+        "title_hu": "Csendes barát",
+        "title_en": "Antarctica",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Egy idős fa áll egy botanikus kert közepén. Magányos, ahogy a kert többi lakója is – sok ezer kilométerre eredeti élőhelyüktől, hogy megcsodálhassuk, megfigyelhessük őket. Ahogy mi őket, úgy ők is megfigyelnek minket. Tanúi rövid, kusza, zajos es zaklatott életünknek. A film három történetet mesél el, ember és növény három tétova találkozását, amikor ez a kétfajta, radikálisan különböző érzékelés egy pillanatra igazán összekapcsolódik. Emberi hőseink, akárcsak a kert növényei, kívülállók, magányos lelkek. És épp úgy vágynak a kapcsolódásra, ahogy ők.",
+        "image": "https://image.tmdb.org/t/p/w500/rczMhdxYYrF8Zc3tnQ63h8ZLQec.jpg",
+        "date": "2026-01-15",
+        "score": 7.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
