@@ -48254,5 +48254,123 @@
         "score": 80.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_125889",
+        "title_en": "Marble Marcher",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Platform",
+            "Racing"
+        ],
+        "description": "Marble Marcher is entirely ray-marched (similar to ray-tracing) in real time and is played on the surface of evolving fractals. The goal is to get your marble to the goal as quickly as possible. There are 24 unique levels to master.\nThis game is the result of a fractal physics engine developed by CodeParade that allows fast collisions with fractals and other procedurally rendered objects. As far as I'm aware, it is the first game to ever use this technique.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hi7.jpg",
+        "date": "2019-01-01",
+        "score": 80.61687062006806,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_12077",
+        "title_en": "Phoenix Wright: Ace Attorney - Spirit of Justice",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Point-and-click",
+            "Puzzle",
+            "Role-playing (RPG)",
+            "Adventure",
+            "Visual Novel"
+        ],
+        "description": "Ace Attorney 6 continues the investigation and courtroom of its predecessors, in which players take the role of the defense attorneys; Phoenix Wright, Apollo Justice, and Athena Cykes, and try to defend their clients. The game continues the 3D navigation introduced in Phoenix Wright: Ace Attorney − Dual Destinies, allowing players to navigate environments from various angles. Along with returning gameplay elements, such as the Mood Matrix introduced in Dual Destinies, the game introduces Spirit Medium Vision, in which the players are shown the memories of victims moment before their deaths and must find contradictions in their five senses to determine what really happened.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5z95.jpg",
+        "date": "2016-06-09",
+        "score": 80.61670828138539,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_3147",
+        "title_en": "Aero Fighters",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Shooter",
+            "Arcade"
+        ],
+        "description": "There are eight stages in this game. The beginning stages consists of randomly chosen areas from nations of unselected fighters (assuming those fighters have nations). If Rabio or Lepus is chosen, all four rival nation stages become playable. After completing all rival nation stages, there are four more stages. Player and team-specific endings occur after completing the first loop. After completing the 2nd loop, the ending consists of all pilot pairs giving a speech, with the second pilot in the last pair giving a cheat code.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b7y.jpg",
+        "date": "1992-01-01",
+        "score": 80.61610163047908,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_24220",
+        "title_en": "Fire Emblem Fates: Birthright",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Strategy",
+            "Turn-based strategy (TBS)"
+        ],
+        "description": "Fire Emblem Fates is split into three story paths. Birthright is one of the two base stories, the other being Conquest. The other story path can be bought digitally at a discount through the in-game store. The third story path is Revelation, a DLC that was released later. You need to be have completed Chapter 6 in either game to access the other stories and DLC.\n\nBirthright is the easier path as it has the ability to use scouting missions to grind experience and money and simpler mission objectives.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobab2.jpg",
+        "date": "2015-06-25",
+        "score": 80.61601916626196,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_27134",
+        "title_en": "Deep Rock Galactic",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Shooter",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "Deep Rock Galactic is a cooperative first-person shooter set on the alien planet Hoxxes IV. Players take on the role of dwarven space miners employed by an intergalactic mining corporation, completing missions in procedurally generated cave systems filled with hostile alien wildlife. The game supports up to four players who choose from distinct classes, each with unique weapons and traversal tools that complement each other. Missions involve extracting resources, fighting swarms of enemies, and navigating destructible environments before escaping via drop pod.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaat4.jpg",
+        "date": "2020-05-13",
+        "score": 80.61539486194937,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_50347",
+        "title_en": "Duke Nukem 3D: Atomic Edition",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Shooter"
+        ],
+        "description": "The Atomic Edition of Duke Nukem 3D contains the three original episodes of the main game, the Plutonium Pak expansion, and many additional features like Windows themes, screensavers, jigsaw puzzles and an image carousel.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3izi.jpg",
+        "date": "1996-11-27",
+        "score": 80.61384711879757,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_361880",
+        "title_en": "Zero Parades: For Dead Spies",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Point-and-click",
+            "Role-playing (RPG)",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "From ZA/UM comes ZERO PARADES: For Dead Spies – a story-rich espionage RPG. You're a brilliant but tormented operant on a desperate assignment. Pick up the pieces of your broken network, untangle a bloody web of intrigue at the End of History, and prove yourself on the big stage or blow it all up – again.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobpcd.jpg",
+        "date": "2026-05-21",
+        "score": 80.60534199629805,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
