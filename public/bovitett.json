@@ -184520,17 +184520,23 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_87826",
         "tags": [
+            "prize money",
+            "fighting",
+            "physics teacher",
             "Action",
-            "Drama",
-            "Comedy"
+            "mixed martial arts (mma)",
+            "high school",
+            "Comedy",
+            "high school teacher",
+            "Drama"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_100045",
@@ -184539,7 +184545,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_717857",
@@ -184547,28 +184553,31 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_120306",
         "tags": [
-            "Action",
             "Crime",
-            "Drama"
+            "Drama",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_927254",
         "tags": [
-            "Fantasy",
-            "Family",
+            "3d animation",
+            "based on children's book",
+            "duringcreditsstinger",
             "Animation",
-            "Comedy"
+            "Comedy",
+            "Family",
+            "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1719541",
@@ -184576,26 +184585,35 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_258230",
         "tags": [
-            "Fantasy",
+            "dreams",
+            "grandparent grandchild relationship",
+            "truth",
+            "tree",
             "Adventure",
-            "Family"
+            "based on novel or book",
+            "nightmare",
+            "Family",
+            "monster",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1308568",
         "tags": [
+            "adventure comedy",
+            "reboot",
             "Adventure",
             "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1684831",
@@ -184603,34 +184621,48 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1659300",
         "tags": [
+            "coming of age",
+            "cult",
             "Thriller",
+            "garden of eden",
+            "religious horror",
+            "summer camp",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_8009",
         "tags": [
+            "immortality",
+            "Fantasy",
+            "scotland",
+            "sword fight",
             "Action",
             "Adventure",
-            "Fantasy"
+            "swordplay",
+            "new york city",
+            "sword",
+            "martial arts"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_152455",
         "tags": [
+            "horseman",
+            "silent film",
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1652798",
@@ -184638,26 +184670,30 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_449090",
         "tags": [
-            "Fantasy",
-            "History",
+            "tajik",
+            "legend",
             "Adventure",
-            "Drama"
+            "fairy tale",
+            "History",
+            "Drama",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1698149",
         "tags": [
+            "samurai",
             "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_352773",
@@ -184666,17 +184702,24 @@
             "Crime"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_53658",
         "tags": [
-            "Action",
             "Fantasy",
-            "Comedy"
+            "twin sister",
+            "slapstick comedy",
+            "Action",
+            "magic",
+            "gambling",
+            "time travel",
+            "Comedy",
+            "shanghai, china",
+            "martial arts"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_111581",
@@ -184684,17 +184727,19 @@
             "Romance"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_86597",
         "tags": [
+            "kidnapping",
             "Thriller",
             "Horror",
-            "Mystery"
+            "Mystery",
+            "missing child"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_508065",
@@ -184703,7 +184748,7 @@
             "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_614043",
@@ -184711,26 +184756,33 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1632413",
         "tags": [
-            "Horror",
-            "Comedy"
+            "Comedy",
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_37430",
         "tags": [
-            "Fantasy",
+            "rescue",
+            "Action",
             "Adventure",
-            "Action"
+            "magic",
+            "slavery",
+            "remake",
+            "princess",
+            "witch",
+            "sword",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_283802",
@@ -184738,13 +184790,13 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_146302",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_67457",
@@ -184752,46 +184804,60 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_411597",
         "tags": [
+            "sports",
             "Romance"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_427683",
         "tags": [
-            "Drama",
             "Family",
+            "Drama",
             "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_662708",
         "tags": [
-            "Fantasy",
+            "anime",
+            "evil scientist",
+            "based on video game",
+            "pocket monsters",
             "Adventure",
+            "sacred tree",
+            "jungle boy",
+            "Animation",
             "Family",
-            "Animation"
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10796",
         "tags": [
+            "alternate dimension",
+            "Thriller",
+            "dual identity",
             "Action",
+            "time travel",
+            "los angeles, california",
             "Science Fiction",
-            "Thriller"
+            "criminal",
+            "wormhole",
+            "martial arts"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_426633",
@@ -184799,54 +184865,72 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1154538",
         "tags": [
-            "Science Fiction",
+            "road trip",
+            "candid camera",
             "Adventure",
             "Music",
-            "Comedy"
+            "toronto, canada",
+            "time travel",
+            "parody",
+            "Comedy",
+            "publicity stunt",
+            "Science Fiction",
+            "mockumentary"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_461426",
         "tags": [
-            "Action",
             "Crime",
+            "police",
+            "Action",
             "Thriller"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_475",
         "tags": [
+            "ambush",
+            "bank robber",
+            "texas",
             "Crime",
+            "prohibition era",
+            "sheriff",
+            "waitress",
+            "submachine gun",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_835696",
         "tags": [
-            "Drama"
+            "boxing",
+            "Drama",
+            "asylum seekers",
+            "refugee"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_70388",
         "tags": [
-            "Action",
-            "Crime"
+            "Crime",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1678020",
@@ -184854,25 +184938,28 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_694020",
         "tags": [
-            "Drama"
+            "short film",
+            "Drama",
+            "lgbt",
+            "gay theme"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1647785",
         "tags": [
-            "Adventure",
             "Family",
+            "Adventure",
             "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_72441",
@@ -184880,32 +184967,39 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_6795",
         "tags": [
-            "Science Fiction",
+            "house",
+            "fire",
+            "wish",
+            "meteor",
             "Adventure",
+            "space travel",
+            "based on novel or book",
+            "Science Fiction",
+            "killer robot",
             "Family"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1729615",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_634908",
         "tags": [
-            "Thriller",
-            "Drama"
+            "Drama",
+            "Thriller"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_66260",
@@ -184914,32 +185008,46 @@
             "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1677422",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1656587",
         "tags": [
+            "fukuoka, japan",
             "Action",
+            "tokyo joshi pro-wrestling",
+            "joshi puroresu",
+            "acros fukuoka",
+            "Comedy",
+            "women's wrestling",
             "Drama",
-            "Comedy"
+            "pro wrestling",
+            "wrestling"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_264999",
         "tags": [
-            "Drama",
-            "Comedy"
+            "strip",
+            "road trip",
+            "male friendship",
+            "strip tease",
+            "male stripper",
+            "strip club",
+            "Comedy",
+            "dancing",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_278031",
@@ -184947,7 +185055,7 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_208538",
@@ -184955,84 +185063,120 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_65055",
         "tags": [
+            "snuff",
+            "louisiana",
             "Thriller",
+            "shark",
+            "dirty cop",
+            "animal attack",
+            "shark attack",
+            "aftercreditsstinger",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_714664",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10601",
         "tags": [
-            "Fantasy",
+            "fairy",
+            "liberation",
             "Adventure",
-            "Family"
+            "mermaid",
+            "flying",
+            "pirate gang",
+            "Family",
+            "crocodile",
+            "pirate",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_920708",
         "tags": [
+            "underwater",
+            "antarctica",
+            "africa",
+            "bounty hunter",
             "Action",
             "Adventure",
+            "time travel",
+            "kenya",
+            "mythology",
             "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10607",
         "tags": [
-            "Crime",
-            "Comedy"
+            "social satire",
+            "hip-hop",
+            "slang",
+            "gangster",
+            "date",
+            "cousin",
+            "parody",
+            "Comedy",
+            "Crime"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1701960",
         "tags": [
-            "Drama",
-            "War"
+            "War",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_280187",
         "tags": [
-            "Drama"
+            "tribal",
+            "photographer",
+            "wildlife photographer",
+            "Drama",
+            "real incident"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_711991",
         "tags": [
+            "theater play",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_669356",
         "tags": [
-            "Western"
+            "literary adaptation",
+            "hobo",
+            "Western",
+            "biographical drama"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_264327",
@@ -185041,15 +185185,22 @@
             "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_228970",
         "tags": [
+            "biography",
+            "based on memoir or autobiography",
+            "divorcee",
+            "memory",
+            "based on true story",
+            "hiking",
+            "wilderness",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1007783",
@@ -185057,45 +185208,59 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_86839",
         "tags": [
+            "terrorism",
+            "surgeon",
+            "right wing extremism",
+            "islam",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_262649",
         "tags": [
-            "Romance",
             "Drama",
-            "Comedy"
+            "Romance",
+            "Comedy",
+            "softcore"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_20203",
         "tags": [
-            "Strategy",
+            "bink video",
             "Simulator",
+            "Strategy",
+            "world war ii - ww2",
             "Real Time Strategy (RTS)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_2271",
         "tags": [
+            "online",
+            "action-adventure",
+            "4 player co-op",
             "Role-playing (RPG)",
             "Adventure",
+            "polygonal 3d",
+            "bow and arrow",
+            "off-tv play",
+            "cross-platform multiplayer",
             "Hack and slash/Beat 'em up"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_41825",
@@ -185104,16 +185269,21 @@
             "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_148241",
         "tags": [
+            "male protagonist",
+            "soulslike",
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "story rich",
+            "steampunk",
+            "atmospheric"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_18150",
@@ -185121,57 +185291,88 @@
             "Fighting"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_228520",
         "tags": [
-            "Indie",
+            "Platform",
+            "soulslike",
             "Adventure",
-            "Platform"
+            "Indie",
+            "metroidvania",
+            "roguelite"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_1461",
         "tags": [
-            "Puzzle",
+            "Platform",
+            "minigames",
+            "non-humanoid protagonist",
             "Adventure",
-            "Platform"
+            "abstract",
+            "secret area",
+            "collectibles",
+            "digital distribution",
+            "Puzzle",
+            "sequel"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_1272",
         "tags": [
+            "kaiju",
+            "tycoon",
+            "Simulator",
+            "natural disaster",
+            "building",
             "Strategy",
-            "Simulator"
+            "freeware",
+            "management",
+            "economy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_165390",
         "tags": [
-            "Role-playing (RPG)",
+            "side-scrolling",
+            "action-adventure",
             "Platform",
-            "Indie",
+            "2d",
+            "Role-playing (RPG)",
             "Adventure",
+            "gore",
+            "Indie",
+            "metroidvania",
+            "melee combat",
+            "single-player only",
             "Hack and slash/Beat 'em up"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_48268",
         "tags": [
+            "boss fight",
+            "Platform",
+            "multiple protagonists",
             "Adventure",
-            "Platform"
+            "swimming",
+            "aliens",
+            "metroidvania",
+            "wall jump",
+            "amnesia"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_88898",
@@ -185179,16 +185380,17 @@
             "Puzzle"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_88892",
         "tags": [
-            "Strategy",
-            "Simulator"
+            "cooking",
+            "Simulator",
+            "Strategy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_311540",
@@ -185197,98 +185399,159 @@
             "Simulator"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_550",
         "tags": [
+            "greek mythology",
+            "horse",
+            "action-adventure",
+            "religion",
+            "death",
+            "magic",
             "Adventure",
+            "mythology",
             "Hack and slash/Beat 'em up"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_3259",
         "tags": [
-            "Racing"
+            "Racing",
+            "frog",
+            "polygonal 3d",
+            "based on - tv show",
+            "licensed game",
+            "60 fps on consoles",
+            "tie-in",
+            "anthropomorphism"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_237",
         "tags": [
+            "Simulator",
+            "king of the hill",
+            "ufo",
+            "construction",
+            "motorcycle",
+            "building",
             "Strategy",
-            "Simulator"
+            "management",
+            "economy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_127983",
         "tags": [
+            "Simulator",
+            "city builder",
             "Strategy",
             "Indie",
-            "Simulator"
+            "controller support",
+            "town building",
+            "available on - apple arcade"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_3769",
         "tags": [
-            "Simulator"
+            "free-to-play",
+            "combat flight simulator",
+            "Simulator",
+            "online",
+            "vehicle simulation",
+            "steam",
+            "digital distribution",
+            "flight simulator"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_11625",
         "tags": [
+            "portals",
+            "teleportation",
+            "Indie",
+            "steam",
+            "steam trading cards",
+            "level selection",
+            "atmospheric",
             "Puzzle",
             "Point-and-click",
-            "Indie"
+            "maze"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_113346",
         "tags": [
-            "Shooter"
+            "demons",
+            "darkness",
+            "silent protagonist",
+            "gore",
+            "episodic",
+            "great soundtrack",
+            "Shooter",
+            "downloadable content"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_1076",
         "tags": [
+            "Platform",
+            "minigames",
+            "shark",
+            "death",
             "Adventure",
-            "Platform"
+            "2.5d",
+            "gambling",
+            "ghosts",
+            "gravity"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_30548",
         "tags": [
             "Indie",
-            "Shooter"
+            "Shooter",
+            "previously on - horizon plus"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_12382",
         "tags": [
-            "Strategy",
+            "Turn-based strategy (TBS)",
+            "anime",
             "Role-playing (RPG)",
             "Adventure",
-            "Turn-based strategy (TBS)"
+            "Strategy",
+            "investigation",
+            "magic",
+            "turn-based",
+            "high school",
+            "dungeon crawler",
+            "summoning support"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_125764",
@@ -185296,320 +185559,406 @@
             "Fighting"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_321884",
         "tags": [
-            "Quiz/Trivia"
+            "learning",
+            "chess",
+            "Quiz/Trivia",
+            "language"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_3697",
         "tags": [
-            "Strategy",
             "Simulator",
+            "resource management",
+            "roman empire",
+            "thief",
+            "bink video",
+            "city builder",
+            "Strategy",
+            "medieval",
+            "management",
             "Real Time Strategy (RTS)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_966",
         "tags": [
+            "murder",
+            "bloody",
             "Adventure",
-            "Shooter"
+            "virus",
+            "helicopter",
+            "1990s",
+            "violence",
+            "Shooter",
+            "zombies"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_53529",
         "tags": [
-            "Role-playing (RPG)",
-            "Simulator"
+            "fan translation - english",
+            "Simulator",
+            "Role-playing (RPG)"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_120558",
         "tags": [
+            "Indie",
+            "escape room",
             "Point-and-click",
-            "Adventure",
-            "Indie"
+            "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_78951",
         "tags": [
             "Racing",
+            "Platform",
             "Arcade",
-            "Platform"
+            "infinite runner"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_2900",
         "tags": [
-            "Point-and-click",
-            "Adventure"
+            "murder",
+            "bloody",
+            "satire",
+            "Adventure",
+            "steam",
+            "racism",
+            "adult",
+            "crime",
+            "Point-and-click"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_636",
         "tags": [
-            "Puzzle",
+            "bloody",
+            "pirates",
             "Adventure",
-            "Shooter"
+            "exploration",
+            "magic",
+            "ghosts",
+            "time travel",
+            "paranormal",
+            "Shooter",
+            "Puzzle"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_42531",
         "tags": [
+            "high score",
             "Puzzle"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_8862",
         "tags": [
-            "Indie",
+            "action-adventure",
+            "Platform",
+            "achievements",
+            "brawler",
             "Adventure",
-            "Hack and slash/Beat 'em up",
-            "Platform"
+            "female protagonist",
+            "Indie",
+            "anthropomorphism",
+            "metroidvania",
+            "chicken",
+            "Hack and slash/Beat 'em up"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_21657",
         "tags": [
             "Role-playing (RPG)",
-            "Adventure"
+            "Adventure",
+            "story rich",
+            "jrpg",
+            "turn-based combat"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_38722",
         "tags": [
+            "apple game center",
             "Role-playing (RPG)",
-            "Arcade"
+            "Arcade",
+            "achievements"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_1071",
         "tags": [
-            "Platform"
+            "Platform",
+            "castle",
+            "slot machine",
+            "battle",
+            "turtle",
+            "super game boy enhancement",
+            "mario",
+            "space"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_10127",
         "tags": [
+            "platform exclusive",
             "Puzzle",
+            "single-player only",
             "Strategy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_7740",
         "tags": [
-            "Role-playing (RPG)"
+            "vampire",
+            "easter egg",
+            "Role-playing (RPG)",
+            "magic",
+            "multiple protagonists",
+            "turn-based",
+            "nightmare",
+            "disease"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_13776",
         "tags": [
+            "ubi key",
             "Point-and-click",
-            "Adventure"
+            "Adventure",
+            "based on - movie"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_19508",
         "tags": [
+            "boss fight",
+            "side-scrolling",
+            "fairy",
+            "Platform",
+            "sword & sorcery",
+            "magic",
+            "female protagonist",
+            "revenge",
             "Shooter",
-            "Arcade",
-            "Platform"
+            "Arcade"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_7776",
         "tags": [
+            "shoot 'em up",
+            "brawler",
+            "robots",
+            "animal protagonist",
+            "aliens",
+            "helicopter",
             "Fighting",
-            "Hack and slash/Beat 'em up"
+            "Hack and slash/Beat 'em up",
+            "martial arts"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_10306",
         "tags": [
+            "Shooter",
+            "post-apocalyptic",
             "Role-playing (RPG)",
-            "Shooter"
+            "alternate history"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_13212",
         "tags": [
+            "walking simulator",
+            "Adventure",
+            "narration",
             "Indie",
-            "Adventure"
+            "steam",
+            "story driven",
+            "voice acting"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_186524",
         "tags": [
-            "Supernatural",
             "Kuudere",
             "Chibi",
-            "Slice of Life",
-            "Female Protagonist",
-            "Vampire",
-            "Male Protagonist",
-            "Comedy",
             "Heterosexual",
             "Drawing",
-            "Iyashikei",
             "School",
-            "Primarily Teen Cast"
+            "Primarily Teen Cast",
+            "Supernatural",
+            "Slice of Life",
+            "Comedy",
+            "Iyashikei",
+            "Female Protagonist",
+            "Vampire",
+            "Male Protagonist"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_3713",
         "tags": [
-            "Afterlife",
-            "Psychological",
-            "Supernatural",
             "Curses",
-            "Revenge",
+            "Kuudere",
             "Oiran",
-            "Episodic",
-            "Female Protagonist",
-            "Horror",
+            "Psychological",
+            "Revenge",
+            "School",
             "Tragedy",
             "Bullying",
+            "Supernatural",
+            "Female Protagonist",
+            "Afterlife",
+            "Episodic",
             "Mystery",
-            "School",
-            "Kuudere"
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_1095",
         "tags": [
-            "Philosophy",
             "Noir",
-            "Police",
-            "Real Robot",
-            "Detective",
-            "Sci-Fi",
             "Mecha",
+            "Real Robot",
             "Software Development",
+            "Detective",
+            "Police",
             "Cyberpunk",
             "Urban",
+            "Sci-Fi",
+            "Guns",
+            "Philosophy",
             "Drama",
-            "Terrorism",
-            "Guns"
+            "Terrorism"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_100965",
         "tags": [
-            "Primarily Teen Cast",
-            "Rural",
-            "Mafia",
-            "Music",
-            "Coming of Age",
-            "Dancing",
             "Idol",
+            "Coming of Age",
+            "Primarily Female Cast",
+            "Primarily Teen Cast",
+            "Music",
             "Slice of Life",
-            "School Club",
-            "Female Protagonist",
             "Foreign",
-            "Primarily Female Cast"
+            "Mafia",
+            "Female Protagonist",
+            "Dancing",
+            "Rural",
+            "School Club"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_186621",
         "tags": [
-            "Tennis",
-            "Shogi",
-            "Female Protagonist",
-            "Shoujo",
-            "Romance",
             "Heterosexual",
-            "School Club",
-            "Acting",
-            "Football",
             "School",
-            "Primarily Teen Cast"
+            "Tennis",
+            "Primarily Teen Cast",
+            "Shoujo",
+            "Shogi",
+            "Romance",
+            "Acting",
+            "Female Protagonist",
+            "Football",
+            "School Club"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_142704",
         "tags": [
-            "Fantasy",
             "Isekai",
-            "Magic",
             "Action",
-            "Comedy",
+            "Magic",
             "Adventure",
-            "Shounen"
+            "Comedy",
+            "Shounen",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_167422",
         "tags": [
             "Conspiracy",
-            "Mafia",
-            "Alternate Universe",
-            "Detective",
-            "Action",
-            "Gangs",
             "Ensemble Cast",
-            "Male Protagonist",
-            "Comedy",
-            "Martial Arts",
+            "Action",
+            "Detective",
             "Primarily Male Cast",
-            "Shounen"
+            "Gangs",
+            "Martial Arts",
+            "Comedy",
+            "Mafia",
+            "Male Protagonist",
+            "Shounen",
+            "Alternate Universe"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
