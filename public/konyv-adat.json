@@ -6253,5 +6253,20 @@
         "score": 0,
         "age_rating": "Unknown",
         "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL17732W",
+        "title_en": "Bible",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "History"
+        ],
+        "author": "Bible",
+        "image": "https://covers.openlibrary.org/b/id/12707846-M.jpg",
+        "date": "1200",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
     }
 ]
