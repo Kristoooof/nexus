@@ -67640,5 +67640,944 @@
         "score": 0.0,
         "age_rating": "16+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_284996",
+        "title_hu": "Madame Sans-Gêne",
+        "title_en": "The Tale of Despereaux",
+        "type": "film",
+        "genres": [],
+        "description": "Once upon a time... in the far away kingdom of Dor... lived a brave and virtuous mouse with comically oversized ears who dreamt of becoming a knight. Banished from his home for having such lofty ambitions, Despereaux sets off on an amazing adventure with his good-hearted rat friend Roscuro, who leads him, at long last, on a very noble quest to rescue an endangered princess and save an entire kingdom from darkness.",
+        "image": "",
+        "date": "1911-01-02",
+        "score": 7.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_434552",
+        "title_hu": "La luciérnaga",
+        "title_en": "Madame Sans-Gêne",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "description": "A crude washerwoman in the military entourage of Napoleon is snubbed by the new aristocrats in his court.",
+        "image": "https://image.tmdb.org/t/p/w500/89pW6cvFABvNFUCEs1Yk56D9lsZ.jpg",
+        "date": "2013-11-10",
+        "score": 6.857,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9681",
+        "title_hu": "Casanova",
+        "title_en": "The Firefly",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "description": "Casanova a világ legnagyobb csábítója, az átváltozás és a humor nagymestere, akinek nő még nem tudott nemet mondani. Legalábbis így volt ez mostanáig. Életében először ugyanis ellenállásba ütközik, amikor útjába kerül Francesca, a velencei szépség, aki visszautasítja. Casanova nem is sejti, hogy élete legveszélyesebb játszmája ez: nem csak hírnevét és életét teszi kockára, de az egyetlen esélyét is, hogy elnyerje az igaz szerelmet.",
+        "image": "https://image.tmdb.org/t/p/w500/7owDsxRq8yLPb6KWlT1byyPAlNI.jpg",
+        "date": "2005-12-25",
+        "score": 6.451,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_925286",
+        "title_hu": "Sure",
+        "title_en": "Casanova",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "With a reputation for seducing members of the opposite sex, regardless of their marital status, a notorious womanizer discovers a beauty who seems impervious to his charms. However, as he continues to pursue the indifferent lady, he finds himself falling in love.",
+        "image": "https://image.tmdb.org/t/p/w500/uce127yPYfNCDTqKDAqzq3IKL54.jpg",
+        "date": "2015-07-02",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_20815",
+        "title_hu": "A szolgálólány meséje",
+        "title_en": "Sure",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Science Fiction"
+        ],
+        "description": "A szolgálóleány meséje a jövő Amerikájában, az ultrakonzervatív Gilead köztársaságban játszódik. Egy természeti katasztrófát követően eluralkodik a káosz az országban. A kormány rendkívül szigorú törvényeket vezet be. A zsarnoki megszorítások főleg a nőket érintik: az ország vezetői a gyerekek születéséhez szükséges inkubátoroknak tekintik őket. Az atmoszféra szennyezettsége miatt az asszonyok többsége meddő. A termékeny nőket az uralkodó elit kisajátítja, hogy gyerekeket szüljenek nekik. Kate elvesztette férjét és gyermekét, miközben Gileadból próbáltak megszökni. Az elfogott nőnek most utódot kell szülnie a rezsim egyik vezetőjének, akinek a felesége meddő. A helyzet azonban megváltozik, amikor Kate megismerkedik Nickkel, a sofőrrel és egymásba szeretnek. A férfiről kiderül, hogy a földalatti ellenállási mozgalom vezetője.",
+        "image": "https://image.tmdb.org/t/p/w500/9zLIifOw7VovoFFZUMUJhETbYmy.jpg",
+        "date": "1990-02-15",
+        "score": 6.1,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1312078",
+        "title_hu": "CÁM",
+        "title_en": "Three Plus Two",
+        "type": "film",
+        "genres": [
+            "Horror"
+        ],
+        "description": "Three best friend are going to spend a vacation on a sea shore. But when they arrive to their usual place they suddenly find that the spot is already occupied - by two beautiful girls.",
+        "image": "https://image.tmdb.org/t/p/w500/814DF85I8NUuJ8lkXXw9jjK1qH4.jpg",
+        "date": "2024-09-20",
+        "score": 9.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_945124",
+        "title_hu": "حب..للحياة",
+        "title_en": "The Sisters",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Inspired by the famous fairy tale Tấm Cám, this bloody horror reimagining follows Cám, the half-sister of Tấm, as she navigates a dark and twisted world filled with familiar yet terrifying new characters and elements, offering a fresh but hauntingly familiar experience for the audience.",
+        "image": "https://image.tmdb.org/t/p/w500/6B1jyrlFLxw4PemhOt8a2IDzC1E.jpg",
+        "date": "1980-12-31",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_3600",
+        "title_hu": "Még mindig tudom, mit tettél tavaly nyáron",
+        "title_en": "Love..For Life",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "description": "Egy év telt el azóta, hogy egy idilli amerikai kisvárosban egy őrült bestiálisan meggyilkolt néhány fiatalt. Egyedül Julie maradt életben, ám tudja: nincs elfelejtett bűn, előbb-utóbb mindenért bűnhődnie kell. Hosszú idő után úgy dönt, elutazik barátaival a Bahamákra, ám egy idilli kirándulás helyett szörnyűséges rémálomba csöppen. A sziget elhagyatott, ráadásul a közeledő vihar miatt nem lehet elhagyni, és Julie levelet kap valahonnan, melyben csak ennyi áll: Még mindig tudom, mit tettél tavaly nyáron!",
+        "image": "https://image.tmdb.org/t/p/w500/pPDAjegtsjkz1jWMWQb2hu4T5rp.jpg",
+        "date": "1998-11-13",
+        "score": 5.372,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_366820",
+        "title_hu": "Encuentros muy cercanos con señoras de cualquier tipo",
+        "title_en": "I Still Know What You Did Last Summer",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Ever since killing the Fisherman one year ago, Julie James is still haunted by images of him after her. When her best friend Karla wins free tickets to the Bahamas, Julie finds this a perfect opportunity to finally relax. But someone is waiting for her. Someone who she thought was dead. Someone who is out again for revenge.",
+        "image": "https://image.tmdb.org/t/p/w500/uKEmHfdhAaeqkQSHUVdrYJywJXz.jpg",
+        "date": "1978-09-14",
+        "score": 6.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_544868",
+        "title_hu": "ಒಂದಲ್ಲಾ ಎರಡಲ್ಲಾ",
+        "title_en": "Encuentros muy cercanos con señoras de cualquier tipo",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "description": "Alberto and Jorge are two comedians, who before the possibility of making money with a business agent, agree to play the role of executives of a fictitious company, in order to appear prosperity before possible foreign buyers of players. As the business agent instructs them to present themselves as married, Alberto and Jorge propose two co-workers to represent the indicated role.",
+        "image": "https://image.tmdb.org/t/p/w500/u1pZMNHjGxJNNTDufQZy3fcdVAB.jpg",
+        "date": "2018-08-24",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9642",
+        "title_hu": "Asterix és a vikingek",
+        "title_en": "Ondalla Eradalla",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Animation",
+            "Comedy",
+            "Adventure"
+        ],
+        "description": "Bögyörix, a főnök unokaöccse a hírhedt gall faluba érkezik, ahol Asterixnek és Obelixnek kell igazi férfit faragniuk belőle. A Parisiumból érkező ifjú kölyök képe mögött egy arrogáns, de meglehetősen gyáva nyuszi rejtőzik, aki a kemény tréningek alatt is csak igen keveset változik. Eközben vikingek kötnek ki Galícia partjainál. Azzal a szándékkal érkeztek, hogy megtalálják a gyávaság bajnokát. Jövendőmondójuk jóslata szerint ugyanis csak ez az ember taníthatja meg őket repülni, mivel úgy tartják, a félelem szárnyakat ad. A vikingek kalandozásuk során meglátogatják a gall falut is, ahol felfedezik maguknak a gyávaság bajnoki címére méltán esélyes Bögyörixet.",
+        "image": "https://image.tmdb.org/t/p/w500/m0olimdeDLVQYvdbIkhesG2xOLs.jpg",
+        "date": "2006-04-12",
+        "score": 6.105,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1811",
+        "title_hu": "Út a pokolba",
+        "title_en": "Asterix and the Vikings",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Science Fiction"
+        ],
+        "description": "A kamasz-hormonokról, a bulizásról és mindent átható, sokféle erotikáról szóló film az emberi lelki gyötrelem egyik stádiumát vizsgálja: a felnőttkor elérése előtti pánikot...",
+        "image": "https://image.tmdb.org/t/p/w500/5HWqQBoTzOsl0iMIMU1ok9JDySX.jpg",
+        "date": "1997-05-09",
+        "score": 6.754,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1554631",
+        "title_hu": "La Familia Del Barrio: La Maldición del Quinto Partido",
+        "title_en": "Nowhere",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Animation"
+        ],
+        "description": "In Los Angeles, a colorful assortment of bohemians try to make sense of their intersecting lives. The moody Dark Smith, his bisexual girlfriend, her lesbian lover and their shy gay friend plan on attending the wildest party of the year. But they'll only make it if they can survive the drug trips, suicides, trysts, mutilations and alien abductions that occur as one surreal day unfolds.",
+        "image": "https://image.tmdb.org/t/p/w500/lGZavJahqfBhaopeeiI4samtqyt.jpg",
+        "date": "2026-04-23",
+        "score": 9.171,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_930994",
+        "title_hu": "Всё нормально",
+        "title_en": "A Neighborhood Family",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Since 1994, Mexico has been eliminated time and again before the coveted fifth game. For El Abuelo, this is no coincidence: it's a curse. When he learns he only has a few months to live, he decides he can't die without seeing the national team break the curse. What begins as a patriotic crusade ends up becoming an illegal journey to the United States, where they discover that the devil lives in Los Angeles and that the mascot of the 1986 World Cup holds a secret that will change everything. Between failed attempts to cross the border, unexpected betrayals, and family revelations, the family returns to Mexico to perform a soccer ritual at the Estadio Azteca. To break the pact, they must gather eleven sacred relics of Mexican soccer and confront not only the devil, but their own past. While the entire country awaits the decisive penalty kick on television, the family wages a battle that could change the history of Mexican soccer.",
+        "image": "",
+        "date": "2024-10-10",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1139080",
+        "title_hu": "Подвійний іммельманн",
+        "title_en": "Sueños atrapados",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Adventure"
+        ],
+        "description": "Discusses the mass immigration to the United States from the Dominican Republic due to the poor economic conditions there. Includes interviews with people, primarily women, who have emigrated and gives details on the hardships the travelers endure.",
+        "image": "https://image.tmdb.org/t/p/w500/5u3ptYZZwKQUqoKlr0Nq8aT3g5P.jpg",
+        "date": "2022-04-18",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10489",
+        "title_hu": "Cujo",
+        "title_en": "Immelmann Turn",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Horror"
+        ],
+        "description": "A helyszín egy álmos új-angliai kisváros, ahogy ezt már Stephen King-től megszokhattuk. De váratlanul beüt a ménkő: a garázsmester százkilós, s addig barátságos bernáthegyije furcsa módon kezd viselkedni. Megveszett? Vagy denevér harapta meg? A jámbor eb csakhamar dühöngő szörnyeteggé válik, senki sincs biztonságban mellette. A gazdi az első áldozat, de a fenevad már kiszemelte a következő prédát: egy fiatalasszonyt a kisfiával, akik egy lerobbant járgány foglyai.",
+        "image": "https://image.tmdb.org/t/p/w500/uNBt2YxrQdyOjnm2rDQ5QiCmQ0K.jpg",
+        "date": "1983-08-10",
+        "score": 6.179,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11971",
+        "title_hu": "Sok hűhó semmiért",
+        "title_en": "Appetite for Sin",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Romance"
+        ],
+        "description": "A napsütötte Dél-Itáliában, míg szünetelnek a csaták, lángra lobbannak a szívek. Don Pedro, Aragónia hercege és csapata megjött a csatából, hogy Leonato vidéki kúriáján töltsön egy felhőtlen hónapot. Egyik kísérője, Claudio rögtön szerelmes lesz Leonato szépséges lányába. Elválaszthatatlan cimborája, Benedek viszont megveszekedett nőgyűlölő: legújabb célpontja a makrancos Beatrice, aki hasonlóképpen érez a férfinem iránt. Bár a nyelvük kardéles, a lelkük mézédes - a két egymásnak teremtett pár egymásra talál. A kellemes együttlétet azonban megzavarja Don Juan, a herceg öccse, aki álnok terveket szövöget, s elég egy rosszindulatú ármány, a harcban edzett barátság kis híján véres párbajba torkollik. De minden jó, ha jó a vége.",
+        "image": "https://image.tmdb.org/t/p/w500/gb0Ar6pRKT3Ir4OiDaELq0OueEW.jpg",
+        "date": "1993-05-07",
+        "score": 6.949,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_36239",
+        "title_hu": "Slaughtered Vomit Dolls",
+        "title_en": "You Can't Take an Island with You",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Documentary"
+        ],
+        "description": "A young girl is trying to save an island which is endangered by nearby construction.",
+        "image": "https://image.tmdb.org/t/p/w500/x5osHcfswukyD17pYiBpJHGlJWc.jpg",
+        "date": "2006-02-14",
+        "score": 3.949,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_793387",
+        "title_hu": "거룩한 밤: 데몬 헌터스",
+        "title_en": "Mr. Plant",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Horror",
+            "Thriller"
+        ],
+        "description": "Volcom Stone presents \"Mr. Plant\", a Veeco Productions film based on the travels of snowboarder and New Hampshire backwoodsman Pat Moore. Mr. Plant follows Pat as he spends a season traveling the world with the Volcom Snow family, friends and icons. Filmed by Seth Huot and Jake Price on location in Jackson Hole, Japan, Quebec, Massachusetts, Chile and Minnesota; the film unfolds across the globe to portray the only destination that really matters: Staying true to snowboarding.",
+        "image": "https://image.tmdb.org/t/p/w500/7MGnHpfhF8savUsrUJoI8Q7dTk9.jpg",
+        "date": "2025-04-30",
+        "score": 6.912,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_881211",
+        "title_hu": "Snoopy bemutatja: Lucy szilveszteri bulija",
+        "title_en": "I Don't Like Younger Men 5",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy"
+        ],
+        "description": "Miután Lucy megtudja, hogy a nagyanyja nem látogatja meg karácsonykor, úgy dönt, hogy kárpótlásul megrendezi a legnagyobb szilveszteri bulit. Charlie Brown ezalatt az egyik fogadalmának próbál eleget tenni, még mielőtt az óra elütné az éjfélt.",
+        "image": "https://image.tmdb.org/t/p/w500/tyjAvoXLw7NH3TXnP9yiuCaXnaR.jpg",
+        "date": "2021-12-09",
+        "score": 7.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_698343",
+        "title_hu": "딸의 친구 5",
+        "title_en": "Com as Calças na Mão",
+        "type": "film",
+        "genres": [
+            "Romance"
+        ],
+        "description": "Reg owns the store \"Tem Tudo... E Muito Mais\" (Has Everything... And Much More). To satisfy his customers, he is forced to perform the most strange functions.",
+        "image": "https://image.tmdb.org/t/p/w500/iyI4yY4bUtWS1demuvjfGj5Jclw.jpg",
+        "date": "2020-04-23",
+        "score": 7.1,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1410082",
+        "title_hu": "Lopakodók: A végső ellenállás",
+        "title_en": "John Q",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "Hogy megakadályozza egy fegyverkereskedő halálos szuperfegyverét, Brandon Beckett (Chad Michael Collins) mesterlövészt és Zero ügynököt (Ryan Robbins) egy elit katonákból álló csoport élére küldik Costa Verdére. Beckett a szárnyai alá veszi a tapasztalatlan mesterlövészt, és új kihívással szembesül: parancsokat kell adnia. Az idő és a lőszer fogytán van, így mindent meg kell tenniük a túlélésért.",
+        "image": "https://image.tmdb.org/t/p/w500/uiESZBZipEps4TDHS9IfITl99aH.jpg",
+        "date": "2025-01-21",
+        "score": 6.755,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_8470",
+        "title_hu": "Végszükség",
+        "title_en": "Smurfs: The Lost Village",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "Mennyit ér egy szív? John Q. mindent odaadna azért, hogy fia új szívet kaphasson. Mike-nak sürgős szívátültetésre van szüksége, ám a munkanélküli férfi társadalombiztosítása nem terjed ki a gyerek kórházi kezelésére, az orvosok viszont nem kezdhetik meg a műtétet, amíg az apa nem fizet. John Q. világéletében becsületes ember volt. Ám a becsülete most azt kívánja, hogy eddig elképzelhetetlen eszközökhöz folyamodjon. Pisztolyt szerez. Lezárja az intenzív osztály kijáratát, túszul ejti az egész kórházi részleget, és fegyverrel kényszeríti az orvosokat: végezzék el az életmentő műtétet. A rendőrség csak egy szokásos túszszedési esetet lát az ügyben, és bevetésre indul. John Q. azonban a fiáért harcol. Életet akar menteni. Akár mások élete árán is.",
+        "image": "https://image.tmdb.org/t/p/w500/ngiu9ykaPEk55srHCuHQU0AKhXR.jpg",
+        "date": "2002-02-15",
+        "score": 7.133,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_137116",
+        "title_hu": "Hupikék törpikék: Az elveszett falu",
+        "title_en": "Those Who Wish Me Dead",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Comedy",
+            "Adventure",
+            "Animation"
+        ],
+        "description": "A törpök nem fakulnak. Az egyik okos, a másik ügyes, a harmadik csinos, a negyedik mindenben megbotlik – és a legtöbbjüket meg szeretné főzni egy Hókuszpók nevű, kissé kétbalkezes, de nagy macskabarát hírében álló varázsló. Hupikék világukra most egy új, az eddigieknél is nagyobb veszély leselkedik, és Törpfalva legjobbjai, Törpapa, Törpilla, Törperős, Dulifuli meg Okoska nagy expedícióra indul, hogy megmentse a bajba jutottakat. De törpénetesen csak újabb kalandokba keverednek… és alig tudnak kikászálódni a csávából.",
+        "image": "https://image.tmdb.org/t/p/w500/buEifgPvcIXc7biDDPb2LltJcsZ.jpg",
+        "date": "2017-03-23",
+        "score": 6.359,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1629382",
+        "title_hu": "Külvárosi utak 3.",
+        "title_en": "Street Flow 3",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Miután szembenéztek bűneik következményeivel, a Traoré fivérek kapnak még egy utolsó esélyt, hogy jobb útra térjenek a trilógia zárófejezetében.",
+        "image": "https://image.tmdb.org/t/p/w500/68C2fYgVb9oiTUbAP9T9iON2bJn.jpg",
+        "date": "2026-03-04",
+        "score": 6.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1522213",
+        "title_hu": "Madre Draco",
+        "title_en": "Madre Draco",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Thriller",
+            "Animation",
+            "Comedy"
+        ],
+        "description": "Markarth is shaken awake by a strange sight: a colossal dragon calmly seated in the middle of the town square. Initially assumed to be a threat, the townsfolk panic and report it to King Erik. In response, he dispatches the kingdom’s finest — Dragon Slayer Xander — to eliminate the creature.  But things aren’t as simple as they seem. As Xander prepares to strike, the mother dragon’s children emerge from hiding, revealing that this wasn’t an invasion — it was a family seeking refuge. Before anyone can act further, the town is suddenly stormed by aliens, throwing the entire narrative off course.",
+        "image": "https://image.tmdb.org/t/p/w500/uK2BCuQ6dBheFAyUz0OvanpCycL.jpg",
+        "date": "2018-09-22",
+        "score": 10.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_332808",
+        "title_hu": "Третий лишний",
+        "title_en": "Odd Man Out",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A single mother Vera Volina has an adult daughter. Masha is 15 years old, and she is of interest to men. Mother is aware of this, that's why she is jealous of her young lover Sergei. On the background of prolonged stress Vera develops delusions that somebody wants to poison and eliminate her.",
+        "image": "",
+        "date": "2008-11-13",
+        "score": 3.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11820",
+        "title_hu": "Mona Lisa mosolya",
+        "title_en": "Mona Lisa Smile",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History",
+            "Romance"
+        ],
+        "description": "Katherine Watson 1953 végén Kaliforniából New Englandbe utazik, hogy művészettörténetet tanítson a Wellesley College leányiskolában. Abban a hiszemben lát neki a feladatnak, hogy tanítványai, akik az állam legjobb és legtehetségesebb diákjai, élni fognak az előttük felvillanó lehetőségekkel.  Ám hamarosan rá kell jönnie, hogy a tekintélyes intézményben nagyon is konzervatív légkör uralkodik. A lányok stílus- és etikett tanára, Nancy Abbey széles körben osztott nézetei szerint egy fiatal lány számára sokkal értékesebb egy eljegyzési gyűrű, mint a tudományos műveltség. Amikor Katherine önálló gondolkodásra bátorítja a tanítványait, összeütközésbe kerül a tanári kar és a diákok konzervatívabb tagjaival, akik közül legelszántabb ellenfele egyik saját tanítványa lesz, az arisztokrata származású Betty Warren.",
+        "image": "https://image.tmdb.org/t/p/w500/gW6K4zPWxzXjCtnGEO8FGBmkxOZ.jpg",
+        "date": "2003-12-19",
+        "score": 6.91,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11587",
+        "title_hu": "Az ördögűző 3.",
+        "title_en": "The Exorcist III",
+        "type": "film",
+        "genres": [
+            "Horror"
+        ],
+        "description": "Az egyre rejtélyesebb halálesetek felkeltik Kinderman (George C. Scott) felügyelő figyelmét. Ő végzett nyomozást a korábbi, washingtoni ördögűzéssel összefüggésbe hozható titokzatos halálesetekkel kapcsolatban is. Ezúttal azonban egy még kegyetlenebb gyilkos szedi áldozatait. Kinderman sosem hitt az ördögben, a gonosz szellemek létezésében, vagy a megszállottságban. Ezúttal sem a misztikum megragadása hajtja, egyszerűen csak kézre akarja keríteni a brutális gyilkost. A nyomok egy férfihoz vezetnek, aki időnként Damien Karras (Jason Miller) atya arcvonásait ölti magára, aki még a washingtoni ördögűzés során halt meg.",
+        "image": "https://image.tmdb.org/t/p/w500/dmTvsk6U7LwoaQ8B0e6oyiR7MrF.jpg",
+        "date": "1990-08-17",
+        "score": 6.278,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1109255",
+        "title_hu": "Parthenopé - Nápoly szépe",
+        "title_en": "Parthenope",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A legendákkal, érzelmekkel és élettel teli, mitikus Nápoly évezredek óta csábítja magához a hajósokat, turistákat, művészeket. A város egyik villájának tengeröblében, a vízben születik meg Parthenopé – a már újszülöttként is gyönyörű kislány Nápoly ókori nevét kapja a keresztségben. Az ő epizodikus, évtizedeken átívelő élettörténetét követve olyan helyekre és emberekhez jutunk el, ahová a hétköznapi halandók soha: Parthenopé (Celeste Dalla Porta) földöndtúli szépsége megnyitja az ajtókat a legféltetettebb titkok előtt is, az amerikai író (Gary Oldman), az öntelt püspök, a kiégett színésznő, a nápolyi arisztokrácia vagy a saját főnöke, a zárkózott antropológiaprofesszor mind kitárulkozik előtte. Parthenopén áll vagy bukik, hogy mit kezd a meglesett titkokkal, ezek közelebb viszik-e a vágyott boldogságához.",
+        "image": "https://image.tmdb.org/t/p/w500/w0d4BoL5XU2Mgd8yIxySusMVLWD.jpg",
+        "date": "2024-10-24",
+        "score": 6.684,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1596871",
+        "title_hu": "The Nookie",
+        "title_en": "The Nookie",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Romance",
+            "Comedy"
+        ],
+        "description": "A paranormal investigator discovers that love comes in all shapes, and anomalies.",
+        "image": "https://image.tmdb.org/t/p/w500/jVbviUE1tSbrYgBTl504CQ4trnX.jpg",
+        "date": "2025-12-11",
+        "score": 10.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_62838",
+        "title_hu": "Szilveszter éjjel",
+        "title_en": "New Year's Eve",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "description": "Tagadhatatlanul a romantika december 31. utolsó óráinak főszereplője. Rengeteg szerelmes várja izgatottan az éjféli csókot, mások életre szóló fogadalmakat tesznek a varázslatos estén - megint mások pedig úgy döntenek, esélyt adnak valakinek. A szeretet persze több formában is megnyilvánul ilyenkor: a megbocsátásban, a megértésben.  A szív legfontosabb ügyei több, egymással párhuzamosan futó, egymást átszövő történetben bomlanak ki. A helyszín New York, a lélegzetelállító város a maga pezsgésével, ragyogásával. Van, aki új életet akar kezdeni, és van, aki a régihez ragaszkodik - csupa nagy kezdet, bátortalan újrakezdés, happy end, átverés és vallomás, remény és csalódás a film, de bármi történjék és hangozzék is el benne, a lényeg mindig ugyanaz: a szerelem.",
+        "image": "https://image.tmdb.org/t/p/w500/tO9ORcopKl2PPExjZMzdI3Z9gOY.jpg",
+        "date": "2011-12-08",
+        "score": 5.888,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_2179",
+        "title_hu": "Tenacious D, avagy a kerek rockerek",
+        "title_en": "Tenacious D in The Pick of Destiny",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Music",
+            "Fantasy"
+        ],
+        "description": "A két jó barát, JB és KG arról álmodozik, hogy karriert csinál a rock világában. Minden vágyuk, hogy a zenekarjukkal - a világ legőrültebb rockbandájával - mindenkit lemossanak a zenei palettáról, és rocktörténelmet írjanak. Ahhoz azonban, hogy sikerrel járjanak, először is meg kell találniuk a \"végzet pengetőjét\" - a varázserejű gitárpengetőt, amely a kutyaütő zenészből is képes megasztárt csinálni. Megszerzéséért képesek tűzön-vízen átgázolni, rendőrökkel szembeszállni, csajokkal flangálni. A film epizódszerepeiben zenészlegendák sora tűnik fel.",
+        "image": "https://image.tmdb.org/t/p/w500/fTm3Zi7Krcq1Xo3koAqvwHVT1oi.jpg",
+        "date": "2006-11-22",
+        "score": 6.787,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_4441",
+        "title_hu": "Candy",
+        "title_en": "Candy",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Dan költő szeretne lenni, Candy pedig festő; elsöprő, szenvedélyes szerelmük a legnagyobb boldogság szabadságával ajándékozza meg őket. Hogy még teljesebben éljék meg szerelmük és érzékeik szabadságát, a fiú bevezeti a lányt a kábítószerek világába. Candy nem hajlandó szüleire hallgatni, akik szerint Dan egy igazi vesztes, hanem egyre jobban sodródik a fiúval és erősödő drogfüggőségükkel. Nem kell sok idő ahhoz, hogy a heroin legyen az egyetlen motiváció az életükben. Egyre jobban lecsúsznak, és nincsen annyi pénzük, hogy beszerezzék a szükséges adagokat. Először csak pénzt kérnek kölcsön, majd amit tudnak, elzálogosítanak. A lejtőn nincs megállás: a fiú lopni kezd, a lány pedig prostituáltként végzi. De amikor Candy teherbe esik, a két szerelmes a legfájdalmasabb szenvedésnek teszi ki magát, hogy megszabaduljon a heroin fogságától egy jobb élet reményében.",
+        "image": "https://image.tmdb.org/t/p/w500/8JQjUPsAJpdvmzlnvdbWVDDpY2X.jpg",
+        "date": "2006-05-25",
+        "score": 7.123,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_457916",
+        "title_hu": "À ton âge le chagrin c'est vite passé",
+        "title_en": "Your Young Years Will Dry Your Tears",
+        "type": "film",
+        "genres": [],
+        "description": "First grief of love, Billie is devastated. The jokes of her girlfriends, the advice of her teachers and the sweet words of her mother intertwine and resonate like old chatter. Nothing to do, Billie is inconsolable.",
+        "image": "https://image.tmdb.org/t/p/w500/eajn62PF5Hja0vXh9Er2i2m6tTt.jpg",
+        "date": "2017-05-11",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_37523",
+        "title_hu": "Kıskanmak",
+        "title_en": "Envy",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Seniha lives with her brother Halit and his wife Mükerrem. When Nüzhet, the handsome son of the richest family in town, sets his eyes on the married Mükerrem, she is at first disgusted with Nüzhet’s overt sexual innuendo. However, it isn’t long before Mükerrem yields to her lust and thus they embark on an affair. When Seniha finally reveals her sister-in-law’s un-virtuousness to her brother, Seniha has no idea what the consequences will be and how cruelly her destiny will change.",
+        "image": "https://image.tmdb.org/t/p/w500/cxeX8XGaVpGKwxOzPrQZ9kIEuVr.jpg",
+        "date": "2009-08-08",
+        "score": 5.608,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_147",
+        "title_hu": "Négyszáz csapás",
+        "title_en": "The 400 Blows",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A tizenhárom éves Antoine Párizsban él a szüleivel. Nem elég, hogy szűkösen élnek, a szülei nem igazán törődnek vele. Az iskolában sem jobb a helyzet, a tanárai fásultak, közönyösek. Miután az anyját véletlenül rajtakapja a szeretőjével, Antoine a maga javára fordítja a helyzetet, engedményeket csikar ki tőle. Amikor gondjai támadnak a tanárával, nem megy többé iskolába. Ellopja az apja írógépét, hogy annak eladásából szerezzen pénzt, amivel leléphet otthonról. A dühös apa a rendőrökhöz fordul. Antoine végül nevelőintézetben köt ki.",
+        "image": "https://image.tmdb.org/t/p/w500/D4SCwjkvbk6MV8FYl8aNqwoJww.jpg",
+        "date": "1959-06-03",
+        "score": 8.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1731388",
+        "title_hu": "DMD Friendship the Reality",
+        "title_en": "DMD Friendship the Reality",
+        "type": "film",
+        "genres": [],
+        "description": "A group of artist trainees compete in a reality show to develop skills and find the perfect partner to win a lead role in a new Domundi BL series.",
+        "image": "https://image.tmdb.org/t/p/w500/xNNPXsNvPYxrB5MCdD2wGiaFRcn.jpg",
+        "date": "2023-11-17",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9900",
+        "title_hu": "A nagyi szeme fénye",
+        "title_en": "Grandma's Boy",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "A harmincöt éves Alex nem egy nyerő típus: se pénze, se nője. Napközben videojátékokat tesztel, míg az éj leple alatt titokban a legújabb játék fejlesztésén dolgozik. Amikor kiteszik a bérelt lakásból, a nagymamához költözik, aki két öreg barátnőjével osztja meg házát. Az öreglányok bevonják Alexet a házimunkába, ráadásul a nagyi szívesen játszik az unokája fejlesztette videojátékon. Alex szerelmes lesz az új kolléganőjébe. Csakúgy, mint ellensége, aki minden gonoszságra képes, hogy célját elérje. És ki más segíthetne a bajbajutott unokán, ha nem a nagyi?",
+        "image": "https://image.tmdb.org/t/p/w500/ljwcgDrZBX0Gma7D4FVKhKRRiLO.jpg",
+        "date": "2006-01-06",
+        "score": 6.525,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_189248",
+        "title_hu": "Últimos testigos",
+        "title_en": "Últimos testigos",
+        "type": "film",
+        "genres": [],
+        "description": "A film work made up of two different documentaries based on the same concept, made about and with the participation of Manuel Fraga and Santiago Carrillo.",
+        "image": "https://image.tmdb.org/t/p/w500/fxwI4zoEbHNsVcQhdko1k3OjFNd.jpg",
+        "date": "2009-05-08",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11033",
+        "title_hu": "Gyilkossághoz öltözve",
+        "title_en": "Agak Laen: Menyala Pantiku!",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Mystery",
+            "Horror"
+        ],
+        "description": "Dr. Robert Elliott jóképű, megnyerő személyiségű pszichiáter, jól menő rendelővel a divatos East Side-on. Az egyik páciense Kate Miller, a rendkívül vonzó, dús erotikus fantáziával megáldott hölgy, akit a férje elhanyagol. A lélekbúvár azt tanácsolja neki, hogy csalja meg a férfit. Kate éppen a szeretőjétől távozik, amikor a liftben brutális kegyetlenséggel meggyilkolják. A szemtanú egy call girl, aki felismerné a gyilkost. Ő az egyetlen, aki segíthetne a az áldozat fiának, Peternek a nyomozásban, legalább is amíg életben van. A nyomok a pszichiáter rendelőjébe vezetnek.",
+        "image": "https://image.tmdb.org/t/p/w500/mWDAmw4V30MmGCGhKFMS60HrPoX.jpg",
+        "date": "1980-07-25",
+        "score": 6.958,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_644538",
+        "title_hu": "Thành Phố Ngủ Gật",
+        "title_en": "Za Palycha!",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "description": "About the life of a major guy who ends up in the army, rethinks his life and helps his grandfather save his house.",
+        "image": "https://image.tmdb.org/t/p/w500/aMtyfv7tpnlN7je1EKaKNYi7Xrx.jpg",
+        "date": "2019-11-21",
+        "score": 5.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_365620",
+        "title_hu": "Ferrari",
+        "title_en": "Drowsy City",
+        "type": "film",
+        "genres": [
+            "History",
+            "Drama"
+        ],
+        "description": "1957 nyara. A Formula 1 látványosan pörög, ám az egykori versenyző, Enzo Ferrari válságos időket él meg. Csőd fenyegeti a gyárat, amit feleségével, Laurával a semmiből hoztak létre tíz évvel korábban. Vehemens házasságukra rányomta a bélyegét fiuk, Dino közelmúltban bekövetkezett halála is. Ráadásul Ferrarinak nehezére esik elismernie Lina Larditól született gyermekét, Pierót is. A versenyzés – és győzelem – iránti szenvedélye közben egyre-másra próbára teszi mindannyiukat, amikor elindulnak az Olaszország ezer mérföldnyi területén átívelő Mille Miglián.",
+        "image": "https://image.tmdb.org/t/p/w500/LyCOcGqOTyTmaXu2TK8LfGveIb.jpg",
+        "date": "2023-12-14",
+        "score": 6.367,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_15071",
+        "title_hu": "A mesterlövész",
+        "title_en": "Ferrari",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ],
+        "description": "A visszavonult mesterlövész, James Dial sohasem bocsátotta meg magának, hogy futni hagyta a világ egyik legveszedelmesebb terroristáját. Nem is kérdés, hogy újra fegyvert ragad, amikor egykori megbízói felkeresik a lehetőséggel: fejezze be, amit elkezdett. A rutinmunkának ígérkező küldetés azonban hamarosan rémálommá válik, amikor a teljes brit rendőrség Dial nyomába ered. Mikor Windsor főnyomozó megölésével is őt gyanúsítják, Dial ráébred, hogy megbízói átverték. Egyetlen reménye egy 12 éves kislány, akinek a segítségével kétségbeesett kutatásba kezd a gyilkos és az igazság után.",
+        "image": "https://image.tmdb.org/t/p/w500/hqf6RbZwoxzwvvmVjk8f27xmNcn.jpg",
+        "date": "2007-05-11",
+        "score": 5.498,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_300520",
+        "title_hu": "Éjfélkor",
+        "title_en": "Dois Bois",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "1956 szilveszterén egy fiatal házaspár arra készülődik, hogy elhagyja az országot. A nagy elhatározás előtt lepereg addigi életük: a férj, Károlyi János neves színész, Viki miatt hagyta el első feleségét. Viki balett-táncosnő, zsidó származása miatt sok mellőzést élt meg. 1956-ban, a nászútjukon érte a forradalom híre. Hazaérkezésükkor megtudják, hogy Viki édesanyja már Bécsben várja őket. Viki úgy érzi, karrierje miatt számára nincs más választás, mint az emigrálás. János viszont úgy érzi, minden Magyarországhoz köti. Tanakodnak, tétováznak: a maradni vagy menni? Kérdésre adott válaszukkal, tudják, egész életükről fognak dönteni.",
+        "image": "https://image.tmdb.org/t/p/w500/frUYirlaoLVdj0cv7l5GM0Cf7Ds.jpg",
+        "date": "1957-12-25",
+        "score": 7.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1233208",
+        "title_hu": "Santosh",
+        "title_en": "Maa Babu",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Drama"
+        ],
+        "description": "Dr Anand, a respectable doctor, gives away his son to Ratna Devi, a widow. Soon, he marries a nurse and troubles between them ensue.",
+        "image": "https://image.tmdb.org/t/p/w500/c4LdJKjE7Du2ofKsyDrmwZs9u5m.jpg",
+        "date": "2024-07-17",
+        "score": 7.023,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_475268",
+        "title_hu": "الخوف : صوتياً",
+        "title_en": "Bell Chamber",
+        "type": "film",
+        "genres": [
+            "Fantasy",
+            "Thriller"
+        ],
+        "description": "Based on a Thai ghost story of Kuman Thong, the film revolves around a woman who has caused the death of her young brother a long time ago. When she returns to the old house where they lived before, she finds herself haunted by the spirit of her young brother wanting to take revenge for his death.",
+        "image": "https://image.tmdb.org/t/p/w500/bBzejkbhrNHsp9N7cB7fo7dwTZQ.jpg",
+        "date": "2017-04-15",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_839",
+        "title_hu": "Párbaj",
+        "title_en": "I Like Sexy Women",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "TV Movie"
+        ],
+        "description": "Mr. Mann egy kaliforniai úton autózik. Nyugodtan halad, van még ideje fontos üzleti megbeszéléséig. Megelőzi az előtte pöfögő kamiont, és visszaáll kényelmes autósebességére. De ekkor történik valami, amit Mr. Mann nem ért. A kamion üldözőbe veszi. A negyven tonnás szörnyeteg az életére tör. És Mr. Mann, a békés kertvárosi polgár hamarosan rájön, hogy harcolnia kell. Gép gép ellen, sofőr sofőr ellen. Kezdetét veszi egy különös, halálos párbaj...",
+        "image": "https://image.tmdb.org/t/p/w500/lgZJ4abjQj7yul4YUDeaL11Xbvw.jpg",
+        "date": "1971-12-25",
+        "score": 7.421,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1103468",
+        "title_hu": "Тихие берега",
+        "title_en": "The Wild Bunch",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Mystery"
+        ],
+        "description": "An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+        "image": "https://image.tmdb.org/t/p/w500/p1cmzYsA4oTuPNZDFUnyYSsyOcK.jpg",
+        "date": "1973-07-02",
+        "score": 9.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_364353",
+        "title_hu": "Patah Hati",
+        "title_en": "Silent Shores",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "The fishery supervision employee is killed. During the investigation the public law enforcement official has looked out on the trace of the illegal grouping which has serious reasons for the commission of more considerable crimes than the illegal animals killings.",
+        "image": "https://image.tmdb.org/t/p/w500/bkYaYmgUzXSU4NWJXcWo7wvh70l.jpg",
+        "date": "1952-08-02",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_810746",
+        "title_hu": "Dhaka Dream",
+        "title_en": "Patah Hati",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Kassim (P. Ramlee) returns to Singapore after finishing his studies in London and is thrust into a betrothal with the daughter of his father’s benefactor, Salmah. However, Kassim has already met and fallen in love with someone who shares his interest in Persian poetry. She is Rahimah, a flower salesgirl in Singapore. They go on dates to the nursery, and spend time together (dancing) in a paradise-like garden (Alkaff Gardens). Even after Kassim returns to Kuala Lumpur to work in his benefactor’s rubber plantation, he never forsakes Rahimah and has a rendezvous with her in Singapore when the opportunity arises. Together again, they watch movies at the Rex Theatre, and vow to get married. Unfortunately, Kassim’s father insists on him marrying his benefactor’s daughter, Salmah, who is a rich and cultured girl. Kassim decides to fulfil his father’s death wish and marries Salmah. Eventually, fate brings Kassim to reunite with Rahiman again in their twilight years.",
+        "image": "https://image.tmdb.org/t/p/w500/taK1cRcTFdVKFn2ZHJVhsEm6qhW.jpg",
+        "date": "2021-10-22",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1016011",
+        "title_hu": "윤율과 러시아 색녀",
+        "title_en": "Dhaka Dream",
+        "type": "film",
+        "genres": [
+            "Romance"
+        ],
+        "description": "Dhaka Dream is a tale of convergence towards a city, named Dhaka, where a bunch of outlying people gather different experiences that derives from a separate journey that is collective and yet distinctively simultaneous.",
+        "image": "https://image.tmdb.org/t/p/w500/30Yju7mD4O4gWq55Y4uOKur83Pu.jpg",
+        "date": "2022-06-24",
+        "score": 10.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1579232",
+        "title_hu": "Jesus Freaks",
+        "title_en": "Women's War: Doggie's Uprising",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "description": "There is a visitor for local herb gatherer Doggie who has no particular need or greed for anything. His friend Chang-guk who is wanted to failure in his business and his captivating wife Seon-hwa come to see Doggie who has no choice but to give them a place to hide. The three of them end up living umcomfortably together. Will Doggie be able to suppress his desires for his friend's wife? And what is her secret that Doggie must never know?",
+        "image": "https://image.tmdb.org/t/p/w500/15RlJUIGLMYvvxu7wrgGSgFr1EY.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_559638",
+        "title_hu": "정사: 아내의 친구",
+        "title_en": "Jesus Freaks",
+        "type": "film",
+        "genres": [
+            "Romance"
+        ],
+        "description": "A lonely cult-member tries to recruit an old friend - a nihilistic drifter from her childhood church. But it becomes unclear if she’s trying to save his soul, or if she herself wishes to be saved.",
+        "image": "https://image.tmdb.org/t/p/w500/tYSkdwCYZlg1Dr7pZjxPFOyLVqo.jpg",
+        "date": "2018-05-17",
+        "score": 5.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_16989",
+        "title_hu": "Lifting de corazón",
+        "title_en": "Paul Blart: Mall Cop 2",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Romance"
+        ],
+        "description": "Security guard Paul Blart is headed to Las Vegas to attend a Security Guard Expo with his teenage daughter Maya before she departs for college. While at the convention, he inadvertently discovers a heist - and it's up to Blart to apprehend the criminals.",
+        "image": "https://image.tmdb.org/t/p/w500/fNkOdn5CQ1oKleStPSk8gIQxgri.jpg",
+        "date": "2005-11-30",
+        "score": 4.286,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1102536",
+        "title_hu": "Просвітлої дороги свічка чорна. Пам'яті Василя Стуса",
+        "title_en": "Heartlift",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "Pep Munné is an aging plastic surgeon who falls for a young female assistant (Mariana Anghileri) while attending a medical conference. Soon he begins inventing new reasons to spend more time with her. His wife Cristina (María Barranco) begins meeting with a psychiatrist (Jean Pierre Noher) in order to figure out what is going on in her marriage.",
+        "image": "https://image.tmdb.org/t/p/w500/x7IBpvTpQxqFZJpjWzi5MhX6sRd.jpg",
+        "date": "1992-01-06",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_381266",
+        "title_hu": "Stürmischer Sommer",
+        "title_en": "Black Candle of the Bright Road. In memory of Vasyl Stus",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Documentary trilogy about the thorny path of the famous Ukrainian poet, translator, political prisoner Vasyl Stus. Filmed in 1989-1992, it describes the life of the poet, the story of the destruction of the dissident by the Soviet authorities, highlights his influence on Ukrainian society during life and after his death, records the testimony of witnesses, films the liquidated Kuchino camp, in which Stus was imprisoned, the reburial of Stus, Lytvyn and Tykhy in 1989. Consists of three parts: «Come back to me, my memory» (Верни до мене, пам’яте моя), «In the white cold the sun of Ukraine» (У білій стужі сонце України), «Crucified on a black cross» (Розіп’ятий на чорному хресті).",
+        "image": "",
+        "date": "1998-05-03",
+        "score": 8.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_16094",
+        "title_hu": "Micsoda buli",
+        "title_en": "Stürmischer Sommer",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Szüleik távollétét kihasználva Kid és Play, a két fekete srác nagy bulit csapnak. Igaz, Kid meglehetősen szigorú papája megtiltotta a fiúnak, hogy lelépjen otthonról, ám a srácot ez a legkevésbé sem zavarja. Természetesen hatalmas a fölfordulás Playék házában, minden van, mi szem szájnak ingere. Bömböl a magnóból a rapzene, ital korlátlan mennyiségben, még fű is akad a nagy ramazuriban, no és a lányok, megannyi belevaló csaj. A felhőtlen szórakozás azonban még sem egészen az elképzelés szerint alakul, néhány hívatlan vendég is betoppan.",
+        "image": "https://image.tmdb.org/t/p/w500/bccs8BziA0E664KYeAxPCiAJCav.jpg",
+        "date": "1990-01-20",
+        "score": 6.411,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1079311",
+        "title_hu": "Le Royaume",
+        "title_en": "Orion and the Dark",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "description": "A boy with an active imagination faces his fears on an unforgettable journey through the night with his new friend: a giant, smiling creature named Dark.",
+        "image": "https://image.tmdb.org/t/p/w500/yiZ4QWbOqD2xfYofM6bcQglxQYz.jpg",
+        "date": "2024-11-13",
+        "score": 7.074,
+        "age_rating": "16+",
+        "cover_nsfw": false
     }
 ]
