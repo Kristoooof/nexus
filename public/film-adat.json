@@ -79185,5 +79185,734 @@
         "score": 4.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_137094",
+        "title_hu": "Jack Ryan: Árnyékügynök",
+        "title_en": "Real One",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "description": "Ryan a barátai és szerettei szemében csak egy a sok New York-i banki elemző közül, de titokban már évek óta a CIA-nak dolgozik. Eredetileg azért vették fel, hogy globális gazdasági adatokat rágjon át, de amikor rábukkan egy aprólékosan kidolgozott tervre, amelynek célja az amerikai gazdaság megroppantása és globális káosz kirobbantása, akkor kiderül, hogy csak ő tudja megakadályozni ezt a terrorakciót. Így teljes jogú ügynökké avanzsál, és máris a gyanakvás, az átverések és a halálos veszedelmek világában találja magát. Ezért aztán kénytelen szófukar felettese, mit sem sejtő menyasszonya és egy briliáns elméjű orosz oligarcha között lavírozni, és kénytelen szembenézni egy új valósággal, ahol senkiben sem lehet megbízni, ám milliók sorsa függ attól, hogy rátalál-e az igazságra. A gyújtózsinór ég, és Ryannek mindenki előtt kell járnia egy lépéssel a halálos versenyben.",
+        "image": "https://image.tmdb.org/t/p/w500/zPYsebfakpgPiZFGbJqbVB7AExg.jpg",
+        "date": "2014-01-15",
+        "score": 6.126,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_351523",
+        "title_hu": "동창회의 목적",
+        "title_en": "Jack Ryan: Shadow Recruit",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "description": "Jack Ryan, as a young covert CIA analyst, uncovers a Russian plot to crash the U.S. economy with a terrorist attack.",
+        "image": "https://image.tmdb.org/t/p/w500/AjlwGaT6tDs2fBIgFaepYiDhL6A.jpg",
+        "date": "2015-08-06",
+        "score": 6.328,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11918",
+        "title_hu": "Superhero Movie",
+        "title_en": "The Little Prince",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Action",
+            "Science Fiction"
+        ],
+        "description": "Rick Riker (Drake Bell) kész istencsapása, de hát mit lehet várni egy olyan sráctól, akit Albert nagybácsi (Leslie Nielsen) nevelt fel. Azon a napon, amikor feldúlja az állatkert kísérleti laboratóriumát, egy mutáns szitakötő a nyakába harap, s ettől gyökeresen megváltozik az élete. Szuperhőssé válik, és a nagy segítségben romba dönt mindent.",
+        "image": "https://image.tmdb.org/t/p/w500/pSCDq43Hyixj7sMePkqjZ7F2ad8.jpg",
+        "date": "2008-03-28",
+        "score": 5.3,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_548449",
+        "title_hu": "Ye dian",
+        "title_en": "Superhero Movie",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Rick Riker is a nerdy teen imbued with superpowers by a radioactive dragonfly. And because every hero needs a nemesis, enter Lou Landers, aka the villainously goofy Hourglass.",
+        "image": "https://image.tmdb.org/t/p/w500/rx0TYB1oDxgtuAgNFfpZTovFZkO.jpg",
+        "date": "1947-01-01",
+        "score": 6.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1734514",
+        "title_hu": "Shah & Zam",
+        "title_en": "Control Freak",
+        "type": "film",
+        "genres": [],
+        "description": "A motivational speaker, plagued by an uncontrollable itch on her head, becomes infected with a parasitic demon from her homeland.",
+        "image": "https://image.tmdb.org/t/p/w500/uIEmWCdNF2sT3ny3I8YfJ4WwCbQ.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_28504",
+        "title_hu": "Spider Baby",
+        "title_en": "Shah & Zam",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "description": "# Film Synopsis Translation  The story follows Zam and Shah, two friends who are not particularly brilliant in their studies. Since their school days, they have been in the worst class, causing trouble for teachers, and becoming enemies of the discipline master. Due to their poor SPM results, no university is willing to accept their applications. Therefore, they want to prove to the villagers that despite only having an SPM qualification, they are capable of succeeding and becoming millionaires. Thus, they begin to undertake various types of work, but each job they attempt fails because of their own problems. Can Shah and Zam prove their success to their village community and become millionaires?",
+        "image": "https://image.tmdb.org/t/p/w500/pKKJsmTGt5MndLT8gBfl1pMp4fU.jpg",
+        "date": "1967-12-24",
+        "score": 6.86,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_755898",
+        "title_hu": "Világok harca",
+        "title_en": "War of the Worlds",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Thriller"
+        ],
+        "description": "Egy földhözragadt sci-fi film a District 9 szellemében, amely a magánélet kontra megfigyelés témáit feszegeti.",
+        "image": "https://image.tmdb.org/t/p/w500/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+        "date": "2025-07-29",
+        "score": 4.081,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1327819",
+        "title_hu": "Agyugrász",
+        "title_en": "Hoppers",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Comedy",
+            "Family",
+            "Science Fiction"
+        ],
+        "description": "Egy állatbarát megragadja a lehetőséget, hogy olyan technológiát használjon, amely tudatát egy robothódba helyezi és olyan rejtélyeket fedez fel az állatvilágban, amelyek minden elképzelését felülmúlják.",
+        "image": "https://image.tmdb.org/t/p/w500/4u7fQkCOgKGuwwkjcw9fuu6Z14U.jpg",
+        "date": "2026-03-04",
+        "score": 8.188,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_82976",
+        "title_hu": "Les Novices",
+        "title_en": "The Novices",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Sister Agnès runs away from her convent in Brittany and seeks refuge in Paris with prostitute Mona Lisa. With absolutely no qualifications, the young novice has a hard job finding work, so Mona Lisa tries to teach her the ropes of the oldest profession of them all!",
+        "image": "https://image.tmdb.org/t/p/w500/4Ppq2oJPnEqSeyliPG9QbCHUL0q.jpg",
+        "date": "1970-04-01",
+        "score": 4.769,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_652",
+        "title_hu": "Trója",
+        "title_en": "Troy",
+        "type": "film",
+        "genres": [
+            "War",
+            "Action",
+            "History"
+        ],
+        "description": "Parisz, Trója hercege és Helené, a spártai hercegnő - ártatlan találkozásából akkora háború robban ki, ami egy egész civilizáció végromlását fogja előidézni. Parisz elszereti és elrabolja Helenét férjétől, Meneláosz királytól, és ez nem maradhat megtorlás nélkül. És aki Meneláoszt sérti meg, az megsérti bátyját is, Mükéne hatalmas királyát, Agamemnónt, aki azonnal hadba hívja a görög seregeket, hogy Trója ellen vonuljanak, visszaszerezzék Helenét és fivére becsületét. Agamemnónnak kapóra is jön ez az eset, hiszen végtelen kapzsiságában régóta feni a fogát Ilionra: ha elfoglalja Tróját, övé a teljes Égei-tenger, és megerősíti hatalmát máris óriási birodalma felett...",
+        "image": "https://image.tmdb.org/t/p/w500/w4IwPjjUWTplcwd8iCsYsKf8vLv.jpg",
+        "date": "2004-05-13",
+        "score": 7.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_532794",
+        "title_hu": "성판17: 남자들의 17가지 성적 판타지",
+        "title_en": "Sex Plate 17",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "description": "A woman who can make all of one man’s fantasies come true moves in next door .",
+        "image": "https://image.tmdb.org/t/p/w500/86cLgLKNkHUUyHsgvWCpuh10JLZ.jpg",
+        "date": "2017-11-13",
+        "score": 5.786,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_98894",
+        "title_hu": "Jessica",
+        "title_en": "Jessica",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "description": "When the men of a Sicilian village start obsessing over ravishing blonde midwife Jessica, angry females revolt by refusing to have sex with their husbands. As the local priest tries to encourage procreation, Jessica falls for a tricky recluse.",
+        "image": "https://image.tmdb.org/t/p/w500/emXHuiMFjPuYKBE9FeIkmQNNmy.jpg",
+        "date": "1962-04-19",
+        "score": 4.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_324857",
+        "title_hu": "Pókember: Irány a Pókverzum!",
+        "title_en": "Spider-Man: Into the Spider-Verse",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "description": "Úgy tűnik, hogy egyszer minden szuperhőst utolér a végzete. Miután közös erővel Homokembernek, Doctor Octopusnak, Electronak, Kravennek és a Keselyűnek sikerült legyőzniük Peter Parkert, alighanem minden remény elveszhetett az emberiség számára. Szerencsére azonban itt van nekünk Miles Morales, akit szintén megcsípett egy génmódosított pók, és aki újból felveszi a harcot a bűnözéssel szemben. Ráadásul van néhány újabb trükk, na meg képesség is a tarsolyában.",
+        "image": "https://image.tmdb.org/t/p/w500/gkP40mQY2MObRDI8g41TIkottDJ.jpg",
+        "date": "2018-12-06",
+        "score": 8.4,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1337148",
+        "title_hu": "عائشة لا تستطيع الطيران",
+        "title_en": "Aisha Can't Fly Away",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Drama"
+        ],
+        "description": "Aisha, a 26-year-old Sudanese woman, lives in Ain-Shams, a neighborhood in Cairo with a large African migrant community. The authorities’ indifference to the violent tensions between Egyptians and various African nationalities, has allowed different gangs to seize control of the neighborhood. The situation quickly turns sour after one of them offers Aisha security in exchange for a favor.",
+        "image": "https://image.tmdb.org/t/p/w500/HcfN1vNrz9FIQU64QQhslSLACo.jpg",
+        "date": "2025-05-20",
+        "score": 5.5,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_44980",
+        "title_hu": "Zero WOMAN ＩＩ　警視庁０課の女",
+        "title_en": "Zero Woman 2",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "When a valuable suitcase is stolen, the mob, petty criminals, and a beautiful agent from the Elite Zero division are pulled into a battle to settle the score.",
+        "image": "https://image.tmdb.org/t/p/w500/z9XSICETB0XWQRyMWpN2s3bAUlz.jpg",
+        "date": "1995-09-05",
+        "score": 5.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1234821",
+        "title_hu": "Jurassic World: Újjászületés",
+        "title_en": "Jurassic World Rebirth",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action"
+        ],
+        "description": "Öt évvel a Jurassic World Világuralom eseményei után a titkos műveletek szakértője, Zora Bennett megbízást kap egy képzett csapat vezetésére egy szigorúan titkos küldetésen, hogy biztosítsa a világ három legmasszívabb dinoszauruszának genetikai anyagát. Amikor Zora akciója kereszteződik egy civil családdal, akiknek csónakázási expedíciója felborult, mindannyian egy szigeten rekednek, ahol szembesülnek egy baljós, sokkoló felfedezéssel, amelyet évtizedek óta rejtegetnek a világ elől.",
+        "image": "https://image.tmdb.org/t/p/w500/phr4ib5Y7D2OTB5FxjwoKNnsCad.jpg",
+        "date": "2025-06-23",
+        "score": 6.273,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9693",
+        "title_hu": "Az ember gyermeke",
+        "title_en": "Children of Men",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Thriller",
+            "Action"
+        ],
+        "description": "A Föld tartalékai teljesen kimerültek, a jövő kilátástalan, 19 éve nem született gyerek. A széthulló társadalmi rendszerek közül egyedül Nagy-Britannia élte túl a belső harcokat. A rendszer diktatórikus eszközökkel tartja fenn a hatalmat, és erőszakkal lép fel az illegális bevándorlók ellen: táborokba hurcolják és deportálják őket. Theo egykor a változás élharcosa volt, de mára kiégett, megkeseredett ember. Minden megváltozik, amikor egykori szerelme, Julian szívességet kér tőle. Egy fiatal nőt kell kijuttatnia az országból. Hamarosan kiderül, hogy Kee nem egyszerű menekült.",
+        "image": "https://image.tmdb.org/t/p/w500/oz9e6CE89cocUxyi7e3nloFCAdH.jpg",
+        "date": "2006-09-22",
+        "score": 7.613,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1515615",
+        "title_hu": "Kissing Is the Easy Part",
+        "title_en": "Kissing Is the Easy Part",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "description": "Sean's gunning for MIT. Flora's ditching the SAT. A secret deal with her tenured parents sparks a romance that challenges everything they believe in.",
+        "image": "https://image.tmdb.org/t/p/w500/gPxlb7LLqbsKgjltgVrgYdhfxCZ.jpg",
+        "date": "2026-02-13",
+        "score": 7.282,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_5879",
+        "title_hu": "Az érzékek birodalma",
+        "title_en": "In the Realm of the Senses",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Tokió, 1936. Abe Szada, a volt prostituált egy fogadóban dolgozik szolgálóként. A fogadó tulajdonosával, a szexuálisan mindenevő Isida Kicsidzóval találkozva szexuális kísérletekből, ivásból és egyéb élvezetekből álló kapcsolatba kezdenek. Egymás iránti megszállottságukban Szada megígérteti Isidával, hogy többé nem fog a feleségével lefeküdni, ellenkező esetben Szada megölheti. Mivel egymás fojtogatását szeretkezés közben különösen izgatónak találják, Isida (miután ígéretét megszegte) megengedi, hogy Szada ily módon ölje meg. Szada ezt megteszi, majd levágja Isida péniszét, ezután vérrel a férfi mellkasára írja: „Szada és Kicsi örökké együtt.”",
+        "image": "https://image.tmdb.org/t/p/w500/u2YfnnlKPmhu1mBcvAFS1ex5KGJ.jpg",
+        "date": "1976-09-15",
+        "score": 6.594,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_23483",
+        "title_hu": "Ha/Ver",
+        "title_en": "Kick-Ass",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "description": "A tini Dave rajong a képregényekért. A szuperhősökről olvasva elfelejti, milyen jelentéktelen az életben, azt, hogy nincs érzéke semmihez, a lányok meg átnéznek rajta. A srác gondol egy merészet, és elhatározza, hogy a példaképeit követve felcsap szuperhősnek. Testhezálló jelmezt rendel a netről, nevet ad magának, és elindul, hogy megtisztítsa városát a bűntől. Elszántságának csak a szuperképességek hiánya szab gátat. A felbukkanásának mégis híre megy. Ezzel felkelti az igazi \"hős\" apuka és a tizenegy éves, karatézó lánya érdeklődését. Jól jön a segítségük a helyi maffiafőnök elleni küzdelemben.",
+        "image": "https://image.tmdb.org/t/p/w500/a9mR1Ywxz0UWmlqjM5n5NvYcmDa.jpg",
+        "date": "2010-03-26",
+        "score": 7.122,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1287729",
+        "title_hu": "Незримое",
+        "title_en": "Незримое",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "",
+        "image": "",
+        "date": "2007-01-01",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_617463",
+        "title_hu": "Uur Tsaigaasai",
+        "title_en": "In the Dawn",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A recently widowed affluent woman, Undral, faces an inevitable challenge when she must bring her late husband's former wife to the city from the countryside.",
+        "image": "https://image.tmdb.org/t/p/w500/cLzGwEx5v9cNjIaS2TJFDswab0A.jpg",
+        "date": "2017-05-10",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1735139",
+        "title_hu": "Papa Ricky",
+        "title_en": "Papa Ricky",
+        "type": "film",
+        "genres": [],
+        "description": "A story that depicts the love and affection of a father, love and the struggles of life. Riqmal is a young coach who is a single father to his 5-year-old daughter, Alisya. Riqmal is forced to raise his child alone after his wife leaves him. CAST PHOTO Papa Ricky Drama Cast",
+        "image": "",
+        "date": "2017-01-01",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1128879",
+        "title_hu": "Mil Kilómetros",
+        "title_en": "Mil Kilómetros",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/53x5ItzXZXFpJ8XeBg6xCScb1It.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_546121",
+        "title_hu": "Fuss",
+        "title_en": "A Strange Marriage Part 3",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ],
+        "description": "Azt mondják, soha nem menekülhetsz egy anya szeretete elől. De Chloe számára ez inkább fenyegetést jelent. Van valami természetellenes, sőt baljóslatú kapcsolat Chloe és anyja, Diane között. Diane teljes elszigeteltségben nevelte lányát annak születése óta, kontrollálva minden mozdulatát – és vannak olyan titkok, amiket Chloe csak most kezd megérteni.",
+        "image": "https://image.tmdb.org/t/p/w500/iElhw6z82Bsa7GLySodzGerJqsC.jpg",
+        "date": "2020-11-20",
+        "score": 7.215,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_165083",
+        "title_hu": "Különös házasság 3.rész",
+        "title_en": "Butterfly",
+        "type": "film",
+        "genres": [],
+        "description": "A királyi udvarba is eljut a házasság híre. A papság a házasság mindenáron való fenntartására törekszik, mert fél, hogy kiderül az összeesketést végző pap hibája, mely aláásná az egyház tekintélyét. Az udvar a papságot támogatja. Pereviczky és Krok nyomozó rábeszélik Buttler Jánost, hogy menjen Pozsonyba, éljen nagyúri életet, hogy a közvéleményt maga mellé állítsa, miközben a nagybácsi és a nyomozók megpróbálják a kanonokokat megvesztegetni. Buttler János megtudja, hogy Piroska beteg és elmegy hozzá. Közben járvány tör ki, mely elodázza a pör megindítását. A megvesztegetés sem jár sikerrel, mert a járvány a három megvesztegetett kanonokkal is végez. A hírt Pereviczky sem éli túl. -- port.hu",
+        "image": "https://image.tmdb.org/t/p/w500/nv6o4q7oP9XXJk59vI1dv6tlywl.jpg",
+        "date": "1984-02-03",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1124431",
+        "title_hu": "Butterfly",
+        "title_en": "The Black Pearl",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Women are beaten, raped, tortured and killed in brutal prison.",
+        "image": "",
+        "date": "2023-10-10",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_484503",
+        "title_hu": "黑珍珠",
+        "title_en": "The Muppet Show",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Music, comedy, and a whole lot of chaos is bound to ensue when The Muppets once again take the stage of the original Muppet Theatre with their very special guest, Sabrina Carpenter!",
+        "image": "https://image.tmdb.org/t/p/w500/yRlYkjecV3lJf51jIJI9ECzofVQ.jpg",
+        "date": "1982-01-01",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_12160",
+        "title_hu": "Wyatt Earp",
+        "title_en": "Cordis",
+        "type": "film",
+        "genres": [
+            "Western",
+            "Drama"
+        ],
+        "description": "Wyatt Earp a Vadnyugat meghódításának legendás hőse volt. Fiatalon megtanulta, hogy nincs semmi fontosabb a világon, mint a család és az igazság. Azok a mozgalmas évek, melyek kiszakították a biztonságos családi élet melegéből és Amerika peremvidékére sodorták, először kalandvágyó fiatalemberré, majd megrögzött igazságosztóvá tették. Mialatt egyre híresebbé vált, folyamatosan meg kellett küzdenie vágyai és a családjáért érzett felelősség kettősségével. Testvérei és álmai iránti töretlen hűsége egyaránt jelentett számára boldogságot és tragédiát. Wyatt Earp megszállott igazságosztó, legendás seriff volt, aki attól sem riadt vissza, hogy látszólag szélmalomharcot folytasson a sokszor túlerőben lévő gonosz elemek ellen.",
+        "image": "https://image.tmdb.org/t/p/w500/4JMojRBHJBKnE9xF6jU26AcuvGt.jpg",
+        "date": "1994-06-24",
+        "score": 6.798,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_880100",
+        "title_hu": "Belső rettegés",
+        "title_en": "Trombón",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Drama"
+        ],
+        "description": "Egy erdei faházban tartott ünnepség félelmetes fordulatot vesz, amikor természetfeletti erők veszik célba a csoportot, illetve a levegőben is valamiféle vírus terjed.",
+        "image": "https://image.tmdb.org/t/p/w500/49GaCjVSvbxx5GLGqotsls19gWL.jpg",
+        "date": "2023-01-27",
+        "score": 5.078,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_552688",
+        "title_hu": "Anya",
+        "title_en": "Pineapple Express",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "Az alaszkai vadonban bujkáló bérgyilkosnő előbújik rejtekhelyéről, hogy megvédje a lányát, akit évekkel korábban elhagyott, miközben veszélyes bűnözők elől menekült.",
+        "image": "https://image.tmdb.org/t/p/w500/7O1MhKenQOibfQCAB0qO85P6kaj.jpg",
+        "date": "2023-05-04",
+        "score": 6.616,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1695378",
+        "title_hu": "Okanjuwa",
+        "title_en": "Marmayogi",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "",
+        "image": "",
+        "date": "2026-05-22",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_263743",
+        "title_hu": "மர்மயோகி",
+        "title_en": "Remény",
+        "type": "film",
+        "genres": [
+            "History"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/oEqNbbblY6iIs6RB3ymyDZdxpR7.jpg",
+        "date": "1951-02-01",
+        "score": 7.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_821149",
+        "title_hu": "Remény",
+        "title_en": "Ray",
+        "type": "film",
+        "genres": [
+            "Music",
+            "Comedy"
+        ],
+        "description": "A miniszterelnök szomorú, mert a kutatások szerint az országa a legboldogtalanabb Európában. De semmi vész!  A kormány a helyén, stábunk pedig a nyomában van. Mi így búcsúztatjuk el ezt az izgalmas évet.",
+        "image": "https://image.tmdb.org/t/p/w500/45ZCBSFG5RnhhHeXVHmaba1KrNE.jpg",
+        "date": "2015-12-24",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1677",
+        "title_hu": "Ray",
+        "title_en": "All In",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Music"
+        ],
+        "description": "Ray Charles a szegény, délről érkezett, sanyarú sorsú, vak, színes bőrű zenész, aki a társadalmi és művészi korlátokat ledöntve átírta az amerikai zene történetét. Kamaszként szállt fel a floridai buszra, hogy átszelve az Államokat, a nyüzsgő Seattle-i dzsesszéletben pallérozza zenei tudását. Kezdetben sokat küszködött azért, hogy tisztességesen bánjanak vele, és meglelje saját útját. Majd felfedezi őt egy lemezcég, üstökösként tör be a zenei életbe és világhírnévre tesz szert. A sztárságért azonban súlyos árat fizet: egy életen át küzd a kábítószerrel és a viharos szerelmi ügyekkel.",
+        "image": "https://image.tmdb.org/t/p/w500/3TX1RyPA9hnNaOY7W6a835chk4c.jpg",
+        "date": "2004-10-29",
+        "score": 7.455,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_478694",
+        "title_hu": "Assemblée générale",
+        "title_en": "Kavalai Padathe Sagodhara",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Janakiraman who is from an orthodox family marries a Christian girl while his mother seeks an ideal Hindu bride. He tries his best to hide the truth about her religion from his mother.",
+        "image": "https://image.tmdb.org/t/p/w500/21Bvf7yhW4ARkoF6XWvgH9o0YKX.jpg",
+        "date": "2014-06-14",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1734908",
+        "title_hu": "கவலைப்படாதே சகோதரா",
+        "title_en": "Uso-Tsuki",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "A man's worst nightmare may just be the truth.",
+        "image": "",
+        "date": "1998-04-13",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1105030",
+        "title_hu": "Uso-Tsuki",
+        "title_en": "Purnodoirgho Prem Kahini",
+        "type": "film",
+        "genres": [
+            "Crime"
+        ],
+        "description": "The film is about Joy (Shakib Khan) who is engaged to his cousin Mithu(Mimo). But he promises his grandfather that he will not tie the knot before he finds his missing aunt and uncle. In search of his missing relatives, he goes to Malaysia, where he meets Jara(Jaya) who is a UN employee. They become familiar with each other and Jara helps Joy find his aunt. Joy, appreciative of her companionship and help, falls for Jara. To avoid him, Jara gets involved with another man Shakib(Arefin Shuvo). In this situation, the climax of the film comes down between responsibility towards family, relatives and love affairs.",
+        "image": "https://image.tmdb.org/t/p/w500/6CKTxOvtfCjAS5mCIQ0CU1CwCCA.jpg",
+        "date": "2023-03-25",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1510823",
+        "title_hu": "myself, elsewhere",
+        "title_en": "myself, elsewhere",
+        "type": "film",
+        "genres": [
+            "Mystery",
+            "Horror",
+            "Family"
+        ],
+        "description": "Fragments of a contemplative essay film drifting between memory and dream. I see an old man haunted by an elusive voice, and a fading childhood quietly watching over him, in a space where prolonged sleep blurs the boundary of what is real. This is a story written from elsewhere a place where I listen, observe, and record his story, in an attempt to weave together images of family, and the quiet violence of growing up.",
+        "image": "https://image.tmdb.org/t/p/w500/tO6Hgz7uQdRcQ4h9Vb2OLLondd6.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_813790",
+        "title_hu": "Síndrome de los quietos",
+        "title_en": "The Stillness Syndrome",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "In 2018, a group of filmmakers calling themselves \"Los Quietos\" set out to make a film essay on a hypothetical syndrome of stillness in the Republic of Colombia. To this end, they invite Colombian documentary master Luis Ospina, presidential candidate Gustavo Petro and writer Juan Gabriel Vásquez to give them clues to delve into the history, geography and idiosyncrasy of Colombia, a country that, paradoxically, has very little of stillness. For unknown reasons, the project remained unfinished.",
+        "image": "https://image.tmdb.org/t/p/w500/vkLRg5BFQTadxfxZqlKGCJQuWMC.jpg",
+        "date": "2021-04-17",
+        "score": 4.667,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_66355",
+        "title_hu": "மகளிர் மட்டும்",
+        "title_en": "Magalir Mattum",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "In a male-dominated world, three women from different walks of life unite against their predatory manager, challenging his atrocities and pushing back with a bold feminist agenda.",
+        "image": "https://image.tmdb.org/t/p/w500/nDuWcFyv1dqPki0r0vYVvw7cSFe.jpg",
+        "date": "1994-02-25",
+        "score": 7.125,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_219779",
+        "title_hu": "Дощику, дощику, припусти!",
+        "title_en": "Let It Rain, Let It Rain!",
+        "type": "film",
+        "genres": [
+            "Animation"
+        ],
+        "description": "Little Thunder dreams of growing up and wants to thunder and cause rain. For now, Grandpa Thunder does not allow him to do this and instructs him only to look for places on Earth where rain is needed.",
+        "image": "https://image.tmdb.org/t/p/w500/yCXpSDnNPr2Pnc0w4bBCex0Ekri.jpg",
+        "date": "1982-09-06",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1390751",
+        "title_hu": "Farming Turns",
+        "title_en": "Farming Turns",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Documentary"
+        ],
+        "description": "Chris Rubens was living the dream. As a professional skier, for years he travelled the globe in search of the best skiing, until an expedition to Greenland brought the reality of climate change and his impact into sharp focus.  Forced to confront his footprint and values, he takes action, risking his career as an athlete to become an organic farmer in a quest to foster a stronger, more sustainable community and connection to the mountains.",
+        "image": "https://image.tmdb.org/t/p/w500/mUiHXZAONlDmqLJIJbOPczMt8XQ.jpg",
+        "date": "2024-08-31",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1158616",
+        "title_hu": "Le Répondeur",
+        "title_en": "Guess Who's Calling!",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Baptiste, a talented imitator, is unable to make a living from his art. One day, he is approached by Pierre Chozène, a famous but discreet novelist, constantly disturbed by incessant calls from his publisher, his daughter, his ex-wife... Pierre, who needs peace and quiet to write his most ambitious text, then suggests that Baptiste become his 'answering machine' by pretending to be him on the phone... Little by little, Baptiste doesn't just imitate the writer: he develops his character!",
+        "image": "https://image.tmdb.org/t/p/w500/bQDjUA3Yol0Rwux2BCAyt4YYfyg.jpg",
+        "date": "2025-06-04",
+        "score": 6.3,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_8879",
+        "title_hu": "Fakó lovas",
+        "title_en": "Pale Rider",
+        "type": "film",
+        "genres": [
+            "Western",
+            "Drama"
+        ],
+        "description": "Kalifornia egyik kis bányászkolóniájába titokzatos prédikátor érkezik. A bányászok kilátástalan helyzetbe kerültek, mert a közeli földek könyörtelen és kíméletlen birtokosa szemet vet a bányára, és a seriff támogatásával meg akarja szerezni magának. A megfélemlített aranyásók eszköztelenek a velük szemben felsorakozó erőkhöz képest, egyedül a rejtélyes jövevényben - akiről senki nem tudja honnan érkezett és hova tart - van annyi bátorság, elszántság és tetterő, hogy felvegye a harcot, és megpróbálja lebeszélni a fölbirtokost arról, hogy kisemmizze a bányászokat.",
+        "image": "https://image.tmdb.org/t/p/w500/64TZvt51rS4sE4lhQXGkEgYoBEB.jpg",
+        "date": "1985-06-28",
+        "score": 7.166,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1732758",
+        "title_hu": "The Meeting",
+        "title_en": "The Meeting",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A first responder attends a survivor's guilt meeting in hopes of making sense of a recent tragedy.",
+        "image": "https://image.tmdb.org/t/p/w500/6A8yHoXjbRnSfDtzum4xdcEFDEU.jpg",
+        "date": "2025-07-12",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
