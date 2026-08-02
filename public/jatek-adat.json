@@ -73669,5 +73669,55 @@
         "score": 86.203271558077,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_201789",
+        "title_en": "Arma Reforger",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Shooter",
+            "Simulator",
+            "Strategy",
+            "Tactical"
+        ],
+        "description": "Powered by the new Enfusion engine, Arma Reforger lets you fight for supremacy over 51 km2 of incredible island terrain in an authentic Cold War setting, or create unique scenarios in real-time with the Game Master curation mode. Return to Everon, the war-driven microstate from the hit game that started it all, Arma: Cold War Assault.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa97g.jpg",
+        "date": "2023-11-16",
+        "score": 89.89189189189189,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_18964",
+        "title_en": "Lazy Jones",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Platform",
+            "Arcade"
+        ],
+        "description": "Lazy Jones is essentially a collection of fifteen smaller sub-games. The game takes place inside a hotel with three floors, connected by an elevator. The character is a lazy hotel employee who does not much care for his work, but prefers to sneak into the rooms to play video games instead.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/hppjxvjjtzdjdzi47c6j.jpg",
+        "date": "1984-12-31",
+        "score": 89.87688427162793,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_182241",
+        "title_en": "Pokémon Community Game",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Turn-based strategy (TBS)"
+        ],
+        "description": "The Pokémon Community Game is a free to play extension for Twitch. Streamers who add this extension to their stream can have their chat catch, trade, and battle their favorite Pokémon.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hej.jpg",
+        "date": "2020-05-24",
+        "score": 84.90196078431373,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
