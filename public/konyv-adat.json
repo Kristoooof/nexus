@@ -6328,5 +6328,50 @@
         "score": 0,
         "age_rating": "Unknown",
         "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL8075012W",
+        "title_en": "Way of the Lawless",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Thriller"
+        ],
+        "author": "Frederick Faust",
+        "image": "https://covers.openlibrary.org/b/id/1845536-M.jpg",
+        "date": "1978",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1503145W",
+        "title_en": "Island of the Blue Dolphins",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Young Adult"
+        ],
+        "author": "Scott O’Dell",
+        "image": "https://covers.openlibrary.org/b/id/5021868-M.jpg",
+        "date": "1960",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL4466873W",
+        "title_en": "Zia",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Young Adult"
+        ],
+        "author": "Scott O’Dell",
+        "image": "https://covers.openlibrary.org/b/id/255488-M.jpg",
+        "date": "1976",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
     }
 ]
