@@ -94108,5 +94108,610 @@
         "score": 0.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_297802",
+        "title_hu": "Aquaman",
+        "title_en": "Robots",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "description": "Arthur Curry megtudja, hogy Atlantisz, a víz alatti királyság trónja rá vár. Mint törvényes örökösnek, neki kell elfogadnia a koronát, hogy csatába vezesse a népét – mert a világ bajban van és nincs más, aki kiálljon érte.",
+        "image": "https://image.tmdb.org/t/p/w500/sUlURiu6h8UaASxmUSnxZktfhqr.jpg",
+        "date": "2018-12-07",
+        "score": 6.866,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_168",
+        "title_hu": "Star Trek: A hazatérés",
+        "title_en": "Uncut Gems",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Adventure"
+        ],
+        "description": "A XXIII. században járunk, ahol egy rejtélyes földönkívüli hatalom az óceánok elpárologtatásával és az atmoszféra elpusztításával fenyegeti a földet. Kirk és legénysége kétségbeesett kísérletet tesz az emberiség megmentésére, ám ehhez vissza kell utazniuk az időben 1986-ba, San Franciscóba, ahol a punkok, pizzák és fizetős buszok világát találják, mely legalább annyira idegen számukra, mint bármi, amivel eddig a galaxis távoli zugaiban találkoztak.",
+        "image": "https://image.tmdb.org/t/p/w500/xaG20yT83P7EU58pOliapZjDdv.jpg",
+        "date": "1986-11-26",
+        "score": 7.182,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_70160",
+        "title_hu": "Az éhezők viadala",
+        "title_en": "Tinker Bell",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Action",
+            "Thriller"
+        ],
+        "description": "Észak-Amerika romjain ma Panem országa, a ragyogó Kapitólium és a tizenkét távoli körzet fekszik. A Kapitólium kegyetlenül bánik Panem lakóival: minden évben, minden körzetből kisorsolnak egy-egy tizenkét és tizennyolc év közötti fiút és lányt, akiknek részt kell venniük Az Éhezők Viadalán. Az életre-halálra zajló küzdelmet élőben közvetíti a tévé. A tizenhat éves Katniss Everdeen egyedül él a húgával és az anyjával a Tizenkettedik Körzetben. Amikor a húgát kisorsolják, Katniss önként jelentkezik helyette a Viadalra, ez pedig felér egy halálos ítélettel. De Katniss már nem először néz farkasszemet a halállal - számára a túlélés a mindennapok része. Ha győzni akar, olyan döntéseket kell hoznia, ahol az életösztön szembe kerül az emberséggel, az élet pedig a szerelemmel.",
+        "image": "https://image.tmdb.org/t/p/w500/pwqY0KBK0aRRkuW9Unxnf9g7iGy.jpg",
+        "date": "2012-03-12",
+        "score": 7.224,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_531309",
+        "title_hu": "Brightburn - A lángoló fiú",
+        "title_en": "Batman & Robin",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Science Fiction",
+            "Drama"
+        ],
+        "description": "Brandon Breyerről kiderül, hogy egy másik világból érkezett hozzánk, és a gyermektelen Breyer-család befogadta őt, hogy aztán közösen szembesüljenek azzal, hogy a fiú különleges képességekkel rendelkezik. Aztán itt jön a fordulat: ahelyett, hogy ezeket világmegváltásra használná, inkább az emberek ellen fordítja - igen hátborzongató módon.",
+        "image": "https://image.tmdb.org/t/p/w500/w1fEFYrHWW2rZhM4HBP3FUwz31T.jpg",
+        "date": "2019-05-09",
+        "score": 6.153,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1637",
+        "title_hu": "Féktelenül",
+        "title_en": "Ladies in Black",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "A mindenre elszánt pszichopata, Howard Payne felrobbantja Los Angeles egyik toronyházának liftjét. Terve azonban meghiúsul, amikor Jack Traven speciális mentő a robbanás előtt kimenti a felvonóban rekedt túszokat. Bosszúból Howard egy pokolgéppel felszerelt, utasokkal tömött száguldó buszt szabadít a városra, ami fékezéskor robban. Őrült hajsza kezdődik az utasok életéért, melyben egy bátor utas, Annie Porter és Jack Traven minden idők egyik legveszélyesebb és leglátványosabb mentőakcióját hajtja végre.",
+        "image": "https://image.tmdb.org/t/p/w500/o9pbfd2WHZ1LgcHUar3vwBg06MG.jpg",
+        "date": "1994-06-09",
+        "score": 7.157,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_87428",
+        "title_hu": "Apa ég!",
+        "title_en": "Speed",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Apa csak egy van. Néha még az is sok. Donny Berger sokáig nem is tekintette magát igazi apának. Kamaszkorában viharos kalandba keveredik szexi tanárnőjével - melyik kamaszfiú ne álmodozna erről - és miután kapcsolatuk lelepleződik, Ms. McGarricle-t börtönbe zárják. Szerelemgyerekük, Todd felnevelése pedig a fiatal Donnyra marad. 30 évvel később, Donny hírét veszi, hogy fia, - aki közben sikeres üzletember lett -, házasodni készül és egy jómódú család lányát fogja elvenni.",
+        "image": "https://image.tmdb.org/t/p/w500/gs1I7XSi4bPjq7hoJFeN088udog.jpg",
+        "date": "2012-06-14",
+        "score": 5.802,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1360610",
+        "title_hu": "A Menendez fivérek",
+        "title_en": "Tom and Jerry: The Movie",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "1996-ban a Menendez testvérek a szüleik meggyilkolásáért álltak bíróság elé, ez az ügy megragadta Amerikát. Évekkel később, az érintettekkel készített interjúk segítségével megosztják az ő oldalukat, és új nézőpontot kínálnak az eseményekhez.",
+        "image": "https://image.tmdb.org/t/p/w500/zQ32RXVzrNq93TgfKMP4Q3rkzDe.jpg",
+        "date": "2024-10-07",
+        "score": 7.281,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_8665",
+        "title_hu": "Atomcsapda",
+        "title_en": "The Menendez Brothers",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History",
+            "Thriller",
+            "Mystery",
+            "War"
+        ],
+        "description": "A film nem a háborúról szól, hanem arról, hogy micsoda bátorság kell ahhoz, hogy ne legyen háború. A megtörtént eset ihlette film Vostrikov kapitány (Harrison Ford) hősiességét követi nyomon, akit a hidegháború csúcsán a nukleáris rakétát hordozó tengeralattjáró, a K-19 parancsnokává neveznek ki, az eredeti parancsnok Mihail Polenin kapitány (Liam Neeson) helyére. Vostrikov azt a feladatot kapja, hogy villámgyorsan indítsa el első útjára a rosszul előkészített, nem megfelelően felszerelt tengeralattjárót - s nem számít, hogy milyen áron.",
+        "image": "https://image.tmdb.org/t/p/w500/uNBQ84Ow1fieY5kYh6QRIMNki7A.jpg",
+        "date": "2002-07-19",
+        "score": 6.6,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_26691",
+        "title_hu": "Neuilly sa Mère !",
+        "title_en": "Paris by Night 76: Spring Away From Home",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Thuy Nga Paris By Night 76",
+        "image": "https://image.tmdb.org/t/p/w500/XLNEeGnPhazwU0GuEuJMShGUvS.jpg",
+        "date": "2009-08-12",
+        "score": 6.011,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11517",
+        "title_hu": "Pénzvonat",
+        "title_en": "Neuilly Yo Mama!",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "description": "A New York-i metróban a gyújtogatók, tolvajok és rablók lassacskán már többen vannak, mint a becsületes utasok. A metrórendõrség két belemenõs detektívjének nincs ideje unatkozni, közvetlenül a frontvonalon szolgálnak. Aztán amikor a páros egy harmadik taggal, méghozzá egy gyönyörű nõvel egészül ki, kicsit megváltoznak a dolgok. Elõször is, mindkét férfi beleszeret. Másodszor, mert támad egy jó ötletük: mi lenne, ha õk is inkább a veszélyesek seregét gyarapítanák és kirabolnák a minden este áthaladó páncélvonatot, amely milliókat szállít?",
+        "image": "https://image.tmdb.org/t/p/w500/flbZqIY0IlBWyo7O13NrmHXKrQw.jpg",
+        "date": "1995-11-21",
+        "score": 5.858,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1302904",
+        "title_hu": "Átkozott boszorkák 2.",
+        "title_en": "Money Train",
+        "type": "film",
+        "genres": [
+            "Fantasy",
+            "Drama",
+            "Comedy"
+        ],
+        "description": "Sandra Bullock és Nicole Kidman már az első, kultikussá vált részben is tökéletes párost alkottak, most pedig új életet lehelnek a boszorkányos romantikus vígjáték műfajába. Boszorkányok? Kétségtelen. Elbűvölők? Naná. Átkozottak? Nagyon is.\r Családjuk generációk óta kapcsolatban áll a természetfelettivel, a két teljesen különböző, mégis elválaszthatatlan nővért pedig két különc nagynéni neveli egy rejtélyekkel teli, régi házban. Minden adott lenne a boldogsághoz… egyetlen dolgot leszámítva: átok ül rajtuk. Bármelyik férfi, akibe beleszeretnek, végzetes sorsra jut.\r Ám ők nem hajlandók elfogadni ezt a végzetet. Bármerre járnak, varázslat kíséri őket, mégis ugyanarra vágynak, mint bárki más: az igaz szerelemre. És ezért bizony még a legerősebb mágiától sem riadnak vissza.  (Csillag Lajos)",
+        "image": "https://image.tmdb.org/t/p/w500/ogwQOLbCfncjvBhFb5l0OmQH8KC.jpg",
+        "date": "2026-09-09",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1272166",
+        "title_hu": "Egy szerencsejátékos vallomása",
+        "title_en": "Practical Magic 2",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "description": "Makaó csillogó kaszinóinak világában egy, a múltja – és az adóssága – elől menekülő szerencsejátékos egy titokzatos nő hatása alá kerül a bakkaraasztalnál.",
+        "image": "https://image.tmdb.org/t/p/w500/cKDd1f3A7pyXRHBtvt5jNdBHU1o.jpg",
+        "date": "2025-10-15",
+        "score": 5.81,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_656270",
+        "title_hu": "Schwarze Milch",
+        "title_en": "Pleasure or Pain",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A young designer falls under a man's erotic spell and is drawn into a world of sexual abandon from which she may never return.",
+        "image": "https://image.tmdb.org/t/p/w500/xHj8dhA05XQNW0hF5DhoVXZkMym.jpg",
+        "date": "2020-07-30",
+        "score": 3.4,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_12144",
+        "title_hu": "Őslények országa",
+        "title_en": "Black Milk",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "description": "65 millió évvel ezelőtt, amikor még dinoszauruszok bolyongtak a Földön, s állandó veszélyt jelentettek a földrengések és vulkánkitörések, élt egy kedves kis dinó. Tappancs elvesztette szüleit, s az életben maradásra csak akkor van esélye, ha megtalálja a Virágzó Völgyet, ahol bőséges az élelem és az állatok békében élhetnek. A völgy azonban messze van és veszélyes útra Tappancsot elkísérik barátai: Kistülök, Repcsi, Kacsacsőr és Tüskés. A kis állatok csak egymásra számíthatnak a hosszú vándorlás során és minden ügyességükre, és bátorságukra szükségük van, hogy ép bőrrel ússzák meg a rájuk váró elképesztő kalandokat.",
+        "image": "https://image.tmdb.org/t/p/w500/h1NZJvCd7I9MD7nXt9knrSFH24F.jpg",
+        "date": "1988-11-18",
+        "score": 7.159,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_465086",
+        "title_hu": "Az átok háza",
+        "title_en": "The Land Before Time",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "description": "A gyilkos düh elől senki nem bújhat el. Egy gyerekét egyedül nevelő, magányos rendőrnő is a közelébe kerül annak a titokzatos, természetfeletti erőnek, amely öldöklő dühöngésre kényszerít bárkit, aki addig pusztít maga körül, míg meg nem hal – és akkor a fertőzés tovább is lép egy újabb áldozatra.",
+        "image": "https://image.tmdb.org/t/p/w500/lyW6Za4HSyr78HRJUIHf5rbiiyU.jpg",
+        "date": "2019-12-31",
+        "score": 5.408,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_112949",
+        "title_hu": "Menedék",
+        "title_en": "Young Frankenstein",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Thriller"
+        ],
+        "description": "Egy titokzatos fiatal nő érkezik Észak-Karolina egyik kisvárosába, ahol megtalálja az igaz szerelmet egy magányos apuka személyében. A megindító romantikus thriller alapjául szolgáló könyv írója Nicholas Sparks, a best-seller szerző, akinek a Szerelmünk lapjai és a Kedves John is köszönhető.",
+        "image": "https://image.tmdb.org/t/p/w500/sh5QsWA20fEHgJVZzlbWsnybgUQ.jpg",
+        "date": "2013-02-07",
+        "score": 7.236,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_687163",
+        "title_hu": "A Hail Mary-küldetés",
+        "title_en": "Project Hail Mary",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Adventure"
+        ],
+        "description": "Ryland Grace, a természettudománytanár egy űrhajón ébred, fényévekre az otthonától és semmire sem emlékszik - sem arra, hogy kicsoda, sem arra, hogyan került oda. Ahogy lassan visszanyeri az emlékeit, feltárul előtte a küldetése: meg kell fejtenie annak a rejtélyes anyagnak a titkát, amely a Nap kihunyását okozza. Tudományos ismereteire és szokatlan ötleteire támaszkodva kell megakadályoznia a Föld teljes kipusztulását… ám egy váratlan barátság révén talán mégsem kell egyedül szembenéznie a lehetetlennel.",
+        "image": "https://image.tmdb.org/t/p/w500/wD0dkVerZMQu2uv7C9pPKXNB2pm.jpg",
+        "date": "2026-03-15",
+        "score": 8.658,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1630409",
+        "title_hu": "A behajtó",
+        "title_en": "The Debt Collector",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "A börtön után bűntudattól gyötörve egy egykori adósságbehajtó, aki halálos betegséggel küzd, versenyt fut az idővel: visszatér régi világába, hogy bosszút álljon az uzsorások áldozataiért.",
+        "image": "https://image.tmdb.org/t/p/w500/AoVQr2XjNDexXzcypcw1y5ZVdSw.jpg",
+        "date": "2026-07-20",
+        "score": 7.819,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1510795",
+        "title_hu": "Ismeretlen gonosz",
+        "title_en": "Shake, Rattle & Roll: Evil Origins",
+        "type": "film",
+        "genres": [
+            "Horror"
+        ],
+        "description": "A múlt kísértetjárta apátsági folyosóitól a jelen halloweeni vérengzésén át egészen a jövő szörnyetegek uralta apokalipsziséig – a tizenhetedik rész három rémtörténetet hoz el, amelyek az idő minden korszakán átívelnek. 1775-ben, a spanyol gyarmati időszakban a Fülöp-szigeteken, apácák megpróbálják túlélni az éjszakát, miután egy ismeretlen gonosz szabadul ki a kolostorjukban. Eközben 2025-ben egy baráti csoport részt vesz egy Halloween álarcos bálon, amelyet egy sorozatgyilkos támad. 2050-ben egy posztapokaliptikus Fülöp-szigeteket az aswang uralja.",
+        "image": "https://image.tmdb.org/t/p/w500/3OdniYj4P7XbGb8qe2e16JK0hwO.jpg",
+        "date": "2026-06-05",
+        "score": 4.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1404304",
+        "title_hu": "The Isolate Thief",
+        "title_en": "The Isolate Thief",
+        "type": "film",
+        "genres": [
+            "Western",
+            "Action",
+            "Drama"
+        ],
+        "description": "A young woman struggles to conceal the gold she stole from a group of violent outlaws who have seized control of her remote outpost.",
+        "image": "https://image.tmdb.org/t/p/w500/gmmCh2BvTKp0YGT2FYG0eOQJELi.jpg",
+        "date": "2026-07-10",
+        "score": 7.4,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1286818",
+        "title_hu": "Miles & Ellen",
+        "title_en": "Wes Craven's New Nightmare",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A demonic force has chosen Freddy Krueger as its portal to the real world. Can Heather Langenkamp play the part of Nancy one last time and trap the evil trying to enter our world?",
+        "image": "https://image.tmdb.org/t/p/w500/u5OFMgi6I8AL9h8ahrJvdNf6pw3.jpg",
+        "date": "2024-05-10",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11596",
+        "title_hu": "Rémálom az Elm utcában 7. - Az új rémálom: Freddy feltámad",
+        "title_en": "Automata",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Fantasy"
+        ],
+        "description": "Tíz évvel azután, hogy Wes Craven elkészítette a Rémálom az Elm utcában című hátborzongató horrorfilmjét, a rendezőt rémálmok gyötrik. Ezek alapján megírja egy új Rémálom-film forgatókönyvét. Szeretné, ha Nancy szerepét ezúttal is Heather Langenkamp játszaná. A színésznő azonban elutasítja ajánlatát, mivel boldog házasságban él, és a kisfiát neveli. Nem sokkal később különös telefonhívások zaklatják Heathert. Amikor a kisfia furcsán kezd viselkedni, a férje pedig meghal autóbalesetben, rádöbben, hogy a filmbéli gyilkos, Freddie Krueger áll az események hátterében.",
+        "image": "https://image.tmdb.org/t/p/w500/7qYRakxen99xXLW8LWmVG9eFIbo.jpg",
+        "date": "1994-10-13",
+        "score": 6.451,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9294",
+        "title_hu": "A csodabogár",
+        "title_en": "Witness",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Fantasy"
+        ],
+        "description": "Mindenki jól ismeri a városban George Malleyt (John Travolta), az ügyeskezű autószerelőt, aki nemcsak megbízható barát, hanem jó szakember is. Ám harminchetedik születésnapján megváltozik minden: a férfin korábban sohasem tapasztalt tudásszomj vesz erőt. Kiderül, hogy intelligenciája páratlan, ugyanakkor ez a frissen szerzett tudás ráruházza a másság terhét is. George-nak el kell viselnie, hogy kivételes képessége eltávolítja korábbi környezetétől, barátai lassan elhidegülnek tőle, mert nem értik, hogy mi is történt vele.",
+        "image": "https://image.tmdb.org/t/p/w500/gn7aS5Si3Jc9u7ddH1NjdmtTeLe.jpg",
+        "date": "1996-07-05",
+        "score": 6.53,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_745342",
+        "title_hu": "Lonely Hearts",
+        "title_en": "Lonely Hearts",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Horror",
+            "Thriller"
+        ],
+        "description": "Celeste, a lonely outcast, searches for love and understanding online and meets a charming man who has a much different date night in mind.",
+        "image": "https://image.tmdb.org/t/p/w500/gYyu7gT1m7dfUGSIJ0Y1nrNpzE2.jpg",
+        "date": "2020-10-27",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1357034",
+        "title_hu": "Reflejo",
+        "title_en": "Reflection",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Mariela goes to the wake of Carlota, an old friend with whom she was deeply in love. But whose feelings he was never able to express. Now there in front of his ashes, he accidentally finds his niece, Carla. Mariela sees in her the reflection of her past love and Carla, in turn, sees herself in Mariela.",
+        "image": "https://image.tmdb.org/t/p/w500/2S7Oq43fIKMbIpzh7ojs86g4XEG.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_562461",
+        "title_hu": "如此繁華",
+        "title_en": "So Busy",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/dJEhcKWgv6lJeMUjxVengAxCQeE.jpg",
+        "date": "1937-11-16",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_12205",
+        "title_hu": "Sötét víz",
+        "title_en": "Dark Water",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "description": "Yoshimi Matsubara egy sötét, barátságtalan és dohos épületben él együtt ötéves lányával. A fiatal elvált asszony folyamatos küzdelmet folytat a kislánya elhelyezéséért. Teljes lébizonytalanságban élnek, és mindeközben szinte üldözi őket a falakon és a plafonon átszivárgó zavarosan sötét víz valamint egy vörös táska, ami időről időre megjelenik. A táska egy évekkel azelőtt rejtélyes körülmények között eltűnt kislányé volt. Yoshimi szeretne erős maradni, de rettegése csak fokozódik ahogy fokozatosan felfedezi az összefüggéseket az egyre rémisztőbb események között.",
+        "image": "https://image.tmdb.org/t/p/w500/afSRnxBXoDlvcvZ0Zfx4vJGbvSM.jpg",
+        "date": "2002-01-19",
+        "score": 6.83,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10150",
+        "title_hu": "Az utolsó egyszarvú",
+        "title_en": "The Last Unicorn",
+        "type": "film",
+        "genres": [
+            "Fantasy",
+            "Animation",
+            "Family",
+            "Adventure"
+        ],
+        "description": "Valahol messze, egy távoli varázslatos erdőben él az utolsó egyszarvú magányosan. Amikor azonban megtudja, hogy nagyon messze még élnek hozzá hasonlók, dacolva a veszélyekkel útra kel, hogy megtalálja őket. Közben két segítőtárssal is gazdagabb lesz, akikkel együtt kell szembenéznie a gonosz varázslóval, aki foglyul ejtette az egyszarvúakat birodalmában.",
+        "image": "https://image.tmdb.org/t/p/w500/5ytntH1e8otQe5NP2x2kWHbNNhH.jpg",
+        "date": "1982-11-19",
+        "score": 7.278,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1264939",
+        "title_hu": "Nieobliczalna",
+        "title_en": "Unpredictable",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Crime"
+        ],
+        "description": "Martyna and Wojciech form a seemingly happy relationship. However, it is only a façade hiding a cruel truth. Martyna's friend Alicja is a single mother of 20-year-old Daniel, who is the apple of her eye. Alicja is unable to accept that her son has his own life. One day Daniel meets Adelina. A puzzling story in which we ask ourselves not only who killed and why, but above all who died!?",
+        "image": "https://image.tmdb.org/t/p/w500/iUZ8UFnFMm6n7qbz4ci3IROz9KA.jpg",
+        "date": "2024-05-09",
+        "score": 5.182,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_54065",
+        "title_hu": "Bámbola",
+        "title_en": "Bambola",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Her name is Mina, but she is called Bambola (doll). Upon the death of her mother, she and her homosexual brother, Flavio, open a pizzeria. A man named Ugo loans Bambola the money, but is then killed in a fight with another one of her boyfriends, Settimio. While visiting Settimio in jail, she meets a sadistic man named Furio, and they begin a relationship.",
+        "image": "https://image.tmdb.org/t/p/w500/65vOhsbKdc6Vi9tYcXNbLAEYNkt.jpg",
+        "date": "1996-09-01",
+        "score": 4.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11849",
+        "title_hu": "Sárkányok háborúja",
+        "title_en": "Dungeons & Dragons",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Adventure",
+            "Fantasy"
+        ],
+        "description": "Izmer birodalma régóta megosztott föld. A mágusok akarják megkaparintani a hatalmat. Az ifjú uralkodónő, Savina (Thora Birch) egyenlőséget akar mindenkinek, de a mágusok vezetője, Profion (Jeremy Irons) nyílt ellenállásba kezd. Savinánál van az Izmer arany sárkányait irányító jogar, amit Profion meg akar szerezni. Tudva, hogy a mágusok le akarják taszítani a trónról, Savinának meg kell találnia a legendás Savrille-varázspálcát, ami az arany sárkányoknál talán még erősebb vörös sárkányokat irányító vessző. Két tolvaj, Ridley (Justin Whalin) és Snails (Marlon Wayans) akaratlanul is a császárnő oldalára állnak a varázspálca keresésében. Damodar (Bruce Payne), a főmágus katonája mindenáron meg akarja akadályozni a császári oldal sikerét.",
+        "image": "https://image.tmdb.org/t/p/w500/iCS4aKxCDthqx4JI5AefdLQqtAi.jpg",
+        "date": "2000-12-08",
+        "score": 4.366,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_290542",
+        "title_hu": "Nem vagy önmagad",
+        "title_en": "You're Not You",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Kate kedves és sikeres klasszikus zongorista, akinél ALS-t (amiotrófiás laterális szklerózis) diagnosztizáltak. Felveszi maga mellé állandó gondozónak Becet, a kusza magánéletű főiskolai hallgatót, és leendő rock énekest. Bár különböző egyéniségűek, amikor Kate házassága mélypontra jut, a két nő közel kerül egymáshoz, és bizalmas, őszinte, bár összetűzésektől nem mentes kötődés alakul ki köztük. Az egyik ilyet követően váratlanul olyan területre tévednek, ahol kiteljesedhetnek az életben.",
+        "image": "https://image.tmdb.org/t/p/w500/jFEdhFiXlzhrkygkJwBFhkk6fbb.jpg",
+        "date": "2014-10-10",
+        "score": 7.374,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1619483",
+        "title_hu": "True Love",
+        "title_en": "True Love",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "As the relationship of Lila and Lukas advances and the toxicity overshadows the love, Lila must make a hard decision.",
+        "image": "https://image.tmdb.org/t/p/w500/g5CVMGioRaq9YA9LPZnJJ2QTPNi.jpg",
+        "date": "2024-03-10",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_851",
+        "title_hu": "Késői találkozás",
+        "title_en": "Brief Encounter",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Laura, egy kisvárosi mérnök felesége minden csütörtökön Milfordba jár bevásárolni, ahol egy hétre beszerzi a négytagú család szükségleteit. Egyik alkalommal megismerkedik Alec-kel, a churley-i körorvossal, aki csütörtökönként a milfordi kórházban helyettesíti régi barátját. Az ismeretségből a hetek során kölcsönös szerelem válik, de mindketten úgy érzik, hogy családi kötelezettségeik miatt ez a szerelem nem lehet boldog soha...",
+        "image": "https://image.tmdb.org/t/p/w500/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg",
+        "date": "1945-11-24",
+        "score": 7.687,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_26428",
+        "title_hu": "Agora",
+        "title_en": "Agora",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "History"
+        ],
+        "description": "I.sz. 4. század, Egyiptom, a Római Birodalom uralma alatt. Alexandria utcáin vallási indíttatású erőszakos zavargások törnek ki, melyek a híres Könyvtárat, az akkori világ szellemi központját fenyegetik. A Könyvtárban rekedt briliáns asztronómus, Hypatia és tanítványai harcba szállnak, hogy megmentsék az ősi világ bölcsességét. Közülük ketten a nő szívéért is versengenek: az okos, kiváltságos helyzetű Orestes, és Davus, Hypatia ifjú rabszolgája, akinek döntenie kell úrnője iránt érzett titkos szerelme és a szabadság között, mely az övé lehet, hogy csatlakozik a keresztények megállíthatatlan rohamához.",
+        "image": "https://image.tmdb.org/t/p/w500/1xsFa6I5vDd2UI1AJ1tsW7BUChv.jpg",
+        "date": "2009-05-17",
+        "score": 6.999,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_623485",
+        "title_hu": "PEACE: An Element Audiovisual Project",
+        "title_en": "PEACE: An Element Audiovisual Project",
+        "type": "film",
+        "genres": [
+            "Documentary",
+            "Action"
+        ],
+        "description": "PEACE, a new Element audio visual project starring Nyjah Huston, Evan Smith, Brandon Westgate, Greyson Fletcher, Mason Silva, Madars Apse, Nassim Guammaz, Tyson Peterson, Dominick Walker, Jaakko Ojanen and more.",
+        "image": "https://image.tmdb.org/t/p/w500/38K4FKYpsVeKH7EaSGKWmm8ZaVc.jpg",
+        "date": "2018-10-16",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_351339",
+        "title_hu": "Anthropoid",
+        "title_en": "Anthropoid",
+        "type": "film",
+        "genres": [
+            "History",
+            "Thriller",
+            "War"
+        ],
+        "description": "Reinhard Heydrich a Harmadik Birodalom harmadik embere volt, a Végső Megoldás kidolgozója és egyben a nácik által megszállt Cseh-Morva Protektorátus vezetője, akit 1942 júniusában megölt két, a londoni emigráns kormány által „megbízott” ellenálló.  Heydrich halála iszonyú megtorlási hullámot váltott ki, végeztek az elkövetők rokonságával és minden ismerősével, egész falvakat irtottak ki, azt feltételezve, hogy a merénylők megfordultak ott, és tízezreket tartóztattak le. Az akció neve Anthropoid hadművelet volt...",
+        "image": "https://image.tmdb.org/t/p/w500/8aTL0YsTWpqykyqfoOPhjHM0s6P.jpg",
+        "date": "2016-08-12",
+        "score": 7.133,
+        "age_rating": "16+",
+        "cover_nsfw": false
     }
 ]
