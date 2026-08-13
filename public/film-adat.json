@@ -94713,5 +94713,741 @@
         "score": 7.133,
         "age_rating": "16+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_484468",
+        "title_hu": "Baljós hullámok",
+        "title_en": "The Wolf's Call",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Action",
+            "Adventure"
+        ],
+        "description": "Bizonyos emberek a legfinomabb zajokat is képesek kiszűrni. Egy atom-tengeralattjáró fedélzetén nagy érték egy ilyen eleven hanglokátor. Csakhogy amikor a tévedhetetlennek hitt „fül” hibázik, azzal az egész legénységet veszélybe sodorja. És vannak helyzetek, amikor ezen bármilyen jó szándék is csak ronthat, mivel a hadviselés egyik legfőbb eszköze a megtévesztés.",
+        "image": "https://image.tmdb.org/t/p/w500/hy2rqt5TezQUnca8k1HZalQzqHs.jpg",
+        "date": "2019-02-20",
+        "score": 7.525,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_79137",
+        "title_hu": "Russell Howard: Right Here Right Now",
+        "title_en": "Russell Howard: Right Here Right Now",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "One of Britain's most exciting and popular stand-up comedians, Russell Howard is back in 2011 with his third sell-out tour Right Here, Right Now. The star of Russell Howard's Good News and Mock The Week never fails to entertain with his trademark mix of eloquent gags and deft storytelling.",
+        "image": "https://image.tmdb.org/t/p/w500/4rugTCd6fEMCR4hSV0GebksqwPC.jpg",
+        "date": "2011-11-14",
+        "score": 6.615,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_274479",
+        "title_hu": "Joy",
+        "title_en": "Joy",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Joy neve azt jelenti: öröm. És valószínűleg nem véletlenül. Különleges nő: szeszélyes, bolondos, elszánt és erős; és – bármire hajlandó, hogy együtt tartsa családját, melynek tagjai legalább olyan dilisek és olyan makacsok, mint ő maga. Nincs túl sok esélye a sikerre. És ez ad neki szárnyakat. A szükség és egy álom, amelyhez gyerekkora óta ragaszkodik, végül elrepíti odáig, hogy egy sok millió dollár értékű vállalatbirodalom alapítója legyen.",
+        "image": "https://image.tmdb.org/t/p/w500/nZAs0HbW82TI1i4Xid83M941Pki.jpg",
+        "date": "2015-12-24",
+        "score": 6.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_425980",
+        "title_hu": "Brad helyzete",
+        "title_en": "Brad's Status",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Brad, a szerető édesapa a keleti partra utazik fiával, hogy a pályaválasztás előtt ellátogassanak a menő egyetemekre. Itt aztán Brad találkozik rég nem látott cimborájával, aki miatt Brad elgondolkodik az életén és az életében meghozott döntéseken. Minden régi ismerőse vagy gazdag, vagy befolyásos, ő maga pedig úgy érzi, hogy valójában nem tett le az asztalra semmit sem.",
+        "image": "https://image.tmdb.org/t/p/w500/5k3E6JhjByzRQQ6VX3pOjFz6urI.jpg",
+        "date": "2017-09-14",
+        "score": 6.274,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_582895",
+        "title_hu": "Chanson douce",
+        "title_en": "Perfect Nanny",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Crime",
+            "Thriller"
+        ],
+        "description": "When Myriam, the mother of two young children, decides, despite the reluctance of her husband to resume her activity in a law firm, the couple is looking for a nanny. After a severe casting, they hire Louise, who quickly conquers the affection of children and gradually occupies a central place in the home. Gradually the trap of mutual dependence will close, until the tragedy.",
+        "image": "https://image.tmdb.org/t/p/w500/mcLwcWIvlgqyR08HHz4vZL3RpxF.jpg",
+        "date": "2019-11-27",
+        "score": 6.051,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1634297",
+        "title_hu": "Sangue & Mármore",
+        "title_en": "Blood and Marble",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Mystery"
+        ],
+        "description": "A portuguese noir. The mysterious murder of Sequeira, a powerful businessman in the stone finishing (marble) industry from Vilar do Paraíso, whose lifeless body was found near the Santo Inácio Zoo in Avintes.",
+        "image": "https://image.tmdb.org/t/p/w500/13JqZzFNWl4o4aFfc2m2Uhf8yRk.jpg",
+        "date": "2026-02-12",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_8738",
+        "title_hu": "Végső visszaszámlálás",
+        "title_en": "The Final Countdown",
+        "type": "film",
+        "genres": [
+            "War",
+            "Action",
+            "Science Fiction"
+        ],
+        "description": "A USS Nimitz atommeghajtású repülőhordozó nem csupán az amerikai hadiflotta gyöngyszeme, de minden idők egyik legnagyobb és legütőképesebb csatahajója is, amelyik hirtelen megmagyarázhatatlan elektromos viharba kerül. A furcsa természeti jelenség elmúltával a hajó mintha teljesen más vizekre, egy ismeretlen világba csöppenne, melyben megszűnt a megszokott rádiós zűrzavar és furcsa, régi típusú, ellenséges gépek szelik az eget. A kapitánynak és legénységének el kell fogadnia a lehetetlennek tűnőt: a Nimitz hatezer fős legénységével és százkét repülőjével a vihar hatására csaknem négy évtizedet utazott vissza az időben: mégpedig pontosan 1941. december 6-ára, a japánok Pearl Harbor ellen intézett meglepetésszerű, megsemmisítő támadásának előestéjére. Vajon a mai idők csúcstechnikával felszerelt katonái csak távolról szemlélik majd a véres eseményeket vagy - akár a történelem menetének megváltoztatásával is - jó hazafiakhoz méltón felveszik a küzdelmet a kamikaze gépekkel?",
+        "image": "https://image.tmdb.org/t/p/w500/aU7TzLSdNidS9CDovIsYBVXIOxQ.jpg",
+        "date": "1980-01-31",
+        "score": 6.647,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_107852",
+        "title_hu": "Ça brûle",
+        "title_en": "Ça brûle",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "After falling off her horse, a teenage girl is rescued by a manly, older fireman with whom she falls in love with tragic consequences.",
+        "image": "https://image.tmdb.org/t/p/w500/lL5w6mHnDaQCNgGPnRBjeHz40X0.jpg",
+        "date": "2006-08-16",
+        "score": 7.25,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1440304",
+        "title_hu": "Balszerencse akcióban",
+        "title_en": "Tough Luck",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Miután véletlenül letartóztatják és Franciaország legkeresettebb emberének nézik, Serge Martin, a békés nyugdíjas a média célpontjává válik. Egy könyörtelen forgószélbe keveredve mindent megtesz, hogy bebizonyítsa ártatlanságát és visszakapja az életét - ha ez egyáltalán lehetséges... (Szarka Károly)",
+        "image": "https://image.tmdb.org/t/p/w500/wRPxSccJw6wckkBUOzM5CHd871w.jpg",
+        "date": "2026-04-01",
+        "score": 6.231,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1687",
+        "title_hu": "A majmok bolygója III. - A menekülés",
+        "title_en": "Escape from the Planet of the Apes",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Science Fiction"
+        ],
+        "description": "Az Itéletnap elől menekülve két intelligens majom-tudós, Cornelius és Zira visszautazik az időben, hogy elmeneküljön a világméretű pusztulás elől. A mai Los Angelesbe érve pillanatok alatt a karhatalom fogságába kerülnek. Az állandó kihallgatások, tesztek és kísérletek testileg-lelkileg tönkreteszik a majmokat, és szökési kísérletük is kudarcba fullad. Egyetlen reményük Zira börtönben született és nevelkedett gyermeke, akinek sikerül megszöknie...",
+        "image": "https://image.tmdb.org/t/p/w500/rEApIGhPgbvxKPUK9IPzOpmFYjk.jpg",
+        "date": "1971-05-20",
+        "score": 6.386,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1407861",
+        "title_hu": "A láp ragadozói",
+        "title_en": "The Bayou",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Horror",
+            "Action"
+        ],
+        "description": "Vacation turns disaster when Houston grad Kyle and her friends survive a plane crash in the desolate Louisiana everglades, only to discover there's something way more dangerous lurking in the shallows.",
+        "image": "https://image.tmdb.org/t/p/w500/n8bSyyzRuuy2h4ppZuMxEIYjMeS.jpg",
+        "date": "2025-01-31",
+        "score": 5.457,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1323678",
+        "title_hu": "Yesteryear",
+        "title_en": "Yesteryear",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Mystery",
+            "Science Fiction"
+        ],
+        "description": "Natalie, a ranch-life influencer with millions of followers, has built a seemingly perfect life with her cowboy husband and children. But when she wakes up in 1805, pregnant and trapped in the life of a struggling farm wife, she must survive the harsh realities of rural life and find a way home.",
+        "image": "https://image.tmdb.org/t/p/w500/oiCgJRVwuja1yAv3ALR6vdK3hqT.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1579462",
+        "title_hu": "ಪೂರ್ಣಚಂದ್ರ",
+        "title_en": "Poorna Chandra",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Drama"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/sWT1AjsRWO9DMyvBNaYnwD3Fdsm.jpg",
+        "date": "1987-01-13",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1079691",
+        "title_hu": "Para Penyusup",
+        "title_en": "The Trespassers",
+        "type": "film",
+        "genres": [],
+        "description": "Two curious young men climb over the gate of an abandoned house every night to peek in. Their infatuation with this house eventually takes them to the point of no return.",
+        "image": "https://image.tmdb.org/t/p/w500/yfNeDtrFUMocErbKp0T5CpCOYmU.jpg",
+        "date": "2022-09-11",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_8619",
+        "title_hu": "Kapitány és katona - A világ túlsó oldalán",
+        "title_en": "Female Hostel 2",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "description": "A történet a napóleoni háborúk idején játszódik, főszereplői a Patrick O'Brian regényeiből ismert Jack Aubrey, azaz Lucky kapitány, az angol flotta harcias tisztje és Stephen Maturin, a hajó orvosa. Hajójukat, a Surprise-t, ellenséges támadás éri, amelyben az súlyosan megrongálódik, és a legénység tagjai közül is sokan megsebesülnek. Aubrey nem tudja eldönteni, hogy barátjára, az orvosra hallgasson, vagy a kötelességét teljesítse-e inkább. Végül mégis útra kel, hogy két óceánon keresztül üldözze, utolérje és legyőzze ellenfelét. Ez a küldetés megalapozhatja hírnevét - vagy elpusztíthatja őt és legénységét is.",
+        "image": "https://image.tmdb.org/t/p/w500/rm5aaOdaelffHnYiT8ZmoWzmf9I.jpg",
+        "date": "2003-11-14",
+        "score": 7.199,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_86834",
+        "title_hu": "Noé",
+        "title_en": "Hādo reipu",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Adventure"
+        ],
+        "description": "Az emberek bűnnel teli, elkorcsosult életét látva a Teremtő elhatározza, hogy elpusztítja a világot, és újrateremti azt. E hatalmas feladatra egy embert tart érdemesnek, a családjával bolyongó Noét, aki a legnehezebb helyzetben sem ingott meg a hitében. A Teremtő figyelmezteti a közelgő katasztrófára, és megparancsolja neki, hogy mentse meg az állatokat, építsen egy bárkát, hogy túléljék az özönvizet. Munkáját azonban hátráltatja a gonosz Thubal-Káin, aki csatlakozni akar hozzá a züllött seregével.",
+        "image": "https://image.tmdb.org/t/p/w500/9KmMikdOE83iJE9zpPZCiBpfPa8.jpg",
+        "date": "2014-03-07",
+        "score": 5.68,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10995",
+        "title_hu": "A szerető",
+        "title_en": "Child's Play 2",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "A Mekong folyón Saigon felé tartó kompon egy kínai férfi figyelmét megragadja egy fiatal lány, különös megjelenésével: agyonmosott selyemruhában és férfikalapjában - a korlátnak támaszkodik, s álmodózóan tekint a távolba. A férfi 32 éves, a lány 15. Megismerkednek. Szenvedélyes, eksztatikus szerelem lobban közöttük. Amikor a gazdag férfinak családi nyomásra meg kell nősülnie, a lány hazautazik Franciaországba. Híres íróként megírja első, igazi szerelmének a történetét, s ily módon vallja meg a férfinak, hogy mennyire szerette - s szereti még most is.",
+        "image": "https://image.tmdb.org/t/p/w500/jehYdBiHVXA7UoVF5ZugE2BBM87.jpg",
+        "date": "1992-01-22",
+        "score": 6.997,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_16320",
+        "title_hu": "Serenity",
+        "title_en": "Colors of Evil: Black",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "description": "Malcolm Reynolds kétes üzleteket bonyolít űrhajóján. Veszélyes ügybe keveredik amikor két utast vesz a fedélzetre. A testvérpár az uralkodó hatalom elől menekül. A legénység a Világszövetség és a Fosztogatók kannibál hordái között lavírozva hamarosan ráébred, hogy a legnagyobb veszély a fedélzeten les rájuk.",
+        "image": "https://image.tmdb.org/t/p/w500/nUuZ0N60s5Fzsi3yJZDV5aNC1NK.jpg",
+        "date": "2005-09-25",
+        "score": 7.36,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1560681",
+        "title_hu": "A gonosz színei: Fekete",
+        "title_en": "The Sorcerer's Apprentice",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Mystery",
+            "Crime"
+        ],
+        "description": "Amikor egy kisfiúnak nyoma vész egy álmos kisvárosban, az újonnan kinevezett ügyész váratlan kapcsolatra bukkan az ügy és egy korábbi eltűnés között.",
+        "image": "https://image.tmdb.org/t/p/w500/cKdrir6bt2EfHwIKwF6XwtkTGb7.jpg",
+        "date": "2026-06-10",
+        "score": 6.88,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9506",
+        "title_hu": "Ki nevel a végén?",
+        "title_en": "Lucky Number Slevin",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Dave Buznik (Adam Sandler) látszólag nyugodt ember, meghúzza magát egy sarokban és a légynek se ártana. Csak egyszer emeli fel a hangját és máris a bíróságon találja magát, ahol dr. Buddy Rydell pszichiáter (Jack Nicholson) düh-terápiájára kötelezik. Bizarrabbnál bizarrabb figurák közé kerül és hamarosan hajmeresztő kalandoknak lesz a főszereplője. Rydell intenzív terápiája végképp kiakasztja és amikor azt látja, hogy az orvosa elcsábítja a barátnőjét, kitör belőle a vad.",
+        "image": "https://image.tmdb.org/t/p/w500/hfDagGmnz8m7GbbQ2cjjr8k6ibi.jpg",
+        "date": "2003-04-11",
+        "score": 6.157,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_186",
+        "title_hu": "Alvilági játékok",
+        "title_en": "The Bone Collector",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Crime",
+            "Mystery"
+        ],
+        "description": "Slevin Kelevra tudja, a bajok csőstül jönnek. Először megcsalják, majd kirabolják, végül végzetesen összetévesztik a haverjával. Slevin néhány óra leforgása alatt egy gengszterháború közepén találja magát, sarkában a halálos Macska úrral. A Főnök megbízásából meg kell ölnie a rivális banda vezetőjének, a Rabbinak a fiát, míg a Rabbi 33 ezer dollárt követel tőle. Mindkét helyen az életével fizet, ha a határidő lejár. A fiú egyetlen segítsége a szép Lindsey, aki nem is sejti, hogy Slevin ki is valójában.",
+        "image": "https://image.tmdb.org/t/p/w500/hR8RckmUsHgi5iIgNpyIUuJthFZ.jpg",
+        "date": "2006-02-24",
+        "score": 7.475,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9481",
+        "title_hu": "A csontember",
+        "title_en": "Asesino Perfecto",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Thriller",
+            "Drama",
+            "Mystery"
+        ],
+        "description": "A tökéletes rendőr gyors, mozgékony, biztos kezű: Lincoln Rhyme felügyelő viszont egy tragikus baleset következtében mozdulni se tud. Az egykori rendőr úgy érzi, véget ért számára az élet. Mindaddig, míg fel nem bukkan a városban egy őrült sorozatgyilkos, aki különös ravaszsággal bánik el áldozataival. Rhyme végre méltó ellenfélre akad és mert egyedül tehetetlen, partnert keres. Ameliát jelölik ki a felügyelővel való együttműködésre. A fiatal, tapasztalatlan rendőrnő kénytelen halálpontosan követni magatehetetlen társa utasításait. Egy emberként kell látniuk és dönteniük, mielőtt újra lecsap a magát Csontembernek nevező mániákus gyilkos.",
+        "image": "https://image.tmdb.org/t/p/w500/gA1z78D8uSjJETxWsLCe14tw8GU.jpg",
+        "date": "1999-11-04",
+        "score": 6.794,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_503",
+        "title_hu": "Poseidon",
+        "title_en": "Love Lies Bleeding",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "description": "Egy luxushajó szeli az Atlanti-óceán hullámait, a fedélzetén mindazokkal, akik az itteni kényelmet megengedhetik maguknak: arisztokraták, milliomosok, hamiskártyások utaznak együtt pihenést vagy könnyű kalandot keresve. De a kaland, ami ezúttal a nyílt tengeren vár rájuk, egyáltalán nem nevezhető könnyűnek. Az óceánjáró egy váratlan viharban felborul, a hajótestbe szorult levegőnek köszönhetően néhány utas és a személyzet néhány tagja életben marad. De reménytelen helyzetben vannak. Csak akkor élhetik túl a katasztrófát, ha a felfordult hajótestben sikerül a vízfelszín fölé - a propellerházba - jutniuk. Útjuk során számtalan váratlan veszély les rájuk - a levegő pedig egyre fogy, és egymásban sem bízhatnak.",
+        "image": "https://image.tmdb.org/t/p/w500/jECFSIJsYxS17qPXe4bOhZcQsC2.jpg",
+        "date": "2006-05-03",
+        "score": 5.9,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_13888",
+        "title_hu": "Visszatérés a kék lagúnába",
+        "title_en": "The First Snow of Fraggle Rock",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Drama"
+        ],
+        "description": "A fiatalon megözvegyült Sarah Hargrave kislányával Tahitibõl utazik haza San Franciscóba, amikor hajójuk egy kis csónakra talál a tengeren. A csónakban egy halott házaspárra és kétéves kicsi fiukra találnak, aki a csodával határos módon életben maradt. Sarah magához veszi a kis Richardot, azonban a hajón kolera járvány tör ki, és az asszony kénytelen a két gyerekkel egy csónakban elmenekülni. Néhány napi sodródás után egy lakatlan trópusi szigetre érnek, arra a szigetre, ahol Richard született. Berendezkednek az itteni életre, és a két gyerek lassan felcseperedik, míg egy nap Sarah tüdõgyulladásban meghal, és Lilli és Richard magukra maradnak. A kamaszkorba lépõ fiatalok gyerekkori barátságát felváltja a szerelem, s kettejük boldogságának harmóniáját csak egy, a szigetre tévedõ hajó zavarja meg.",
+        "image": "https://image.tmdb.org/t/p/w500/ev384WF9Y8IAW8pEnehmMnyRQ5W.jpg",
+        "date": "1991-08-02",
+        "score": 6.171,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1566269",
+        "title_hu": "Fraggle Rock: Az első hó",
+        "title_en": "Obscene Mountain Lodge: Suspicious Medicine Seller",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Comedy",
+            "Music"
+        ],
+        "description": "Amikor az ünnepek váratlan kalandokat és kihívásokat hoznak, a Flúgosok megtanulnak értékelni minden napot, mert mindegyik egyedi és különleges, akárcsak a hópelyhek.",
+        "image": "https://image.tmdb.org/t/p/w500/wTjbLIG70l9R9mnwvAeqOLI7Wwz.jpg",
+        "date": "2025-12-04",
+        "score": 7.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1240875",
+        "title_hu": "음란산장 : 수상한 약장수",
+        "title_en": "The Secret of NIMH",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A widowed field mouse must move her family -- including an ailing son -- to escape a farmer's plow. Aided by a crow and a pack of superintelligent, escaped lab rats, the brave mother struggles to transplant her home to firmer ground.",
+        "image": "https://image.tmdb.org/t/p/w500/1pjbSY7I2Mucp6eAqbFDhfwBkLB.jpg",
+        "date": "2023-05-11",
+        "score": 6.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11704",
+        "title_hu": "A NIMH titka",
+        "title_en": "Cain's Children",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Animation",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Mystery",
+            "Science Fiction"
+        ],
+        "description": "Mrs. Brisby négy kicsi egérgyerek nemrég megözvegyült mamája nagy bajban van. Idén korábban kezdődött a szántás a réten, veszélybe került a Brisby-ház biztonsága. Ráadásul a kis Timothy-nak tüdőgyulladása van nem lehet kivinni a hideg levegőre. A Nagy Bagoly azt tanácsolja Brisby mamának, hogy forduljon Nicodemus mesterhez, mert csak ő tudja átvinni a Brisby- házat a kő védett oldalára. Nicodemus a tanya melletti rózsabokorban lakó titokzatos patkányok mestere. Küzdelmes út áll Brisby mama előtt rosszakarója is akad bőven, de a végén minden jóra fordul...",
+        "image": "https://image.tmdb.org/t/p/w500/bupTbUxrZbYhjJQBa8LM76JylMb.jpg",
+        "date": "1982-06-17",
+        "score": 7.446,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_554241",
+        "title_hu": "Ne játssz a tűzzel",
+        "title_en": "Malcolm X",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Comedy"
+        ],
+        "description": "Amikor egy elit ejtőernyős tűzoltó és csapata kiment három gyereket egy égő házból, meg kell oldaniuk a rájuk bízott gézengúzok szórakoztatását, miközben gondoskodniuk is kell róluk.",
+        "image": "https://image.tmdb.org/t/p/w500/uROTTz13JHkfAhDCyc3XcEmCA3X.jpg",
+        "date": "2019-11-08",
+        "score": 6.579,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1127110",
+        "title_hu": "Diablo",
+        "title_en": "The Rocketeer",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "Miután Kris Chaney kiszabadul a börtönből, küldetésül tűzi ki, hogy teljesítsen egy korábbi ígéretet. Rövidesen azonban nagy veszélyben találja magát, miután elrabolja Elisát, a maffiózó Vincent lányát. El Corvo, egy pszichopata gyilkos ugyanis nem a pénzért, hanem a saját, Vincent családja elleni bosszúja miatt csatlakozik a lány utáni hajtóvadászathoz.",
+        "image": "https://image.tmdb.org/t/p/w500/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
+        "date": "2025-06-13",
+        "score": 7.299,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10249",
+        "title_hu": "Rocketeer",
+        "title_en": "From the Top!..",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Science Fiction"
+        ],
+        "description": "Az emberiség jelentős hányada évezredek óta álmodozik a repülésről, így abban sincs semmi meglepő, hogy Cliff Secord, a fiatal pilóta is ilyen terveket szövöget, ám arra még ő sem mer gondolni, hogy mindehhez még jármű sem kell, csak egy, az ember hátára szerelhető kis szerkezet. Aztán egy napon társával felfedezik ezt a repülőgéppótlékot. De nem Cliff az egyedüli, aki tudomást szerez erről a felfedezésről: hamarosan kémek és gazemberek járnak a nyomában, sőt egy csapat náci is, akik mindenre hajlandóak lennének, hogy megszerezzék a titkos csodafegyvert, melytől a világuralmat remélik. Cliff barátnője segítségével rendkívüli küldetésre indul, mely során igazi hőssé válik és tettei révén még meg is változtathatja a világ folyását.",
+        "image": "https://image.tmdb.org/t/p/w500/3B7TFqUlR24GO9IAVHJAHZ8LXZX.jpg",
+        "date": "1991-06-21",
+        "score": 6.472,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1039471",
+        "title_hu": "Все сначала!..",
+        "title_en": "The Babysitters",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Seventeen-year-old Shirley is a good student who works as a babysitter in order to make money for college. One night Michael, a father Shirley works for, confesses he's unhappy with married life. Shirley has a crush on Michael, and seizes this moment to kiss him. Michael is so happy he presents Shirley with a big tip, which gives her an idea. Shirley plans to make extra money by setting up her teenage friends with other unhappy fathers.",
+        "image": "https://image.tmdb.org/t/p/w500/sw15Ov1lbvImZjDDjTPFkIBySVt.jpg",
+        "date": "1975-07-07",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1057856",
+        "title_hu": "Chị Chị Em Em 2",
+        "title_en": "Queen of Katwe",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "description": "A young girl overcomes her disadvantaged upbringing in the slums of Uganda to become a Chess master.",
+        "image": "https://image.tmdb.org/t/p/w500/XV6ecel5ermCG6ofctciMAy6pk.jpg",
+        "date": "2023-10-12",
+        "score": 7.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_317557",
+        "title_hu": "Katwe királynője",
+        "title_en": "Bringing Out the Dead",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Phiona Mutesi, a kilencéves, írástudatlan kislány Uganda fővárosa, Kampala egyik nyomornegyedében él az anyjával és testvéreivel. Egy nap találkozik Robert Katende misszionáriussal, aki sakkozni tanítja a környékbeli fiúkat. Katande felfigyel az értelmes kislányra, és sakkbábút ad kezébe. Amikor kiderül, hogy tehetsége van a sakkhoz, komolyan foglalkozni kezd vele. Katende és a közösség támogatásával Phionából jeles versenyző lesz, aki arról álmodik, hogy nagymester lesz belőle.",
+        "image": "https://image.tmdb.org/t/p/w500/nNcMSkpVbvdlqBmCJhTc00jOgh7.jpg",
+        "date": "2016-09-23",
+        "score": 7.228,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_8649",
+        "title_hu": "Holtak útja",
+        "title_en": "The Kitchen",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Ön eddig azt hitte, hogy munkája maga a pokol? Frank (Nicolas Cage) szerette munkáját, de az állandó stressztől kiégett az évek során. Minden telefonhívás lehet egy gyilkosság, akár baleset, emberi tragédia. A manhattani éjszakában Frank társaival mentőzik. Lelkiismeretfurdalás gyötri az elvesztett életek miatt. Sokszor megjelenik előtte egy fél évvel korábban meghalt nő arca, aki megmenthető lett volna. Ki akar lépni munkájából, de valami mégis mindig visszahúzza. Frank és kollégái életét három éjjelen át követhetjük. Larry (John Goodman) örökké éhes, Marcus (Ving Rhames) vallásos fickó, Tom (Tom Sizemore) pedig agresszív egyéniség, ha nem történik semmi...  Martin Scorsese újra szeretve-gyűlölt városának árnyoldalait mutatja be emberien és mesterien.",
+        "image": "https://image.tmdb.org/t/p/w500/mw9f1cDAdDCHPbmZoBB3rIUmO6e.jpg",
+        "date": "1999-10-22",
+        "score": 6.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11353",
+        "title_hu": "Fergeteges forgatás",
+        "title_en": "Jason and the Argonauts",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Bobby Bowfinger hullámvölgyben vergődő hollywoodi producer. Végre talál egy olyan forgatókönyvet, amiért minden követ megmozgat. Lenne rá pénz, egy feltétellel: mindenképpen szerepelnie kell benne Kit Ramsey-nak, az aktuális sztárnak. Kit azonban nemet mond az ajánlatra. Márpedig filmnek lennie kell! - adja ki a jelszót Bobby, és a sztár nélkül is el akarja kezdeni a forgatást. Tökéletes dublőrt talál a címszerepre, Jiffet, aki kiköpött hasonlít a szupersztárra, lévén annak kicsit ütődöttebb öccse. Bobby összeszed egy főleg illegális bevándorlókból álló csapatot és megkezdi a szedett-vedett forgatást.",
+        "image": "https://image.tmdb.org/t/p/w500/9r0WENk1BCF5uRfEQ8Fg3HsWoP.jpg",
+        "date": "1999-08-12",
+        "score": 6.187,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11864",
+        "title_hu": "Kedves ellenségem",
+        "title_en": "Bowfinger",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Science Fiction"
+        ],
+        "description": " Egy kegyetlen űrcsata során egy lakatlan, idegen bolygóra zuhan egy katona, és ellensége, a gyík-szerű drakóni lény. A felszínen folytatódik a küzdelem. A csúcstechnika helyett azonban az ősi hadviselés szabályai szerint támadnak egymásra a felek. Az idegen marad alul a küzdelemben, de halála előtt még életet ad egy kis utódnak. Az ember egyedül marad az idegen világban, ellensége, egy idegen, gyermekével. A férfi új társával, a szokatlanul gyorsan cseperedő drakón-utóddal együtt próbálja átvészelni az időt, amíg a mentőcsapatok megérkeznek...",
+        "image": "https://image.tmdb.org/t/p/w500/8h5fBUo1hXvAEZEPVsk99kMpoMN.jpg",
+        "date": "1985-12-12",
+        "score": 6.981,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_925271",
+        "title_hu": "Salomon Snowboards presents Crazy Loco | A Short Film Following Jed Anderson",
+        "title_en": "Malibu Express",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "In this erotic spy tale private eye Cody Abilene teams up with the Contessa Luciana and policewoman Beverly McAfee to infiltrate a mansion and discover who is sending computer secrets to the Russians.",
+        "image": "https://image.tmdb.org/t/p/w500/u6Kv5RM0PUnGkVtFFyVgfB3QVbM.jpg",
+        "date": "2014-09-23",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1497464",
+        "title_hu": "Gatto",
+        "title_en": "Spring Breakers",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Crime",
+            "Family"
+        ],
+        "description": "Nero egy helyi maffia adósa, ezért egy teljesen váratlan barátságra kényszerül – amely talán végre elvezeti őt valódi rendeltetéséhez… De Velence sötét és titokzatos oldala folyamatos fenyegetést jelent.  (Bolla Eszter)",
+        "image": "https://image.tmdb.org/t/p/w500/bgt6dSrwkJCMqdKWRpN4ZTAd1kL.jpg",
+        "date": "2027-03-03",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_450001",
+        "title_hu": "Z mester: Ip Man öröksége",
+        "title_en": "Gatto",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "description": "Miután Ip Man legyőzte, Cheung Tin Chi  visszavonul, és abbahagyja a harcművészet  oktatását. Egy kis üzletet vezet , próbál megélni belőle, ám összeütközésbe kerül  egy külföldi nagyfőnökkel, Davidsonnal  és embereivel. Tin Chi kénytelen használni a  Wing Chun-t (kung-fu stílus), kemény küzdelemben  le is győzi Davidson embereit és kivívja az emberek  tiszteletét.",
+        "image": "https://image.tmdb.org/t/p/w500/o1pj4DKhhZx2PtafPRAfLSSaQzU.jpg",
+        "date": "2018-12-20",
+        "score": 6.524,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_4464",
+        "title_hu": "Vágta",
+        "title_en": "Master Z: Ip Man Legacy",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "description": "Charles Howard amerikai milliomos mindenét elvesztette az 1929-33 közötti Nagy Depressziónak nevezett gazdasági összeomlásban. Kiábrándultan bolyong Mexikóban, mikor megismerkedik Marcelával, aki második felesége lesz. Közös a szenvedélyük a lovak iránt, ezért Charles vásárol egy szép lovat. Seabiscuit három éves mén, felmenői között nincsenek nagy bajnokok, ám Charles két hírhedt szakemberre bízza nevelését. Tom egykori ügyes cowboy, a vad musztáng lovak szakértője, de maga is kezelhetetlen alak. Johnny pedig bokszolónak túl kicsi volt, zsokénak meg túl nagy. Így is sok versenyt nyert, de már félig megvakult. Ezzel a két, sokak által leírt emberrel és esélytelen lovával kezd nyerni nagy pénzeket az egykori milliomos, akinek barátai számánál már csak ellenségei száma növekszik jobban.",
+        "image": "https://image.tmdb.org/t/p/w500/uePrpY2b1NGLWSIidkZs6wwdfCS.jpg",
+        "date": "2003-07-22",
+        "score": 7.058,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1245",
+        "title_hu": "Napok romjai",
+        "title_en": "Seabiscuit",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Stevens, Darlington Hall főkomornyikja hosszú útra készül. Új munkaadója, egy gazdag amerikai üzletember kérésére - aki Lord Darlington kastélyával egyetemben, mint egy patinás, ódon bútordarabot, szolgálataival együtt őt is \"megvette\" - a régi szolgálóhad helyére keres kevesebb számú, de annál rátermettebb személyzetet. Így esik választása Miss Kentonra, a nem is olyan rég még teljes fényben csillogó kastély egykori házvezetőnőjére, akit vissza szeretne csábítani a Darlington Hallba. Útban Miss Kentonhoz különös érzések lesznek úrrá a férfin: átértékelődik elmúlt élete, melyet az angol főrendnél kizárólag egyetlen célnak, a tökéletes szolgálatnak, a \"nagy\" komornyikká válásnak rendelt alá, miközben gazdájánál a korszak világformáló egyéniségei adták egymásnak a kilincset.",
+        "image": "https://image.tmdb.org/t/p/w500/5Eq1eDqFXw7nnGKO5CVtN8tN5Ul.jpg",
+        "date": "1993-11-05",
+        "score": 7.365,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_663260",
+        "title_hu": "Feketedoboz",
+        "title_en": "The Remains of the Day",
+        "type": "film",
+        "genres": [
+            "Mystery",
+            "Thriller",
+            "Drama"
+        ],
+        "description": "Matthieu egy fiatal és tehetséges feketedoboz-elemző, aki próbálja megfejteni egy vadonatúj repülőgép halállal végződő lezuhanásának okát. Ám amikor a hatóságok lezárják az ügyet, Matthieu nem tudja annyiban hagyni a dolgot, mert valami azt súgja neki, hogy valami nincs rendben a bizonyítékokkal. Ahogy újra és újra végighallgatja a felvételeket, súlyosan zavaró részleteket észlel. Lehetséges, hogy a szalagot módosították? Matthieu főnöke parancsával szembeszegülve saját szakállára kezd nyomozni, és kutatása végül megszállott és veszélyes igazságkeresésbe torkollik, amely hamar veszélybe sodorja nemcsak a karrierjét, hanem az életét is.",
+        "image": "https://image.tmdb.org/t/p/w500/75APR3C7334lUHSGZ76nqx218ue.jpg",
+        "date": "2021-09-08",
+        "score": 7.32,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_28978",
+        "title_hu": "A cirkusz",
+        "title_en": "Pardal",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Drama"
+        ],
+        "description": "Egy zsebtolvaj helyett a rendőrség a Csavargót veszi üldözőbe, aki bemenekül a cirkuszba. Az üldözési jelenet a közönség soraiban hatalmas tetszést arat, mindenki a \"vicces embert\" reklamálja. A cirkuszigazgatónak nem marad más választása, felfogadja a Csavargót a társulatába. A cirkusznak felmegy a szerencsecsillaga, de ettől még a Csavargónak és szerelmének, a kötéltáncosnőnek nem lesz jobb a sorsa. Legalábbis egy darabig. (Némafilm)",
+        "image": "https://image.tmdb.org/t/p/w500/s3hKN75H0uXpOi6BBPO0PtJpKNZ.jpg",
+        "date": "1928-01-06",
+        "score": 7.926,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_354857",
+        "title_hu": "Parkműsor: A film",
+        "title_en": "The Circus",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction",
+            "Adventure"
+        ],
+        "description": "Mordecai és Rigby egy időtornádót alkotnak, minek következtében vissza kell menjenek az időben, hogy megküzdjenek egy gonosz röplabda edzővel és megmentsék az univerzum mellett a barátságukat.",
+        "image": "https://image.tmdb.org/t/p/w500/p44RoW4naoE1nlSGOqqT0J2pc09.jpg",
+        "date": "2015-09-01",
+        "score": 7.917,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1648",
+        "title_hu": "Bill és Ted zseniális kalandja",
+        "title_en": "Regular Show: The Movie",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Science Fiction"
+        ],
+        "description": "A két elválaszthatatlan jó barát, Bill és Ted zenekart akarnak alapítani, de tervük veszélyben forog.Töribõl bukásra állnak, Ted-nek pedig büntetésbõl Alaszkába kéne mennie, katonai iskolába. Azonban szerencsére nem kell kétségbe esniük, mert segítség érkezik, méghozzá nem is akárhonnan. A fiúkat a jövõbõl keresik fel, aminek hatására végigutazzák a történelem-könyvet és így meg van az esélyük, hogy átmenjenek a vizsgán.",
+        "image": "https://image.tmdb.org/t/p/w500/4pFgS9QcFhV3SOEy4VuQTnAXrUO.jpg",
+        "date": "1989-02-17",
+        "score": 6.843,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
