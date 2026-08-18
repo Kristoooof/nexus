@@ -6523,5 +6523,35 @@
         "score": 0,
         "age_rating": "Unknown",
         "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL1838328W",
+        "title_en": "Fudge-a-mania",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Young Adult"
+        ],
+        "author": "Judy Blume",
+        "image": "https://covers.openlibrary.org/b/id/10541245-M.jpg",
+        "date": "1990",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL69302W",
+        "title_en": "My Teacher Is an Alien",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Young Adult"
+        ],
+        "author": "Bruce Coville",
+        "image": "https://covers.openlibrary.org/b/id/1315830-M.jpg",
+        "date": "1989",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
     }
 ]
