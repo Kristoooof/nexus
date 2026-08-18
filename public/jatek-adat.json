@@ -78128,5 +78128,55 @@
         "score": 80.78276895440098,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_123580",
+        "title_en": "Vampire's Fall: Origins",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Turn-based strategy (TBS)",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "A tribute to classic RPGs. Made with passion, by old-school gamers. Vampire's Fall: Origins is a 2D open-world RPG with tactical combat. Create your character, choose your bloodline and venture out into the world. Will you wreck havoc in the land, or be the hero people are longing for?",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xe1.jpg",
+        "date": "2018-09-08",
+        "score": 80.56179775280899,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_32626",
+        "title_en": "Higurashi When They Cry Hou: Ch.3 Tatarigoroshi",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Adventure",
+            "Visual Novel"
+        ],
+        "description": "Higurashi When They Cry is a sound novel. The music, backgrounds and characters work together to create a world that is the stage of a novel for the user to read. They laugh and cry and get angry. The user takes the point of view of the protagonist to experience the story.\n\nNevertheless, this is a game, not a novel. As the player, you will be able to unravel the mystery surrounding the events in the game as the scenarios unfold.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co42gu.jpg",
+        "date": "2016-06-17",
+        "score": 82.96360831572463,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_243997",
+        "title_en": "Wynncraft",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Indie"
+        ],
+        "description": "Wynncraft is fully-featured MMORPG Minecraft server.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6cld.jpg",
+        "date": "2013-04-29",
+        "score": 88.46347607052897,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
