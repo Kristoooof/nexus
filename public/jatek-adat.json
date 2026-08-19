@@ -78178,5 +78178,54 @@
         "score": 88.46347607052897,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_101448",
+        "title_en": "Carto",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Puzzle",
+            "Role-playing (RPG)",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "Carto is a tile placement adventure game where you explore the lands you placed and discover the secrets while exploring. What will happen to the world and the characters when you rearrange the tiles of the map?",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2kf2.jpg",
+        "date": "2020-10-27",
+        "score": 80.88684562526137,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_148221",
+        "title_en": "Doom II: No Rest for the Living",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Shooter"
+        ],
+        "description": "No Rest for the Living is the title of the new Doom II expansion pack developed by Nerve Software. It is also included in the Doom 3 BFG Edition.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p70.jpg",
+        "date": "2010-05-26",
+        "score": 80.795504820615,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_9067",
+        "title_en": "StarCraft 64",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Strategy"
+        ],
+        "description": "The game itself is split into three episodes, one for the player to command each race. In the first segment of the game, the player and Jim Raynor are attempting to control the colony of Mar Sara in the wake of the Zerg attacks on other Terran worlds.\nThe second campaign reveals that Kerrigan was not killed by the Zerg, but rather is captured and infested in an effort to incorporate her psionic traits into the Zerg gene pool.\nThe final episode of the game sees Aldaris and the Protoss government branding Tassadar a traitor and a heretic for conspiring with the dark templar. The player initially serves Aldaris in defending Aiur from the Zerg invasion, but while on a mission to arrest Tassadar, the player joins him instead.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2euj.jpg",
+        "date": "2000-06-13",
+        "score": 80.79239168510519,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
