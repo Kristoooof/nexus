@@ -103915,5 +103915,781 @@
         "score": 4.974,
         "age_rating": "16+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1153576",
+        "title_hu": "Street Fighter",
+        "title_en": "The Pale Blue Eye",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "description": "1993-ban a külön utakon járó harcosok, Ryu (Andrew Koji) és Ken Masters (Noah Centineo) ismét küzdelembe keverednek, amikor a titokzatos Chun-Li (Callina Liang) beszervezi őket a következő World Warrior Tournamentre: egy brutális összecsapásra. De a háttérben egy halálos összeesküvés húzódik, amely arra kényszeríti őket, hogy szembenézzenek egymással és múltjuk démonaival.  (Bolla Eszter)R3",
+        "image": "https://image.tmdb.org/t/p/w500/wOnoOeDcsLSo72ON1UC6c1VHKk1.jpg",
+        "date": "2026-10-14",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_799379",
+        "title_hu": "Az emberállat projekt",
+        "title_en": "Yu Pui Tsuen II",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Horror",
+            "Crime"
+        ],
+        "description": "Egy teherhajón veszélyes bűnözőket a Fülöp-szigetekről Dél-Koreába szállítanak, és akik baljós erőt szabadítanak el, miután egy szökési kísérlet lázadáshoz vezet.",
+        "image": "https://image.tmdb.org/t/p/w500/awEi1Vi4os5OfYBldNVFWgOV5mF.jpg",
+        "date": "2022-09-21",
+        "score": 6.44,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_450182",
+        "title_hu": "Vó Maria",
+        "title_en": "Project Wolf Hunting",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "While under heavily armed guard, the dangerous convicts aboard a cargo ship unite in a coordinated escape attempt that soon escalates into a bloody, all-out riot. But as the fugitives continue their brutal campaign of terror, they soon discover that not even the most vicious among them is safe from the horror they unknowingly unleashed from the darkness below deck.",
+        "image": "https://image.tmdb.org/t/p/w500/8lHHmbzIbPhnrUSV0wSyTU5oazq.jpg",
+        "date": "2011-04-02",
+        "score": 6.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_15189",
+        "title_hu": "Kutyaszálló",
+        "title_en": "Hotel for Dogs",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "description": "Amikor az energikus testvérpár, Andi és Bruce egy olyan nevelőotthonban találják magukat, ahová szigorúan nem lehet állatokat vinni, Andinak a villámgyors észjárását kell latba vetnie, hogy otthont találjanak kutyájuknak, Pénteknek. Noha együttérző nevelőjük, Bernie figyelmezteti őket, hogy kerüljék a bajt, a srácok rábukkannak egy elhagyott hotelre és elkezdik átalakítani, hogy tökéletes lakhelyet készítsenek Pénteknek és a város összes kóbor kutyájának. Ezzel viszont azt kockáztatják, hogy szétválasztják őket egymástól, ha lebuknak. A két kölyök pillanatok alatt valami varázslatosat alkot a hotelből: otthont a kutyáknak és saját maguknak is.",
+        "image": "https://image.tmdb.org/t/p/w500/uVJgImi1MYqpNDokHMas87VdnZU.jpg",
+        "date": "2009-01-16",
+        "score": 6.061,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1010600",
+        "title_hu": "Hívatlanok – Első fejezet",
+        "title_en": "The Strangers: Chapter 1",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "description": "Maya és Ryan (Madelaine Petsch és Froy Gutierrez) a nő új munkája miatt Oregonba utazik, időközben pedig megállnak egy elhagyatott nyaralóhelynél. Ezen az ismeretlen helyen három maszkos idegen tör rájuk, akik látszólag indíték nélkül tartják rettegésben a fiatal párt. Az indítékokra fény derül a filmtrilógia folytatásaiban.",
+        "image": "https://image.tmdb.org/t/p/w500/nzztEW3oUC7nYEhMdAB91LYjGII.jpg",
+        "date": "2024-05-15",
+        "score": 5.656,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_702949",
+        "title_hu": "Say Goodbye!",
+        "title_en": "Say Goodbye!",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Action"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/qdZTnURRiThi9oCht9eOuEG4nBB.jpg",
+        "date": "",
+        "score": 10.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_370567",
+        "title_hu": "Gnómeó és Júlia 2: Sherlock Gnomes",
+        "title_en": "Sherlock Gnomes",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy",
+            "Adventure",
+            "Mystery"
+        ],
+        "description": "Gnómeó és Júlia megérkeznek a nagyvárosba családjukkal és barátaikkal, és legfőbb gondjuk, hogy előkészítsék kertjüket a tavaszra. Ám hamarosan rájönnek, hogy valaki kerti törpéket rabol el Londonszerte. Amikor Gnómeó és Júlia hazatérnek és kiderül, hogy a kertjükből mindenki eltűnt, csak egy törpe van, akihez fordulhatnak… Sherlock Gnomes. A híres detektív, London kerti törpéinek felesküdött védelmezője megérkezik segédjével, Watsonnal, hogy végére járjon az ügynek. A rejtély fergeteges kalandba rántja bele törpéinket, melynek során új dísztárgyakkal ismerkednek meg, és felfedezik a város ismeretlen oldalát…",
+        "image": "https://image.tmdb.org/t/p/w500/zE27FD2qttfUmiPgVIvqEByhVcR.jpg",
+        "date": "2018-03-15",
+        "score": 5.738,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1254624",
+        "title_hu": "Mindig eljön az éj",
+        "title_en": "Night Always Comes",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Crime"
+        ],
+        "description": "Egy - a testvérével és anyukájával élő fiatal nő - élete meglehetősen zűrös: teljesen el van adósodva, korábban prostituált is volt, ám jó útra tért, viszont súlyos anyagi gondokkal küzd. Házukat elveszik, ha 24 órán belül nem szerez 25 ezer dollárt. Down-kóros öccsének felügyelete is a tét, úgyhogy a nő mindent megpróbál a pénz előteremtésére. A film voltaképp egyetlen őrült éjszaka története: kocsit lop, aztán egy ismerőse széfjét próbálja feltörni, kokaint árul, mindent megtesz, amit tud. A film szembesíti a nézőt azzal, hogy mennyi mindenre vagyunk képesek azért, hogy elérjük a célunkat, miközben teljesen kiszolgáltatottakká is válhatunk.",
+        "image": "https://image.tmdb.org/t/p/w500/1jDo1nG7rtjaaQGpr6e73x9i9Xp.jpg",
+        "date": "2025-08-15",
+        "score": 6.073,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1180831",
+        "title_hu": "Troll 2.",
+        "title_en": "Troll 2",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Thriller"
+        ],
+        "description": "Miután egy veszélyes új troll ámokfutásba kezd a szülőföldjükön, Nora, Andreas és Kris kapitány egy minden eddiginél veszélyesebb küldetésre indulnak.",
+        "image": "https://image.tmdb.org/t/p/w500/plyEn5uDNXXDYihF8Z7YOe2PVKE.jpg",
+        "date": "2025-11-30",
+        "score": 6.334,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_526044",
+        "title_hu": "La Traviata",
+        "title_en": "La Traviata",
+        "type": "film",
+        "genres": [],
+        "description": "Tatjana Gürbaca directs the story of one of Verdi’s most famous heroines - Violetta Valéry - inspired by Alexandre Dumas's La Dame aux Camélias.",
+        "image": "https://image.tmdb.org/t/p/w500/4rwzMX4Vnohhi5Y9fJiRPpQLSNz.jpg",
+        "date": "2018-04-16",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_671725",
+        "title_hu": "Chompy & the Girls",
+        "title_en": "Chompy & the Girls",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Horror",
+            "Science Fiction"
+        ],
+        "description": "Egy gondokkal küszködő nő először találkozik az apjával. A találkozás kicsit kínos, de gyorsan átcsap hihetetlenbe, amikor egy férfit látnak, aki egészben lenyel egy kislányt.",
+        "image": "https://image.tmdb.org/t/p/w500/mEqsGycEVv6kfsIgH8dyQbnCcaw.jpg",
+        "date": "2021-09-14",
+        "score": 5.85,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11460",
+        "title_hu": "Éjszakai járat",
+        "title_en": "Red Eye",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ],
+        "description": "Lisa Reisert ki nem állhatja a repülőket, de a Miamiba tartó éjszakai járaton rá váró rettegésnek semmi köze a repüléstől való félelemhez. A felszállás után néhány perccel a Lisa mellett ülő Jackson felfedi utazásának vészjósló okát: részt vesz egy összeesküvésben, melynek célja a belbiztonsági miniszterhelyettes meggyilkolása... és az akció sikerének titka maga Lisa. Ha nem hajlandó együttműködni, megöli az apját egy bérgyilkos, aki csak Jackson hívására vár. A 10 000 méter magasan szálló repülő fogságában Lisa sehová sem menekülhet, és sehonnét sem hívhat segítséget anélkül, hogy ne veszélyeztetné az apját, az utastársait és a saját életét. Ahogy suhannak a mérföldek, Lisa tudja, hogy kifut az időből, és kétségbeesetten kutatja a módját, hogyan húzhatná keresztül könyörtelen fogvatartójának szándékait, és hogyan akadályozhatna meg egy szörnyű gyilkosságot.",
+        "image": "https://image.tmdb.org/t/p/w500/1GckGhj7v5epSAUqWU8m96a5Cip.jpg",
+        "date": "2005-08-10",
+        "score": 6.391,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_8051",
+        "title_hu": "Kótyagos szerelem",
+        "title_en": "The Graduation of Edison",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Drama",
+            "Comedy"
+        ],
+        "description": "Barry egyszerű fickó, magába forduló alkat. Képtelen feloldódni mások társaságában, ugyanakkor nem ritka a váratlan dühkitörés nála. Leginkább a munkája érdekli. Emellett gyűjti a pudingos dobozokon lévő kuponokat, remélve, hogy egyszer megnyeri a fődíjat. A nők terén a hét nővére tölti ki az életét, meg a telefonszex. Egyik nap azután minden megváltozik. Egy fiatal nő, Lena a férfi boltja melletti autójavító előtt hagyja a kocsiját, és annak kulcsát Barryra bízza. Hamarosan kölcsönös vonzalom alakul ki köztük. Bimbózó szerelmüket azonban beárnyékolja egy kifizetetlen (szex)telefonszámla. Az erőszakos Dean zaklatni kezdi emiatt Barryt.",
+        "image": "https://image.tmdb.org/t/p/w500/eliQmyvBikvArC397B3005mzxWz.jpg",
+        "date": "2002-10-11",
+        "score": 7.107,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_3170",
+        "title_hu": "Bambi",
+        "title_en": "The X-Files",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Drama",
+            "Family"
+        ],
+        "description": "Bambi, a fiatal őzike, akinek anyját egy vadászaton kilőtték, s ő ettől kezdve teljesen magára hagyatva barangol az erdőben, miközben számos kalandon megy keresztül. Végül találkozik egy másik őzzel, és - közben felnőve - egy csapat vezetője lesz.",
+        "image": "https://image.tmdb.org/t/p/w500/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg",
+        "date": "1942-08-14",
+        "score": 7.014,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1428857",
+        "title_hu": "On the Hunt",
+        "title_en": "Bambi",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.",
+        "image": "https://image.tmdb.org/t/p/w500/gkscqnZZrCT5lLsniw1KNL9iiJ0.jpg",
+        "date": "2026-02-27",
+        "score": 4.5,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_884",
+        "title_hu": "Karambol",
+        "title_en": "On the Hunt",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "description": "James Ballardnak és feleségének elege van sivár életükből. Apatikusan peregnek a napok, mígnem James egy közlekedési balesetet \"elszenvedve\" ráeszmél a karambolozás pikantériájára. Ágyéka hevesen reagál az összecsattanó autók látványára. Rövidesen kiderül, nincs ezzel egyedül. A kis csapatot, mely az autótörésben leli örömét, immár nem fenyegeti az unalom réme.",
+        "image": "https://image.tmdb.org/t/p/w500/vIwttxlxTo2o6BdtBLdxCnTwWOU.jpg",
+        "date": "1996-07-17",
+        "score": 6.48,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_315011",
+        "title_hu": "Shin Gojira",
+        "title_en": "Wallace & Gromit: The Curse of the Were-Rabbit",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Science Fiction",
+            "Horror"
+        ],
+        "description": "A harmincadik Godzilla feldolgozás az eredeti japán verzió (1954) reboot-ja. A történet középpontjában a japán partoknál végzett nukleáris kísérletek révén létrejött hatalmas és pusztító erejű lény, Godzilla áll .....",
+        "image": "https://image.tmdb.org/t/p/w500/8ulwqKiHxz5uH0g0I1BVeNDTWlo.jpg",
+        "date": "2016-07-29",
+        "score": 7.239,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_23629",
+        "title_hu": "Álomháború",
+        "title_en": "Jeepers Creepers 2",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Fantasy",
+            "Thriller"
+        ],
+        "description": "Egy lányt megfosztanak a szabadságától. Babydoll azonban nem adja fel. Mindenre hajlandó, hogy kikerüljön a rács mögül és meggyőzi négy társát, hogy szökjenek együtt. A szabad szájú Rocket, a ravasz Blondie, a hűséges Amber és a magának való Sweet Pea egyesült erővel lázad fel a sors és fogva tartójuk, Blue valamint emberei, Madam Gorski és High Roller ellen. Amikor úgy érzik, hogy még sincs esélyük, felfedezik, hogy a borzasztó valóság elől van egy másik menekülő-útvonal is: a fantáziájuk. Babydoll vezetésével a bezárt lányok elképesztő küzdelmet kezdenek szamurájok, sárkányok, valószerűtlen gonosz lények ellen. A közös harc során azonban el kell dönteniük, hogy mi az, amit képesek feláldozni a túlélésért és a szabadságuk visszaszerzéséért.",
+        "image": "https://image.tmdb.org/t/p/w500/45t7ypX1vydsScPOis5t0zufS4V.jpg",
+        "date": "2011-03-24",
+        "score": 6.203,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1904",
+        "title_hu": "Egy Gésa emlékiratai",
+        "title_en": "Sucker Punch",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance",
+            "History"
+        ],
+        "description": "1929-et írunk. A szegény halászfaluban nevelkedő, kilencéves Chiyót szülei egy kiotói gésa-háznak adják. A kislánnyal kegyetlen bánnak a ház tulajdonosai és Hatsumomo, a főgésa. Akaraterejét azonban nem sikerül megtörniük, s miután Hatsumomo riválisa, Mameha a szárnyai alá veszi, Chiyoból Sayuri néven legendás gésa válik. Megtanul minden művészi és társadalmi fogást, ami ahhoz szükséges, hogy érvényesülni tudjon abban a világban, ahol ezentúl mozognia kell: a gazdagok, a kiváltságosok és a politikai csatározások világában. Bár Sayuri kék szemei kora legbefolyásosabb férfiúit bűvölik el, valódi szerelme elérhetetlen távolságban van tőle. Ráadásul a történelem is utoléri a gésákat: második világháborúval Japán alaposan megváltozik...",
+        "image": "https://image.tmdb.org/t/p/w500/552iy10M3uQWTi596pRgjIGCzkF.jpg",
+        "date": "2005-12-06",
+        "score": 7.634,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_80035",
+        "title_hu": "Kertvárosi Kommandó",
+        "title_en": "The Watch",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Action",
+            "Science Fiction"
+        ],
+        "description": "Négy átlagos, alig dilis kertvárosi polgár csupa egyszerű örömre vágyik: nyugalomra, nőkre és egy sörre távol a családtól. Így aztán polgárőrséget alakítanak, melynek tagjai esti járőrútjaikat kizárólag ürügyül használnák arra, hogy együtt szökhessenek el az otthoni kötelezettségek elől.",
+        "image": "https://image.tmdb.org/t/p/w500/dXgsrJUM5UVjdjIZZ7jEmj3rkIR.jpg",
+        "date": "2012-07-26",
+        "score": 5.601,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_284289",
+        "title_hu": "A célkereszten túl",
+        "title_en": "Beyond the Reach",
+        "type": "film",
+        "genres": [
+            "Thriller"
+        ],
+        "description": "A fiatal Ben (Jeremy Irvine) egy vadászatra indul a kegyetlen Mojave-sivatagba, egy tapasztalt vén rókával, Madec-kel (Michael Douglas). Amikor a vadászat félresikerül, és Ben egyik ismerősét gyilkolják meg, az öreg rájön, hogy ha azt akarja, hogy ne tudja meg senki a véres titkot, meg kell akadályoznia, hogy a fiú elmondhassa akárkinek is.",
+        "image": "https://image.tmdb.org/t/p/w500/xwnDjQ5YUhq0yG9M8KNdbQoSZix.jpg",
+        "date": "2014-09-06",
+        "score": 5.911,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_787844",
+        "title_hu": "Newborn",
+        "title_en": "Newborn",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "After serving seven years in solitary confinement, Chris Newborn seeks to rebuild his life and reconnect with his family only to find that freedom has become a terrifying psychological battleground.",
+        "image": "https://image.tmdb.org/t/p/w500/g3fTSiQ19uIpYDHVAHLHvgLwzPD.jpg",
+        "date": "2026-04-10",
+        "score": 5.4,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_578189",
+        "title_hu": "Fekete és kék",
+        "title_en": "Black and Blue",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "Egy fiatal detroiti rendőrnő veszélyes helyzetbe kerül, amikor testére erősített kamerájával felveszi, ahogy korrupt zsaruk kivégeznek egy drogdílert. Nem elég, hogy üldözik az elkövetők, de miután a gyilkosságot a nyakába varrják, a drogkartell célpontjává is válik.",
+        "image": "https://image.tmdb.org/t/p/w500/idxWROp3GtVhodMmUX0L3uoNfpO.jpg",
+        "date": "2019-10-25",
+        "score": 6.776,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10768",
+        "title_hu": "Ómen III.: Végső leszámolás",
+        "title_en": "The Final Conflict",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "description": "Damien (Sam Neill) felnőtt férfivá érett és befolyása megsokszorozódott. Csupán egy karnyújtásnyira van a világ legnagyobb hatalmát biztosító pozíciótól, az Egyesült Államok elnöki székétől. Ha sikerül megszereznie a posztot, véghez viheti ördögi tervét: káoszt és pusztulást hozhat a világra. A hét tőr közül azonban egy még veszélyt jelent Damienre, DeCarlo (Rosasano Brazzi) személyében pedig eddigi legveszélyesebb ellenfelére lelt.",
+        "image": "https://image.tmdb.org/t/p/w500/vjWGOapFKvwKECYdIC8pIyz1JKV.jpg",
+        "date": "1981-03-20",
+        "score": 5.793,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_30675",
+        "title_hu": "Hulk világa",
+        "title_en": "Planet Hulk",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Animation",
+            "Action"
+        ],
+        "description": "Miután Hulk pusztítása után fél Las Vegas romokban hever, a Föld hõsei úgy döntenek, száműzik õt egy távoli, lakatlan planétára, hogy megszűnjön a fenyegetés amit a Föld egész lakosságára jelent. A dolgok nem egészen úgy sülnek el, ahogy tervezték, és végeredményben Hulk egy idegenek által benépesített bolygón találja magát, méghozzá meglehetõsen legyengülve. Hulk-ot fogságba ejtik, és gladiátorjátékokon indítják, ahol ereje és ügyessége révén nagy népszerűségre tesz szert. Hamarosan azt veszi észre, hogy a gonosz uralkodó elnyomása alatt élõ idegenek egyfajta megmentõként tekintenek rá?",
+        "image": "https://image.tmdb.org/t/p/w500/5wCzY3sAs6zHIzzHIcTKN2g0pu8.jpg",
+        "date": "2010-02-02",
+        "score": 7.114,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9064",
+        "title_hu": "Hellraiser 2.",
+        "title_en": "Hellbound: Hellraiser II",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "description": "Kirsty egy pszichiátriai intézetben van, egy szörnyű szellemeket tartalmazó puzzle doboz pokoli eseményeinek újbóli átélése miatt. Pszichiátere dr. Channard régóta vonzódik a szörnyűséges doboz sötét titkához, melynek köszönhetően a lány is ide került. A doktor szinte extázisba kerül, mikor sikerül Julia-t feltámasztania egy zavarodott beteg vérével. Julia cserébe beavatja a rögeszmés doktort a téren és időn túlmutató titokba. Kirsty-t édesapjának véres víziója arra készteti, hogy a Cenobiták mindenható mestere, Leviathan, a Pokol Labirintusának Ura félelmetes erejével szembeszálljon...",
+        "image": "https://image.tmdb.org/t/p/w500/7HHqAVxRQyKiTyNflnwwgk0guCl.jpg",
+        "date": "1988-12-23",
+        "score": 6.412,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1232827",
+        "title_hu": "Lány a tűvel",
+        "title_en": "The Girl with the Needle",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "description": "Koppenhágában a fiatal, várandós Karoline dajkának áll egy idősebb nő, Dagmar mellett, hogy támogathassa magát. Dagmar egy titkos örökbefogadó ügynökséget működtet egy cukrászdának álcázva, segítve a hátrányos helyzetű anyákat, hogy elhelyezzék nem kívánt újszülötteiket nevelőotthonokba. Karoline szoros kapcsolatba kerül Dagmarral, de hamarosan szembesül azzal a rémálomszerű valósággal, amibe akaratlanul is belekerült.",
+        "image": "https://image.tmdb.org/t/p/w500/w5XAp3Gcf5QdWkRwfiJ0gb90Gpu.jpg",
+        "date": "2024-09-06",
+        "score": 7.561,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_617505",
+        "title_hu": "Hubie, a halloween hőse",
+        "title_en": "Hubie Halloween",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Horror",
+            "Mystery"
+        ],
+        "description": "Hubie nem éppen közkedvelt a massachusettsi Salemben, de egy valóban parás Halloween alkalmával a jószívű fickó, aki mellesleg egy gyáva nyúl, a város védelmére kel.",
+        "image": "https://image.tmdb.org/t/p/w500/ydQpguJVxdW64i1uYQv3sCKMEM1.jpg",
+        "date": "2020-10-07",
+        "score": 5.884,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_4808",
+        "title_hu": "Amerikai fogócska",
+        "title_en": "Charade",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Mystery",
+            "Romance"
+        ],
+        "description": "Reggie, a fiatal özvegy Párizsban tudja meg, hogy meggyilkolt férje közönséges csirkefogó volt, aki után \"piszkos\" pénzek maradtak vissza. Három gonosztevő meg akarja szerezni a pénzt, ezért megfenyegetik az özvegyet. Egy negyedik férfi, a titokzatos Peter Joshua is meglehetősen gyanúsan viselkedik, ennek ellenére Reggie beleszeret. A férfiről kiderül, hogy talpig becsületes ember, ő a hölgy megmentője.",
+        "image": "https://image.tmdb.org/t/p/w500/gEEJecBPNZ5EJVKaY8u5FYFutGC.jpg",
+        "date": "1963-12-01",
+        "score": 7.656,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1244557",
+        "title_hu": "Lumen - Дыши",
+        "title_en": "Lumen - Дыши",
+        "type": "film",
+        "genres": [
+            "Music"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/7zhrTSpvCnPkvSvpBovnT7yNClK.jpg",
+        "date": "2006-06-20",
+        "score": 8.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_399796",
+        "title_hu": "A partiállat",
+        "title_en": "Life of the Party",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Mit tehet az ember, ha hirtelen észreveszi, hogy már nem kamasz? Deanna ugyan kicsit nehézkesen törődött bele a megváltoztathatatlanba, de azért tudja a választ: beiratkozik az egyetemre, és ott a suliba járókat (köztük a saját lányát) meghazudtoló hévvel veti bele magát mindabba, amit egy rangos tanintézmény kínál: pia, bulik, pasik és még több pia. Azután még egy kis buli... A helyzet jó, de nem egyszerű. És csak egyre bonyolultabbá válik.",
+        "image": "https://image.tmdb.org/t/p/w500/sTueEGaVzyd5tgi8NAn56j4yjE2.jpg",
+        "date": "2018-05-10",
+        "score": 6.081,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_13640",
+        "title_hu": "Superman - Ítéletnap",
+        "title_en": "Superman: Doomsday",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Animation",
+            "Science Fiction"
+        ],
+        "description": "Mikor a Lexcorp véletlenül kiengedi földalatti börtönéből egy gyilkológépet, Superman felkészül élete legnagyobb küzdelmére... amely egyben az utolsó is lesz. Halálát az egész világ gyászolja; az emberek érzik, hogy többé már nem lehetnek biztonságban. Superman ellenségei örömünnepet ülnek, kivéve Lex Luthort, aki a maga tébolyult módján siratja meg az Acélembert-t: fondorlatos tervével olyan hátborzongató események láncolatát indítja el, melyek még őt magát is váratlanul érik.",
+        "image": "https://image.tmdb.org/t/p/w500/YTIeigqnlJJaDj4GO7IRjuYHId.jpg",
+        "date": "2007-09-18",
+        "score": 6.726,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_889580",
+        "title_hu": "Bisikan Jenazah",
+        "title_en": "Whisper of the Dead",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Drama"
+        ],
+        "description": "Aldi and Emma are a newlywed couple, Aldi from Indonesia and Emma from Malaysia. After getting married, they wanted to go on a honeymoon to Ipoh, but Aldi had work in Kuala Lumpur for a few days, they also looked for lodging in Kuala Lumpur, but they got lost in a place they had never been to. They don't know that it turns out that the house is a haunted house, where the owner Sukri is a devil worshiper and his wife and children were killed in the house to become the devil's sacrifice. Emma is always terrorized by the spirits of Sukri's wife and children. And the climax is when Emma is possessed by the spirit of Sukri who turns out to also die as a victim of the devil.",
+        "image": "https://image.tmdb.org/t/p/w500/tHOnJAZFcHe7vgLg2pNefh6Idd5.jpg",
+        "date": "2021-11-04",
+        "score": 1.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11639",
+        "title_hu": "A sötét kristály",
+        "title_en": "The Dark Crystal",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "description": "Jim Henson, a Muppet Show kiötlője egy minden képzeletet felülmúló világba kalauzolja el a kalandvágyó nézőt e fantasztikus animációs filmben. Ezer évvel ezelőtt az univerzum egyensúlyáért felelős Fehér Kristály megsemmisült és mindent beborított a sötét káosz. Azóta gonosz sárkánygnómok tartják rettegésben a népeket, és eltaposnak bárkit, aki uralmukat veszélyeztetheti. A jóslat szerint egyedül Jen, a féltünde képes ismét egyesíteni a Kristály szilánkjait, hogy visszaálljon a rend a világban. Apró hősünk felkerekedik és számtalan veszéllyel dacolva küzd azért, hogy teljesítse küldetését? Kéthetenként jelentkező AniMágia sorozatunk a műfaj legjobb darabjaiból nyújt izelítőt, ezúttal a műhelyteremtő Jim Henson korszakhatárt jelentő, s az egész műfajt megújító bábfilmjével.",
+        "image": "https://image.tmdb.org/t/p/w500/x1hvU6EE1mJ8j9AHw0WIlctJXTN.jpg",
+        "date": "1982-12-17",
+        "score": 7.155,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_17360",
+        "title_hu": "Menekülés a győzelembe",
+        "title_en": "Escape to Victory",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "description": "A focibolond Steiner hadnagy híres játékosokat fedez fel a különböző nemzetiségű, szövetséges foglyok között, ezért futballmérkőzést szervez a náci katonák és a rabok között. Úgy gondolja, a felhajtás tetszeni fog a megszállt Párizs lakóinak, az edzések pedig lekötik a foglyokat. Ám a büntetőtábor lakói a francia ellenállókkal összefogva szökésre akarják felhasználni a focimeccs keltette felbolydulást.",
+        "image": "https://image.tmdb.org/t/p/w500/kQUqOx9uVOxo4wygx0RBIz7e9PA.jpg",
+        "date": "1981-06-17",
+        "score": 6.881,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1154730",
+        "title_hu": "La Gradiva",
+        "title_en": "La Gradiva",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A small group of French high school students goes on a school trip to Pompeii to discover its ruins and the bodies petrified by Vesuvius in 79 CE. It is in this ghost town that they are suddenly overcome by a dizzying sensation. One after another, James, Toni, Suzanne, and their Latin teacher, Mme Mercier, allow themselves to be engulfed by desire, anger, and despair—until they surrender to it completely and lose everything.",
+        "image": "https://image.tmdb.org/t/p/w500/iPYTq7YznBlI60ntPI9bdw57qT0.jpg",
+        "date": "2026-10-21",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_739547",
+        "title_hu": "Thelma, az unikornis",
+        "title_en": "Thelma the Unicorn",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Family"
+        ],
+        "description": "Az előadói karrierről álmodó énekes póni már bemutatkozásakor hangos sikert arat, amikor csillogó unikornissá változik – de a sztárság felé rögös út vezet.",
+        "image": "https://image.tmdb.org/t/p/w500/fSkx04QhMpYBuMAoFzOpmMEKKB1.jpg",
+        "date": "2024-05-17",
+        "score": 6.887,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_319888",
+        "title_hu": "Eddie, a sas",
+        "title_en": "Eddie the Eagle",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History",
+            "Adventure"
+        ],
+        "description": "Ő a tipikus angol hős. Eddie nem igazán ügyes, sőt, első ránézésre kifejezetten kétballábasnak tűnik, viszont nagyon kedves. Mégis ő az egyetlen, aki síugróként a brit színeket képviseli az 1988-as Calgary téli olimpián.  És ő lesz a brit sporttörténet egyik legnagyobb legendája: példa arra, hogy nem szabad feladni, hogy érdemes küzdeni, és nem a győzelem a fontos ? bár az is nagyon jól tud esni.  Eddie és edzője a lehetetlent vállalják, és talán valóra is váltják. Egy egykor hatalmas nemzet tőlük várja, hogy újra igazán büszkék lehessenek.",
+        "image": "https://image.tmdb.org/t/p/w500/neNBUXpdxlNZ3SaibFnY2FI5RU1.jpg",
+        "date": "2016-02-25",
+        "score": 7.161,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_277834",
+        "title_hu": "Vaiana",
+        "title_en": "Moana",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Animation"
+        ],
+        "description": "Az ókori Polinéziában, amikor Maui szörnyű átka eléri egy indulatos törzsfőnök szigetét, a makacs lánya válaszol az Óceán hívására, és útnak indul, hogy megkeresse a félistent és helyrehozza a bajt.",
+        "image": "https://image.tmdb.org/t/p/w500/tIv5FSVMAokcZ1BDP4pnXnGW9sj.jpg",
+        "date": "2016-10-13",
+        "score": 7.565,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1027073",
+        "title_hu": "A szentek és bűnösök földjén",
+        "title_en": "In the Land of Saints and Sinners",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "Finbar Murphy, a második világháborús veterán és özvegy, egy kis ír faluban él, csendes de életet. Mert egy alvilági főnöknek dolgozó bérgyilkos. Azonban az írországi „zavarok” elérték a faluját, és visszarántják őt a polgárőrök igazságszolgáltatásának világába. Csak hogy a szentek és bűnösök földjén néhány bűnt nem lehet eltemetni.",
+        "image": "https://image.tmdb.org/t/p/w500/o8lEZGeT6qskEVuUchnzQbCF6rO.jpg",
+        "date": "2023-10-06",
+        "score": 6.436,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1740421",
+        "title_hu": "Herbert & Humphrey",
+        "title_en": "Herbert & Humphrey",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Horror"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/iVcW2uwMhiVdPbvIMaXfkWatLv0.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_121875",
+        "title_hu": "A házban",
+        "title_en": "In the House",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "description": "A tizenhat éves Claude úgy szeretné lenyűgözni tehetségével irodalomtanárát, hogy beférkőzik iskolatársa életébe és otthonába, majd életükről saját nézőpontjából ír bizarr történetet. A tanár, felismerve a fiú egyedülálló jellemét és írás iránti fogékonyságát, egyre nagyobb lelkesedéssel vesz részt maga is a cselekmény alakulásában. Tanácsaival lassan közös történetté formálják az eseményeket, amely azonban hamar kontrollálhatatlanná válnak, s a fiú gondolatai alakítani kezdik a család és tanára hétköznapjait is.",
+        "image": "https://image.tmdb.org/t/p/w500/1cWpFhRViNIrL3bSC3FEa3n4B70.jpg",
+        "date": "2012-09-26",
+        "score": 7.242,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_714119",
+        "title_hu": "Dernier Acte",
+        "title_en": "Final Act",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "description": "Cheetah's season has arrived. André and Philip, two pals as valiant as they're bold, establish the ultimate hunting technique: Infiltrate the feline's territory disguised as animals.",
+        "image": "https://image.tmdb.org/t/p/w500/df7jxwTxXMzZusosAquuzdWAnbo.jpg",
+        "date": "2019-06-06",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_218043",
+        "title_hu": "Az otthagyottak",
+        "title_en": "Left Behind",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Action",
+            "Science Fiction"
+        ],
+        "description": "A filmben Cage egy Boeing 747-es pilótáját alakítja, aki éppen London felé tart, amikor egyik pillanatról a másikra, minden figyelmeztetés nélkül eltűnik néhány utasa az ülésből. Hamarosan kiderült, hogy az esetük nem egyedi, és az egész világon pánik veszi kezdetét a szokatlan események következtében. A hátramaradottaknak úgy néz ki, magával az apokalipszissel kell szembenézniük…",
+        "image": "https://image.tmdb.org/t/p/w500/66AY5JXKTksVeVbgriFEUxQQpGF.jpg",
+        "date": "2014-10-03",
+        "score": 4.29,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_8005",
+        "title_hu": "Robin Hood, a fuszeklik fejedelme",
+        "title_en": "Robin Hood: Men in Tights",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Ezúttal a kalandos Robin Hood történet túláradóan vidám átirata kerül terítékre. Mel Brooks, a legendás nevettető legjobb formájában ragadja meg Robin Hood alakját. Hősünk tömlöcbe kerül a keresztesháborúkba mentében, és mire kiszabadul, családját majd vagyonát is elveszti. A gyönyörű szűz, Marian iránti szerelme viszont új hitet ad neki az úri túlkapások elleni harcban: maga köré gyűjti a Sherwood-i erdőbe hűséges csirkefogó társait, és örömmel tör borsot a trónkövetelő János herceg orra alá. Szerelmét elrabolják, de mindenki kedvenc szélhámosa kissé komolytalanul mégis visszavág.",
+        "image": "https://image.tmdb.org/t/p/w500/yrtyZVWkPGEwzAG9JIZ89YJ3CDY.jpg",
+        "date": "1993-07-28",
+        "score": 6.611,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1146972",
+        "title_hu": "Mobile Suit Gundam SEED Freedom",
+        "title_en": "Mobile Suit Gundam SEED FREEDOM",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Science Fiction",
+            "Action",
+            "Drama"
+        ],
+        "description": "A film a Mobile Suit Gundam SEED és a Mobile Suit Gundam SEED Destiny folytatása, amely egy évvel a SEED Destiny eseményei után játszódik.",
+        "image": "https://image.tmdb.org/t/p/w500/5tYaEAzOXxlmVpR3Jmrji2IYxcn.jpg",
+        "date": "2024-01-26",
+        "score": 7.054,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1108566",
+        "title_hu": "Gyilkos hőség",
+        "title_en": "Killer Heat",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Romance"
+        ],
+        "description": "Ebben a kortárs noir thrillerben egy külföldi magánnyomozót bíznak meg egy gyanús haláleset kivizsgálásával a görögországi Krétán, ahol az áldozat befolyásos családjában mélyen gyökerezik a féltékenység.",
+        "image": "https://image.tmdb.org/t/p/w500/xWKgbINtSxZpgweOIA0hN6cqjbS.jpg",
+        "date": "2024-09-25",
+        "score": 5.827,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
