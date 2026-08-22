@@ -277228,36 +277228,53 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10533",
         "tags": [
+            "witch burning",
+            "extramarital affair",
+            "pregnancy",
             "Romance",
-            "Drama"
+            "boston, massachusetts",
+            "period drama",
+            "Drama",
+            "based on novel or book",
+            "puritan"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_740925",
         "tags": [
+            "immigrant",
+            "Thriller",
             "Horror",
             "Mystery",
-            "Thriller"
+            "haunted house",
+            "based on novel or book",
+            "boarding house"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1137844",
         "tags": [
+            "u.s. navy",
+            "fighter pilot",
+            "Adventure",
             "Action",
+            "ex kgb",
+            "buddy comedy",
+            "cold war",
             "Comedy",
-            "Adventure"
+            "behind enemy lines"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_527592",
@@ -277265,79 +277282,111 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_807196",
         "tags": [
             "Thriller",
-            "Drama"
+            "london, england",
+            "bartender",
+            "addiction",
+            "Drama",
+            "depression",
+            "waitress",
+            "restaurant",
+            "stress"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_398080",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_322240",
         "tags": [
+            "cat",
+            "transformation",
+            "pets",
             "Fantasy",
+            "Family",
+            "body switch",
+            "sky scraper",
             "Comedy",
-            "Family"
+            "turns into animal"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1000413",
         "tags": [
-            "Drama"
+            "Drama",
+            "1960s"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_720557",
         "tags": [
+            "intense",
             "Action",
             "Thriller",
             "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1611789",
         "tags": [
+            "short film",
+            "childhood",
+            "Drama",
             "Comedy",
-            "Drama"
+            "brother brother relationship"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_15739",
         "tags": [
-            "Comedy",
+            "billionaire",
+            "based on comic",
+            "orphan",
+            "little girl",
+            "musical",
+            "child abuse",
+            "based on play or musical",
             "Family",
+            "Comedy",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_17835",
         "tags": [
+            "nuclear fallout",
+            "great britain",
             "War",
+            "despair",
+            "northern england",
             "Science Fiction",
-            "Drama"
+            "nuclear holocaust",
+            "disaster",
+            "Drama",
+            "yorkshire"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_290339",
@@ -277345,25 +277394,35 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1614242",
         "tags": [
-            "Comedy",
+            "midlife crisis",
+            "stop motion animation",
+            "female protagonist",
+            "Animation",
+            "stop motion",
+            "mid-life crisis",
+            "unhappy couple",
             "Drama",
-            "Animation"
+            "puppet animation",
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_334315",
         "tags": [
-            "Documentary"
+            "douglas sirk",
+            "filmmaking",
+            "Documentary",
+            "interview"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_286619",
@@ -277371,7 +277430,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_369583",
@@ -277379,83 +277438,117 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_93828",
         "tags": [
-            "Action",
+            "conspiracy",
             "Adventure",
-            "Crime"
+            "criminal",
+            "Action",
+            "heist",
+            "Crime",
+            "detective",
+            "assassin"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11905",
         "tags": [
             "Horror",
-            "Fantasy"
+            "wolf",
+            "grandparent grandchild relationship",
+            "fairy tale",
+            "werewolf",
+            "little red riding hood",
+            "Fantasy",
+            "dreams",
+            "halloween"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_572640",
         "tags": [
-            "Fantasy",
-            "Drama"
+            "Drama",
+            "Fantasy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_271540",
         "tags": [
             "Animation",
             "Science Fiction",
+            "space",
+            "seinen",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_18126",
         "tags": [
-            "Comedy",
+            "celebrity",
+            "musical",
+            "pop star",
+            "tennessee",
+            "countryside",
             "Romance",
+            "double life",
+            "malibu",
             "Family",
+            "Comedy",
             "Music",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1552829",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1124619",
         "tags": [
+            "action comedy",
+            "female friendship",
             "Action",
-            "Comedy"
+            "mercenary",
+            "imminent wedding",
+            "destination wedding",
+            "Comedy",
+            "secret agent"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_14362",
         "tags": [
-            "Action",
             "Thriller",
+            "revenge",
+            "Action",
+            "martial arts",
+            "corruption",
+            "crime boss",
+            "police",
             "Drama",
-            "Crime"
+            "Crime",
+            "detective",
+            "psychopath"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1482985",
@@ -277463,226 +277556,299 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_22423",
         "tags": [
+            "Drama",
             "Thriller",
-            "Drama"
+            "blacklist",
+            "usa politics"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_749163",
-        "tags": [],
+        "tags": [
+            "short film",
+            "football (soccer) match",
+            "superhero",
+            "hospital",
+            "father son relationship",
+            "football (soccer) fan"
+        ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_338953",
         "tags": [
-            "Fantasy",
-            "Adventure"
+            "berlin, germany",
+            "Adventure",
+            "prison",
+            "affectation",
+            "sequel",
+            "election campaign",
+            "witch",
+            "magic",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_653346",
         "tags": [
-            "Action",
+            "dystopia",
             "Adventure",
-            "Science Fiction"
+            "Action",
+            "empire",
+            "Science Fiction",
+            "chimpanzee",
+            "kingdom",
+            "gorilla",
+            "post-apocalyptic future",
+            "eagle"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_26827",
         "tags": [
-            "Comedy",
-            "Romance"
+            "Romance",
+            "puma",
+            "lawyer",
+            "screwball comedy",
+            "innocent woman",
+            "release from prison",
+            "falsely accused",
+            "new york city",
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_575264",
         "tags": [
-            "Action",
             "Thriller",
-            "Adventure"
+            "race against time",
+            "mask",
+            "Adventure",
+            "chase",
+            "Action",
+            "mission",
+            "spy",
+            "secret mission",
+            "rome, italy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_48650",
         "tags": [
+            "hotel room",
+            "lesbian sex",
+            "one-night stand",
+            "female friendship",
+            "hotel",
             "Romance",
-            "Drama"
+            "based on movie",
+            "Drama",
+            "rome, italy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_438864",
         "tags": [
-            "Comedy",
-            "Drama"
+            "Drama",
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_547565",
         "tags": [
+            "grieving widower",
             "Horror",
-            "Mystery"
+            "forest",
+            "Mystery",
+            "widow",
+            "nightmare",
+            "grief",
+            "new york state",
+            "depression"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_76640",
         "tags": [
-            "Action",
             "Thriller",
-            "Crime"
+            "hostage",
+            "Action",
+            "sheriff",
+            "Crime",
+            "fbi",
+            "border",
+            "escape",
+            "small town",
+            "prisoner"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10684",
         "tags": [
-            "War",
             "Thriller",
+            "War",
             "Mystery",
-            "Drama"
+            "rescue mission",
+            "praise",
+            "gulf war",
+            "politics",
+            "Drama",
+            "dead soldier",
+            "pilot",
+            "war veteran"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_21835",
         "tags": [
+            "monkey",
+            "Adventure",
+            "journey",
             "Action",
-            "Comedy",
+            "sequel",
             "Romance",
+            "monk",
+            "king",
+            "martial arts",
             "Fantasy",
             "Drama",
-            "Adventure"
+            "based on novel or book",
+            "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_72808",
         "tags": [
+            "Drama",
             "Romance",
-            "Drama"
+            "italian"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_155637",
         "tags": [
-            "Full Color",
-            "Slice of Life",
-            "Comedy",
-            "Primarily Child Cast",
-            "Animals",
-            "Fantasy",
             "Female Protagonist",
+            "Family Life",
+            "Slice of Life",
+            "Full Color",
+            "Fantasy",
             "Shapeshifting",
-            "Family Life"
+            "Primarily Child Cast",
+            "Comedy",
+            "Animals"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_100001",
         "tags": [
-            "Band",
             "Musical Theater",
-            "Full Color",
-            "Tragedy",
-            "Love Triangle",
-            "Slice of Life",
-            "Comedy",
-            "Romance",
-            "Primarily Adult Cast",
-            "Office Lady",
-            "Heterosexual",
-            "Drama",
             "Female Protagonist",
-            "Coming of Age"
+            "Heterosexual",
+            "Love Triangle",
+            "Tragedy",
+            "Romance",
+            "Slice of Life",
+            "Band",
+            "Office Lady",
+            "Full Color",
+            "Coming of Age",
+            "Drama",
+            "Comedy",
+            "Primarily Adult Cast"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_153814",
         "tags": [
-            "Reincarnation",
-            "Full Color",
-            "Romance",
             "Heterosexual",
-            "Fantasy"
+            "Romance",
+            "Full Color",
+            "Fantasy",
+            "Reincarnation"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_162918",
         "tags": [
-            "Full Color",
-            "Romance",
+            "Family Life",
             "Heterosexual",
+            "Romance",
             "Marriage",
+            "Full Color",
             "Time Skip",
-            "Drama",
-            "Family Life"
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_118962",
         "tags": [
-            "Full Color",
-            "Slice of Life",
-            "Primarily Adult Cast",
-            "Primarily Female Cast",
-            "Estranged Family",
-            "Long Strip",
-            "Urban",
-            "Drama",
             "Female Protagonist",
-            "Family Life"
+            "Estranged Family",
+            "Primarily Female Cast",
+            "Family Life",
+            "Urban",
+            "Long Strip",
+            "Slice of Life",
+            "Full Color",
+            "Drama",
+            "Primarily Adult Cast"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_118964",
         "tags": [
-            "Action",
             "Politics",
-            "Full Color",
-            "Amnesia",
-            "Magic",
             "War",
-            "Male Protagonist",
-            "Fantasy",
             "Adventure",
-            "Revenge"
+            "Action",
+            "Male Protagonist",
+            "Full Color",
+            "Fantasy",
+            "Revenge",
+            "Magic",
+            "Amnesia"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
