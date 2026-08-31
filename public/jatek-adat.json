@@ -79702,5 +79702,22 @@
         "score": 92.0,
         "age_rating": "16+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_12737",
+        "title_en": "Kantai Collection",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Simulator",
+            "Turn-based strategy (TBS)",
+            "Card & Board Game"
+        ],
+        "description": "Kantai Collection is a Japanese free-to-play web browser game. The gameplay is centered upon building squadrons composed of individual characters represented as cards with different attributes, and then sending said squadrons out on missions. Each of the characters are moe anthropomorphisms of World War II naval warships which are depicted as cute girls, known as \"Fleet girls\". These personified warships are based on real-life vessels which are explained in detail within the game; the physical characteristics, appearances and personalities of each of the girls correlate in some way to the real-life vessel (for example, ships with a larger displacement tonnage are usually depicted as older girls with more mature bodies, while smaller ships have petite and underdeveloped figures, with a few exceptions). The player takes on the role of an admiral and organizes their fleets in battle in order to win. Combat is largely automated, and manual actions by the player include micromanagement such as building and repairing.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qh5.jpg",
+        "date": "2013-04-23",
+        "score": 85.81973449043551,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
