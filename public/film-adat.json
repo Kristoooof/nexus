@@ -121602,5 +121602,454 @@
         "score": 6.624,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1753347",
+        "title_hu": "Pequenos Pesadelos",
+        "title_en": "Pequenos Pesadelos",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Drama",
+            "Fantasy"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/nkIcAuRQeR4ADseygc6KcubY3XD.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1248251",
+        "title_hu": "മോളിവുഡ് ടൈംസ്",
+        "title_en": "Stalin Boys",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Four Mexican-American middle school boys in a Texas border town have developed an unusual obsession: Joseph Stalin. When their teacher tells them about the Texas State History Fair, they write a play about the Soviet dictator and his efforts to destroy all who opposed him. With cardboard props and fur hats purchased on the internet, the boys enter the competition as underdogs and leave home for the very first time.",
+        "image": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+        "date": "2026-06-05",
+        "score": 5.923,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11062",
+        "title_hu": "Minden gyanú felett",
+        "title_en": "Holland",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "description": "A történet egy közönségesnek tűnő reggelen kezdődik, melyen New York egy feketék lakta negyedében tűzpárbaj tör ki egy drogkereskedő és az őt üldöző rendőrtiszt között, és a lövöldözésben egy kisfiú életét veszti. Csak John Pappas, a város idealista polgármestere lélekjelenlétének köszönhető, hogy sikerül a faji villongásokat megfékezni. Úgy tűnik, minden rendben van. Csakhogy Pappas lelkes jobbkezének, az ifjú és még naívabb Kevin Calhounnak feltűnik egy apróság: hogy mit keresett az utcán az a drogkereskedő, történetesen a helyi maffiafőnök fia, aki éppen próbaidősen volt szabadlábon egy olyan bűntényért, amiért 10-20 év börtön járt volna. És megjelenik a lelőtt rendőr özvegye is...",
+        "image": "https://image.tmdb.org/t/p/w500/7gGHThEOfU9sqCdGteM6Rw0EuTd.jpg",
+        "date": "1996-02-16",
+        "score": 5.967,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_814",
+        "title_hu": "Egy amerikai farkasember Londonban",
+        "title_en": "Platoon",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Horror",
+            "Fantasy"
+        ],
+        "description": "David Kessler (David Naughton) és Jack (Griffin Dunne), a két amerikai turista nekivág egy három hónapos európai kirándulásnak. A kietlen angol vidéket járva összeakadnak néhány helybélivel, akiktől hátborzongató tanácsot kapnak: maradjanak az úton, és kerüljék a lápot! - valamint: vigyázzanak, ha feljön a Hold! A fiúk belevetik magukat a sötétségbe, és egy rémisztő üvöltést hallanak a lápon túlról, de nem tudják, hogy egy vérszomjas, mitikus fenevad vadászik rájuk. Akit ez a lény megöl, abból élőhalott lesz, és az idők végeztéig kóborol a földön, de aki élve megmenekül a karmaiból, arra egészen más sors vár.",
+        "image": "https://image.tmdb.org/t/p/w500/oZbjgD2H2EXqWtQxX9DHOekhicQ.jpg",
+        "date": "1981-08-21",
+        "score": 7.392,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_395834",
+        "title_hu": "Wind River - Gyilkos nyomon",
+        "title_en": "An American Werewolf in London",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "description": "Holttestet találnak a Wind River indiánrezervátumban. A világtól elzárt térségbe hamarosan egy FBI ügynök érkezik, aki megállapítja, hogy a tinédzser lány gyilkosság áldozata lett. A holttestre rátaláló tapasztalt nyomkövető és az ügynök együtt próbál a bűnügy végére járni, ám a zárkózott, bizalmatlan helyiek nem segítik az ügy felgöngyölítését. Ráadásul az Egyesült Államok egyik legelszigeteltebb térségében a legtöbb gyilkossági ügyet sosem oldják meg, a legtöbb bűnözőt sosem fogják el.",
+        "image": "https://image.tmdb.org/t/p/w500/gVrrudTjz53pCWBKcWErP5yBPt4.jpg",
+        "date": "2017-08-03",
+        "score": 7.442,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10515",
+        "title_hu": "Laputa - Az égi palota",
+        "title_en": "Wind River",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Animation",
+            "Action",
+            "Family"
+        ],
+        "description": "Pazu, az árva és Sheeta, az égből pottyant lány fel akarják kutatni a mesés repülő civilizációt, de a gonosz, pénzéhes ügynök, Muska a nyomukba ered, így kénytelenek lesznek megmenteni.",
+        "image": "https://image.tmdb.org/t/p/w500/s2AeHSZUBy71VX0RlnN0sGuMO3S.jpg",
+        "date": "1986-08-02",
+        "score": 7.971,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1948",
+        "title_hu": "Crank - Felpörögve",
+        "title_en": "Forgotten Island",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "Chev Chelios telefonhívásra ébred. A telefonban közlik vele, hogy megmérgezték, s már csak egy órája van hátra. Cheliosnak rohannia kell az életéért. Csak úgy képes lelassítani a szívét leállító mérget, ha testében folyamatosan magasan tartja az adrenalin szintet! Ahogy az óra sebesen ketyeg, Chelios nagy zűrzavart okoz Los Angeles utcáin, s mindenkit elsöpör, aki az útjába mer állni. Meg kell mentenie szerelmét, ki kell cseleznie az őt üldöző fejvadászokat, s meg kell találnia az ellenanyagot is, mielőtt szíve végleg feladja.",
+        "image": "https://image.tmdb.org/t/p/w500/sZ4JCoKJG3MFTNrdVNGK4wip01j.jpg",
+        "date": "2006-08-31",
+        "score": 6.672,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_228794",
+        "title_hu": "Vizio e provocazione",
+        "title_en": "Kubo and the Two Strings",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Carlo egy fogadót vezet. Felesége, Amelia számára azonban sokkal inkább egy gonosz gazda, aki kihasználja a lányt a konyhában és az ágyban, anélkül, hogy valaha is egy gyengéd gesztussal kedveskedne neki. Amelia, akit elszomorít a házassága, úgy próbál elmenekülni a valóság elől, hogy a férjével folytatott kapcsolatát Rolandóval, a fogadó egyik vendégével való viszonyba visz át, és arról álmodik, hogy elszökik vele.",
+        "image": "https://image.tmdb.org/t/p/w500/zthAXgufaVB7go6yTOME1pj2xkb.jpg",
+        "date": "1995-12-15",
+        "score": 5.4,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_353486",
+        "title_hu": "Jumanji: Vár a dzsungel",
+        "title_en": "Provocation",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "description": "Négy tinédzsert beszippant egy varázslatos videojáték a Jumanji világába, egy orrszarvúkkal, mérgeskígyókkal, illetve csapdákkal és rejtvényekkel tarkított dzsungelbe. Hamar rájönnek, csak úgy tudnak megmenekülni, ha összedolgoznak, hogy  befejezzék a játékot.",
+        "image": "https://image.tmdb.org/t/p/w500/nxjY10Raelg0P38vQpxmg9fQXl3.jpg",
+        "date": "2017-12-20",
+        "score": 6.824,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1357633",
+        "title_hu": "俺だけレベルアップな件 -ReAwakening-",
+        "title_en": "Jumanji: Welcome to the Jungle",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Animation"
+        ],
+        "description": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!",
+        "image": "https://image.tmdb.org/t/p/w500/gjemx47qD8xtuuGcsdWqlFXWR0b.jpg",
+        "date": "2024-11-26",
+        "score": 7.163,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_158011",
+        "title_hu": "A hívás",
+        "title_en": "Never Let Go",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "description": "Amikor egy tapasztalt 911-es diszpécser sorsfordító hívást kap egy tinédzser lánytól, akit épp az imént raboltak el, ráébred, hogy szembe kell néznie a múltjából származó gyilkossal, ha meg akarja menteni a lány életét.",
+        "image": "https://image.tmdb.org/t/p/w500/pktbzokk9kB1MrJpJxZ9RaGKTjv.jpg",
+        "date": "2013-03-14",
+        "score": 6.788,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_19898",
+        "title_hu": "Pandorum",
+        "title_en": "Multwoh",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Horror",
+            "Mystery",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "description": "Akár a bibliai Noé bárkája, a pusztulásra ítélt Földről űrhajó indul útnak a távoli Tanisz bolygóra. Az Elysium szállítmánya hatvanezer ember, akik hibernált állapotban teszik meg a több mint száz évig tartó utat, rájuk vár majd a feladat, hogy a magukkal vitt állat- és növényfajok példányaival biztosítsák az emberiség túlélését. Csak a kétévente váltott legénység van ébren. Amikor Payton és Bower felébred a fagyasztott álomból, semmire sem emlékeznek: nem tudják, kik ők, honnan jöttek, mi a feladatuk. Csupán egy biztos, hogy az Elysium reaktorával gondok vannak, és a hajó fedélzetén különös lények garázdálkodnak.",
+        "image": "https://image.tmdb.org/t/p/w500/kvldFJaVxPiiHjEOukG2iN1tKvt.jpg",
+        "date": "2009-09-08",
+        "score": 6.606,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_44564",
+        "title_hu": "A dilemma",
+        "title_en": "How the Grinch Stole Christmas!",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Ronny, a megrögzött agglegény, és Nick, a boldog házasember főiskola óta tűzön-vízen át kitartottak egymás mellett. Most társak egy autótervező cégnél, és egy álomprojecten dolgoznak, ami befuttatná a cégüket. Ronny barátnőjével, Beth-szel és Nick feleségével, Genevával az oldalukon egyszerűen verhetetlenek. Ám Ronny világa a feje tetejére áll, amikor véletlenül meglátja Genevát egy másik férfival, és a fejébe veszi, hogy kideríti, hányadán állnak a dolgok. Magánnyomozása komikus káoszba torkollik, és megtudja, hogy Nicknek is megvannak a maga kis titkai. Az óra ketyeg, a feszültség nő, ahogy közeledik karrierjük legfontosabb prezentációja, és Ronnynak mérlegelnie kell, hogy mi történik, ha feltárja az igazságot a barátjának.",
+        "image": "https://image.tmdb.org/t/p/w500/2uDqZCEJzgpO5rU5A6402aOvaWY.jpg",
+        "date": "2011-01-13",
+        "score": 5.351,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_13377",
+        "title_hu": "How the Grinch Stole Christmas!",
+        "title_en": "SPL: Kill Zone",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy"
+        ],
+        "description": "Chan, an articulate senior detective nearing the end of his career, is taking care of the daughter of a witness killed by ruthless crime lord Po. Martial arts expert Ma is set to take over as head of the crime unit, replacing Chan who wants an early retirement.",
+        "image": "https://image.tmdb.org/t/p/w500/7ir0iRuPK9OEuH569cp0nF5CJce.jpg",
+        "date": "1966-12-18",
+        "score": 7.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_639721",
+        "title_hu": "Addams Family 2.",
+        "title_en": "Jerry & Marge Go Large",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Family",
+            "Comedy",
+            "Fantasy",
+            "Adventure"
+        ],
+        "description": "Gustavo és Mortenzia azt tapasztalják, gyermekeik kezdenek hátat fordítani nekik. A családfő remek ötlettel áll elő: mi más hozhatná újra össze a galád családot, mint egy vérbeli Addams-vakáció? Országon átívelő, rázós kalandjaik során számtalan gyanútlan figurába botlanak bele. Bármerre is járnak, nem tagadják meg jól ismert, rémisztően különc önmagukat.",
+        "image": "https://image.tmdb.org/t/p/w500/uHPlLD8HH7KyYFaBVRdeDHMCFNa.jpg",
+        "date": "2021-10-01",
+        "score": 6.92,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_999243",
+        "title_hu": "Pokoli nyár",
+        "title_en": "In a New York Minute",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Comedy",
+            "Mystery"
+        ],
+        "description": "Amikor a 24 éves Jason Hochberg a Pineway-i táborba érkezik tanácsadóként, legnagyobb problémájaként nem találja a közös hangot az ottani tizenéves munkatársaival. Nemrég egy álarcos gyilkos megölte a tábor vezetőit, Johnt és Kathy-t, s úgy tűnik, ismét lecsapni készül.",
+        "image": "https://image.tmdb.org/t/p/w500/dZIX1NbzjsAhBkMvoVGxQsgE0yI.jpg",
+        "date": "2025-04-03",
+        "score": 5.5,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_571285",
+        "title_hu": "In a New York Minute",
+        "title_en": "Honey",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Honey Daniels dreams of making a name for herself as a hip-hop choreographer. When she's not busy hitting downtown clubs with her friends, she teaches dance classes at a nearby community center in Harlem, N.Y., as a way to keep kids off the streets. Honey thinks she's hit the jackpot when she meets a hotshot director casts her in one of his music videos. But, when he starts demanding sexual favors from her, Honey makes a decision that will change her life.",
+        "image": "https://image.tmdb.org/t/p/w500/p4VzQIn8g3pUUYBcSR6iviIQfzn.jpg",
+        "date": "2019-04-28",
+        "score": 4.3,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10028",
+        "title_hu": "Honey",
+        "title_en": "Game Over, Man!",
+        "type": "film",
+        "genres": [
+            "Music",
+            "Drama",
+            "Romance"
+        ],
+        "description": "Honey Daniels egész életében arra várt, hogy megmutathassa a világnak, hogyan táncol és most csak egy lépés választja el ettől. A gyönyörű, szexis, ambiciózus lány nappal hip-hop órákat ad a helyi fiataloknak, éjszaka pedig egy diszkóban pultos, ahol a szolgálat lejárta után kiélheti táncos hajlamait a parketten. Itt figyel fel rá egy híres kliprendező és kéri fel háttértáncosnak. Honey igazi tehetsége hamar megmutatkozik, és karrierje üstökösként ível fel: nemsokára már ő koreografálja a nagy hip-hop sztárok klipjeit. Ám mindez túl szép ahhoz, hogy igaz legyen. Amilyen gyorsan vált valóra az álom, olyan gyorsan kezd semmivé foszlani.",
+        "image": "https://image.tmdb.org/t/p/w500/gnY6d7BoddAAQ8s42fxCJK8lL1A.jpg",
+        "date": "2003-12-05",
+        "score": 6.358,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_456750",
+        "title_hu": "Game Over, Man!",
+        "title_en": "Barton Fink",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy"
+        ],
+        "description": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+        "image": "https://image.tmdb.org/t/p/w500/58BnnYeQOTzdMBghZIH1tSH0REx.jpg",
+        "date": "2018-03-23",
+        "score": 5.47,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1649248",
+        "title_hu": "Finding Satoshi",
+        "title_en": "Hotel Stories",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "A humble young man is called in for a night shift. But once he arrives, the place turns into a nightmare of strange guests, violent apparitions and impossible horrors, trapping him inside a haunted hotel where no one truly leaves.",
+        "image": "https://image.tmdb.org/t/p/w500/kZ5Jum0zjl0g1IAVl258a77zx0c.jpg",
+        "date": "2026-04-22",
+        "score": 7.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1192548",
+        "title_hu": "Hannah Waddingham: Karácsony otthon",
+        "title_en": "K.O.",
+        "type": "film",
+        "genres": [
+            "Music"
+        ],
+        "description": "Köszöntse a karácsonyi időszakot az Emmy-díjas sztárral, Hannah Waddinghammel, aki különleges vendégeket fogad a londoni Coliseumban adott zenés, ünnepi műsorában.",
+        "image": "https://image.tmdb.org/t/p/w500/bWJ0dhkfERoYliUthmP4AVicE0B.jpg",
+        "date": "2023-11-21",
+        "score": 6.1,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1450599",
+        "title_hu": "KO",
+        "title_en": "The Inevitable Death of the Crab",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Drama",
+            "Adventure"
+        ],
+        "description": "Egy egykori MMA-harcos az egyik, általa évekkel korábban véletlenül megölt ellenfele eltűnt fiát keresi, szembeszállva egy brutálisan erőszakos marseille-i bűnbandával.",
+        "image": "https://image.tmdb.org/t/p/w500/uTbQg4zQ0eGXlKl8imLu64LLJQX.jpg",
+        "date": "2025-06-05",
+        "score": 6.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_675025",
+        "title_hu": "The Inevitable Death of the Crab",
+        "title_en": "Mission Pakal to Mars",
+        "type": "film",
+        "genres": [
+            "Thriller"
+        ],
+        "description": "An actress accidentally ends up in a room with a weird group of women claiming to be travelling in a secret high-tech space device to Mars.",
+        "image": "https://image.tmdb.org/t/p/w500/d5pR1usBcFZZVKh9E3prYWhV9Me.jpg",
+        "date": "2022-01-29",
+        "score": 8.2,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_504906",
+        "title_hu": "Misión Pakal a Marte",
+        "title_en": "The Raven",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Comedy"
+        ],
+        "description": "A fictionalized account of the last days of Edgar Allan Poe's life, in which the poet is in pursuit of a serial killer whose murders mirror those in the writer's stories.",
+        "image": "https://image.tmdb.org/t/p/w500/dpjakPrkcMdr895ot5ZTmcifaDw.jpg",
+        "date": "2016-03-07",
+        "score": 5.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1180611",
+        "title_hu": "Pussy Riot, rage against Poutine",
+        "title_en": "Pussy Riot: Rage Against Putin",
+        "type": "film",
+        "genres": [
+            "Documentary",
+            "Drama"
+        ],
+        "description": "Pussy Riot make a comeback after a long absence to stand with Ukraine. Their story and their struggle are told through archival footage and interviews with the group’s members.",
+        "image": "https://image.tmdb.org/t/p/w500/1UEPCN73TWK7uvJnUXG3u1IO5n4.jpg",
+        "date": "2023-09-19",
+        "score": 8.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_556574",
+        "title_hu": "Hamilton",
+        "title_en": "Hamilton",
+        "type": "film",
+        "genres": [
+            "History",
+            "Drama"
+        ],
+        "description": "A film Alexander Hamilton, az USA egyik alapító atyja és első pénzügyminisztere történetét mutatja be. Eredeti Broadway musical.",
+        "image": "https://image.tmdb.org/t/p/w500/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+        "date": "2025-09-05",
+        "score": 7.92,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9702",
+        "title_hu": "A vér kötelez",
+        "title_en": "Bound by Honor",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "description": "A film alapjául Jimmy Santiago Baca személyes tapasztalatai szolgáltak. Középpontjában 3 volt-barát áll: Paco, Cruz és Miklo. A történet 1972-ben kezdődik, a Három jóbarát egy Los Agelesi klán tagja. Mindhármuk életére hatással van ez a kemény alvilági élet és a kábí­tószer. Miklo a Sant Quentin-i börtönbe kerül, ahol \"otthonra\" talál. Cruz kiemelkedő tehetségű művésszé válik, ám a kábí­tószer-függősége tragédiához vezet. Paco rendőr lesz, s Mikloval találja magát szemben.",
+        "image": "https://image.tmdb.org/t/p/w500/iSYDhbb4E7PaYXyEfYyRSatu1PN.jpg",
+        "date": "1993-02-05",
+        "score": 8.21,
+        "age_rating": "16+",
+        "cover_nsfw": false
     }
 ]
