@@ -79935,5 +79935,41 @@
         "score": 89.99069162922412,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_300426",
+        "title_en": "Samsara Room",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Point-and-click",
+            "Puzzle",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "Samsara Room is the first game created by Studio Maarten, which would later become known as Rusty Lake. It is the precursor for the Cube Escape series, and contains similar puzzles that have been carried into the Rusty Lake games.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8t5y.jpg",
+        "date": "2013-08-16",
+        "score": 85.87165675155619,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_139447",
+        "title_en": "Neighbours back From Hell",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Point-and-click",
+            "Puzzle",
+            "Strategy",
+            "Adventure"
+        ],
+        "description": "There goes the neighborhood! Play the star of a cheeky TV Show who taking revenge on his horrible neighbor by constantly pranking him at home and around the world in the most creative and ludicrous ways.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2i3y.jpg",
+        "date": "2020-10-08",
+        "score": 82.23019420020213,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
