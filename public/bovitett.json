@@ -302473,34 +302473,41 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1030110",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_232890",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_565028",
         "tags": [
+            "urban gothic",
+            "mirror",
             "Horror",
+            "urban legend",
+            "bee",
+            "murder",
+            "evil",
+            "sequel",
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1047629",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_360776",
@@ -302508,34 +302515,48 @@
             "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1211065",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10539",
         "tags": [
+            "magic",
             "Family",
-            "Fantasy",
+            "Adventure",
+            "insect",
+            "garden",
+            "loss of loved one",
             "Animation",
-            "Adventure"
+            "Fantasy",
+            "england",
+            "based on novel or book",
+            "new york city"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1062722",
         "tags": [
-            "Fantasy",
+            "surgeon",
+            "supernatural",
             "Drama",
-            "Horror"
+            "reanimation",
+            "Fantasy",
+            "Horror",
+            "identity crisis",
+            "monster",
+            "based on novel or book",
+            "mad scientist"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_512735",
@@ -302543,7 +302564,7 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_23766",
@@ -302552,50 +302573,67 @@
             "Thriller"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_2289",
         "tags": [
-            "Romance",
             "War",
+            "Romance",
+            "Adventure",
+            "civil war",
+            "rape attempt",
+            "love of one's life",
+            "somber",
+            "desertion",
+            "north carolina",
             "History",
-            "Adventure"
+            "loss of loved one"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1003992",
         "tags": [
-            "Horror",
-            "Drama",
+            "TV Movie",
             "Mystery",
-            "TV Movie"
+            "Horror",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_150425",
         "tags": [
+            "based on anime",
+            "superhero",
+            "precure",
             "Family",
-            "Comedy",
             "Adventure",
             "Action",
             "Animation",
-            "Fantasy"
+            "supervillain",
+            "based on tv series",
+            "snow",
+            "Fantasy",
+            "anime",
+            "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_146239",
         "tags": [
-            "Comedy"
+            "artificial insemination",
+            "Comedy",
+            "sperm donor",
+            "remake"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_995584",
@@ -302603,31 +302641,34 @@
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_930600",
         "tags": [
+            "based on true story",
+            "possession",
             "Horror",
+            "demonic",
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1106003",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_369152",
         "tags": [
-            "Comedy",
-            "Crime"
+            "Crime",
+            "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_878966",
@@ -302635,7 +302676,7 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_477968",
@@ -302643,28 +302684,35 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_65291",
         "tags": [
+            "super power",
+            "superhero",
             "Adventure",
-            "Drama",
-            "Science Fiction",
             "Action",
             "Animation",
-            "Fantasy"
+            "Drama",
+            "Fantasy",
+            "based on comic",
+            "alien",
+            "woman director",
+            "Science Fiction"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1245833",
         "tags": [
-            "Music"
+            "концерт в центре им. вс. мейерхольда",
+            "Music",
+            "акустика"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_199175",
@@ -302672,16 +302720,23 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_65665",
         "tags": [
-            "Science Fiction",
-            "Animation"
+            "space war",
+            "mecha",
+            "alien invasion",
+            "romance",
+            "tragic event",
+            "Animation",
+            "tragedy",
+            "anime",
+            "Science Fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_85592",
@@ -302690,131 +302745,200 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_703845",
         "tags": [
+            "fairy tale",
             "Fantasy",
-            "Comedy"
+            "Comedy",
+            "silent film"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_652837",
         "tags": [
             "Romance",
+            "slice of life",
+            "based on short story",
+            "paraplegic",
+            "Animation",
             "Drama",
-            "Animation"
+            "love",
+            "relationship",
+            "based on novel or book",
+            "disability"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_262841",
         "tags": [
+            "small town",
+            "Action",
+            "monster truck",
+            "monster",
+            "live action and animation",
             "Comedy",
-            "Science Fiction",
-            "Action"
+            "pickup truck",
+            "Science Fiction"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_124459",
         "tags": [
+            "magic",
+            "friendship",
+            "magic show",
+            "las vegas",
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_805320",
         "tags": [
+            "Thriller",
+            "spin off",
+            "barcelona, spain",
             "Horror",
-            "Science Fiction",
-            "Thriller"
+            "blindfold",
+            "based on novel or book",
+            "Science Fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_336004",
         "tags": [
+            "criminal underworld",
+            "stolen money",
+            "mafia boss",
             "Crime",
+            "Action",
+            "shootout",
             "TV Movie",
             "Drama",
-            "Action",
-            "Thriller"
+            "heist",
+            "bus hijacking",
+            "Thriller",
+            "hostage situation"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_499701",
         "tags": [
+            "museum",
             "Family",
+            "Adventure",
+            "quicksand",
+            "based on cartoon",
+            "peru",
+            "fox",
+            "jungle",
             "Comedy",
-            "Adventure"
+            "lost city"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1196356",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_713",
         "tags": [
             "Romance",
-            "Drama"
+            "love triangle",
+            "secret love",
+            "Drama",
+            "beach",
+            "adultery",
+            "culture clash",
+            "isolation",
+            "jealousy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_50619",
         "tags": [
-            "Fantasy",
+            "supernatural creature",
+            "hybrid",
             "Romance",
-            "Adventure"
+            "werewolf",
+            "Adventure",
+            "teen movie",
+            "Fantasy",
+            "sequel",
+            "based on novel or book",
+            "vampire"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_19256",
         "tags": [
             "War",
-            "Science Fiction",
+            "edited from tv series",
+            "mecha",
+            "alternate version",
             "Action",
-            "Animation"
+            "real robot",
+            "Animation",
+            "anime",
+            "gundam",
+            "Science Fiction"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_7459",
         "tags": [
             "Family",
-            "Comedy",
+            "Adventure",
             "Action",
-            "Adventure"
+            "chimpanzee",
+            "loss of loved one",
+            "family",
+            "duringcreditsstinger",
+            "Comedy",
+            "woman director",
+            "car race",
+            "live action remake"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1074074",
         "tags": [
-            "Drama"
+            "father daughter relationship",
+            "movie",
+            "Drama",
+            "director",
+            "troubled past",
+            "family estrangement",
+            "struggling actress"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_365455",
@@ -302822,18 +302946,25 @@
             "History"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_974262",
         "tags": [
-            "Fantasy",
-            "Comedy",
+            "cinderella",
             "Family",
-            "Adventure"
+            "Adventure",
+            "spin off",
+            "time travel",
+            "musical",
+            "Fantasy",
+            "descendant",
+            "sequel",
+            "Comedy",
+            "wonderland"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_104985",
@@ -302842,22 +302973,36 @@
             "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL20090688W",
         "tags": [
-            "Young Adult"
+            "Fiction, romance, contemporary",
+            "New York Times bestseller",
+            "Fiction, gay",
+            "Gay men, fiction",
+            "Young Adult",
+            "Fiction, humorous",
+            "nyt:trade-fiction-paperback=2019-06-02",
+            "Presidents, united states, fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "ol_OL5819895W",
         "tags": [
-            "Adventure"
+            "dwarves",
+            "Adventure",
+            "Magic",
+            "Juvenile fiction",
+            "Fantasy",
+            "Fiction",
+            "Dragons",
+            "violence"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
