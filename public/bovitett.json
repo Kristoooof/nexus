@@ -302179,37 +302179,40 @@
     {
         "id": "tmdb_348964",
         "tags": [
-            "Family",
-            "Comedy"
+            "Comedy",
+            "short film",
+            "Family"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_386874",
         "tags": [
-            "Drama"
+            "Drama",
+            "softcore"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_219598",
         "tags": [
+            "Comedy",
             "Family",
-            "Adventure",
-            "Comedy"
+            "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_345188",
         "tags": [
+            "short film",
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1180999",
@@ -302218,7 +302221,7 @@
             "Horror"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1251610",
@@ -302226,84 +302229,124 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_407375",
         "tags": [
-            "Drama",
+            "shooter",
+            "sequel",
+            "Action",
             "War",
-            "Action"
+            "sniper",
+            "battle",
+            "Drama",
+            "gas",
+            "gun",
+            "mission"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_35044",
         "tags": [
+            "life experience",
+            "massage",
+            "art dealer",
             "Drama",
-            "TV Movie"
+            "emotional experience",
+            "mystic",
+            "TV Movie",
+            "massage therapist"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_49953",
         "tags": [
+            "global warming",
+            "sea turtle",
             "Family",
-            "Animation"
+            "friendship",
+            "sea creature",
+            "Animation",
+            "3d animation",
+            "underwater"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_345920",
         "tags": [
+            "shocking",
+            "death",
+            "despair",
             "Drama",
-            "Romance"
+            "friendship",
+            "Romance",
+            "grief",
+            "loss",
+            "group therapy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9279",
         "tags": [
+            "shopping mall",
+            "christmas party",
+            "minnesota",
+            "husband wife relationship",
+            "holiday",
+            "Comedy",
             "Family",
+            "santa claus",
             "Adventure",
-            "Comedy"
+            "puppet"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1169516",
         "tags": [
+            "Action",
             "Comedy",
-            "Adventure",
-            "Action"
+            "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_676701",
         "tags": [
             "Fantasy",
-            "Family",
-            "Animation",
             "Comedy",
+            "Family",
+            "3d animation",
+            "Animation",
             "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1752122",
         "tags": [
-            "Drama"
+            "short film",
+            "Drama",
+            "pregnancy",
+            "drama",
+            "mothers",
+            "dark comedy",
+            "baby shower"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_227549",
@@ -302311,73 +302354,117 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_5680",
         "tags": [
+            "magic spell",
             "Fantasy",
+            "sexual harassment",
+            "las vegas",
             "Horror",
-            "Comedy"
+            "beneficiary",
+            "hostess",
+            "Comedy",
+            "warlock",
+            "inheritance"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11906",
         "tags": [
-            "Horror"
+            "whodunit",
+            "Horror",
+            "boarding school",
+            "witch",
+            "dancing",
+            "dance",
+            "germany",
+            "ballet"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_179",
         "tags": [
             "Crime",
-            "Thriller"
+            "new york city",
+            "assassination",
+            "Thriller",
+            "resistance",
+            "africa",
+            "fbi",
+            "dictator",
+            "destruction of a civilization"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11862",
         "tags": [
+            "baby",
+            "Comedy",
             "Family",
-            "Comedy"
+            "aging",
+            "pregnancy",
+            "parent child relationship",
+            "midlife crisis",
+            "confidence",
+            "daughter"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9922",
         "tags": [
-            "Science Fiction",
+            "inspiration",
+            "lawlessness",
+            "Action",
+            "based on novel or book",
+            "army",
+            "horseback riding",
+            "anti hero",
+            "wasteland",
             "Adventure",
-            "Action"
+            "Science Fiction"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10837",
         "tags": [
             "Fantasy",
-            "Family",
-            "Animation",
+            "cartoon duck",
+            "treasure hunt",
+            "egypt",
             "Comedy",
-            "Adventure"
+            "Family",
+            "villain",
+            "pyramid",
+            "Animation",
+            "Adventure",
+            "duck",
+            "wonderlamp"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_698779",
         "tags": [
+            "erotic movie",
             "Romance",
+            "softcore",
             "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
