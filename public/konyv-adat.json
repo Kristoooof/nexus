@@ -6763,5 +6763,35 @@
         "score": 0,
         "age_rating": "Unknown",
         "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL20090688W",
+        "title_en": "Red, White & Royal Blue",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Young Adult"
+        ],
+        "author": "Casey McQuiston",
+        "image": "https://covers.openlibrary.org/b/id/9171544-M.jpg",
+        "date": "2019",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
+    },
+    {
+        "id": "ol_OL5819895W",
+        "title_en": "Eragon",
+        "title_hu": "",
+        "type": "konyv",
+        "genres": [
+            "Adventure"
+        ],
+        "author": "Christopher Paolini",
+        "image": "https://covers.openlibrary.org/b/id/13921600-M.jpg",
+        "date": "2000",
+        "score": 0,
+        "age_rating": "Unknown",
+        "cover_nsfw": false
     }
 ]
