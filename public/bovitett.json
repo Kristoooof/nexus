@@ -303009,23 +303009,32 @@
         "id": "tmdb_930438",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_430417",
         "tags": [
-            "Drama"
+            "Drama",
+            "abstract art",
+            "abstract cinema"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10435",
         "tags": [
-            "Drama"
+            "success",
+            "politics",
+            "biography",
+            "family",
+            "Drama",
+            "mccarthyism",
+            "escape",
+            "based on true story"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_470138",
@@ -303033,17 +303042,21 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_950863",
         "tags": [
-            "Science Fiction",
+            "anime",
+            "based on manga",
             "Animation",
-            "Adventure"
+            "space",
+            "Science Fiction",
+            "Adventure",
+            "alien"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_547189",
@@ -303051,50 +303064,72 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_72279",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "holy fool",
+            "world war ii"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11041",
         "tags": [
+            "beverly hills",
             "Comedy",
-            "Family"
+            "based on tv series",
+            "woman director",
+            "oil",
+            "billionaire",
+            "Family",
+            "arkansas",
+            "hillbilly"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_345200",
         "tags": [
             "Comedy",
+            "surrealism",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1750171",
         "tags": [
-            "Action"
+            "championship match",
+            "tag team",
+            "lucha libre",
+            "professional wrestling",
+            "sports entertainment",
+            "masked wrestler",
+            "Action",
+            "competitive"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_572630",
         "tags": [
+            "idol group",
+            "japan",
+            "based on manga",
             "Comedy",
-            "Action"
+            "yakuza",
+            "Action",
+            "gokudo"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_449512",
@@ -303102,17 +303137,21 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_180894",
         "tags": [
-            "Thriller",
+            "ninja",
+            "drug lord",
+            "Crime",
             "Action",
-            "Crime"
+            "Thriller",
+            "gaijin",
+            "martial arts"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_652041",
@@ -303120,16 +303159,23 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_16082",
         "tags": [
+            "ballet",
+            "escape",
+            "Drama",
+            "emigrant",
             "Thriller",
-            "Drama"
+            "airplane crash",
+            "tap dancing",
+            "siberia",
+            "kgb"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_640192",
@@ -303137,17 +303183,24 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_877703",
         "tags": [
+            "based on movie",
+            "werewolf",
+            "based on tv series",
+            "sequel",
+            "banshee",
+            "TV Movie",
+            "supernatural creature",
             "Action",
-            "Fantasy",
-            "TV Movie"
+            "northern california",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1219515",
@@ -303155,62 +303208,89 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_110762",
         "tags": [
-            "Drama"
+            "Drama",
+            "brother sister ",
+            "brother and sister"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1575207",
         "tags": [
+            "based on novel or book",
+            "reformation",
+            "campus",
+            "sequel",
             "Drama",
-            "Romance"
+            "love",
+            "Romance",
+            "couple",
+            "painter"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_784146",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_364",
         "tags": [
+            "superhero",
+            "crime fighter",
+            "darkness",
             "Action",
-            "Fantasy"
+            "Fantasy",
+            "double life",
+            "villain",
+            "hallucination",
+            "corruption"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_357057",
         "tags": [
-            "Drama"
+            "death",
+            "immigrant",
+            "woman director",
+            "Drama",
+            "class differences"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1422133",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_502033",
         "tags": [
+            "drums",
+            "Music",
+            "sign languages",
+            "addiction",
+            "hearing impaired",
             "Drama",
-            "Music"
+            "heavy metal",
+            "missouri",
+            "deaf"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1546844",
@@ -303218,35 +303298,50 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_15371",
         "tags": [
-            "Comedy",
+            "treasure",
+            "castle",
             "Animation",
+            "Comedy",
+            "casino",
+            "samurai",
+            "count",
             "Crime",
-            "Adventure"
+            "thief",
+            "Adventure",
+            "clock tower"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_12146",
         "tags": [
+            "based on novel or book",
+            "new mexico",
             "Western",
+            "daughter",
+            "mexico",
+            "apache nation",
             "Thriller",
+            "baby-snatching",
+            "frontier",
             "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_656097",
         "tags": [
-            "Drama"
+            "Drama",
+            "gerda"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
