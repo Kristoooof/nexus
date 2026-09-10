@@ -305409,44 +305409,64 @@
     {
         "id": "tmdb_8277",
         "tags": [
-            "Comedy"
+            "college",
+            "debauchery",
+            "Comedy",
+            "sex comedy",
+            "frat party",
+            "spin off",
+            "sequel",
+            "fraternity"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1130760",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_440021",
         "tags": [
-            "Horror",
+            "Mystery",
+            "time loop",
+            "slasher",
+            "college",
+            "young adult",
+            "college student",
+            "stabbed to death",
+            "murder",
             "Comedy",
-            "Mystery"
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1447917",
         "tags": [
+            "sexy",
             "Romance",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1055780",
         "tags": [
+            "iranian cinema",
             "History",
-            "Documentary"
+            "biography",
+            "filmmaker",
+            "Documentary",
+            "portrait of a filmmaker",
+            "film director"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_403092",
@@ -305454,47 +305474,75 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_639999",
         "tags": [
-            "Action",
-            "Family",
-            "Animation",
+            "Adventure",
             "Science Fiction",
-            "Adventure"
+            "Action",
+            "Animation",
+            "neon",
+            "Family",
+            "kid",
+            "mission",
+            "spy",
+            "espionage",
+            "based on cartoon",
+            "agent"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_157350",
         "tags": [
+            "Adventure",
             "Science Fiction",
+            "injection",
             "Action",
-            "Adventure"
+            "dystopia",
+            "futuristic",
+            "future",
+            "based on novel or book",
+            "transhumanism",
+            "mind control"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_50014",
         "tags": [
-            "Drama"
+            "exploitation",
+            "maid",
+            "writer",
+            "mississippi river",
+            "racial segregation",
+            "Drama",
+            "based on novel or book",
+            "racism"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_406785",
         "tags": [
+            "peer pressure",
+            "repression",
+            "conformity",
+            "office",
+            "human body",
             "Animation",
             "Family",
+            "loneliness",
+            "repetition",
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_128607",
@@ -305502,26 +305550,38 @@
             "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_715931",
         "tags": [
             "History",
-            "War",
-            "Drama"
+            "united states of america (usa)",
+            "based on true story",
+            "slavery",
+            "Drama",
+            "black slave",
+            "escape from slavery",
+            "War"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_961268",
         "tags": [
+            "best friend",
             "Action",
-            "Thriller"
+            "ballerina",
+            "angry",
+            "revenge",
+            "wish fulfillment",
+            "bodyguard",
+            "Thriller",
+            "swordswoman"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1589991",
@@ -305529,7 +305589,7 @@
             "Mystery"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1186555",
@@ -305537,7 +305597,7 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_60815",
@@ -305545,144 +305605,203 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_437616",
         "tags": [
+            "Mystery",
             "Thriller",
-            "Horror",
-            "Mystery"
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11853",
         "tags": [
+            "tough girl",
+            "wild west",
+            "small western town",
             "Romance",
-            "Western"
+            "Western",
+            "fast draw",
+            "revenge",
+            "pistol duel",
+            "blonde"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10169",
         "tags": [
+            "pellet gun",
+            "phrenology",
+            "vietnam veteran",
             "Crime",
-            "Comedy"
+            "Comedy",
+            "garbageman "
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11689",
         "tags": [
             "Action",
+            "crime fighter",
+            "police",
+            "police academy",
             "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1650883",
         "tags": [
-            "Crime",
-            "Action"
+            "Action",
+            "Crime"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_837335",
         "tags": [
-            "Comedy",
+            "archeology",
+            "complex",
+            "burlesque",
+            "playful",
             "Drama",
-            "Fantasy"
+            "Fantasy",
+            "1980s",
+            "magic realism",
+            "Comedy",
+            "englishman abroad"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_750253",
         "tags": [
-            "Crime",
+            "ex-husband ex-wife relationship",
+            "police investigation",
+            "scotland",
+            "based on movie",
+            "young boy",
+            "missing child",
             "Drama",
-            "Thriller"
+            "improvisation",
+            "Thriller",
+            "Crime"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_70345",
         "tags": [
-            "Horror",
-            "Science Fiction"
+            "turns into animal",
+            "Science Fiction",
+            "snake",
+            "transformation",
+            "college student",
+            "experiment",
+            "cobra",
+            "mad scientist",
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_81827",
         "tags": [
-            "Drama"
+            "Drama",
+            "stepmother",
+            "blackmail"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_12107",
         "tags": [
+            "research laboratory",
+            "alter ego",
             "Science Fiction",
+            "dean",
+            "duringcreditsstinger",
+            "family",
+            "mad scientist",
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1500099",
         "tags": [
+            "acceptance",
+            "celestial",
+            "pregnancy",
+            "grief",
             "Animation",
+            "loss of child",
             "Family",
+            "Drama",
             "Fantasy",
-            "Drama"
+            "loss",
+            "child loss"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9923",
         "tags": [
-            "Crime",
             "Action",
+            "strip club",
+            "based on true story",
+            "bounty hunter",
+            "fbi",
+            "Drama",
+            "action hero",
             "Thriller",
-            "Drama"
+            "Crime"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_823610",
         "tags": [
+            "3d animation",
             "Animation",
-            "Family"
+            "Family",
+            "sharks"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_484198",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_382511",
         "tags": [
+            "stingy",
+            "daughter",
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1459879",
@@ -305690,16 +305809,23 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_4507",
         "tags": [
+            "pregnancy",
+            "adultery",
+            "sexuality",
             "Romance",
+            "husband wife relationship",
+            "infidelity",
+            "jealousy",
             "Drama",
+            "prostitute",
             "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
