@@ -80135,5 +80135,40 @@
         "score": 90.0,
         "age_rating": "16+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_45861",
+        "title_en": "The King of Fighters: Dream Match 1999",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Fighting"
+        ],
+        "description": "The King of Fighters: Dream Match 1999 is a remake and port of The King of Fighters '98.\nThis version runs at 60 frames per second and contains a rearranged soundtrack and backgrounds remodeled in 3D, as well as additional features such as conceptual galleries and sound test modes.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4afy.jpg",
+        "date": "1999-06-24",
+        "score": 80.01942049250368,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_20046",
+        "title_en": "Wasteland 2: Director's Cut",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Simulator",
+            "Strategy",
+            "Turn-based strategy (TBS)",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "From the Producer of the original Fallout comes Wasteland 2, the sequel to the first-ever post-apocalyptic computer RPG.\n\nThe Wasteland's hellish landscape is waiting for you to make your mark... or die trying. With over 80 hours of gameplay, you will deck out your Desert Ranger squad with the most devastating weaponry this side of the fallout zone, test the limits of your strategy skills, and bring justice to the wasteland.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qso.jpg",
+        "date": "2015-10-13",
+        "score": 80.00140774382005,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
