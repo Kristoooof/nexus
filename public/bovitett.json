@@ -306750,76 +306750,121 @@
     {
         "id": "tmdb_11459",
         "tags": [
+            "heroism",
             "Family",
-            "Adventure",
-            "Comedy"
+            "friendship",
+            "high school",
+            "superhero",
+            "Comedy",
+            "mockery",
+            "loyalty",
+            "mission",
+            "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_6466",
         "tags": [
-            "Horror"
+            "sequel",
+            "woods",
+            "murder",
+            "psychopath",
+            "sadism",
+            "Horror",
+            "new jersey",
+            "marijuana"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_575299",
         "tags": [
-            "Drama"
+            "sex scandal",
+            "infidelity",
+            "husband wife relationship",
+            "Drama",
+            "man woman relationship",
+            "public sex",
+            "jealousy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1648678",
         "tags": [
-            "Family",
-            "Documentary"
+            "Documentary",
+            "orangutan",
+            "Family"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_429422",
         "tags": [
+            "gangster",
+            "Crime",
+            "based on true story",
             "Drama",
-            "Crime"
+            "biography"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_13685",
         "tags": [
-            "Drama",
+            "psychiatric hospital",
+            "robbery",
             "Crime",
-            "Comedy"
+            "Comedy",
+            "heist",
+            "Drama",
+            "sibling relationship",
+            "burglar",
+            "motel",
+            "language barrier"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_580",
         "tags": [
+            "sequel",
+            "revenge",
             "Thriller",
+            "dying and death",
+            "animal attack",
+            "shark attack",
+            "Adventure",
             "Horror",
-            "Adventure"
+            "bahamas",
+            "creature"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_2275",
         "tags": [
+            "police chief",
+            "Mystery",
             "Thriller",
             "Crime",
-            "Mystery"
+            "rape",
+            "post-traumatic stress disorder (ptsd)",
+            "georgia",
+            "homicide",
+            "based on novel or book",
+            "politics"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_407917",
@@ -306827,26 +306872,40 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_680058",
         "tags": [
+            "natural disaster",
+            "based on true story",
             "Drama",
-            "Documentary"
+            "Documentary",
+            "monsoon",
+            "thailand",
+            "flooding",
+            "cave",
+            "rescue"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11076",
         "tags": [
+            "Family",
+            "canada",
+            "tragedy",
+            "inventor",
             "Drama",
+            "loss of loved one",
+            "daughter",
             "Adventure",
-            "Family"
+            "aviation",
+            "rescue"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1735723",
@@ -306854,7 +306913,7 @@
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_362345",
@@ -306862,7 +306921,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1457648",
@@ -306870,17 +306929,24 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9454",
         "tags": [
-            "Drama",
+            "arranged marriage",
+            "gypsy",
+            "Romance",
             "Comedy",
-            "Romance"
+            "fairy tale",
+            "france",
+            "Drama",
+            "leonardo da vinci",
+            "prince",
+            "child abuse"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_477274",
@@ -306888,7 +306954,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_609819",
@@ -306896,7 +306962,7 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1105602",
@@ -306905,7 +306971,7 @@
             "Romance"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_343475",
@@ -306914,6 +306980,6 @@
             "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
