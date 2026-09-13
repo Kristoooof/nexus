@@ -132405,5 +132405,637 @@
         "score": 6.943,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1723658",
+        "title_hu": "Nueva York",
+        "title_en": "International Departures",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Deniz has won the Greencard and is preparing to start this journey along with the sad, pessimistic, indifferent, angry, hopeful, and worried reactions of all.",
+        "image": "https://image.tmdb.org/t/p/w500/xQfqmau1qmMT9OuKvrGSAbMln8g.jpg",
+        "date": "2023-10-12",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1103021",
+        "title_hu": "Hoteles",
+        "title_en": "Naked Ambition 3D",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "An honors graduate in literature, Wyman is stuck writing cheap erotic fiction, but somehow ends up starring in an AV film. Suddenly a porn superstar in Japan, he discovers a whole new world fraught with pleasure, pain and more twists and turns than he or the audience expects.",
+        "image": "https://image.tmdb.org/t/p/w500/yPuo0eiLJLJQCTVi4545apVyMnm.jpg",
+        "date": "2004-01-15",
+        "score": 4.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1123550",
+        "title_hu": "Pedaços",
+        "title_en": "Never Back Down 2: The Beatdown",
+        "type": "film",
+        "genres": [],
+        "description": "Four fighters from different backgrounds come together to train under an ex MMA rising star and then ultimately have to fight each other and the traitor in their midst.",
+        "image": "https://image.tmdb.org/t/p/w500/zzgVIo8H42Y6WXcXCvbm0M4Dq9H.jpg",
+        "date": "2014-10-27",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_961667",
+        "title_hu": "Fluorescent Adolescent",
+        "title_en": "Mi reino",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "An elderly hoarder seeks to overcome time and memory to find closure and redemption in the twilight of his life.",
+        "image": "https://image.tmdb.org/t/p/w500/1FEq0fR7i2g8S9usqtIkuvgdJJW.jpg",
+        "date": "2022-11-07",
+        "score": 5.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_849159",
+        "title_hu": "Vahşi Sevgili",
+        "title_en": "Nighthawk",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "A badger is lying motionless on a local road. A police patrol approaches the body in the dark. They soon realise that the animal is not dead; the badger is dead drunk! When the police attempt to drag the creature off the road, he wakes up and things take a strange turn.",
+        "image": "https://image.tmdb.org/t/p/w500/swqGOzls4phOUvmZ83APubKxsD3.jpg",
+        "date": "1977-01-01",
+        "score": 8.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_489988",
+        "title_hu": "Három egyforma idegen",
+        "title_en": "Blood Father",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "New York, 1980: három fiatal egészen véletlenül felfedezi, hogy ők valójában hármasikrek, akiket születésükkor választottak el egymástól. Örömteli egymásra találásuk világhírnevet szerez számukra – ám történetük olyan titkot fejt fel, amely messze túlmutat rajtuk, és amely örökre megváltoztathatja azt, amit az emberi természetről gondolunk eddig.",
+        "image": "https://image.tmdb.org/t/p/w500/1gq4FF5nwCeDHgtCT3TsZeAP9Kr.jpg",
+        "date": "2018-06-29",
+        "score": 7.3,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_37021",
+        "title_hu": "らんま1/2 劇場版 決戦桃幻郷!花嫁を奪りもどせ!!",
+        "title_en": "Same Here",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Animation",
+            "Adventure"
+        ],
+        "description": "After a night of teenage confessions, three friends awaken to a day that will test their loyalties and hidden desires. Unexpected messages, conflicting advice, and silent vigils turn what seemed like a simple reunion into a mirror of invisible tensions. In the heart of a building, under the gaze of someone watching above, it becomes clear that not all feelings are what they seem…",
+        "image": "https://image.tmdb.org/t/p/w500/wmYWCVWCM81XiQTI0I7EWG5y5ur.jpg",
+        "date": "1992-08-02",
+        "score": 7.955,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_36897",
+        "title_hu": "Pokémon: Mewtwo visszatér",
+        "title_en": "Operation Finale",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Family",
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "description": "Ash, és barátai a Johto vidék egy újabb részének, a felfedezésére készülnek, ám lekésik a buszt, így az ott élő Pokémon kutató lányhoz, Lunához fordulnak segítségért. Mewtwo és a többi klón Pokémon egy eldugott fennsíkon élnek magányosan és számkivetten, de békében, távol az emberektől. Giovanni, Mewtwo alkotója, és legnagyobb ellensége, az egyetlen ember akinek memóriájából nem törlődött ki Mew és a klón Mewtwo csatájának emléke, nem nyugszik, amíg vissza nem szerzi szuperklónját. Emberei és a Rakéta Csapat tagjai felfedik a klónok rejtekhelyét…",
+        "image": "https://image.tmdb.org/t/p/w500/6m7YPXHdsGOYI27tHrrzJUIbHQY.jpg",
+        "date": "2001-08-17",
+        "score": 6.763,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11647",
+        "title_hu": "Szigorúan piszkos ügyek 2.",
+        "title_en": "Three Colors: Red",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "Kwun, a Triád vezéralakjának meggyilkolása hatalmi harcot indít el a Triád vezetői között. Mindannyian ugrásra készen várják a fejleményeket, azaz a Kwun család összeomlását. Mindenki meglepetésére a csatározás végső nyertese a legkevésbé esélyes jelölt, Hau lesz, Kwun fia. Szinte erőfeszítés nélkül sikerül túlélnie a többiek árulását és megakadályoznia, hogy elmozdítsák helyéről.",
+        "image": "https://image.tmdb.org/t/p/w500/53cRJIVEfRWODe4NRkDJcD82it9.jpg",
+        "date": "2003-10-01",
+        "score": 7.3,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1743494",
+        "title_hu": "Dear Mother",
+        "title_en": "Kalunga Bigger",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "The writer Ana, recently orphaned, decides to venture down the alleys of memory and her broken relationship with her mother and grandmother.",
+        "image": "https://image.tmdb.org/t/p/w500/pHQg5wyXVKkw2Cw63XndvrCGVHZ.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_38842",
+        "title_hu": "Szex a neten",
+        "title_en": "Boondoggle",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Crime"
+        ],
+        "description": "1995-ben az internet még újdonságnak számított, mindenkinek videója volt otthon, a zenét még lemezboltokban árulták. Az üzletember Jack Harris élete tökéletes: boldog a családjával, és sikeres a munkájában. Azután találkozik Wayne Beeringgel és Buck Dolbyval, a két problémás zsenivel, akiknek van egy remek ötlete, hogyan kereshetnének sok pénzt az interneten. Megállapodnak, hogy Jack segít nekik, és a felnőtteknek szóló üzlet beindul. Jack hamarosan a bűn világában találja magát, a 23 éves pornósztár és az FBI között, amely felfigyel a ténykedésükre. Valós történet alapján.",
+        "image": "https://image.tmdb.org/t/p/w500/zHeNnihTIWTulFKi3V2TOMxcXIq.jpg",
+        "date": "2009-05-17",
+        "score": 6.494,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1425284",
+        "title_hu": "Solo whisky",
+        "title_en": "The Sunny Side Up Story",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "After her sunny-side-up eggs get bad comments from her husband, a woman finally breaks down her feelings to her husband’s closest person to find out how to make a special sunny-side-up egg. Yet, aside from getting the recipe for the special sunny side up, the secrets are revealed.",
+        "image": "",
+        "date": "2023-11-12",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_436128",
+        "title_hu": "La certeza",
+        "title_en": "La certeza",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "For three days we follow the lives of several characters, each of them on a journey: from the everyday humdrum of their ordinary lives (the exhausting work shifts, being misunderstood by society, the homeless, the lonely, the yearning and the lack of any meaning for existence) to the place where they meet to recover something that the rationality of modern life cannot offer them: faith.",
+        "image": "",
+        "date": "2012-01-02",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10665",
+        "title_hu": "Hívatlanok",
+        "title_en": "The Strangers",
+        "type": "film",
+        "genres": [
+            "Horror"
+        ],
+        "description": "Pezsgõ, gyertyafényes vacsora, romantika, nagyjából így tervezi az éjszakát a fiatal pár (Liv Tyler és Scott Speedman), a barátaik esküvõi ünnepsége után. Azonban mikor az éjszaka közepén egyszer csak valaki kopogtat az ajtajukon, minden tervük romba dõl. Három ijesztõ, maszkos idegen jelenik meg a házban, és ettõl kezdve a pár élete rettegés, a legrosszabb rémálmaikban sem éltek át még hasonlót. Az egyetlen céljuk: a túlélés. Kate és James szinte saját erejüket felülmúlva harcol az idegenek ellen, hogy ebbõl a csodásnak induló és rémisztõen folytatódó rémálomból élve kerüljenek ki.",
+        "image": "https://image.tmdb.org/t/p/w500/tNhnqYM4zbcUnoilWScF9lwUW4x.jpg",
+        "date": "2008-05-29",
+        "score": 6.118,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1455491",
+        "title_hu": "People Watching",
+        "title_en": "People Watching",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Mystery"
+        ],
+        "description": "A birdwatcher meets a mysterious stranger in a remote birdwatching tower. As the stranger's presence becomes more disturbing, the birdwatcher gets pulled into an unsettling experience.",
+        "image": "https://image.tmdb.org/t/p/w500/s0ILY2Rd5cbjweGSrcVqEJ2zeLg.jpg",
+        "date": "2026-03-13",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9322",
+        "title_hu": "Nikita",
+        "title_en": "Nikita",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "Nikita - egy kábítószeres banda tagjaként - betörés közben megöl egy rendőrt. Miután elkapják, Bob, a kormány különleges ügynöke választás elé állítja a lányt: vállalja a halálbüntetést vagy profi bérgyilkosként tovább élhet. Az erőt és ideget próbáló kiképzés során Nikita bizalmába fogadja Bobot, aki kihasználja a lány érzelmeit. Egy feladattal bízza meg, melyet nyilvános helyen kell végrehajtania. Az akció közben azonban elárulják, ezért megszökik. A tökéletesen kiképzett Nikita minden tudását felhasználva, el kezd Bobra vadászni, s egy megváltozott személyazonossággal megpróbál új életet kezdeni.",
+        "image": "https://image.tmdb.org/t/p/w500/cnv0sXbzKHZPQwkuZftoY0MxDYS.jpg",
+        "date": "1990-02-21",
+        "score": 7.1,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_82703",
+        "title_hu": "Mr. Peabody és Sherman kalandjai",
+        "title_en": "Mr. Peabody & Sherman",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Science Fiction",
+            "Comedy",
+            "Adventure",
+            "Family"
+        ],
+        "description": "Mr. Peabody a világ legokosabb embere lehetne - ha nem volna kutya. Így viszont ő a világ egyetlen olyan négylábúja, aki egyesíti magában Einstein eszét, Sherlock Holmes logikáját, Oscar Wilde szellemességét és James Bond bátorságát. A különleges eb egyszerű gazdája és kiváló barátja, Sherman, átlagos srác: de a kalandjai, hála a kutyájának, különlegesek. Mr. Peabody időutazó csodagépet épít, ám a Voltkompot Sherman engedély nélkül használja, és ettől összezavarodik a történelem, összekuszálódik az idő, és kutyanehéz feladat, hogy minden a helyére kerüljön. A kiváló páros szerencsére szereti a kutyanehéz feladatokat - főleg, ha közben nagyokat lehet nevetni.",
+        "image": "https://image.tmdb.org/t/p/w500/qyEsEL86CIeoirqd28xbqj4bHly.jpg",
+        "date": "2014-02-07",
+        "score": 6.733,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1741506",
+        "title_hu": "Le Trident",
+        "title_en": "Le Trident",
+        "type": "film",
+        "genres": [],
+        "description": "A young man finds himself at a party stumbling when socializing with three women; a complicated friendship, a chance fling, and a reawakened crush.",
+        "image": "https://image.tmdb.org/t/p/w500/c5CZrIPxgBxgHuf0FwIQJk87uUq.jpg",
+        "date": "2026-09-07",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_521190",
+        "title_hu": "Az a varázslatos vidéki élet",
+        "title_en": "The Beach House",
+        "type": "film",
+        "genres": [
+            "TV Movie",
+            "Romance",
+            "Drama"
+        ],
+        "description": "Carette 'Cara' Rutledge nehéz múltján próbál túllépni, miközben segít anyjának rendbe hozni a család tengerparti nyaralóját. Egy hatalmas vihar után a nő és édesanyja több száz teknőst ment meg a biztos pusztulástól, közben pedig az élet számos igazságára rádöbbennek.",
+        "image": "https://image.tmdb.org/t/p/w500/j3jHlv3Q6FuGOBPwcnjvH5mLg7I.jpg",
+        "date": "2018-04-28",
+        "score": 6.309,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_981126",
+        "title_hu": "Bird Empire",
+        "title_en": "Bird Empire",
+        "type": "film",
+        "genres": [],
+        "description": "For hope in the face of resistance. For the 20,000 communards executed at the Paris Commune on May 28, 1871. Filmed at Bread and Puppet theater in Glover, Vermont on a spring afternoon 150 years later.",
+        "image": "https://image.tmdb.org/t/p/w500/m7YDOCUB5J12AuiuKAn1fgiyiBH.jpg",
+        "date": "2022-05-28",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_19947",
+        "title_hu": "The Adventures of Mark Twain",
+        "title_en": "The Adventures of Mark Twain",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "description": "Based on elements from the stories of Mark Twain, this feature-length Claymation fantasy follows the adventures of Tom Sawyer, Becky Thatcher and Huck Finn as they stowaway aboard the interplanetary balloon of Mark Twain. Twain, disgusted with the human race, is intent upon finding Halley's Comet and crashing into it, achieving his \"destiny.\" It's up to Tom, Becky, and Huck to convince him that his judgment is wrong and that he still has much to offer humanity that might make a difference. Their efforts aren't just charitable; if they fail, they will share Twain's fate. Along the way, they use a magical time portal to get a detailed overview of the Twain philosophy, observing the \"historical\" events that inspired his works.",
+        "image": "https://image.tmdb.org/t/p/w500/wUYyl69qvIZOTuRJnwK07BbYSyy.jpg",
+        "date": "1985-03-01",
+        "score": 6.761,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_847672",
+        "title_hu": "Fracas",
+        "title_en": "Fracas",
+        "type": "film",
+        "genres": [],
+        "description": "fracas ultimately is the experience of memory on many different levels. It utilizes the still image of children with minimal digital alteration. The photograph itself will always represent the past and therefore the memory of the person it captures. The audio is of the National Spelling Bee where children must exercise their skills and memory to correctly spell a word. Yet the images and sounds of fracas are intentionally not connected. It is only when the camera zooms out from the powerful gaze of smiling children and lets the viewer in, the intention of fracas is revealed",
+        "image": "https://image.tmdb.org/t/p/w500/zZPx2u2VMJjLXoGMm44Fwp9QgMQ.jpg",
+        "date": "2007-01-01",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_959898",
+        "title_hu": "桃子夫人の冒険",
+        "title_en": "Lady Momoko's Adventure",
+        "type": "film",
+        "genres": [
+            "Science Fiction"
+        ],
+        "description": "Momoko wakes up from a 17-year slumber and returns to her husband. However, during the day, Momoko is a free-spirited woman who pursues the man of her dreams and leads him to ruin, and at night, she is a chaste young wife. Her young body and double sex life hide a serious secret...",
+        "image": "https://image.tmdb.org/t/p/w500/e0OKGT0UCfitMUBVa9t6qxhZBfq.jpg",
+        "date": "1979-12-22",
+        "score": 4.333,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1475799",
+        "title_hu": "हैवान",
+        "title_en": "Silence & Darkness",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Thriller"
+        ],
+        "description": "Blind and deaf sisters, Anna and Beth, live happily in a secluded small town with their father. However, when a neighbor stops by, Anna and Beth begin to realize their loving father's mental health has been deteriorating their entire lives.",
+        "image": "https://image.tmdb.org/t/p/w500/3hvuuvYcvlhOuq6Gax2siAxoiJ5.jpg",
+        "date": "2026-09-11",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1125334",
+        "title_hu": "Mauvaise Blague",
+        "title_en": "Excalibur",
+        "type": "film",
+        "genres": [
+            "Thriller"
+        ],
+        "description": "Arthur fulfills his fate by bringing together the Knights of the Round Table at Camelot and unifying the country. However, this flawed monarch faces greater tests ahead in pursuit of love, the Holy Grail, and his nation's survival.",
+        "image": "https://image.tmdb.org/t/p/w500/liHPhuzf3NbUsGwvrjwNcpNs2L2.jpg",
+        "date": "2022-03-11",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_271443",
+        "title_hu": "Les guérisseurs",
+        "title_en": "WHY ?",
+        "type": "film",
+        "genres": [],
+        "description": "A couple unravels on the night of an Oscar win, exposing the tension between love, sacrifice, and ambition.",
+        "image": "https://image.tmdb.org/t/p/w500/mOSDSPC3vC73KPkBdSCHElUcra3.jpg",
+        "date": "1988-01-02",
+        "score": 8.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_137321",
+        "title_hu": "Téli mese",
+        "title_en": "Life",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Fantasy",
+            "Mystery",
+            "Romance"
+        ],
+        "description": "Ebben a különös világban minden megtörténhet. New York nem az a város, amit ismerünk. Lakói másképp öltöznek, másképp viselkednek, más szabályok szerint élnek – és mindig készen állnak a csodára. Peter (Colin Farrell) bevándorlók gyermekeként érkezett ide, de mert nem engedélyezték, hogy partra lépjen, egy csöpp hajón ért partot. Azóta szakképzett betörő lett, majd miután összekülönbözött a bandavezérrel, örök szökevény. Egy betörése során a fiatalember beleszeret egy rejtélyes, titokzatos lányba – aki halálos beteg. Egy másik betörés után őt és fehér lovát titokzatos felhő nyeli el. Amikor évtizedekkel később újra előbukkan, már minden egészen más, mint addig volt, és ő nem emlékszik semmire… És ez még csak a csodás kalandok kezdete.",
+        "image": "https://image.tmdb.org/t/p/w500/gA0wKIUsDwWccDKrnqUMQKcOTEu.jpg",
+        "date": "2014-02-13",
+        "score": 6.281,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_531876",
+        "title_hu": "A Helyőrség",
+        "title_en": "The Santa Clause",
+        "type": "film",
+        "genres": [
+            "War",
+            "Drama",
+            "History",
+            "Action"
+        ],
+        "description": "Amerikai katonák egy kis egysége, magára hagyva a távoli Combat Outpost Keating településen, három mély völgyben, Afganisztánban, védekezik a  hatalmas túlerőben lévő tálib harcosok ellen. A Kamdeshi csata, amint az ismert , az afgán háború legvéresebb összecsapásának helyszíne volt 2009-ben, és a Bravo Troop 3-61 CAV lett a 19 éves konfliktus egyik legkitüntetettebb egysége.",
+        "image": "https://image.tmdb.org/t/p/w500/99wUJ0amQjxEgGNpMlPo1v2Jbzw.jpg",
+        "date": "2020-06-24",
+        "score": 6.899,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_635",
+        "title_hu": "Angyalszív",
+        "title_en": "El quejido",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "description": "Harry Angel, a mellőzött magándetektív ellátogat a Harlembe, ahol megbízást kap egy Louis Cyphre nevű fura alaktól egy eltűnt személy megkeresésére. Nyomozása közben a sokszínű spirituális világba botlik. Van itt vudu, fekete mágia, fehér mágia, szellemidézés és rengeteg vér.",
+        "image": "https://image.tmdb.org/t/p/w500/ydYEQNaTC4QtWRwqFFurDTP4xmw.jpg",
+        "date": "1987-03-06",
+        "score": 7.119,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11439",
+        "title_hu": "Szellemíró",
+        "title_en": "November",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Mystery"
+        ],
+        "description": "A tehetséges angol írót meggyőzi az ügynöke, hogy van számára egy soha vissza nem térő munkalehetőség, amely csak egyszer adódik az életben. Segítenie kell a brit ex-miniszterelnöknek, Adam Lang-nek befejezni az emlékiratait, miután az előzőleg felkért író rejtélyes körülmények között elhalálozott. Miután a szellemíró megérkezik az Egyesült Államokban található távoli villába, hogy megkezdje a munkát az ex-miniszterelnökkel, Lang-et háborús bűncselekményekkel vádolják meg, amelyet állítólag még korábbi minisztersége idején követett el.",
+        "image": "https://image.tmdb.org/t/p/w500/jHtiPs3wXsN2YfEuQBetgofZ76f.jpg",
+        "date": "2010-02-12",
+        "score": 6.818,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9980",
+        "title_hu": "Maximális túlhajtás",
+        "title_en": "Brutal Fury",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Action",
+            "Science Fiction"
+        ],
+        "description": "Egy kamionos pihenőhelyen a pincérnő elvágja a kezét egy elektromos késsel, ami hirtelen életre kel. Később kiderül, hogy mindez egy üstökös hatására történik, sőt hamarosan minden gép elkezd élőként viselkedni és rendkívül félelmetes, erőszakos módon viszonyulnak az emberekhez.",
+        "image": "https://image.tmdb.org/t/p/w500/4GcRLFjPSxqmpBztswIlsRGMSpi.jpg",
+        "date": "1986-07-13",
+        "score": 5.837,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1103585",
+        "title_hu": "Szemtől szembe a grizzly-kkel",
+        "title_en": "Mallrats",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "Kövesse Phil Timpany filmkészítő történetét, hogyan vált nagystílű medvevadászból a grizzlyk védelmezőjévé, amint szívmelengető dokumentumfilmet készít egy grizzly-anyáról és bocsairól.",
+        "image": "https://image.tmdb.org/t/p/w500/4pb6Mf7x6W4QbKfX9iEdwxgA6On.jpg",
+        "date": "2022-07-19",
+        "score": 6.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_516022",
+        "title_hu": "Miscellaneous",
+        "title_en": "Wende - Carré",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "CARRÉ was Wende’s third live album, which she brought out on CD/DVD in October 2011. It’s a recording of her No. 9 theatre tour, on its closing night at Carré, when she played the concert to a fully-booked auditorium at the theatre.  The audience is treated to a glittering performance which is a potent mix of both music and theatre. Electronic sounds and spectacular beats go hand in hand with a classical string ensemble and delicate piano pieces.  Alongside the No. 9 repertoire in English, and two tracks in Dutch, ADEM UIT and DE WERELD BEWEEGT, the track list also includes four new tracks: SLOWLY, AS THE LADY WALKS ALONG, UNDERNEATH and SOFT SUMMER SYMPHONY.  Special arrangements and orchestration by: Joost van den Broek.",
+        "image": "https://image.tmdb.org/t/p/w500/gFuBpu1mNV8xUZYnuaw3RMvLTbw.jpg",
+        "date": "2016-04-19",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1620082",
+        "title_hu": "In Lucem",
+        "title_en": "Red Joan",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Horror"
+        ],
+        "description": "London, England, May 2000. The peaceful life of elderly Joan Stanley is suddenly disrupted when she is arrested by the British Intelligence Service and accused of providing information to communist Russia during the forties.",
+        "image": "https://image.tmdb.org/t/p/w500/rbNMfXZV4zydExxmZLiTezXN0T.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_411353",
+        "title_hu": "Csillogás",
+        "title_en": "Teenager's Sex",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/idUMzdQPXTDfx6s90olwlIT2Zwm.jpg",
+        "date": "2008-12-03",
+        "score": 6.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1021679",
+        "title_hu": "Versailles rózsája",
+        "title_en": "Lying and Stealing",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Romance",
+            "Drama",
+            "History"
+        ],
+        "description": "A francia forradalom idején Marie Antoinette és védelmezője, Oscar François de Jarjayes, kemény döntésekkel néz szembe, amikor helyt kell állniuk történelmi szerepükben.",
+        "image": "https://image.tmdb.org/t/p/w500/ztcDNMPQphOLAVWkNbMdLaOaeFX.jpg",
+        "date": "2025-01-31",
+        "score": 7.037,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_345009",
+        "title_hu": "Akna",
+        "title_en": "Goï-Goï",
+        "type": "film",
+        "genres": [
+            "War",
+            "Thriller"
+        ],
+        "description": "A sivatag közepén, egy olyan területen, ahol 33 millió robbanóakna hever szanaszét, Mike Stevens tengerészgyalogos mesterlövész arra a feladatra kapott megbízatást, hogy felkutassa és hatástalanítsa egy terrorista sejt vezetőjét. Három hónap és hat nap elteltével a sivatagban egyetlen pillanatnyi habozás is elég ahhoz, hogy az egész küldetés kudarcba fulladjon, és most Stevens őrmester teljesen egyedül rekedt egy ellenséges gerilla-területen, ráadásul – ami még rosszabb – bal lába egy éles aknára lépett. A zord környezetben, víz nélkül az őrmesternek mozdulatlanul kell maradnia, és a következő 52 órában a tengerészgyalogos kiképzésére, találékonyságára és kitartására kell támaszkodnia, amíg egy konvoj megérkezik a területre. A nappali perzselő hőség és az éjszakai fagyos hideg között, ha túl akarja élni, nemcsak a természet hatalmas erőivel kell megküzdenie, hanem a legnagyobb ellenséggel is: önmagával.",
+        "image": "https://image.tmdb.org/t/p/w500/dYmkd3azwbamZ3wsIsMXQY5evjH.jpg",
+        "date": "2016-10-06",
+        "score": 6.585,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1483024",
+        "title_hu": "Dear Daughter",
+        "title_en": "Serenata española",
+        "type": "film",
+        "genres": [],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/sO75nR24CSdmazz6NhTkCDLAR0r.jpg",
+        "date": "1996-01-01",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_391689",
+        "title_hu": "Padre papà",
+        "title_en": "15 Days",
+        "type": "film",
+        "genres": [
+            "Crime"
+        ],
+        "description": "A mockumentary about a man who survives exclusively on TV shopping, but always returning every product before the 15-day free trial period expires.",
+        "image": "",
+        "date": "1998-06-27",
+        "score": 6.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1754613",
+        "title_hu": "Meat Daddy",
+        "title_en": "Rob Roy",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Horror",
+            "Comedy"
+        ],
+        "description": "In the highlands of Scotland in the 1700s, Rob Roy tries to lead his small town to a better future, by borrowing money from the local nobility to buy cattle to herd to market. When the money is stolen, Rob is forced into a Robin Hood lifestyle to defend his family and honour.",
+        "image": "https://image.tmdb.org/t/p/w500/4W7kmO4nWBupUPQLtn4OXzP9cod.jpg",
+        "date": "2026-09-12",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
     }
 ]
