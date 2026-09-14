@@ -80204,5 +80204,22 @@
         "score": 80.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_24277",
+        "title_en": "SpellForce: Platinum Edition",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Real Time Strategy (RTS)",
+            "Role-playing (RPG)",
+            "Strategy"
+        ],
+        "description": "Includes the original SpellForce: The Order of Dawn and both the expansions - SpellForce: The Breath of Winter and SpellForce: Shadow of the Phoenix",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rjw.jpg",
+        "date": "2009-11-03",
+        "score": 91.58091679151796,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
