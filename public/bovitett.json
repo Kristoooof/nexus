@@ -311318,75 +311318,120 @@
     {
         "id": "tmdb_1626",
         "tags": [
-            "Drama"
+            "female protagonist",
+            "black and white",
+            "philosophy",
+            "pimp",
+            "Drama",
+            "paris, france",
+            "prostitute",
+            "prostitution"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_888016",
         "tags": [
+            "burma",
+            "revolution",
+            "myanmar",
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_813",
         "tags": [
-            "Comedy"
+            "alcohol",
+            "airplane",
+            "chicago, illinois",
+            "post-traumatic stress disorder (ptsd)",
+            "nun",
+            "guitar",
+            "Comedy",
+            "cataclysm"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_963",
         "tags": [
+            "san francisco, california",
+            "loss of loved one",
+            "based on novel or book",
+            "detective",
+            "statuette",
+            "Mystery",
+            "murder",
             "Thriller",
-            "Crime",
-            "Mystery"
+            "film noir",
+            "Crime"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_4806",
         "tags": [
+            "self-discovery",
+            "Romance",
+            "just married",
+            "chase",
+            "wedding",
             "Comedy",
-            "Romance"
+            "artist",
+            "reporter",
+            "small town"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_19959",
         "tags": [
-            "Thriller",
+            "clone",
+            "future",
+            "robot",
+            "questioning",
             "Science Fiction",
-            "Action"
+            "based on comic",
+            "murder",
+            "dystopia",
+            "Action",
+            "Thriller"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_364321",
         "tags": [
-            "Drama",
-            "War"
+            "War",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_268531",
         "tags": [
+            "school",
+            "comic book",
+            "Family",
+            "based on novel or book",
+            "underwear",
             "Animation",
-            "Comedy",
+            "superhero",
             "Science Fiction",
-            "Family"
+            "friendship",
+            "Comedy",
+            "villain"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_458169",
@@ -311394,13 +311439,13 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_415204",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1605429",
@@ -311408,34 +311453,55 @@
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_5915",
         "tags": [
-            "Drama",
-            "Adventure"
+            "Adventure",
+            "self-discovery",
+            "based on true story",
+            "camping",
+            "biography",
+            "wilderness",
+            "parent child relationship",
+            "road trip",
+            "Drama"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_928358",
         "tags": [
-            "Drama"
+            "incest",
+            "dance",
+            "mother role",
+            "dancer",
+            "Drama",
+            "ballet dancer",
+            "ballerina",
+            "boundary violations"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_22970",
         "tags": [
+            "marijuana",
             "Horror",
+            "motorcycle crash",
+            "halloween",
+            "Mystery",
+            "woods",
+            "school party",
+            "abandoned house",
             "Comedy",
-            "Mystery"
+            "giant snake"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_463329",
@@ -311443,18 +311509,25 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10957",
         "tags": [
             "Adventure",
+            "Family",
+            "based on novel or book",
             "Animation",
+            "halloween",
+            "sword",
+            "pig",
+            "fairy",
+            "magic",
             "Fantasy",
-            "Family"
+            "witch"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1169309",
@@ -311462,26 +311535,40 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_2288",
         "tags": [
+            "love at first sight",
+            "loss of loved one",
+            "Romance",
+            "husband wife relationship",
+            "cheating",
+            "secret love",
             "Drama",
-            "Romance"
+            "infidelity",
+            "photographer"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_13922",
         "tags": [
+            "rescue mission",
+            "based on novel or book",
+            "us army",
             "War",
+            "war crimes",
+            "Action",
+            "narration",
             "History",
-            "Action"
+            "prisoner of war",
+            "world war ii"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_595413",
@@ -311489,152 +311576,201 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1540528",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1355535",
         "tags": [
-            "Documentary"
+            "documentary short",
+            "documentary",
+            "writer",
+            "Documentary",
+            "vermont",
+            "art documentary",
+            "artist",
+            "author"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1639653",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_544401",
         "tags": [
+            "based on novel or book",
+            "bank robber",
+            "us army",
+            "war veteran",
+            "post-traumatic stress disorder (ptsd)",
+            "drug addiction",
             "Drama",
+            "heroin",
             "Crime"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11802",
         "tags": [
             "Adventure",
-            "Science Fiction",
-            "Comedy",
+            "chimpanzee",
+            "aftercreditsstinger",
             "Family",
-            "Animation"
+            "Animation",
+            "Science Fiction",
+            "space marine",
+            "Comedy",
+            "space",
+            "3d animation"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_332488",
         "tags": [
+            "zombie",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_123025",
         "tags": [
+            "future",
+            "dreary",
             "Animation",
             "Science Fiction",
+            "super power",
+            "dystopia",
             "Action",
-            "Mystery"
+            "Mystery",
+            "based on graphic novel"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1029952",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_529485",
         "tags": [
-            "Drama"
+            "alcoholism",
+            "change",
+            "Drama",
+            "dramatic",
+            "basketball coach",
+            "widower",
+            "addiction recovery",
+            "basketball team"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_652995",
         "tags": [
+            "short film",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_62761",
         "tags": [
+            "Horror",
+            "experiment",
+            "hospital",
+            "tourist",
             "Science Fiction",
+            "murder",
+            "australia",
             "Comedy",
-            "Horror"
+            "dark comedy",
+            "small town"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_388285",
         "tags": [
-            "Tactical",
+            "Simulator",
             "Shooter",
-            "Simulator"
+            "Tactical",
+            "all out warfare"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_124971",
         "tags": [
-            "Strategy",
-            "Turn-based strategy (TBS)"
+            "gog preservation program",
+            "Turn-based strategy (TBS)",
+            "Strategy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_306147",
         "tags": [
-            "Hack and slash/Beat 'em up",
+            "playstation trophies",
+            "Fighting",
+            "emulation",
+            "steam achievements",
+            "shared screen",
             "Arcade",
-            "Fighting"
+            "Hack and slash/Beat 'em up",
+            "achievements",
+            "steam",
+            "2d fighter"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_188800",
         "tags": [
-            "Fantasy",
             "Adventure",
-            "Male Protagonist",
+            "Alchemy",
             "Action",
             "Full Color",
-            "Alchemy"
+            "Male Protagonist",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_195513",
         "tags": [
-            "Fantasy",
-            "Male Protagonist",
+            "Long Strip",
             "Action",
             "Full Color",
-            "Long Strip"
+            "Male Protagonist",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
