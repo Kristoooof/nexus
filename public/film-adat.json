@@ -136695,5 +136695,431 @@
         "score": 6.25,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_65765",
+        "title_hu": "Rinconcito madrileño",
+        "title_en": "Corner in Madrid",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "The film tells the story of Rosa, a single mother whose honor is called into question after being abandoned by her lover.",
+        "image": "https://image.tmdb.org/t/p/w500/lu3QJ5bgYbWT1pltCvCUWAP1RZP.jpg",
+        "date": "1936-01-01",
+        "score": 8.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1226572",
+        "title_hu": "A malegaoni szupersrácok",
+        "title_en": "Superboys of Malegaon",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Malegaon kisvárosában, ahol a filmek jelentik az egyetlen menekülési lehetőséget a mindennapokból, az amatőr filmes Nasir Sheikh a barátaival a helyiek számára és velük közösen készít filmet. A filmkészítés és a barátság megható történetében a szenvedély legyőzi a csekély költségvetést, a találékonyság a kihívásokat, az álmok pedig reményt ébresztenek, és új életet lehelnek a városba.",
+        "image": "https://image.tmdb.org/t/p/w500/cnhYQTRjr97b3TQwCX6wVIaixEx.jpg",
+        "date": "2025-02-27",
+        "score": 7.583,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_81481",
+        "title_hu": "Elhallgattatva",
+        "title_en": "Silenced",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A film igaz történet alapján készült! Mujin városában létezik egy elit iskola, ahová csak hallássérült diákok járnak. Kang In-Ho ennek az iskolának a legújabb alkalmazottja, aki ezeket a gyerekeket fogja tanítani. Az új munkahelyén Szürnyű titkokra derül fény, a diákokat bántalmazzák, sőt szexuálisan is zaklatják!",
+        "image": "https://image.tmdb.org/t/p/w500/kUyP7p7pFcNtkO2FnEY04mNfTDz.jpg",
+        "date": "2011-09-22",
+        "score": 8.161,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_416562",
+        "title_hu": "L'Étrangère",
+        "title_en": "Sin with a Stranger",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "François, a journalist, is approached on the train home by pretty a blonde. She leaves at the same station as him and follows him until he ends up inviting her to his house.",
+        "image": "https://image.tmdb.org/t/p/w500/db1Ha54CKiBrs7SL8LD4OTDL4kh.jpg",
+        "date": "1968-06-21",
+        "score": 5.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1074990",
+        "title_hu": "Abondance",
+        "title_en": "Abundance",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "The movements of the water unite with those of the dance, moving the filmmaker to finally recognize himself in it.",
+        "image": "",
+        "date": "2022-11-17",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_467079",
+        "title_hu": "Nocturno",
+        "title_en": "Nocturne",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Like a burning fuse, the desire for the streets of the sleeping city and its flashes shines in the eyes of casual spectators. An exchange of looks on the bus and the rest is just animation. A short film that portrays the strange harmony between strangers, the conversations after sex, when you are just getting to know each other.",
+        "image": "",
+        "date": "2008-01-01",
+        "score": 3.75,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1760920",
+        "title_hu": "Cruces",
+        "title_en": "Cruces",
+        "type": "film",
+        "genres": [
+            "Western",
+            "Drama"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/2P0nr913Gg4gxI2ZWE4xeoIaF0p.jpg",
+        "date": "",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_960910",
+        "title_hu": "Dahong Lagas",
+        "title_en": "Dahong Lagas",
+        "type": "film",
+        "genres": [
+            "Music",
+            "Romance"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/z30TMFefjldcOzYqe4EjZOLXxKU.jpg",
+        "date": "1938-12-30",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_273271",
+        "title_hu": "Time Lapse",
+        "title_en": "Time Lapse",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Science Fiction",
+            "Mystery",
+            "Horror"
+        ],
+        "description": "Amikor eltűnik a szomszéduk, három jóbarát felfedez a lakásában egy titokzatos gépet, amely képeket tud számukra mutatni a 24 órával később történtekről, azaz a jövőből. Úgy gondolják, ha megpróbálják megváltoztatni azt, ami a képre kerül, akkor azzal önmaguk épségét veszélyeztetik, így kényszeresen próbálnak megfelelni a képen látottaknak. Először csupán személyes haszonszerzésre használják az újonnan támadt lehetőséget, de aztán a dolgok életveszélyesen bonyolulttá válnak.",
+        "image": "https://image.tmdb.org/t/p/w500/wzdtagMTNao7l4zuJ1i8usSfEwz.jpg",
+        "date": "2014-05-18",
+        "score": 6.539,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_89653",
+        "title_hu": "Kommandósok",
+        "title_en": "Commandos",
+        "type": "film",
+        "genres": [
+            "Action",
+            "War"
+        ],
+        "description": "Egy különleges kommandó észrevétlenülelfoglal egy olasz bázist Észak-Afrikában.Ezután úgy tesznek, mintha ők lennének az olaszok.Ezzel az a céljuk,hogy megkönnyítsék a hamarosan kezdődő szövetséges bevonulást. A gond csak az,hogy nem messze a tábortól állomásozik egy német páncélos egység ami az olasz táborból pótolja a vízkészleteit...",
+        "image": "https://image.tmdb.org/t/p/w500/oZwV05f1twriRczVMweAx0iYcp1.jpg",
+        "date": "1968-11-19",
+        "score": 5.7,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_888455",
+        "title_hu": "Lovci mikrobů",
+        "title_en": "Microbe Hunters",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "",
+        "image": "",
+        "date": "2021-10-30",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_805327",
+        "title_hu": "Nézz mindkét irányba!",
+        "title_en": "Look Both Ways",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Drama",
+            "Comedy"
+        ],
+        "description": "Főiskolai diplomaosztója estéjén Natalie élete párhuzamos valóságokra szakad, miután elvégez egy terhességi tesztet. Mit tartogat számára az élet és a szerelem?",
+        "image": "https://image.tmdb.org/t/p/w500/j7OH84OpW2sA5ejXHEDWiS7uhTU.jpg",
+        "date": "2022-08-16",
+        "score": 6.827,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_235037",
+        "title_hu": "На полі крові. Aceldama",
+        "title_en": "News of the World",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A Texan traveling across the wild West bringing the news of the world to local townspeople, agrees to help rescue a young girl who was kidnapped.",
+        "image": "https://image.tmdb.org/t/p/w500/yTD0LLrxWkN4eowtscXltMlnA78.jpg",
+        "date": "2001-04-18",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_581032",
+        "title_hu": "A kapitány küldetése",
+        "title_en": "Flamin' Hot",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Western",
+            "Adventure"
+        ],
+        "description": "A vadnyugaton átutazó texasi, aki a világ híreit juttatja el a helyi városiakhoz, vállalja, hogy segít egy elrabolt fiatal lány megmentésében.",
+        "image": "https://image.tmdb.org/t/p/w500/mASCBLlZcMkglcUcGDgZMpktNym.jpg",
+        "date": "2020-12-25",
+        "score": 6.908,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_360310",
+        "title_hu": "Tarântula",
+        "title_en": "Ghamasaan",
+        "type": "film",
+        "genres": [
+            "Mystery",
+            "Horror"
+        ],
+        "description": "A cat-and-mouse tale set in the Hindi heartland, where male friendships and rivalries unveil homoerotic tensions. Men on both sides of the law traverse arid lands, creating a sense of place where unexplored histories reside.",
+        "image": "https://image.tmdb.org/t/p/w500/4TkypQ1WlX0lYhJqIpgP4whgun8.jpg",
+        "date": "2015-09-17",
+        "score": 6.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1372059",
+        "title_hu": "घमासान",
+        "title_en": "Toute l'Algérie du monde",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Action"
+        ],
+        "description": "The largest country in the Arab world and a producer of hydrocarbons, Algeria has everything it needs to weigh on the international scene. But Africa's second military power seems undermined by its internal problems. While the Bouteflika regime has fallen and the popular “hirak” movement has shown that the people are ready to enter a more democratic era, the country appears as a colossus with feet of clay, which has failed enhance their independence. How did this isolation come about? From the “dark decade” of terrorism to the fall of Bouteflika, via 9/11 or the Arab revolutions, this documentary sheds light on Algerian foreign policy in recent decades, while deciphering the strategy of Western powers towards it.",
+        "image": "https://image.tmdb.org/t/p/w500/gZuN5Vh9ceBzTk9gl230kE9GrVD.jpg",
+        "date": "2024-10-18",
+        "score": 8.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1155980",
+        "title_hu": "Inner Child",
+        "title_en": "Inner Child",
+        "type": "film",
+        "genres": [
+            "Horror"
+        ],
+        "description": "Seeking solace in fleeting vices, a grieving Lydia reckons with life in college.",
+        "image": "https://image.tmdb.org/t/p/w500/oalcD3QSH0IuVZbqAk0ruYJkX7m.jpg",
+        "date": "2023-07-21",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_606403",
+        "title_hu": "Expressz küldemény",
+        "title_en": "Special Delivery",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "description": "Eun Ha egy átlagos roncstelepi alkalmazott, aki titokban futárként tevékenykedik, szokatlan szállítási kéréseknél. Egy napon Szöulba utazik, hogy felvegyen egy utast, aki a kisfiával utazna külföldre, ezen a ponton pedig váratlan események és akadályok gördülnek az útjába.",
+        "image": "https://image.tmdb.org/t/p/w500/n1rzu5vQKuePO4DrfM2ai1bRuBH.jpg",
+        "date": "2022-01-12",
+        "score": 7.071,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_452615",
+        "title_hu": "Monument",
+        "title_en": "Monument",
+        "type": "film",
+        "genres": [
+            "Animation"
+        ],
+        "description": "A statue, with outstretched arm pointing “forward,” is unveiled to thunderous applause. Then one day it points the other way. Once again, thunderous applause!",
+        "image": "https://image.tmdb.org/t/p/w500/rGXlrqKh1juBJa9pprYmU9kvN8k.jpg",
+        "date": "1990-03-23",
+        "score": 5.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11051",
+        "title_hu": "Krisztus utolsó megkísértése",
+        "title_en": "The Last Temptation of Christ",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Krisztus élete elevenedik meg. Isten őt választotta ki a feladatra, hogy üzenetét eljuttassa az emberekhez. Az igazi dilemma a Golgotán, a kereszten kezdődik, amikor a Sátán utoljára kísérti meg Jézust az emberi élet kínálta kényelemmel és örömökkel. Ha a kereszthalál helyett megtagadja Istent, megszabadul a szenvedéseitől. A testi szenvedések közepette, a halál árnyékában Jézus elképzeli, mi történne, ha engedne a gonosz csábításának és az isteni helyett az emberi sorsot választaná.",
+        "image": "https://image.tmdb.org/t/p/w500/9lAQlkwzQlIPDRYHdSPGA42vZYH.jpg",
+        "date": "1988-05-28",
+        "score": 7.229,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_146779",
+        "title_hu": "På bølgelengde",
+        "title_en": "Kiss Me",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "A curious teen spends an afternoon exploring an empty beach house, unaware of the security cameras keeping a close eye on him.",
+        "image": "https://image.tmdb.org/t/p/w500/aeDB1NzCBRXdDzLExz1pD8S6RC.jpg",
+        "date": "2011-04-08",
+        "score": 3.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_353618",
+        "title_hu": "Så nära",
+        "title_en": "Så nära",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "14-year-olds Angela and Arina have a goal:  to see and touch their idol, Bill Kaulitz of the German pop band Tokio Hotel, at Madame Tussaud's. But just as the girls have their goal in sight; their world seems to collapse around them. A film about friendship, infatuation and the heartbreak of growing up.",
+        "image": "https://image.tmdb.org/t/p/w500/tfUpNQjHOEhWgC8OY7CaQgpU08o.jpg",
+        "date": "2010-03-08",
+        "score": 5.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_455839",
+        "title_hu": "Időcsapda",
+        "title_en": "Time Trap",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Adventure"
+        ],
+        "description": "Tanulók egy csoportja csapdába esik egy rejtélyes barlangban, hamarosan pedig rá kell jönniük, hogy az idő teljesen máshogy telik lent, mint a felszínen.",
+        "image": "https://image.tmdb.org/t/p/w500/8PqbFEaCkcEZoxSUbDzswPa9QbZ.jpg",
+        "date": "2017-05-19",
+        "score": 6.338,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_32171",
+        "title_hu": "Fertőzés",
+        "title_en": "Infection",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Drama"
+        ],
+        "description": "A film helyszíne egy régi, omladozó falú kórház, amit csak nehezen tudnak fenntartani, köszönhetõen a gyógyszerek, az orvosi eszközök és a megfelelõ személyzet folyamatos hiányának. A kórház hangos a betegek fájdalmas szenvedésétõl, az orvosok és a nõvérek fizikai és lelki igénybevétele túllépte a kritikus határt. Amikor az egyik orvos gondatlansága miatt meghal az egyik beteg, a felelõsségvállalástól megrémült személyzet úgy dönt, hogy eltusolja a műhibát, halálos események láncreakcióját indítva el ezzel. A rohammentõ új beteget hoz a kórházba, akit egy olyan szörnyű és undorító vírus támadt meg, amitõl a belsõ szervei felbomlanak. Az orvosok mindent elkövetnek, hogy feltartóztassák a vírus terjedését, de a beteg megszökik, gondoskodva arról, hogy az elátkozott kórházépületben mindenki a járvány ellen és az életéért küzdjön.",
+        "image": "https://image.tmdb.org/t/p/w500/9yHcwQm12kDis7SYVtm7eU4LmP4.jpg",
+        "date": "2004-10-02",
+        "score": 6.374,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_280844",
+        "title_hu": "Das Böse",
+        "title_en": "Das Böse",
+        "type": "film",
+        "genres": [
+            "Crime"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/o1M0i9NrUu8uiwUwjaH8BiNdgME.jpg",
+        "date": "1998-03-16",
+        "score": 5.667,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_371893",
+        "title_hu": "El Clásico",
+        "title_en": "The Classic",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Two Kurdish little people in Iraq risk their lives to fulfill their dreams and that is to meet football hero Cristiano Ronaldo.",
+        "image": "https://image.tmdb.org/t/p/w500/lk6ZfUTN4P0kDZSKf1BmH3kngPY.jpg",
+        "date": "2015-10-17",
+        "score": 4.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11497",
+        "title_hu": "Charlie - Minden kutya a mennybe jut",
+        "title_en": "All Dogs Go to Heaven",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Animation",
+            "Family",
+            "Comedy",
+            "Fantasy"
+        ],
+        "description": "Charlie, a vagány németjuhász kutya megszökik az Eb Fegyintézetből. Hamarosan azonban a bullterrier Bendő ármánykodásai miatt a mennyország kapujában találja megát. Be is léphetne rajta, de előbb el kell sorolnia földi jótetteit. Charlie ezért visszatér a földre, ahol egy bűbájos kislány, Anne Marie segítségével bebizonyítja, hogy a végén minden kutya a mennybe jut!",
+        "image": "https://image.tmdb.org/t/p/w500/j7SmkCT4bcdOimOQxHrQXwfR4VX.jpg",
+        "date": "1989-11-17",
+        "score": 6.82,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
