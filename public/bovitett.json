@@ -314410,37 +314410,53 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_977331",
         "tags": [
-            "Adventure",
-            "Comedy"
+            "Comedy",
+            "dog",
+            "cat",
+            "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10907",
         "tags": [
+            "sword",
             "Romance",
+            "richard the lionheart",
+            "sherwood forest",
+            "repayment",
+            "archer",
+            "Action",
+            "sword fight",
             "Adventure",
-            "Action"
+            "robin hood"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1613",
         "tags": [
-            "Crime",
-            "Action",
+            "synthetic drug",
+            "Comedy",
+            "liverpool, england",
             "Thriller",
-            "Comedy"
+            "double cross",
+            "skinheads",
+            "Action",
+            "organized crime",
+            "Crime",
+            "northern england",
+            "laxative"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1398050",
@@ -314448,7 +314464,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_480318",
@@ -314456,26 +314472,40 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_391714",
         "tags": [
+            "Romance",
+            "sexual revolution",
+            "honeymoon",
+            "newlywed",
+            "sexual abuse",
+            "1960s",
+            "based on novel or book",
             "Drama",
-            "Romance"
+            "frigidity"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10127",
         "tags": [
-            "Science Fiction",
+            "Comedy",
+            "bounty hunter",
+            "spacecraft",
             "Horror",
-            "Comedy"
+            "sequel",
+            "hamburger",
+            "alien",
+            "Science Fiction",
+            "small town",
+            "kansas, usa"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_428688",
@@ -314483,108 +314513,166 @@
             "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_754067",
         "tags": [
-            "Drama",
+            "based on true story",
+            "wolf",
+            "Family",
             "Adventure",
-            "Family"
+            "Drama",
+            "france"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1755888",
         "tags": [
-            "Drama",
-            "History"
+            "History",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10772",
         "tags": [
+            "lone wolf",
+            "django",
+            "stetson",
             "Western",
-            "Action"
+            "coffin",
+            "Action",
+            "spaghetti western",
+            "hitman"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1043905",
         "tags": [
-            "Drama",
+            "taliban",
+            "Thriller",
             "War",
-            "Thriller"
+            "exploding helicopter",
+            "rescue mission",
+            "forced marriage",
+            "female warrior",
+            "kidnapping",
+            "Drama",
+            "military"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_596161",
         "tags": [
             "Western",
+            "north dakota",
+            "Thriller",
+            "grief",
+            "abusive father",
             "Crime",
-            "Thriller"
+            "based on novel or book",
+            "loss of loved one",
+            "montana",
+            "horse"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_18654",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "shogun",
+            "customer",
+            "flirt",
+            "restaurant",
+            "waiter",
+            "toilet",
+            "marijuana"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10637",
         "tags": [
-            "Drama"
+            "1970s",
+            "friendship",
+            "high school",
+            "sports",
+            "politics",
+            "american football",
+            "Drama",
+            "ku klux klan"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1461058",
         "tags": [
+            "female rock climber film",
+            "Documentary",
+            "self empowered woman",
+            "rock climbing",
+            "el capitan",
             "Adventure",
-            "Documentary"
+            "emily harrington documentary",
+            "mountaineering",
+            "yosemite"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1123093",
         "tags": [
+            "3d animation",
+            "video game",
+            "Comedy",
+            "sequel",
+            "christmas",
+            "blizzard",
+            "coming of age",
             "Family",
             "Animation",
-            "Comedy"
+            "based on novel or book"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_854239",
         "tags": [
+            "History",
+            "chicago, illinois",
+            "based on true story",
+            "racist",
+            "mother",
+            "son",
+            "grief",
             "Drama",
-            "History"
+            "funeral"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_987376",
         "tags": [
-            "Drama",
-            "Music"
+            "Music",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1763052",
@@ -314593,292 +314681,315 @@
             "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1515899",
         "tags": [
+            "Documentary",
+            "concert film",
+            "enchant",
             "Music",
-            "Documentary"
+            "documentary",
+            "comforting"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_2788",
         "tags": [
-            "Drama",
+            "Comedy",
             "Romance",
-            "Comedy"
+            "yuppie",
+            "cohabitant",
+            "unemployed",
+            "roommates",
+            "generations conflict",
+            "Drama",
+            "cabriolet"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1476453",
         "tags": [
+            "girls' love (gl)",
+            "sexy",
+            "lesbian",
+            "softcore",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9556",
         "tags": [
+            "mask",
+            "Thriller",
             "Science Fiction",
+            "superhero",
+            "burn",
+            "revenge",
             "Action",
-            "Thriller"
+            "gangster",
+            "experiment",
+            "corruption"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_7577",
         "tags": [
-            "Role-playing (RPG)"
+            "action-adventure",
+            "Role-playing (RPG)",
+            "female protagonist"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_7472",
         "tags": [
-            "Sci-Fi",
             "Pirates",
+            "Meta",
+            "Comedy",
+            "Swordplay",
+            "Anachronism",
             "Shounen",
             "Gore",
-            "Parody",
-            "Swordplay",
-            "Action",
-            "Anachronism",
-            "Historical",
             "Male Protagonist",
-            "Meta",
             "Primarily Male Cast",
-            "Comedy"
+            "Action",
+            "Historical",
+            "Parody",
+            "Sci-Fi"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_99200",
         "tags": [
-            "Fantasy",
-            "Action",
+            "Bullying",
+            "Revenge",
             "Cultivation",
             "Isekai",
-            "Male Protagonist",
+            "Fantasy",
+            "Action",
             "Magic",
-            "Bullying",
-            "College",
             "School",
-            "Revenge"
+            "College",
+            "Male Protagonist"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_9135",
         "tags": [
+            "Comedy",
+            "Tragedy",
+            "Super Power",
+            "Conspiracy",
             "Travel",
             "Shounen",
-            "Fantasy",
-            "Conspiracy",
-            "Disability",
-            "Action",
             "Alchemy",
             "Male Protagonist",
+            "Action",
+            "Disability",
             "Magic",
-            "Super Power",
-            "Tragedy",
             "Fugitive",
             "Drama",
             "Adventure",
-            "Comedy"
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_21712",
         "tags": [
-            "Sci-Fi",
-            "Time Manipulation",
-            "Mystery",
             "Amnesia",
-            "Time Skip",
             "Tragedy",
-            "Coastal",
-            "Male Protagonist",
-            "Shrine Maiden",
-            "Drama",
             "Romance",
-            "Love Triangle",
+            "Female Harem",
             "Heterosexual",
-            "Female Harem"
+            "Shrine Maiden",
+            "Male Protagonist",
+            "Mystery",
+            "Time Manipulation",
+            "Love Triangle",
+            "Time Skip",
+            "Drama",
+            "Coastal",
+            "Sci-Fi"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_104460",
         "tags": [
-            "Iyashikei",
-            "Slice of Life",
             "Outdoor Activities",
-            "Primarily Female Cast",
-            "Primarily Adult Cast",
             "Food",
+            "Comedy",
             "Coming of Age",
+            "Slice of Life",
+            "Female Protagonist",
+            "Primarily Adult Cast",
             "Time Skip",
             "Camping",
             "Cute Girls Doing Cute Things",
-            "Female Protagonist",
-            "Comedy"
+            "Primarily Female Cast",
+            "Iyashikei"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_21703",
         "tags": [
-            "Writing",
-            "Slice of Life",
-            "Philosophy",
             "Work",
-            "Primarily Adult Cast",
-            "Coming of Age",
-            "Time Skip",
-            "Male Protagonist",
-            "Educational",
-            "Drama",
             "Romance",
+            "Coming of Age",
             "Office Lady",
-            "Ensemble Cast"
+            "Slice of Life",
+            "Writing",
+            "Primarily Adult Cast",
+            "Philosophy",
+            "Educational",
+            "Ensemble Cast",
+            "Time Skip",
+            "Drama",
+            "Male Protagonist"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_1119",
         "tags": [
             "Outdoor Activities",
-            "Time Manipulation",
-            "Fantasy",
-            "Kids",
-            "Creature Taming",
-            "Action",
-            "Environmental",
-            "Rural",
-            "Proxy Battle",
+            "Comedy",
             "Primarily Child Cast",
-            "Animals",
-            "Drama",
-            "Adventure",
+            "Proxy Battle",
+            "Kids",
             "Fairy",
-            "Comedy"
+            "Animals",
+            "Rural",
+            "Time Manipulation",
+            "Action",
+            "Adventure",
+            "Environmental",
+            "Drama",
+            "Creature Taming",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_1313",
         "tags": [
-            "Sci-Fi",
-            "Animals",
             "Virtual World",
-            "Fantasy",
-            "Artificial Intelligence",
+            "Comedy",
+            "Primarily Child Cast",
+            "Coming of Age",
+            "Sci-Fi",
+            "Proxy Battle",
+            "Kaiju",
+            "Animals",
             "Primarily Animal Cast",
             "Action",
-            "Coming of Age",
-            "Urban Fantasy",
-            "Kaiju",
-            "Primarily Child Cast",
-            "Proxy Battle",
-            "Henshin",
+            "Artificial Intelligence",
             "Drama",
+            "Urban Fantasy",
             "Adventure",
-            "Comedy"
+            "Henshin",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_204356",
         "tags": [
-            "Superhero",
-            "Shounen",
             "Work",
-            "Primarily Adult Cast",
-            "Coming of Age",
-            "Action",
-            "Time Skip",
-            "Male Protagonist",
             "Super Power",
-            "Adventure",
+            "Coming of Age",
             "Female Protagonist",
-            "Heterosexual"
+            "Primarily Adult Cast",
+            "Time Skip",
+            "Shounen",
+            "Heterosexual",
+            "Action",
+            "Adventure",
+            "Superhero",
+            "Male Protagonist"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_171110",
         "tags": [
-            "Gods",
-            "Writing",
-            "Slice of Life",
-            "Fantasy",
-            "Religion",
-            "Conspiracy",
             "Coming of Age",
-            "Isekai",
-            "Magic",
-            "Politics",
-            "Drama",
+            "Conspiracy",
+            "Slice of Life",
+            "Writing",
             "Female Protagonist",
-            "Reincarnation"
+            "Politics",
+            "Religion",
+            "Isekai",
+            "Gods",
+            "Magic",
+            "Reincarnation",
+            "Drama",
+            "Fantasy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_191205",
         "tags": [
-            "Fantasy",
-            "Estranged Family",
+            "Reincarnation",
+            "Cute Boys Doing Cute Things",
             "Maids",
             "Isekai",
-            "Male Protagonist",
+            "Fantasy",
             "Kingdom Management",
-            "Magic",
+            "Estranged Family",
             "Rural",
-            "Cute Boys Doing Cute Things",
+            "Magic",
             "Adventure",
             "Medieval",
-            "Reincarnation"
+            "Male Protagonist"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_31408",
         "tags": [
             "Anti-Hero",
-            "Psychological",
-            "Gods",
-            "Philosophy",
-            "Gore",
-            "Terrorism",
-            "Crime",
-            "Politics",
-            "Fugitive",
             "Kaiju",
             "Seinen",
-            "Adventure"
+            "Politics",
+            "Gore",
+            "Philosophy",
+            "Terrorism",
+            "Crime",
+            "Fugitive",
+            "Psychological",
+            "Adventure",
+            "Gods"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
