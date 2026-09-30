@@ -330121,229 +330121,355 @@
     {
         "id": "tmdb_20504",
         "tags": [
+            "gunfight",
+            "bible",
             "Science Fiction",
-            "Thriller",
-            "Action"
+            "dystopia",
+            "survival",
+            "faith",
+            "chaos",
+            "post-apocalyptic future",
+            "Action",
+            "Thriller"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_4256",
         "tags": [
+            "horror spoof",
+            "parody",
+            "spoof",
+            "vhs",
+            "halloween",
+            "sequel",
+            "alien",
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_408",
         "tags": [
-            "Animation",
+            "witch",
+            "dying and death",
+            "dwarf",
+            "magic",
             "Fantasy",
-            "Family"
+            "Family",
+            "princess",
+            "becoming an adult",
+            "Animation",
+            "poison"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_4011",
         "tags": [
+            "supernatural",
+            "haunted house",
+            "afterlife",
+            "skeleton",
+            "arts",
             "Fantasy",
+            "halloween",
+            "calypso",
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9416",
         "tags": [
-            "Comedy",
+            "interview",
+            "arrest",
+            "diamond",
             "Crime",
-            "Thriller",
-            "Action"
+            "liberation of prisoners",
+            "prison",
+            "transport of prisoners",
+            "Comedy",
+            "Action",
+            "Thriller"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_13655",
         "tags": [
-            "Family",
             "Music",
+            "lying",
+            "aspiring singer",
+            "summer",
+            "rock star",
+            "camp",
+            "Family",
+            "summer camp",
+            "singing",
             "TV Movie"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_20530",
         "tags": [
-            "Drama"
+            "father daughter relationship",
+            "arranged marriage",
+            "black and white",
+            "Drama",
+            "shōwa era (1926-89)",
+            "post world war ii",
+            "serene"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_256962",
         "tags": [
-            "Drama",
             "War",
+            "spirituality",
+            "world war ii",
+            "Drama",
             "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10223",
         "tags": [
+            "minnesota",
+            "sibling relationship",
             "Crime",
-            "Thriller",
-            "Drama"
+            "money delivery",
+            "Drama",
+            "friendship",
+            "airplane",
+            "greed",
+            "based on novel or book",
+            "Thriller"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11804",
         "tags": [
+            "supernatural",
+            "paranormal phenomena",
+            "lifting person in air",
             "Horror",
-            "Thriller",
-            "Drama"
+            "wheelchair",
+            "inspector",
+            "obsession",
+            "Drama",
+            "loss",
+            "Thriller"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10729",
         "tags": [
+            "jousting",
+            "crime gone awry",
+            "bank robbery",
+            "getaway",
             "Crime",
-            "Comedy"
+            "new york city",
+            "heist",
+            "Comedy",
+            "bumbler"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1495694",
         "tags": [
+            "romantic drama",
+            "winemaking",
             "Drama",
-            "Romance"
+            "Romance",
+            "heartbreak",
+            "based on novel or book"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_218726",
         "tags": [
-            "Science Fiction",
-            "Family",
             "Adventure",
-            "Animation",
+            "woman director",
+            "Science Fiction",
             "Fantasy",
+            "Family",
+            "anime",
+            "Animation",
             "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1288220",
         "tags": [
-            "Drama"
+            "orphanage",
+            "language barrier",
+            "nun",
+            "Drama",
+            "parent child relationship",
+            "based on true story",
+            "camera",
+            "adoption"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11071",
         "tags": [
+            "new mexico",
             "Horror",
-            "Science Fiction"
+            "monster",
+            "Science Fiction",
+            "mutation",
+            "radiation",
+            "fbi",
+            "army",
+            "atomic bomb"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_5353",
         "tags": [
-            "Drama",
+            "civil war",
             "Adventure",
-            "Thriller",
-            "Action"
+            "journalist",
+            "war correspondent",
+            "journalism",
+            "Drama",
+            "hotel",
+            "war crimes",
+            "spy",
+            "Action",
+            "Thriller"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_294016",
         "tags": [
-            "Drama"
+            "hollywood",
+            "communism",
+            "screenwriter",
+            "movie business",
+            "Drama",
+            "parent child relationship",
+            "biography",
+            "writer"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9638",
         "tags": [
+            "funeral",
             "Horror",
-            "Science Fiction"
+            "portal",
+            "Science Fiction",
+            "undertaker",
+            "coffin",
+            "cemetery",
+            "grave robber",
+            "evil"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1764615",
         "tags": [
+            "competition",
             "Horror",
+            "Science Fiction",
             "Western",
-            "Science Fiction"
+            "post-apocalyptic"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_228805",
         "tags": [
+            "suspense",
+            "detective",
             "Drama",
+            "anime",
+            "absurd",
+            "mystery",
             "Animation",
-            "Action"
+            "Action",
+            "japan self defense forces (jsdf)"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_787310",
         "tags": [
-            "Crime",
             "Thriller",
-            "Action"
+            "Action",
+            "Crime"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_70868",
         "tags": [
+            "list",
+            "business trip",
+            "boston, massachusetts",
+            "working mom",
+            "married life",
+            "thanksgiving",
+            "Romance",
             "Comedy",
-            "Romance"
+            "in-laws"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_173228",
         "tags": [
+            "Heterosexual",
+            "Female Protagonist",
             "Aromantic",
-            "Shoujo",
-            "Romance",
+            "College",
+            "Male Protagonist",
             "Primarily Adult Cast",
             "Drama",
-            "Male Protagonist",
+            "Romance",
             "Love Triangle",
-            "College",
-            "Heterosexual",
-            "Female Protagonist"
+            "Shoujo"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
