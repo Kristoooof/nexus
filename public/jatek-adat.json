@@ -80808,5 +80808,39 @@
         "score": 85.18157855828206,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_250906",
+        "title_en": "Dangeresque: The Roomisode Triungulate",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Point-and-click",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "Join Dangeresque, (Strong Bad from Homestar Runner) the world's greatest private eye/crooked cop, as he puzzles his way through 3 bite-sized roomisodes in this classic-style point n' click adventure.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6y2o.jpg",
+        "date": "2023-08-11",
+        "score": 97.51147038508057,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_132309",
+        "title_en": "Ato",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Platform",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "Ato is an atmospheric sword dueling metroidvania game set in the era of feudal Japan. Every combat encounter is an intense duel to the death with its own personality and fighting style. Perform risky parry maneuvers, bounce off of your opponent, evade their attacks and unlock new abilities to further expand your arsenal of options against your adversaries.\n\nExplore colorful and atmospheric environments. Obtain new abilities to solve environmental puzzles. Uncover the mystery of this world and experience a story that is told without a single word.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co82vf.jpg",
+        "date": "2020-05-08",
+        "score": 96.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
