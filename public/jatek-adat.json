@@ -80890,5 +80890,55 @@
         "score": 80.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_414306",
+        "title_en": "Fate/Grand Order Lostbelt No. 5: Atlantis",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Visual Novel"
+        ],
+        "description": "The first half of Lostbelt 5.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocxgk.jpg",
+        "date": "2019-12-18",
+        "score": 85.35801606706252,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_348202",
+        "title_en": "Aniimo",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Puzzle",
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "description": "Aniimo is a free-to-play, next-gen creature-catching open-world RPG. Explore the vast continent of Idyll, Twine with unique Aniimo, unlock new abilities. Travel to a sky-floating metropolis, meet other Pathfinders, and battle in exciting competitions. Choose your Aniimo and begin your epic journey!",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocce2.jpg",
+        "date": "2026-09-16",
+        "score": 88.22222222222223,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_16584",
+        "title_en": "Dragon Warrior IV",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Turn-based strategy (TBS)",
+            "Adventure"
+        ],
+        "description": "Dragon Warrior IV differs from the rest of the series by breaking up the game into five distinct chapters, each of which focuses on a different protagonist or protagonists. The first four are told from the perspective of the Hero's future companions and the fifth one, from the hero's perspective, brings all the characters together as they begin their journey to save the world.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7trb.jpg",
+        "date": "1990-02-11",
+        "score": 88.12437743910358,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
