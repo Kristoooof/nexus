@@ -80957,5 +80957,37 @@
         "score": 83.02967656220585,
         "age_rating": "16+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_165055",
+        "title_en": "Splinterlands",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Card & Board Game"
+        ],
+        "description": "Splinterlands is a unique digital trading card game that allows players to truly own their cards and other in-game assets. Thanks to web 3.0 technology powered by the HIVE blockchain, each card in Splinterlands is a non-fungible token owned by a player. That means that players can do anything they want with their cards, including battling for rewards, holding as collectibles, trading on the peer-to-peer market, combining to level up, or even burning to obtain Dark Energy Crystals, the official in-game cryptocurrency of Splinterlands.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobp0j.jpg",
+        "date": "2018-05-26",
+        "score": 92.80898876404494,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_405185",
+        "title_en": "A Weird Game About Sausage",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Platform",
+            "Simulator",
+            "Indie"
+        ],
+        "description": "This is a clicker game about a sausage.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coc79t.jpg",
+        "date": "2026-05-21",
+        "score": 88.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
