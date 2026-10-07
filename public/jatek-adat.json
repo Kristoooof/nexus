@@ -80989,5 +80989,39 @@
         "score": 88.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_413519",
+        "title_en": "Fate/Grand Order Lostbelt No. 7: Nahui Mictlān",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Turn-based strategy (TBS)",
+            "Visual Novel"
+        ],
+        "description": "Nahui Mictlān is the seventh and final chapter of Cosmos in the Lostbelt.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocvxh.jpg",
+        "date": "2022-12-25",
+        "score": 93.87504765693636,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_313595",
+        "title_en": "Two Point Museum",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Simulator",
+            "Strategy",
+            "Indie"
+        ],
+        "description": "Curate and manage incredible museums! Explore to discover amazing artifacts. Design and refine the layout, keep staff happy, guests entertained, donations plentiful… and children off the exhibits.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9t39.jpg",
+        "date": "2025-03-04",
+        "score": 80.01466790558474,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
