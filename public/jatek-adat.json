@@ -81154,5 +81154,55 @@
         "score": 89.96412155444446,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_361391",
+        "title_en": "Black Souls II",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Turn-based strategy (TBS)",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "BLACK SOULS II is the censored release of the Dark Fairy Tale Fantasy x Psychological Horror RPG focusing on the themes of \"Exploration of a Mad World\" and \"Life or Death Combat against Demonbeasts\".\n\nDespair. Fear, Madness, once again. An original work based on \"Alice in Wonderland\" and \"Through the Looking-Glass.\"",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaaln.jpg",
+        "date": "2025-11-29",
+        "score": 95.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_214707",
+        "title_en": "The Last Hero of Nostalgaia",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "description": "The Last Hero of Nostalgaia is a satirical action-adventure, brought to life by a twisted and wicked tale. Featuring hard but fair combat, *full character customization, unique battle armor and engaging narrative mechanics rich in lore, Nostalgaia plunges you into almost certain death at every turn.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co54t3.jpg",
+        "date": "2022-10-19",
+        "score": 80.3438596491228,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_24775",
+        "title_en": "The Elder Scrolls III: Morrowind - Game of the Year Edition",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "description": "An epic, open-ended single-player RPG, Morrowind allows you to create and play any kind of character imaginable. You can choose to follow the main storyline and find the source of the evil blight that plagues the land, or set off on your own to explore strange locations and develop your character based on their actions throughout the game. Featuring stunning 3D graphics, open-ended gameplay, and an incredible level of detail and interactivity, Morrowind offers a gameplay experience like no other.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ycf.jpg",
+        "date": "2003-10-31",
+        "score": 80.33127885186387,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
