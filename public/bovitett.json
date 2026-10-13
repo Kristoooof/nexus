@@ -345137,90 +345137,151 @@
     {
         "id": "tmdb_1244523",
         "tags": [
+            "creature",
             "Thriller",
-            "Horror"
+            "creature feature",
+            "survival",
+            "survival horror",
+            "giant snake",
+            "animal attack",
+            "Horror",
+            "amazon rainforest"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_566525",
         "tags": [
+            "duringcreditsstinger",
+            "superhero",
+            "aftercreditsstinger",
             "Fantasy",
+            "mixed martial arts (mma)",
             "Action",
-            "Adventure"
+            "Adventure",
+            "martial arts",
+            "east asian lead",
+            "based on comic"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_609681",
         "tags": [
+            "sequel",
+            "superhero",
+            "teenage girl",
             "Science Fiction",
+            "space travel",
+            "female protagonist",
             "Action",
-            "Adventure"
+            "hero",
+            "Adventure",
+            "based on comic"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1087891",
         "tags": [
             "Thriller",
-            "Action"
+            "blackmail",
+            "government assassin",
+            "central intelligence agency (cia)",
+            "agent",
+            "revenge",
+            "escape",
+            "Action",
+            "based on novel or book"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_566222",
         "tags": [
-            "Documentary"
+            "Documentary",
+            "behavior modification",
+            "propaganda",
+            "united kingdom",
+            "social network",
+            "whistleblower",
+            "political thriller",
+            "politics"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9711",
         "tags": [
+            "creature",
+            "saving the world",
+            "pregnancy",
             "Science Fiction",
+            "transformation",
             "Action",
-            "Horror"
+            "Horror",
+            "military"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_33875",
         "tags": [
-            "Action",
-            "Adventure",
-            "Animation",
+            "canal",
+            "port city",
+            "Fantasy",
             "Science Fiction",
-            "Fantasy"
+            "shape shifter",
+            "based on video game",
+            "jewelry",
+            "legend",
+            "Animation",
+            "Action",
+            "anime",
+            "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_18775",
         "tags": [
+            "computer",
             "Science Fiction",
-            "Horror"
+            "rape",
+            "held captive",
+            "artificial intelligence (a.i.)",
+            "technology",
+            "man vs machine",
+            "Horror",
+            "computer scientist"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11463",
         "tags": [
+            "raf (royal air force)",
+            "1940s",
             "War",
+            "aerial combat",
+            "airfield",
+            "british history",
             "Action",
+            "based on true story",
+            "History",
             "Drama",
-            "History"
+            "world war ii"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_292581",
@@ -345228,7 +345289,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_455718",
@@ -345236,144 +345297,205 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_456611",
         "tags": [
-            "Animation",
+            "redemption",
             "Crime",
+            "heist",
+            "assassin",
+            "samurai",
+            "casino",
+            "bodyguard",
+            "Animation",
             "Action",
+            "yakuza",
             "Drama"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1776438",
         "tags": [
-            "Family",
-            "Drama"
+            "Drama",
+            "Family"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1774872",
         "tags": [
+            "Fantasy",
+            "Comedy",
+            "Animation",
             "Action",
             "Adventure",
-            "Animation",
-            "Fantasy",
-            "Comedy"
+            "anime inspired"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_54186",
         "tags": [
+            "child murder",
             "Thriller",
+            "murder",
             "Mystery",
-            "Drama"
+            "teacher",
+            "junior high school",
+            "japan",
+            "Drama",
+            "based on novel or book",
+            "middle school"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11013",
         "tags": [
+            "clerk",
+            "lawyer",
+            "secretary",
+            "Romance",
+            "sadomasochism",
             "Comedy",
-            "Drama",
-            "Romance"
+            "fetish",
+            "hospital",
+            "suicide",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_414388",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1150394",
         "tags": [
-            "Animation",
-            "Comedy",
             "Horror",
+            "Comedy",
+            "Animation",
             "Family"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_119892",
         "tags": [
-            "Fantasy",
             "Family",
+            "Fantasy",
+            "religion",
             "Action",
-            "Adventure"
+            "Adventure",
+            "monkey",
+            "based on novel or book",
+            "martial arts"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_530723",
         "tags": [
             "Crime",
+            "long island, new york",
+            "2000s",
+            "based on magazine, newspaper or article",
+            "based on true story",
+            "History",
             "Drama",
-            "History"
+            "school",
+            "embezzlement"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1155058",
         "tags": [
-            "Animation",
+            "alternate history",
             "Science Fiction",
-            "Drama"
+            "based on graphic novel",
+            "conspiracy",
+            "nuclear war",
+            "masked vigilante",
+            "Animation",
+            "retirement",
+            "Drama",
+            "secret identity"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_736790",
         "tags": [
-            "Fantasy",
+            "chupacabra",
             "Family",
+            "Fantasy",
+            "coming of age",
+            "mexican legend",
+            "legend",
+            "urban legend",
             "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_820722",
         "tags": [
+            "unbalanced scale",
+            "one week",
+            "aggressive intern",
             "Comedy",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_586707",
         "tags": [
             "Thriller",
+            "relationship problems",
+            "love triangle",
             "Science Fiction",
-            "Drama"
+            "jealousy",
+            "artificial intelligence (a.i.)",
+            "infidelity",
+            "android",
+            "Drama",
+            "man woman relationship"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_13156",
         "tags": [
+            "Strategy",
+            "chosen one",
             "Role-playing (RPG)",
-            "Strategy"
+            "wolf",
+            "trolls",
+            "medieval",
+            "prehistoric",
+            "amnesia",
+            "orcs"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     }
 ]
