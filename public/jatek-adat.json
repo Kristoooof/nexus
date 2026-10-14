@@ -81220,5 +81220,37 @@
         "score": 81.32342038253728,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_342738",
+        "title_en": "Moldwasher",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Simulator",
+            "Indie",
+            "Arcade"
+        ],
+        "description": "Clean moldy messes as a brave food hero! Equip your high-pressure spray, choose the right nozzle, and clear away sticky messes in this cozy, arcade-style fridge-cleaning adventure.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocb8f.jpg",
+        "date": "2026-06-23",
+        "score": 80.36630214354572,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_198161",
+        "title_en": "World of Warcraft: Wrath of the Lich King Classic",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)"
+        ],
+        "description": "The Lich King's forces await you in the icy continent of Northrend. World of Warcraft: Wrath of the Lich King Classic is coming, and with it another chance to relive the legend and face one of Azeroth's greatest villains.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55cd.jpg",
+        "date": "2022-09-26",
+        "score": 89.76049209309083,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
