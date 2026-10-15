@@ -81269,5 +81269,40 @@
         "score": 80.57415257709694,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_272721",
+        "title_en": "Snail Simulator",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Simulator",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "Have you ever wanted to be a snail? Now you can be! Move around (very slowly)! Look at the beautiful (low poly) scenery! MMOS (Massive Multiplayer Online Snails)! BECOME a snail (in a simulation)!",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7xnu.jpg",
+        "date": "2023-11-20",
+        "score": 81.66666666666666,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_119577",
+        "title_en": "The House in Fata Morgana: Dreams of the Revenants Edition",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Adventure",
+            "Indie",
+            "Visual Novel"
+        ],
+        "description": "A gothic suspense tale set in a cursed mansion. 'The House in Fata Morgana' is a full-length visual novel spanning nearly a millennium that deals in tragedy, human nature, and insanity.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobf78.jpg",
+        "date": "2019-05-28",
+        "score": 93.98503427369802,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
