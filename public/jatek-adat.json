@@ -81304,5 +81304,37 @@
         "score": 93.98503427369802,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_366890",
+        "title_en": "Fatal Frame II: Crimson Butterfly Remake",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Adventure"
+        ],
+        "description": "The full remake of FATAL FRAME / PROJECT ZERO II: Crimson Butterfly. This Japanese-style horror adventure game follows twin sisters lost in an abandoned village haunted by evil spirits. Using the Camera Obscura, they fight ghosts as the story unfolds.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/coau37.jpg",
+        "date": "2026-03-12",
+        "score": 80.00046539768232,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_191337",
+        "title_en": "To the Moon: Sigmund Minisode 2",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "A new 20-minute holiday special taking place at Sigmund Corp, where Neil and Eva work.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9dng.jpg",
+        "date": "2015-02-18",
+        "score": 80.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
