@@ -161095,5 +161095,438 @@
         "score": 6.448,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_396461",
+        "title_hu": "Kaliforniai rémálom",
+        "title_en": "The Road",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "description": "A történet egy Sam (Andrew Garfield) nevű férfiról szól, aki megszállottja bizonyos dolgoknak. Megszállottja egy milliárdos mogul meggyilkolásának, a Los Angeles-i kutya gyilkosságoknak és megszállottjává vált Sarah-nak (Riley Keough), az új szomszédjának, aki egy nap eltűnik. Sam barátja segítségével (Topher Grace) nyomozásba kezd az eltűnt lány ügyében.",
+        "image": "https://image.tmdb.org/t/p/w500/57POgw5zmqKqeocJmzjHtix9xEx.jpg",
+        "date": "2018-08-08",
+        "score": 6.3,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1211066",
+        "title_hu": "Banyaszelídítés 2.",
+        "title_en": "The Taming of the Shrewd 2",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "description": "Kaśka és Patryk szerelmét próbára teszi, hogy mindketten azt gyanítják, a másik hűtlen hozzájuk. Ráadásul a szomszédok is folyton beleavatkoznak az ügyeikbe.",
+        "image": "https://image.tmdb.org/t/p/w500/lm5voDumoYhkhVmTcGA3pp8aW1K.jpg",
+        "date": "2023-12-20",
+        "score": 5.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_286532",
+        "title_hu": "Kellemetlen karácsonyi ünnepeket",
+        "title_en": "A Merry Friggin' Christmas",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Boyd (Joel McHale – Balfékek-sorozat) a feleségével (Lauren Graham – Szívek szállodája-sorozat), no meg a gyerekekkel kénytelen a szülői házban eltölteni a karácsonyt, ahol a szörnyű rokonság vár rájuk. Ráadásul így nem kerülheti el a találkozást különc apjával (Robin Williams) sem, akit látni se bír. Rosszul kezdődnek a dolgok, de ez még mind semmi.  Mikor Boyd rádöbben, hogy otthon felejtette fia ajándékait, az öregével ül autóba egy hóvihar kellős közepén, hogy napkelte előtt jóvátegye baklövését és megmentse családja elátkozott karácsonyát.",
+        "image": "https://image.tmdb.org/t/p/w500/lRPuMamQFcxjZR1pQuOSkYLOZZr.jpg",
+        "date": "2014-11-07",
+        "score": 5.4,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_543580",
+        "title_hu": "Akik már nem öregszenek meg",
+        "title_en": "They Shall Not Grow Old",
+        "type": "film",
+        "genres": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "description": "Az első világháború végének századik évfordulójára emlékezünk ezzel a dokumentumfilmmel, amely a nagyközönség számára eddig ismeretlen felvételekkel és archív anyagokkal mutatja be az első nagy háborút.",
+        "image": "https://image.tmdb.org/t/p/w500/v445Wo2sTYXM6XcOceZIqfECeH0.jpg",
+        "date": "2018-11-09",
+        "score": 7.769,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1307520",
+        "title_hu": "A legnagyobb rajongó",
+        "title_en": "The Biggest Fan",
+        "type": "film",
+        "genres": [
+            "Comedy"
+        ],
+        "description": "Lana Cruz karrierje zsákutcába jut Hollywoodban, így szülővárosában tervez visszatérni. Ám megjelenik Polly, a rajongóból lett rivális. Visszaszerezheti Lana a hírnevét?",
+        "image": "https://image.tmdb.org/t/p/w500/xAmrGP3FlgARoEhaOiiho2Q39HN.jpg",
+        "date": "2025-04-30",
+        "score": 6.4,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1024773",
+        "title_hu": "Ahol a sötétség lakozik",
+        "title_en": "It Lives Inside",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "description": "Samidha kétségbeesetten igyekszik beilleszkedni az iskolában, miközben egyre inkább eltávolodik a gyökereitől és mindentől, ami a hindi kultúrával kapcsolatos. Amikor gyermekkori barátnője segítséget kér tőle, majd ezt követően nyom nélkül eltűnik, a fiatal lánynak szembe kell néznie egy ősi gonosszal.",
+        "image": "https://image.tmdb.org/t/p/w500/5SfnwiSeMXt4xtdX21S160VNZHH.jpg",
+        "date": "2023-09-06",
+        "score": 5.7,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_14197",
+        "title_hu": "Szeszélyes szerelmem",
+        "title_en": "My Sassy Girl",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "description": "Charlie (Jesse Bradford), a félénk és idealista egyetemi hallgató még soha nem volt szerelmes, míg egy napon meg nem menti egy lány életét. A gyönyörű, ám megfoghatatlan Jordan (Elisha Cuthbert - 24) szokatlan és különc udvarlásra készteti a fiút: egy évre külön válnak és addig érzelmeiket csak el nem küldött levelekben fejezik ki, hogy aztán ismét találkozva, közössen olvassák el azokat.",
+        "image": "https://image.tmdb.org/t/p/w500/bJQvKUZTTkfdS0Cha66mlG0t0t5.jpg",
+        "date": "2008-05-26",
+        "score": 6.796,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_978114",
+        "title_hu": "Előbb táncolj!",
+        "title_en": "Dance First",
+        "type": "film",
+        "genres": [
+            "History",
+            "Drama"
+        ],
+        "description": "A Nobel-díjas Samuel Beckett a 20. század egyik legjelentősebb drámaírója. A többség számára a Godot-ra várva című színműve révén lehet ismerős, de az ír szerző nemcsak emiatt tekintendő a modern irodalom egyik úttörőjének. Az Előbb táncolj! Beckett munkásságáról és magánéletéről szóló életrajzi film, amelyben a fiatalkortól a Nobel-díj elnyeréséig tartó életútba kaphatunk betekintést. Felvillannak a legfontosabb állomások, a magánélet bonyodalmai, a történelem viharai. A filmen keresztül jobban megérthetjük Beckett bonyolult belső világát, amelyet olyan plasztikusan nyújt át a munkásságán keresztül.",
+        "image": "https://image.tmdb.org/t/p/w500/eMCmPYuZUO9okvAKbWSXfNMtGdi.jpg",
+        "date": "2023-11-03",
+        "score": 6.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1775478",
+        "title_hu": "Masahe",
+        "title_en": "Masahe",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "Alluring Zsara Laxamana takes center stage in Masahe, where she explores the sensual art of touch and the fantasies it can awaken. Discover intimate massage techniques that tease the senses, heighten desire, and turn every stroke into an unforgettable experience.",
+        "image": "https://image.tmdb.org/t/p/w500/d2SyOe6NfB4cC4kD1kcWZ8q6mjl.jpg",
+        "date": "2026-09-22",
+        "score": 2.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1452168",
+        "title_hu": "Behemoth!",
+        "title_en": "Behemoth!",
+        "type": "film",
+        "genres": [
+            "Music",
+            "Drama"
+        ],
+        "description": "A tehetséges csellista, Alex Serian húsz év távollét után tér vissza szülővárosába, Los Angelesbe. Életét a zene egy mindent magával ragadó, szüntelenül áradó folyamként szelte át mindig is, és most olyan kalandok felé sodorja, amik örökre megváltoztatják őt.",
+        "image": "https://image.tmdb.org/t/p/w500/9HJHV7M4IPzztsVcX4xkFuA90bF.jpg",
+        "date": "2026-12-02",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_763329",
+        "title_hu": "Vörös rakéta",
+        "title_en": "Red Rocket",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Baker ezúttal egy ex-pornós kudarcos útkeresésén keresztül varázsol filmre kívánkozó atmoszférát egy isten háta mögötti olajfinomító kisvárosból: története egyszerre vicces és szomorú, mint egy naptól kifakult, a hátsó kertben megtalált pornómagazin címlapja. A független-filmes rendező legújabb alkotása egy ex-pornósztár hátán repíti a nézőt 2016-ba, az olajfinomítókkal tördelt Texas City-be, ahol a munkanélküli céltalanság mindennapos, legális a fű és Donald Trumpra szavazni a legtermészetesebb dolog a világon. Az élet pedig itt is kuporgatás, guberálás, stratégiázás – és árulása annak, ami maradt: a testnek, a „legősibb szakma” örök munkaeszközének.",
+        "image": "https://image.tmdb.org/t/p/w500/7spJGHG62IQECqAOfu6StWBP0NG.jpg",
+        "date": "2021-12-10",
+        "score": 6.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_67661",
+        "title_hu": "Thru the Mirror",
+        "title_en": "Thru the Mirror",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Fantasy"
+        ],
+        "description": "Mickey has been reading Alice in Wonderland, and falls asleep. He finds himself on the other side of the mirror, where the furniture is alive.",
+        "image": "https://image.tmdb.org/t/p/w500/ykONqQgAnLDySxbXHwmFzmueWO3.jpg",
+        "date": "1936-05-30",
+        "score": 7.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_46027",
+        "title_hu": "Manhattanre leszáll az éj",
+        "title_en": "Night Falls on Manhattan",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "description": "Sean Casey ígéretes jogi karrier előtt áll - a kerületi államügyész asszisztenseként dolgozik. Édesapja, Liam még egyszerű rendőrtiszt, aki társával, Joey-val éppen Harlem egyik legnagyobb drogkereskedőjén készül rajtaütni. Egy rejtélyes tévedés folytán azonban minden balul üt ki: három rendőr életét veszti az akció során, Liam életveszélyes sérülést szenved, a drogkereskedőnek pedig sikerül kereket oldania. A kerületi ügyész Seant, a hős rendőr fiát bízza meg az időközben politikai botránnyá terebélyesedett üggyel. A kezdő jogásznak nincs könnyű dolga: ellenfele a félelmetes hírű sztárügyvéd, Sam Vigoda, aki nem kevesebbet állít, mint hogy a rendőrséget szoros szálak fűzik a kábítószer-kereskedelemhez.",
+        "image": "https://image.tmdb.org/t/p/w500/cnceT40MnVFs5FC90iHhvht6AB0.jpg",
+        "date": "1997-03-21",
+        "score": 6.351,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_811211",
+        "title_hu": "Fiatal szeretők",
+        "title_en": "The Young Lovers",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "description": "A 71 éves, szabad és független Shauna úgy érzi, már maga mögött hagyta szerelmi életét, a 45 éves Pierre pedig nős, családos ember. Az egykori szeretők 15 évvel első találkozásuk után újra összefutnak egy kórház folyosóján. Nehezen birkóznak meg érzelmeikkel: nem tudják félretenni ellentéteiket, mégis továbbra is megmagyarázhatatlan vonzalmat éreznek egymás után. A nemrég megözvegyült Shauna, akinek már unokái is vannak, újra meg akar győződni arról, hogy kívánatos nőként is lehet rá tekinteni.",
+        "image": "https://image.tmdb.org/t/p/w500/nm6kunhbdhf9WhoyIyi8sXLmAYP.jpg",
+        "date": "2022-02-02",
+        "score": 6.4,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_604822",
+        "title_hu": "Vanguard",
+        "title_en": "Vanguard",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Crime",
+            "Thriller"
+        ],
+        "description": "A Vanguard rejtett biztonsági szervezet az egyetlen remény egy könyvelő számára, miután a világ egyik legnagyobb zsoldosszervezete célba vette.",
+        "image": "https://image.tmdb.org/t/p/w500/mokEEo9XzNgZZVedTjfB2zvvbcD.jpg",
+        "date": "2020-01-22",
+        "score": 6.4,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9446",
+        "title_hu": "Dzsungelből dzsungelbe",
+        "title_en": "Jungle 2 Jungle",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "description": "Cromwell nem is sejti, hogy mi vár rá, amikor visszatér Afrikába, hogy volt feleségétől elkérje a válás kimondásához szükséges utolsó papírokat. A New York-i üzletembert ugyanis egy fiú várja a repülőtéren. Egy fiú, Martin fia, ám a férfinak fogalma sem volt létezéséről. Martin kénytelen hazavinni magával újdonsült fiát, Mimi-Siku-t, aki eddigi életében csak az afrikai dzsungelt látta, és bár New York is dzsungel a maga nemében, a fiút mégis rengeteg meglepetés várja új otthonában. Meg kell tanulnia városi fiú módjára viselkedni. Ez azonban korántsem olyan könnyű Afrika után.",
+        "image": "https://image.tmdb.org/t/p/w500/jfPPLDQmdkVzdOj0tK3eGLfQjUu.jpg",
+        "date": "1997-03-04",
+        "score": 5.439,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1600",
+        "title_hu": "Veronika kettős élete",
+        "title_en": "The Double Life of Véronique",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "description": "Egy lány nyugaton - egy lány keleten.  Egy boldognak látszó fiatal francia nő gyanakodni kezd, hogy hasonmását látta meg Krakkóban. Vagy talán önmaga él két életet? Kieslowski lélektani fantázia-játéka az emberi lét nagy titkaival felesel. Szépség és barátság, szerelem és megaláztatás, a boldogság lehetőségéért folyó könyörtelen harc.",
+        "image": "https://image.tmdb.org/t/p/w500/lADaIKucapVp9gRGsVYkwdCzjhT.jpg",
+        "date": "1991-05-15",
+        "score": 7.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1082424",
+        "title_hu": "Jane Austen tönkretette az életem",
+        "title_en": "Jane Austen Wrecked My Life",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Romance",
+            "Drama"
+        ],
+        "description": "Agathe a legendás párizsi Shakespeare & Co. könyvesboltban dolgozik, polgári állása mellett pedig írói álmokat dédelget, igaz, már jó ideje alkotói válságban szenved. Az irodalom iránti rajongás mellett türelmetlenül vár a nagy, Jane Austen-i típusú, lángoló szerelemre, és mivel épp szingli, így élvezettel merül el az írónő érzelmekkel teli műveiben.\r Amikor legjobb barátja, Félix elintézi, hogy meghívást kapjon az angliai Jane Austen Írótáborba, Agathe esélyt kap arra, hogy végre megélje a saját Jane Austen-pillanatát… ám ehelyett összehozza a sors az írónő ük-ük-ük-ük unokájával, Oliverrel, és hamar egy váratlan szerelmi háromszög közepén találja magát. Ahhoz, hogy beteljesítse szerelmi és szakmai álmait, Agathénak szembe kell néznie a saját bizonytalanságaival, és el kell döntenie, mit is akar valójában.",
+        "image": "https://image.tmdb.org/t/p/w500/fUMqTyut3RSnGedOCqBCjk1YEIe.jpg",
+        "date": "2025-01-22",
+        "score": 6.1,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_347754",
+        "title_hu": "Kanyar",
+        "title_en": "Curve",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "description": "Mallory az esküvőjére tartva felvesz az autójába egy stoppost. Amikor a férfi késsel terrorizálni kezdi őt, a nő direkt autóbalesetet okoz, remélve, hogy így elmenekülhet. A felborult autóban azonban Mallory csapdába esik, és a túléléséért kell harcolnia a pszichopata ellen.",
+        "image": "https://image.tmdb.org/t/p/w500/6NbnmH9K0lPayUYGfnHCz2di5nF.jpg",
+        "date": "2015-08-31",
+        "score": 5.774,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_244566",
+        "title_hu": "Zombibarátnő",
+        "title_en": "Life After Beth",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Comedy",
+            "Horror"
+        ],
+        "description": "Zachet (Dane DeHaan) teljesen lesújtja barátnője, Beth (Aubrey Plaza) váratlan halála, ám a fiú kap egy második esélyt, miután kedvese visszatér az élők közé. A fiú boldogsága azonban nem tart túl sokáig, ugyanis kiderül, hogy barátnője egy olyan zombivá változott, aki folyton éhes.",
+        "image": "https://image.tmdb.org/t/p/w500/4ZQ8LoU9SwSxSrmc3aOtHmruk26.jpg",
+        "date": "2014-08-15",
+        "score": 5.514,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_17745",
+        "title_hu": "Seholsincs csapat",
+        "title_en": "Camp Nowhere",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Family"
+        ],
+        "description": "A kis Morrisra minden idők legunalmasabb tábora vár. Barátai sincsenek jobb helyzetben, ezért agyafúrt tervet eszelnek ki a szülők tervei ellen, és a nyár megmentésére. A nyaralásra szánt pénzükből saját tábort bérelnek ki maguknak egy szélhámos, Dennis Van Walker segítségével, aki elhiteti minden szülővel, hogy csemetéje a tervezett táborba kerül...",
+        "image": "https://image.tmdb.org/t/p/w500/63M7yKUHeHJKWwQcxUclzYOlFAX.jpg",
+        "date": "1994-08-26",
+        "score": 5.951,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1013228",
+        "title_hu": "Egykor híres voltam",
+        "title_en": "I Used to Be Famous",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "description": "Vince, egy kétségbeesett, egykori popsztár története, aki a visszatérésről álmodik. Egy rögtönzött jam session az autista fiatal dobossal, Stevie-vel váratlan barátságot indít el a két meg nem értett zenész között.",
+        "image": "https://image.tmdb.org/t/p/w500/95O8hRVREqraoJ83mkfj19gbFq6.jpg",
+        "date": "2022-09-09",
+        "score": 6.9,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11177",
+        "title_hu": "Maszk",
+        "title_en": "Mask",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A tizenhat éves Rocky súlyos, csontsarjadzásos betegségben szenved, ami teljesen eltorzítja az arcát és az egész külsejét. Los Angeles külvárosában él anyjával, aki egy jó szándékú motorosbanda tagja. Megpróbálnak teljesen hétköznapi életet élni, mintha ez a tragikus betegség nem létezne. Rocky az iskolában messze kitűnik intelligenciájával társai közül. Aztán a fiú váratlanul meghal.",
+        "image": "https://image.tmdb.org/t/p/w500/rCRRAgt8GWuusmQwNMnO5VQGLX3.jpg",
+        "date": "1985-03-08",
+        "score": 7.257,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1250880",
+        "title_hu": "西部狂野",
+        "title_en": "Rovers in West",
+        "type": "film",
+        "genres": [
+            "Action"
+        ],
+        "description": "During the Republican era, in Biyu Town, an oasis in the Gobi Desert, Mayor Ma Yaozu amassed a vast fortune through gold prospecting.",
+        "image": "https://image.tmdb.org/t/p/w500/2TsS7sLx3DOW2K9MmDjXnM3TJy9.jpg",
+        "date": "1992-02-27",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1001010",
+        "title_hu": "Tél Szokcsóban",
+        "title_en": "Winter in Sokcho",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Egy fiatal koreai lány élete váratlan fordulatot vesz, amikor egy francia művész országába érkezik, megzavarva ezzel a lány hétköznapjait.",
+        "image": "https://image.tmdb.org/t/p/w500/mzBfsBee0gsd1Jov7khIVQllLil.jpg",
+        "date": "2025-01-08",
+        "score": 6.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_98548",
+        "title_hu": "Hétköznapi emberek",
+        "title_en": "People Like Us",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Sam (Chris Pine) pergőnyelvű ügynök, akinek utolsó üzlete pont azon a napon dől be, amikor édesapja hirtelen és váratlan haláláról is értesül. Egy porcikája sem kívánja, mégis haza kell utaznia. Várja némi ügyintézés és pár rokon, akivel évek óta nem törődött. Otthon azonban megdöbbentő felfedezést tesz és ettől fenekestül felfordul az élete. Megtudja, hogy van egy nővére, akinek a létezését eltitkolták előle…",
+        "image": "https://image.tmdb.org/t/p/w500/hGOIIK85rR8DCX6XwHjMoPzQjvr.jpg",
+        "date": "2012-06-29",
+        "score": 6.81,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_26127",
+        "title_hu": "Sivatagi lavina",
+        "title_en": "Joshua Tree",
+        "type": "film",
+        "genres": [
+            "Action"
+        ],
+        "description": "Santee (Dolph Lundgren), az ártatlanul elítélt férfi megszökik a börtönből. Menekülés közben túszul ejt egy fiatal nőt, Ritát (Kristian Alfonso), akiről hamarosan kiderül, hogy zsaru. A férfit a bosszúvágy vezérli. Csapdába akarja csalni Severence (George Segal) nyomozót, aki börtönbe juttatta.",
+        "image": "https://image.tmdb.org/t/p/w500/po9AErB8IlMtLERwStzRembOSj4.jpg",
+        "date": "1993-04-08",
+        "score": 6.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]

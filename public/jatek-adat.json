@@ -81336,5 +81336,55 @@
         "score": 80.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_115856",
+        "title_en": "7 Years From Now",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "description": "7 years ago, I lost my memories...\nBut there is one promise I can never forget--\n\n\"I'll be waiting for you, 7 years from now...\"\nA promise with someone I have no recollection of\n\nTo find the missing pieces of my memory\nAnd to fulfill my promise I made that day\nI came back to this town--",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3kt8.jpg",
+        "date": "2017-08-06",
+        "score": 91.04086613969943,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_310665",
+        "title_en": "Duskfade",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Platform",
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "description": "Duskfade is a colorful adventure in a world where the torments of the past haunt you. Battle against your memories in a dizzying dance to fade the shadows of the dusk.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/cocda0.jpg",
+        "date": "2026-08-13",
+        "score": 91.02741622819164,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_213875",
+        "title_en": "Resident Evil 2: Dual Shock Ver.",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Shooter",
+            "Puzzle",
+            "Adventure"
+        ],
+        "description": "First re-release of Resident Evil 2, the Dual Shock Ver. incorporated support for the PlayStation's DualShock analog controller and vibration functions. Also included is a new unlockable mini-game called \"Extreme Battle\" and a \"Rookie\" mode, which allows the player to start the main story with a powerful weapon with infinite ammo.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8mjk.jpg",
+        "date": "1998-08-06",
+        "score": 90.90131119905487,
+        "age_rating": "16+",
+        "cover_nsfw": false
     }
 ]
