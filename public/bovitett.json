@@ -352097,103 +352097,157 @@
     {
         "id": "tmdb_1484222",
         "tags": [
-            "Fantasy",
-            "Drama",
             "Romance",
-            "Comedy"
+            "Fantasy",
+            "Comedy",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_660",
         "tags": [
+            "sea",
+            "fighter pilot",
+            "bahamas",
+            "florida",
             "Action",
+            "paris, france",
+            "Adventure",
+            "sanatorium",
             "Thriller",
-            "Adventure"
+            "spy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_532671",
         "tags": [
-            "Thriller",
-            "Horror"
+            "pennsylvania, usa",
+            "doctor",
+            "serial killer",
+            "supernatural",
+            "Horror",
+            "based on true story",
+            "basement",
+            "reincarnation",
+            "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1365044",
         "tags": [
-            "Family",
+            "christmas",
+            "mysterious",
+            "Drama",
+            "holiday",
             "Fantasy",
+            "nostalgic",
+            "death",
+            "sister",
+            "thoughtful",
             "Adventure",
-            "Drama"
+            "Family"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_948276",
         "tags": [
             "Action",
             "Drama",
+            "sequel",
             "Crime",
+            "corruption",
             "Thriller"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_8944",
         "tags": [
+            "midlife crisis",
             "Drama",
+            "divorce",
+            "movie business",
             "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_295693",
         "tags": [
             "Animation",
-            "Family",
-            "Comedy"
+            "puppy",
+            "aftercreditsstinger",
+            "villain",
+            "sibling rivalry",
+            "baby",
+            "unreliable narrator",
+            "Comedy",
+            "family relationships",
+            "Family"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9078",
         "tags": [
+            "cartoon",
+            "witch",
             "Animation",
-            "Family",
-            "Fantasy"
+            "based on novel or book",
+            "knight",
+            "Fantasy",
+            "villain",
+            "magic",
+            "transformation",
+            "Family"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10784",
         "tags": [
-            "Music",
+            "bisexuality",
+            "cabaret",
             "Romance",
-            "Drama"
+            "entertainer",
+            "Drama",
+            "based on play or musical",
+            "berlin, germany",
+            "musical",
+            "nazi",
+            "Music"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10398",
         "tags": [
+            "sailboat",
+            "court case",
+            "parole board",
             "Crime",
+            "deceived wife",
+            "ferry boat",
+            "new orleans, louisiana",
+            "women's prison",
             "Thriller",
             "Mystery"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_201086",
@@ -352202,124 +352256,140 @@
             "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_16664",
         "tags": [
+            "suicide",
+            "okinawa",
+            "middle school",
+            "coming of age",
             "Drama",
-            "Crime"
+            "Crime",
+            "bullying",
+            "japan",
+            "kendo"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_399248",
         "tags": [
+            "terrorism",
+            "middle east",
+            "arab",
+            "1980s",
             "Action",
             "Drama",
+            "hostage",
+            "1970s",
+            "palestinian-israeli conflict",
             "Thriller"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_316002",
         "tags": [
             "Romance",
-            "Comedy"
+            "Comedy",
+            "one-night stand",
+            "accidental love"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_144382",
         "tags": [
-            "Visual Novel",
-            "Indie"
+            "Indie",
+            "Visual Novel"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_188929",
         "tags": [
-            "Fantasy",
-            "Dragons",
-            "Reincarnation",
-            "Coming of Age",
-            "Magic",
-            "Curses",
-            "Long Strip",
-            "Conspiracy",
             "Royal Affairs",
+            "Coming of Age",
+            "Female Protagonist",
+            "Reincarnation",
             "Romance",
-            "Female Protagonist"
+            "Fantasy",
+            "Conspiracy",
+            "Dragons",
+            "Magic",
+            "Long Strip",
+            "Curses"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_218041",
         "tags": [
             "Full Color",
-            "Long Strip",
-            "Supernatural"
+            "Supernatural",
+            "Long Strip"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_133712",
         "tags": [
-            "Tragedy",
-            "Historical",
-            "War",
             "Female Protagonist",
-            "Rural",
-            "Family Life",
             "Time Skip",
-            "Drama"
+            "Rural",
+            "Tragedy",
+            "Drama",
+            "Family Life",
+            "War",
+            "Historical"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_160841",
         "tags": [
-            "Work",
             "Love Triangle",
             "Female Protagonist",
             "Romance",
+            "Work",
             "Heterosexual"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_190738",
         "tags": [
-            "Fantasy",
             "Nun",
+            "Romance",
             "Reverse Isekai",
             "Full Color",
-            "Long Strip",
+            "Fantasy",
             "Urban",
-            "Romance"
+            "Long Strip"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_85967",
         "tags": [
-            "Fantasy",
             "Action",
+            "Drama",
             "Full Color",
-            "Adventure",
-            "Drama"
+            "Fantasy",
+            "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
