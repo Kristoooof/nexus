@@ -81402,5 +81402,37 @@
         "score": 82.12318658981428,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_179685",
+        "title_en": "Bloodborne PSX",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "description": "A fan demake (PS1 era) of From Software's PS4 exclusive: Bloodborne.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4euc.jpg",
+        "date": "2022-01-31",
+        "score": 89.54545454545455,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_134222",
+        "title_en": "Persona 5 Royal: Launch Edition",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)",
+            "Adventure"
+        ],
+        "description": "The Launch Edition includes the game in a limited edition Steelbook case and a dynamic PS4 theme download.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8h07.jpg",
+        "date": "2020-03-31",
+        "score": 89.46512907687548,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
