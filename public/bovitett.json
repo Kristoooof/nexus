@@ -137094,6 +137094,251 @@
         "done": true
     },
     {
+        "id": "tmdb_20455",
+        "tags": [
+            "Family",
+            "compilation",
+            "computer",
+            "video game",
+            "loss of energy",
+            "Fantasy",
+            "Science Fiction",
+            "superhero",
+            "internet",
+            "monster",
+            "Animation"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_972433",
+        "tags": [
+            "racing",
+            "car race",
+            "Drama",
+            "italy",
+            "audi",
+            "based on true story",
+            "race",
+            "europe",
+            "History"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_1001500",
+        "tags": [
+            "alcoholic father",
+            "Drama",
+            "religion",
+            "dance",
+            "sin",
+            "coming of age",
+            "christianity",
+            "love affair"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_26444",
+        "tags": [
+            "canada",
+            "Adventure",
+            "bounty hunter",
+            "posse",
+            "new year's eve",
+            "Western",
+            "based on true story",
+            "struggle for survival",
+            "husky"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_9528",
+        "tags": [
+            "sibling relationship",
+            "Romance",
+            "garden",
+            "shipwreck",
+            "Drama",
+            "cornwall, england",
+            "beach",
+            "suspicious",
+            "violinist"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_398177",
+        "tags": [
+            "Comedy",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_11337",
+        "tags": [
+            "Comedy",
+            "Romance",
+            "Drama",
+            "existential crisis",
+            "movie business",
+            "violinist",
+            "filmmaking"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_89501",
+        "tags": [
+            "Crime",
+            "police",
+            "decomposition",
+            "1980s",
+            "Thriller",
+            "gangster",
+            "bad guy",
+            "cop",
+            "busan, south korea"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_3989",
+        "tags": [
+            "Comedy",
+            "capitalism",
+            "Action",
+            "Adventure",
+            "cairo",
+            "france",
+            "government",
+            "loss of loved one",
+            "paris, france",
+            "egypt"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_12527",
+        "tags": [
+            "male homosexuality",
+            "Comedy",
+            "male friendship",
+            "Drama",
+            "cuba",
+            "1970s",
+            "social commentary",
+            "lgbt",
+            "artist"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_797109",
+        "tags": [
+            "Romance",
+            "Music",
+            "Drama",
+            "Fantasy",
+            "remake"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_826914",
+        "tags": [
+            "musical",
+            "Comedy",
+            "Family",
+            "holiday special",
+            "puppetry",
+            "anthropomorphic puppets",
+            "halloween",
+            "puppet",
+            "halloween night",
+            "TV Movie"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_1069193",
+        "tags": [
+            "intense",
+            "four daughters",
+            "Drama",
+            "chrysaor",
+            "docudrama",
+            "woman director",
+            "kaouther ben hania",
+            "Documentary",
+            "depressing"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_252178",
+        "tags": [
+            "Action",
+            "survival",
+            "soldier",
+            "northern ireland",
+            "Thriller",
+            "ira (irish republican army)",
+            "Drama",
+            "War",
+            "1970s",
+            "riot",
+            "explosion"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_13706",
+        "tags": [
+            "Family",
+            "tiger",
+            "cartoon",
+            "christmas",
+            "Animation",
+            "rabbit"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_241258",
+        "tags": [
+            "wheelchair user   ",
+            "vatican (holy see)",
+            "Thriller",
+            "possessed",
+            "Horror",
+            "wheelchair",
+            "new york city",
+            "scientist",
+            "exorcism"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
         "id": "igdb_863",
         "tags": [
             "Simulator",
@@ -201621,6 +201866,34 @@
             "Visual Novel"
         ],
         "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "igdb_179685",
+        "tags": [
+            "demake",
+            "fanmade",
+            "Adventure",
+            "fangame",
+            "nightmare",
+            "Role-playing (RPG)"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "igdb_134222",
+        "tags": [
+            "party-based",
+            "party-based rpg",
+            "Adventure",
+            "jrpg",
+            "turn-based",
+            "turn-based combat",
+            "party-based combat",
+            "Role-playing (RPG)"
+        ],
+        "pacing": "Gyors",
         "done": true
     },
     {
@@ -352896,279 +353169,6 @@
         "done": true
     },
     {
-        "id": "tmdb_20455",
-        "tags": [
-            "Family",
-            "compilation",
-            "computer",
-            "video game",
-            "loss of energy",
-            "Fantasy",
-            "Science Fiction",
-            "superhero",
-            "internet",
-            "monster",
-            "Animation"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_972433",
-        "tags": [
-            "racing",
-            "car race",
-            "Drama",
-            "italy",
-            "audi",
-            "based on true story",
-            "race",
-            "europe",
-            "History"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_1001500",
-        "tags": [
-            "alcoholic father",
-            "Drama",
-            "religion",
-            "dance",
-            "sin",
-            "coming of age",
-            "christianity",
-            "love affair"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_26444",
-        "tags": [
-            "canada",
-            "Adventure",
-            "bounty hunter",
-            "posse",
-            "new year's eve",
-            "Western",
-            "based on true story",
-            "struggle for survival",
-            "husky"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_9528",
-        "tags": [
-            "sibling relationship",
-            "Romance",
-            "garden",
-            "shipwreck",
-            "Drama",
-            "cornwall, england",
-            "beach",
-            "suspicious",
-            "violinist"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_398177",
-        "tags": [
-            "Comedy",
-            "Action"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_11337",
-        "tags": [
-            "Comedy",
-            "Romance",
-            "Drama",
-            "existential crisis",
-            "movie business",
-            "violinist",
-            "filmmaking"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_89501",
-        "tags": [
-            "Crime",
-            "police",
-            "decomposition",
-            "1980s",
-            "Thriller",
-            "gangster",
-            "bad guy",
-            "cop",
-            "busan, south korea"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_3989",
-        "tags": [
-            "Comedy",
-            "capitalism",
-            "Action",
-            "Adventure",
-            "cairo",
-            "france",
-            "government",
-            "loss of loved one",
-            "paris, france",
-            "egypt"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_12527",
-        "tags": [
-            "male homosexuality",
-            "Comedy",
-            "male friendship",
-            "Drama",
-            "cuba",
-            "1970s",
-            "social commentary",
-            "lgbt",
-            "artist"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_797109",
-        "tags": [
-            "Romance",
-            "Music",
-            "Drama",
-            "Fantasy",
-            "remake"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_826914",
-        "tags": [
-            "musical",
-            "Comedy",
-            "Family",
-            "holiday special",
-            "puppetry",
-            "anthropomorphic puppets",
-            "halloween",
-            "puppet",
-            "halloween night",
-            "TV Movie"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_1069193",
-        "tags": [
-            "intense",
-            "four daughters",
-            "Drama",
-            "chrysaor",
-            "docudrama",
-            "woman director",
-            "kaouther ben hania",
-            "Documentary",
-            "depressing"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_252178",
-        "tags": [
-            "Action",
-            "survival",
-            "soldier",
-            "northern ireland",
-            "Thriller",
-            "ira (irish republican army)",
-            "Drama",
-            "War",
-            "1970s",
-            "riot",
-            "explosion"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_13706",
-        "tags": [
-            "Family",
-            "tiger",
-            "cartoon",
-            "christmas",
-            "Animation",
-            "rabbit"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_241258",
-        "tags": [
-            "wheelchair user   ",
-            "vatican (holy see)",
-            "Thriller",
-            "possessed",
-            "Horror",
-            "wheelchair",
-            "new york city",
-            "scientist",
-            "exorcism"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "igdb_179685",
-        "tags": [
-            "demake",
-            "fanmade",
-            "Adventure",
-            "fangame",
-            "nightmare",
-            "Role-playing (RPG)"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "igdb_134222",
-        "tags": [
-            "party-based",
-            "party-based rpg",
-            "Adventure",
-            "jrpg",
-            "turn-based",
-            "turn-based combat",
-            "party-based combat",
-            "Role-playing (RPG)"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
         "id": "anilist_86048",
         "tags": [
             "Male Protagonist",
@@ -353217,5 +353217,212 @@
         ],
         "pacing": "Gyors",
         "done": true
+    },
+    {
+        "id": "tmdb_200085",
+        "tags": [
+            "Thriller",
+            "Science Fiction",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_1104844",
+        "tags": [
+            "Drama",
+            "Animation",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_10477",
+        "tags": [
+            "Drama",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_46828",
+        "tags": [
+            "Crime",
+            "Comedy"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_45349",
+        "tags": [
+            "Drama",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_449985",
+        "tags": [
+            "Thriller",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_123103",
+        "tags": [
+            "Thriller",
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_432787",
+        "tags": [
+            "Comedy"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_777270",
+        "tags": [
+            "Drama",
+            "History"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1103825",
+        "tags": [
+            "Science Fiction",
+            "Thriller",
+            "Mystery"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_9059",
+        "tags": [
+            "Thriller",
+            "Comedy",
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_272435",
+        "tags": [
+            "Drama",
+            "Comedy",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_319337",
+        "tags": [
+            "Drama",
+            "History"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_61564",
+        "tags": [
+            "Western"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_31000",
+        "tags": [
+            "Action",
+            "Comedy"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_37797",
+        "tags": [
+            "Family",
+            "Drama",
+            "Animation"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_26171",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_627",
+        "tags": [
+            "Drama",
+            "Crime"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_376290",
+        "tags": [
+            "Drama",
+            "Thriller",
+            "Crime"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_872",
+        "tags": [
+            "Comedy",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "igdb_203919",
+        "tags": [
+            "Adventure",
+            "Role-playing (RPG)",
+            "Indie"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_122195",
+        "tags": [
+            "Full Color",
+            "Action",
+            "Slice of Life",
+            "Supernatural",
+            "Fantasy",
+            "Male Protagonist"
+        ],
+        "pacing": "Gyors",
+        "done": false
     }
 ]
