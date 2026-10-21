@@ -137618,6 +137618,257 @@
         "done": true
     },
     {
+        "id": "tmdb_219572",
+        "tags": [
+            "Crime",
+            "Drama",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_10406",
+        "tags": [
+            "prehistoric man",
+            "high school",
+            "Comedy",
+            "prom",
+            "frozen alive",
+            "los angeles, california",
+            "cavemen",
+            "fish out of water"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_433356",
+        "tags": [
+            "1910s",
+            "Romance",
+            "world war i",
+            "disrespectful",
+            "ottoman empire",
+            "Drama",
+            "nurse",
+            "lieutenant",
+            "War"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_1239146",
+        "tags": [
+            "bird",
+            "Comedy",
+            "camping",
+            "woodpecker",
+            "Animation",
+            "Family",
+            "sequel"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_238302",
+        "tags": [
+            "north pole",
+            "musical",
+            "christmas",
+            "Comedy",
+            "elves",
+            "reindeer",
+            "Family",
+            "time travel",
+            "Animation",
+            "santa claus"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_9257",
+        "tags": [
+            "s.w.a.t.",
+            "liberation",
+            "special unit",
+            "los angeles, california",
+            "Thriller",
+            "Action",
+            "Crime",
+            "transport of prisoners"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_1443774",
+        "tags": [
+            "Comedy"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_8288",
+        "tags": [
+            "lovers",
+            "Romance",
+            "professor",
+            "Comedy",
+            "wife",
+            "makler",
+            "summer",
+            "country house",
+            "doctor"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_8676",
+        "tags": [
+            "rapper",
+            "Romance",
+            "gangster",
+            "Comedy",
+            "helicopter",
+            "obsession",
+            "Adventure",
+            "cemetery",
+            "mentor",
+            "gambling debt"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_1113120",
+        "tags": [
+            "female prision guard",
+            "revenge",
+            "prison drama",
+            "Thriller",
+            "prison guard",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_172391",
+        "tags": [
+            "animals",
+            "wild animal",
+            "Adventure",
+            "anthropomorphism",
+            "Animation",
+            "khumba",
+            "Family",
+            "self-discovery",
+            "zebra",
+            "africa"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_1518311",
+        "tags": [
+            "seaside",
+            "short film",
+            "coming of age",
+            "grief",
+            "Drama",
+            "shared loneliness"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_1643",
+        "tags": [
+            "Romance",
+            "parisian",
+            "businessman",
+            "tragedy",
+            "paris, france",
+            "Drama",
+            "extramarital affair",
+            "relationship",
+            "love"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_900",
+        "tags": [
+            "paleontologist",
+            "Romance",
+            "Comedy",
+            "museum",
+            "donation",
+            "zoo",
+            "leopard",
+            "prison",
+            "bone"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_45610",
+        "tags": [
+            "redemption",
+            "sudan",
+            "Thriller",
+            "biker",
+            "Action",
+            "based on true story",
+            "Crime",
+            "duringcreditsstinger",
+            "africa",
+            "belief in god"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_17127",
+        "tags": [
+            "Romance",
+            "falling in love",
+            "blind date",
+            "gay theme",
+            "based on novel or book",
+            "Drama",
+            "love"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_1893",
+        "tags": [
+            "galaxy",
+            "queen",
+            "taskmaster",
+            "Science Fiction",
+            "Adventure",
+            "prophecy",
+            "senate",
+            "taxes",
+            "Action",
+            "apprentice"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
         "id": "igdb_863",
         "tags": [
             "Simulator",
@@ -202183,6 +202434,20 @@
             "Indie",
             "soulslike",
             "Adventure"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "igdb_140815",
+        "tags": [
+            "narrative",
+            "puzzle platformer",
+            "Platform",
+            "Adventure",
+            "Indie",
+            "2d",
+            "Puzzle"
         ],
         "pacing": "Gyors",
         "done": true
@@ -353523,271 +353788,6 @@
         "done": true
     },
     {
-        "id": "tmdb_219572",
-        "tags": [
-            "Crime",
-            "Drama",
-            "Action"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_10406",
-        "tags": [
-            "prehistoric man",
-            "high school",
-            "Comedy",
-            "prom",
-            "frozen alive",
-            "los angeles, california",
-            "cavemen",
-            "fish out of water"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_433356",
-        "tags": [
-            "1910s",
-            "Romance",
-            "world war i",
-            "disrespectful",
-            "ottoman empire",
-            "Drama",
-            "nurse",
-            "lieutenant",
-            "War"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_1239146",
-        "tags": [
-            "bird",
-            "Comedy",
-            "camping",
-            "woodpecker",
-            "Animation",
-            "Family",
-            "sequel"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_238302",
-        "tags": [
-            "north pole",
-            "musical",
-            "christmas",
-            "Comedy",
-            "elves",
-            "reindeer",
-            "Family",
-            "time travel",
-            "Animation",
-            "santa claus"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_9257",
-        "tags": [
-            "s.w.a.t.",
-            "liberation",
-            "special unit",
-            "los angeles, california",
-            "Thriller",
-            "Action",
-            "Crime",
-            "transport of prisoners"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_1443774",
-        "tags": [
-            "Comedy"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_8288",
-        "tags": [
-            "lovers",
-            "Romance",
-            "professor",
-            "Comedy",
-            "wife",
-            "makler",
-            "summer",
-            "country house",
-            "doctor"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_8676",
-        "tags": [
-            "rapper",
-            "Romance",
-            "gangster",
-            "Comedy",
-            "helicopter",
-            "obsession",
-            "Adventure",
-            "cemetery",
-            "mentor",
-            "gambling debt"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_1113120",
-        "tags": [
-            "female prision guard",
-            "revenge",
-            "prison drama",
-            "Thriller",
-            "prison guard",
-            "Drama"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_172391",
-        "tags": [
-            "animals",
-            "wild animal",
-            "Adventure",
-            "anthropomorphism",
-            "Animation",
-            "khumba",
-            "Family",
-            "self-discovery",
-            "zebra",
-            "africa"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_1518311",
-        "tags": [
-            "seaside",
-            "short film",
-            "coming of age",
-            "grief",
-            "Drama",
-            "shared loneliness"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_1643",
-        "tags": [
-            "Romance",
-            "parisian",
-            "businessman",
-            "tragedy",
-            "paris, france",
-            "Drama",
-            "extramarital affair",
-            "relationship",
-            "love"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_900",
-        "tags": [
-            "paleontologist",
-            "Romance",
-            "Comedy",
-            "museum",
-            "donation",
-            "zoo",
-            "leopard",
-            "prison",
-            "bone"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_45610",
-        "tags": [
-            "redemption",
-            "sudan",
-            "Thriller",
-            "biker",
-            "Action",
-            "based on true story",
-            "Crime",
-            "duringcreditsstinger",
-            "africa",
-            "belief in god"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_17127",
-        "tags": [
-            "Romance",
-            "falling in love",
-            "blind date",
-            "gay theme",
-            "based on novel or book",
-            "Drama",
-            "love"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_1893",
-        "tags": [
-            "galaxy",
-            "queen",
-            "taskmaster",
-            "Science Fiction",
-            "Adventure",
-            "prophecy",
-            "senate",
-            "taxes",
-            "Action",
-            "apprentice"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "igdb_140815",
-        "tags": [
-            "narrative",
-            "puzzle platformer",
-            "Platform",
-            "Adventure",
-            "Indie",
-            "2d",
-            "Puzzle"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
         "id": "anilist_158766",
         "tags": [
             "Male Protagonist",
@@ -354211,5 +354211,333 @@
         ],
         "pacing": "Gyors",
         "done": true
+    },
+    {
+        "id": "tmdb_664996",
+        "tags": [
+            "Drama",
+            "History",
+            "Animation"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_647250",
+        "tags": [
+            "Comedy",
+            "Crime",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_1786462",
+        "tags": [
+            "Drama",
+            "Comedy"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1789499",
+        "tags": [],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_10385",
+        "tags": [
+            "Drama",
+            "Comedy"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_13022",
+        "tags": [
+            "Horror",
+            "Thriller",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_812025",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_41582",
+        "tags": [
+            "Comedy",
+            "Family"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_1772529",
+        "tags": [
+            "Comedy",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_26441",
+        "tags": [
+            "Comedy",
+            "Family"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_25913",
+        "tags": [
+            "Adventure",
+            "Family",
+            "Animation"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_168138",
+        "tags": [
+            "Adventure",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_21876",
+        "tags": [
+            "War",
+            "Adventure",
+            "Thriller",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_1280",
+        "tags": [
+            "Drama",
+            "Crime",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_9406",
+        "tags": [
+            "Comedy",
+            "Horror",
+            "Fantasy"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_698687",
+        "tags": [
+            "Adventure",
+            "Science Fiction",
+            "Animation",
+            "Family"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_1437396",
+        "tags": [
+            "Drama",
+            "Crime",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_475557",
+        "tags": [
+            "Drama",
+            "Crime",
+            "Thriller"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1487317",
+        "tags": [
+            "Comedy",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_14247",
+        "tags": [
+            "Drama",
+            "Thriller",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_42160",
+        "tags": [
+            "Drama",
+            "Thriller",
+            "Romance",
+            "Action",
+            "Comedy"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_20283",
+        "tags": [
+            "Drama",
+            "Comedy"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_575088",
+        "tags": [
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_333663",
+        "tags": [
+            "Comedy",
+            "Mystery",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_484510",
+        "tags": [
+            "Adventure",
+            "Animation",
+            "Fantasy",
+            "Family"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_346684",
+        "tags": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_20348",
+        "tags": [
+            "Comedy",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_673595",
+        "tags": [
+            "Comedy",
+            "Animation",
+            "Family",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_15212",
+        "tags": [
+            "Science Fiction",
+            "Horror",
+            "Thriller"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "igdb_356552",
+        "tags": [
+            "Adventure"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_170019",
+        "tags": [
+            "Kuudere",
+            "Chibi",
+            "Romance",
+            "Cute Girls Doing Cute Things",
+            "School",
+            "Female Protagonist",
+            "Primarily Teen Cast",
+            "Crime",
+            "Iyashikei",
+            "Heterosexual",
+            "Male Protagonist",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_158028",
+        "tags": [
+            "Surreal Comedy",
+            "Parody",
+            "Action",
+            "Super Power",
+            "Adventure",
+            "Primarily Teen Cast",
+            "Female Protagonist",
+            "Fantasy",
+            "Comedy",
+            "Male Protagonist",
+            "Anti-Hero",
+            "Cosmic Horror",
+            "Magic",
+            "Isekai"
+        ],
+        "pacing": "Gyors",
+        "done": false
     }
 ]
