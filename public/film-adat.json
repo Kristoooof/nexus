@@ -164574,5 +164574,617 @@
         "score": 5.8,
         "age_rating": "16+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_673271",
+        "title_hu": "13: A Musical",
+        "title_en": "Zandalee",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Drama",
+            "Comedy"
+        ],
+        "description": "Szülei válása után Evan Goldman New Yorkból egy kisvárosba költözik. Ahogy közeledik a 13. születésnapja, el kell sajátítania új iskolája bonyolult társadalmi köreit, és barátokat kell szereznie azzal, hogy a Bar Mitzvah-ját a legmenőbb bulivá változtatja.",
+        "image": "https://image.tmdb.org/t/p/w500/rqShG2kTbsVbgrgjfoEwawjR88N.jpg",
+        "date": "2022-08-12",
+        "score": 6.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_36630",
+        "title_hu": "Zandalee",
+        "title_en": "Colours of Time",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "description": "A jó családból származó csinos Zandalee, üzletember férjével él New Orleans-ben. Zavartalan életükbe váratlan fordulatot hoz a férfi egykori barátjának hívatlan megjelenése, aki a tapasztalatlan asszonyt szenvedélyes szerelmi kapcsolatba hajszolja bele. A férj és a csábító hamarosan halálos ellenségként állnak szemben egymással olyan harcban, amelynek a tétje nem más, mint maga Zandalee.",
+        "image": "https://image.tmdb.org/t/p/w500/2azltSXYsiR2JcoTg0Qi0TsiMb8.jpg",
+        "date": "1991-05-09",
+        "score": 4.3,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9422",
+        "title_hu": "Zavaros vizeken",
+        "title_en": "Scooby-Doo and the Ghoul School",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "A 80-as években a massachusettsi Woburnban meghalt nyolc gyermek leukémiában. A családok pert indítottak Amerika két legnagyobb cége ellen, mert meg voltak róla győződve, hogy ezek a cégek fertőzték meg a város ivóvizét azokkal a vegyi anyagokkal, melyek végül gyermekeik halálához vezettek. A minden szempontból rendkívül nehéznek látszó ügyet Jan Schlichtmann ügyvéd vállalta fel, kinek a mottója ez volt: \"Legyek gazdag és híres azzal, hogy jót teszek.\" Ám a sztárügyvéd ezzel az éveken áthúzódó bonyolult üggyel túl nagy fába vágta a fejszéjét, és az igazsághoz vezető út egyre inkább az érzelmi és szakmai összeomlás felé vezetett. Egy megtörtént, nagyszabású bírósági per hiteles krónikája.",
+        "image": "https://image.tmdb.org/t/p/w500/gRfR0vNaBRVhFFCCvCr0zLzZRxM.jpg",
+        "date": "1998-12-25",
+        "score": 6.469,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_14506",
+        "title_hu": "Münchausen báró kalandjai",
+        "title_en": "Captain Corelli's Mandolin",
+        "type": "film",
+        "genres": [
+            "Fantasy",
+            "Adventure",
+            "Comedy"
+        ],
+        "description": "A nagyotmondás világbajnoka, a füllentés Picassója báró Münchausen, aki valódi személyiségként a 18. században élt. Életében nem cáfolta meg a róla szóló könyv nevetséges és fantasztikus állításait, ugyanis amúgy ő is alkalmasint kiszínezte a törökökkel való harcainak történetét. Mesés figurája amolyan összeurópai mítosz, hiszen a kor számos nemzetének fiai szerepelnek kalandjaiban. A báró, hű szolgájával és egy kíváncsi kislánnyal az oldalán elindul egy város megmentésére a török hadak pusztítása miatt. Lenyeli őt egy tengeri szörnyeteg, megjárja a Holdat oda-vissza, táncol Vénusszal, megmenekül a Nagy Kaszástól és ágyúgolyón is repül, hogy elérje célját…",
+        "image": "https://image.tmdb.org/t/p/w500/gTuqrTsMo2jTRdNlVKxvnRhlW8D.jpg",
+        "date": "1988-12-07",
+        "score": 6.977,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_36599",
+        "title_hu": "A szalagavató fantomja",
+        "title_en": "The Pixar Story",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "description": "Pár fiatal játék közben balesetet okoz, amiben egy kislány meghal. Pár évvel késöbb ezek a fiatalok a szalagavató báljukra készülnek. Közben más is készülődik... egy sorozatgyilkos ered a négy diák nyomába. A sikolykirálynő Jammie Lee Curtis filmje.",
+        "image": "https://image.tmdb.org/t/p/w500/dM0mEKlIXtr9MMSBHMWZvAt1a4r.jpg",
+        "date": "1980-07-18",
+        "score": 5.702,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11630",
+        "title_hu": "Három férfi és egy kis hölgy",
+        "title_en": "3 Men and a Little Lady",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Comedy"
+        ],
+        "description": "Egy családban általában van egy anyuka, egy apuka és vannak gyerekek. Ez eddig teljesen rendben van, de ha rátérünk az egy gyermekre jutó apák számának megvitatására, akkor pillanatok alatt kiderül, hogy Mary (Robin Weisman) nyerő helyzetben van. Neki ugyanis egyszerre három jutott, méghozzá három igazán szerető, odaadó apuka: Peter (Tom Selleck), Michael (Steve Guttenberg) és Jack (Ted Danson). Fogalmazhatnánk akár úgy is, hogy Mary az édesanyjával, Sylviával (Nancy Travis) és három apukájával tökéletes, ha átlagosnak és mindennapinak nem is nevezhetô családban él.\r De a harmónia, a családi béke azonnal felbomlani látszik, amikor kiderül, hogy Sylvia, az ambíciózus színésznô elvállalta, hogy fellép egy londoni színházban, méghozzá egy olyan darabban, amelyet barátja, Edward rendez. Peter, Michael és Jack rémülten hallja, hogy ráadásul Sylvia elfogadta Edward házassági ajánlatát, és azt tervezi, hogy kislányával együtt végleg Londonba költözik.",
+        "image": "https://image.tmdb.org/t/p/w500/scGND1cZ7pyJLGxInUKPYcM7QXZ.jpg",
+        "date": "1990-11-21",
+        "score": 5.847,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_20532",
+        "title_hu": "Szansó tiszttartó",
+        "title_en": "Sansho the Bailiff",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "In 11th-century feudal Japan, following the exile of an idealistic governor, his wife and children are separated by slave traders; the children, Zushio and Anju, are sold into brutal servitude under the cruel bailiff Sansho.",
+        "image": "https://image.tmdb.org/t/p/w500/cNNEgF1Pvrufu1XdtIClKZA3PIs.jpg",
+        "date": "1954-03-31",
+        "score": 8.1,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_425650",
+        "title_hu": "전망 좋은 집 3",
+        "title_en": "House with a Good View 3",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "Drama"
+        ],
+        "description": "Jae-min moves into the rooftop across from school but is disappoointed that all the windows have been blocked by other buildings. However, he learns that every night he can see the neighboring women from the other building! Something exciting goes on one night in that rooftop which has the greatest 'view' ever!",
+        "image": "https://image.tmdb.org/t/p/w500/pTz9dZWXirTQL8sIUAOld5FTBmT.jpg",
+        "date": "2016-11-10",
+        "score": 5.1,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_38921",
+        "title_hu": "Betörő",
+        "title_en": "Burglar",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Comedy"
+        ],
+        "description": "Bernice Rhodenbarr (Whoopi Goldberg) visszavonult tolvaj, aki egy kis antikvárium fenntartásával keresi kenyerét. Kénytelen visszatérni korábbi hivatásához egy balszerencsés eset miatt és sikeres rablást hajt végre egy fogorvosnál. A bajok akkor kezdődnek, amikor kiderül, hogy a kirabolt házban egy holttestet találtak és Bernice-nek valahogy be kell bizonyítani az ártatlanságát.",
+        "image": "https://image.tmdb.org/t/p/w500/6MMYSdznTtM5MIDkgFs0LdxRxkp.jpg",
+        "date": "1987-03-20",
+        "score": 5.185,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1305653",
+        "title_hu": "东极岛",
+        "title_en": "Rescue at Dongji",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "description": "Inspired by the real life rescue of over 300 British soldiers in 1942, Dongji Rescue is a rousing, action-packed story of heroism on the high seas. When the Japanese warship Lisbon Maru is torpedoed off the coast of Dongji Island, the lives of over 300 British POWs on board are at risk of being claimed by the sea. Their only hope is a small group of defiant Chinese fisherman who will do anything to rescue and protect them from their captors.",
+        "image": "https://image.tmdb.org/t/p/w500/srqflGIWm1qRHsBQSjdIHWF4E4N.jpg",
+        "date": "2025-08-08",
+        "score": 8.317,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_22259",
+        "title_hu": "Bionicle - A legenda újjászületik",
+        "title_en": "Bionicle: The Legend Reborn",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Science Fiction",
+            "Fantasy"
+        ],
+        "description": "Mata Nui, az egykor hatalmas és nagyszerű uralkodó a fémteremtmények romokban álló messzi földjén találja magát. Miután győzedelmeskedik egy gigászi Glatorian csatában, a falusiak Mata Nui segítségét kérik valódi ellenségeik, az ördögi Skrall és Bone Hunters legyőzésében. Mata Nui ebben a hősies kalandban a Glatorian harcosok bátor csapatával és Agori lakóival együtt vívja küzdelmét felfedezésre váró új területekért, miközben minden izgalmas Bionicle titok is napvilágra kerül.",
+        "image": "https://image.tmdb.org/t/p/w500/41LJvMksMzbr8ZZwN5PE81BLvBq.jpg",
+        "date": "2009-08-24",
+        "score": 5.763,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_27233",
+        "title_hu": "A kölykök visszatérnek",
+        "title_en": "Kids Return",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Crime"
+        ],
+        "description": "Shinji és Masaru, a két kamasz jó barát, öntörvényűek és igazi bajkeverők. Állandóan inzultálják társaikat és tanáraikat egyaránt, zavarják az órát és rendszeresen lógnak az iskolából. Shinji bokszkarrierjét egyengeti, míg Masaru csatlakozik egy bűnbandához, s egyre elismertebb tagja lesz a csoportnak. Évek múltán ismét találkoznak és furcsán méregetik egymást...",
+        "image": "https://image.tmdb.org/t/p/w500/rvUsBZHtIc2S94BHQ2l6N7kHdNP.jpg",
+        "date": "1996-07-27",
+        "score": 6.937,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_225745",
+        "title_hu": "Steins Gate Movie: Burdened Domain of Deja vu",
+        "title_en": "Steins;Gate: The Movie - Load Region of Déjà Vu",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Animation",
+            "Drama"
+        ],
+        "description": "Egy év telt el azóta, mióta Okabe elérte a Steins;Gate világvonalat. Itt minden békés és nyugodt, Mayuri és Kurisu is életben van és élik mindennapjaikat. Mayuri mint labortag, Kurisu pedig a távoli Amerikában. Ez egy időgép és D-mail mentes világ, ahol főhőseink nyugodtan élhetnek. Azonban Okabe egyre furcsábban kezdi érezni magát és egyre gyakrabban vannak látomásai az előző világvonalak szörnyűségeiből. Eleinte nem foglalkozik vele, de miután Kurisu Japánba látogat egy konferencia miatt, ezek a látomások egyre csak erősödnek, olyannyira, hogy Okabe eltűnik ebből a világvonalból...",
+        "image": "https://image.tmdb.org/t/p/w500/maTEWDbqf09wfZYlJDF5XIQJD84.jpg",
+        "date": "2013-04-20",
+        "score": 7.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1019444",
+        "title_hu": "Zombiváros",
+        "title_en": "Zombie Town",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Comedy"
+        ],
+        "description": "Mike mozigépészként dolgozik egy Carverville nevű unalmas kisvárosban. A fiú mindent megtesz, hogy elbűvőlje barátnőjét, Amyt, aki rajong a horrorfilmekért. Rövidesen megérkezik a legújabb zombifilm, így Mike egy privát vetítést szervez Amynek. A film azonban el van átkozva, ami elszabadulva az egész város lakóit zombikká változtatja.",
+        "image": "https://image.tmdb.org/t/p/w500/shrLpN5hu5rXF8loJqAOvQROvOw.jpg",
+        "date": "2023-09-01",
+        "score": 4.3,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_776835",
+        "title_hu": "A bűvész elefántja",
+        "title_en": "The Magician's Elephant",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Fantasy",
+            "Comedy"
+        ],
+        "description": "Egy elszánt fiú belemegy a király által támasztott kihívásba: három lehetetlen feladatot kell végrehajtania egy varázslatos elefántért, és hogy beteljesíthesse sorsát.",
+        "image": "https://image.tmdb.org/t/p/w500/lrdOOOxqjmaROLWUV66WBl0yZj3.jpg",
+        "date": "2023-03-10",
+        "score": 6.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_239526",
+        "title_hu": "BUDDHA 2 手塚治虫のブッダ -終わりなき旅-",
+        "title_en": "Buddha 2: The Endless Journey",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Drama",
+            "History"
+        ],
+        "description": "2500 years ago, in India, Siddhartha was born as a prince of the Shakya clan, but he gives up his position as a prince to see the world. He meets a strange boy named Assaji, who can predict the future, a monk with only one eye and Depa. Siddhartha continues traveling. Siddhartha is overwhelmed by the sufferings he witnesses around him. Meanwhile, Prince Ruri of Kosara begins his attack on the Shakya clan.  Second Buddha movie from Tezuka Productions.",
+        "image": "https://image.tmdb.org/t/p/w500/pbHKzX1J9ou0NSTv4aTlncqq2Nw.jpg",
+        "date": "2014-02-08",
+        "score": 7.7,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1786363",
+        "title_hu": "Dos o tres cosas que me quedé de ella",
+        "title_en": "Two or three things I still have of hers",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "One morning Nicolás wakes up to a letter from his girlfriend telling him that she's leaving him. Among the few things he still has of her is her cat, Ricardo. Disoriented and lost in the uncertainty, Nicolás will take the path that the people around him, the city and fate itself lead him on.",
+        "image": "https://image.tmdb.org/t/p/w500/ifXNV4tp7krr79twNbbf7ktCrnb.jpg",
+        "date": "2026-10-06",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9515",
+        "title_hu": "Matador",
+        "title_en": "The Matador",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "description": "Julian Noble jólszituált bérgyilkos. Mestere szakmájának, de már belefásult, ezért inkább nőkre vadászik. Danny Wright átlagos utazóügynök, akire rájár a rúd: állásából kipenderítik, és a felesége kezd elhidegülni tőle. Mindkét férfinak szüksége lenne némi vérfrissítésre. Kapóra jönnek hát egymásnak, amikor egy mexikói bárban összefutnak, és hamarosan olyan kalandra indulnak, amely mindkettőjük életét gyökeresen megváltoztatja.",
+        "image": "https://image.tmdb.org/t/p/w500/8285m1WXS0rnW5bCwLY5U2oWIin.jpg",
+        "date": "2005-05-12",
+        "score": 6.318,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1729134",
+        "title_hu": "Holiday Touchdown: A Bears Love Story",
+        "title_en": "Holiday Touchdown: A Bears Love Story",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "TV Movie",
+            "Comedy",
+            "Romance"
+        ],
+        "description": "When ambitious freelance reporter Avery Clark returns to Chicago to spend Christmas with her mom and new stepdad, she's hoping for a little holiday downtime before her next assignment. Instead, she lands a feel-good story profiling Darlene Donnelly, a beloved Chicago Bears superfan about to celebrate an incredible milestone: attending her 500th game. There's just one catch: Avery knows next to nothing about football or Chicago. Enter Darlene's handsome grandson Matt, a Chicago firefighter and die-hard Bears fan who, with a little gentle nudging from Darlene, agrees to show Avery what being a part of Bears Nation is all about.",
+        "image": "https://image.tmdb.org/t/p/w500/1UD22ksodyDUsFJsPNB1MOoJ7Cn.jpg",
+        "date": "2026-10-17",
+        "score": 5.333,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_341006",
+        "title_hu": "A Belko-kísérlet",
+        "title_en": "The Belko Experiment",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Thriller",
+            "Action"
+        ],
+        "description": "Egy társadalmi kísérlet kedvéért 80 amerikait bezárnak egy üzletházba Kolumbia fővárosában, Bogotában, és egy ismeretlen hang a cég kaputelefonjában arra utasítja őket, vegyenek részt egy halálos játékban, ahol vagy te ölsz, vagy téged ölnek.",
+        "image": "https://image.tmdb.org/t/p/w500/cRfaLzXOWADokWnm4uhFhu31BBr.jpg",
+        "date": "2017-03-17",
+        "score": 6.176,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_944194",
+        "title_hu": "A nagy menekülő",
+        "title_en": "The Great Escaper",
+        "type": "film",
+        "genres": [
+            "History",
+            "Drama",
+            "War"
+        ],
+        "description": "Bernard Jordan megszökik az idősek otthonából, hogy részt vegyen a franciaországi D-nap partraszállás 70. évfordulóján.",
+        "image": "https://image.tmdb.org/t/p/w500/3jsEeHnCXZKyz0kWRtWBhPzb81Z.jpg",
+        "date": "2023-10-06",
+        "score": 6.647,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_877657",
+        "title_hu": "A hollywoodi giccs támadása",
+        "title_en": "Attack of the Hollywood Clichés!",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "Egyszemélyes hadseregek, cuki találkozások, óriási robbanások helyszínéről elsétáló emberek – sztárok és bennfentesek szedik humorosan darabokra ezeket a mozis kliséket.",
+        "image": "https://image.tmdb.org/t/p/w500/fmI1oIAwXjfX8LcZYT8Rs2rZe2R.jpg",
+        "date": "2021-09-27",
+        "score": 6.007,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_37951",
+        "title_hu": "राजनीति",
+        "title_en": "Raajneeti",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "description": "It is the story of a fiercely fought election campaign, where money power and corruption are the accepted norms, and where treachery and manipulation are routinely used weapons. As the personal drama of these conflict-ridden characters unfolds against this gritty backdrop, love and friendship become mere baits, and relationships get sacrificed at the altar of political alignments. The darkness that rises from their souls threatens to envelope all that they hold precious. Until eventually, in the crescendo of increasing violence, the line between good and evil blurs, making it impossible to distinguish heroes from villains. Raajneeti is the story of Indian democracy. And its ugly underside. It is about politics. And beyond.",
+        "image": "https://image.tmdb.org/t/p/w500/69jBOHcylcjZ4yH8SeSqguvIXHn.jpg",
+        "date": "2010-06-04",
+        "score": 6.296,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_406429",
+        "title_hu": "Istenek viadala",
+        "title_en": "League of Gods",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Fantasy"
+        ],
+        "description": "Egy tizenhatodik századi kínai mondán alapuló történet, amely elmeséli, hogyan is jutott hatalomra és vált zsarnokká King Zhou.",
+        "image": "https://image.tmdb.org/t/p/w500/wKxrAh2r2FZSoYpdretZvw9hhBO.jpg",
+        "date": "2016-07-28",
+        "score": 5.7,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_314385",
+        "title_hu": "A tengernél",
+        "title_en": "By the Sea",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Roland, az amerikai író, és felesége, Vanessa egy csendes, idilli tengerparti üdülőbe érkeznek a ’70-es évek Franciaországában. Házasságuk a jelek szerint válságban van. Ahogy egyre több időt töltenek a többi utazóval, köztük Leával és Francois-zal, az újdonsült házasokkal, vagy Michellel és Patrice-szal, a két helybélivel, az amerikai pár lassan szembenéz saját élete megoldatlan problémáival.",
+        "image": "https://image.tmdb.org/t/p/w500/mqjeCXXWmYVTKNb3XZB2BW6wqmH.jpg",
+        "date": "2015-11-12",
+        "score": 5.519,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_889",
+        "title_hu": "Flintstones 2. - Viva Rock Vegas",
+        "title_en": "The Flintstones in Viva Rock Vegas",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Family",
+            "Romance"
+        ],
+        "description": "Jabadabadúú! Ismét itt vannak a kőkorszaki szakik, Frédi (Mark Addy) és Béni (Stephen Baldwin), Vilma (Kristen Johnston) és Irma (Jane Krakowski), még a kőkorszaknál is korábbról, ugyanis a film Frédi és Vilma megismerkedésének körülményességeit tárja elénk. Vilma boldogtalan és elkényeztetett gazdag lány, aki végső megoldásként elmenekül anyja és lerázhatatlan udvarlója elől. Egy büfében megismerkedik Irmával, aki befogadja kőházába. Frédi és Béni kiszemelik a friss húst és kettős randira hívják a lányokat. A tekebárban Frédi és Vilma közös hobbijukra bukkannak. Az adósok által üldözött udvarló Vilma pénzét akarja megkaparintani, mellesleg pedig mindenáron elrontani a szövődő új románcot, ezért elhívja őket Rock Vegasba, legújabb kaszinójába.",
+        "image": "https://image.tmdb.org/t/p/w500/o4pijWLImp7TQ64Yg2nuUYzdiDy.jpg",
+        "date": "2000-04-28",
+        "score": 4.843,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_311324",
+        "title_hu": "A Nagy Fal",
+        "title_en": "The Great Wall",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "description": "A fal valóban azért készülhetett el, hogy megállítsa a támadásokat. A filmben azonban nem a vad hunok vagy valamelyik hasonló habitusú nép jelenti a veszélyt, hanem fantasy-be illő, rémséges szörnyek. A fal azonban önmagában nem elég. Egy elit osztagra is szükség van, a legjobb katonákkal teletűzdelve, hogy biztos legyen a győzelem. A tét pedig nem kicsi. Az elit osztag az emberiség utolsó harcát vívja a világ legikonikusabb építményén, a Nagy Falon...",
+        "image": "https://image.tmdb.org/t/p/w500/9OFCdLCCKFfnbdlqHXoz6WJ6jsv.jpg",
+        "date": "2016-12-16",
+        "score": 6.04,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1475440",
+        "title_hu": "Beyond Belief",
+        "title_en": "Home Alone 4",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Family",
+            "Music"
+        ],
+        "description": "Kevin McCallister's parents have split up. Now living with his mom, he decides to spend Christmas with his dad at the mansion of his father's rich girlfriend, Natalie. Meanwhile robber Marv Merchants, one of the villains from the first two movies, partners up with a new criminal named Vera to hit Natalie's mansion.",
+        "image": "https://image.tmdb.org/t/p/w500/f0dJH9KrWIPShBiYdtwmx73G25W.jpg",
+        "date": "2026-08-28",
+        "score": 10.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_283587",
+        "title_hu": "Hontalan fenevadak",
+        "title_en": "Beasts of No Nation",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "description": "Egy fiatal fiú, Agu utazása, aki kénytelen csatlakozni egy csapat katonához egy kitalált Nyugat-afrikai országban.",
+        "image": "https://image.tmdb.org/t/p/w500/1D4vcJmJc58WXarpRtwgd2do9Rg.jpg",
+        "date": "2015-09-11",
+        "score": 7.583,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_653567",
+        "title_hu": "Miss Americana",
+        "title_en": "Miss Americana",
+        "type": "film",
+        "genres": [
+            "Documentary",
+            "Music"
+        ],
+        "description": "Az érdekfeszítő dokumentumfilmben Taylor Swift megmutatja mind dalszövegírói, mind énekesi énjét – megismerhetjük a nőt és a hangja mögött rejlő erőt.",
+        "image": "https://image.tmdb.org/t/p/w500/z1HiEB1UEfdA5fPkngekjQ2vlCC.jpg",
+        "date": "2020-01-31",
+        "score": 7.815,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_157820",
+        "title_hu": "Tajtékos napok",
+        "title_en": "Mood Indigo",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "description": "Egy olyan világban, ahol fahéjas cukor illatú rózsaszín bárányfelhőkön is lehet utazni, vagy olyan kocsikon, amelyeknek nincs kereke, hanem rezgő lábakon haladnak előre, Colin, a tehetős fiatalember, a koktélzongora feltalálója mindennél jobban vágyik a szerelemre. Olyan lányt keres, akit őszintén tudna szeretni. Legjobb barátja, Chick, valamint szakácsa Nicolas közreműködésével megismerkedik az elragadó Chloé-val és szárba szökken szerelmük Duke Ellington híres \"Mood Indigo\" dallamaira. Az egymás iránt fellángoló érzelmeik mindenen felülemelkednek, szerelmük humorban, bolondosságban sincs híján. A szerelmüket beteljesítő álomszerű esküvőjükön arról is biztosítják egymást, hogy az életükben esetlegesen felmerülő nehézségeket közösen győzik le.",
+        "image": "https://image.tmdb.org/t/p/w500/qTSRIFXHjrPRYmwaXZu5qLbIi1H.jpg",
+        "date": "2013-01-10",
+        "score": 6.127,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1244112",
+        "title_hu": "Sütimanók - Szupersipka-küldetés",
+        "title_en": "The Super Elfkins",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "description": "A kalandvágyó manólány, Elfie, izgalmasabb életről álmodozik, amiben a tipikus, titkos segítő-manóságot izgalommal és szórakozással ötvözheti. Klánjának idősebb tagjai bosszúságára, akik természetesen azt szeretnék, ha minden maradna a régiben. Amikor Elfie egy nap Bóval találkozik, az élete fenekestől felfordul. Bo ugyanis egy olyan klánhoz tartozik, akiknek mindene a szórakozás és a high-tech kütyük alkalmazása merész, ám nem feltétlenül törvényes akciókban. Emiatt Lansky, a megszállott rendőrnő és Macsmester, bátor rendőrmacskája is a nyomukban van. Vajon Elfie és Bo barátsága képes lesz 250 év után kibékíteni a két manóklánt és valósággá válik Elfie szuper sütimanóéletről szőtt álma?",
+        "image": "https://image.tmdb.org/t/p/w500/e8YxBSrFegvP48hOKOqfU17szlX.jpg",
+        "date": "2024-12-24",
+        "score": 6.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_70954",
+        "title_hu": "Az orvvadász",
+        "title_en": "The Hunter",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Adventure"
+        ],
+        "description": "Martin profi zsoldos, legújabb megbízatását egy rejtélyes, biotechnikával foglalkozó cégtől kapja. Az egyre fogyó, mégis elképesztő szépségű tasmán vadonba kell utaznia, hogy a kihaltnak hitt erszényesfarkasok ismét látni vélt példányaiból hozzon egyet. Martin fedő sztorival fog hozzá feladatához: a helyiek körében tudósként jár-kel, egy család farmjának közelében telepedik le. Miközben egyre mélyebbre jut a vadonban, akaratlanul is egyre közelebb kerül a székhelye mellett élőkhöz. A család megmagyarázhatatlan körülmények között vesztette el a családfőt, s Martin ráébred arra, hogy a békésnek tűnő vidéken valaki a háttérben piszkos céllal mozgatja a szálakat, már gyilkolt is, s most őrá vadászik.",
+        "image": "https://image.tmdb.org/t/p/w500/z7p4dDfLItNRp0yrSPHbT0ARiTq.jpg",
+        "date": "2011-10-06",
+        "score": 6.655,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_429476",
+        "title_hu": "Horror Park",
+        "title_en": "Hell Fest",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "description": "Egy maszkos sorozatgyilkos saját játszóteret csinál egy horror tematikájú vidámparkból: terrorizálni kezd egy baráti társaságot, míg a többi vendég azt hiszi, ez az egész csak a műsor része.",
+        "image": "https://image.tmdb.org/t/p/w500/11WFHk7LTXQb2oQqgepCnGQ7rrx.jpg",
+        "date": "2018-09-27",
+        "score": 5.7,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_750008",
+        "title_hu": "Citizen Kitano",
+        "title_en": "Citizen Kitano",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "Takeshi Kitano is an international icon. We know the actor, the multi-award-winning filmmaker, but many ignore his double personality: the crazy TV star, the street kid from Tokyo close to the Yakuza, and the political satirist who blasted taboos!\r Can we dream of a better guide to introduce us to the cultural history of Japan?",
+        "image": "https://image.tmdb.org/t/p/w500/qPVYNoCfBPEIlNB13tYNcjZsrzZ.jpg",
+        "date": "2020-10-16",
+        "score": 7.3,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1231206",
+        "title_hu": "Allégorie Citadine",
+        "title_en": "An Urban Allegory",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Fantasy"
+        ],
+        "description": "A ballet dancer is late for an audition for a show inspired by Plato's Allegory of the Cave. She arrives with her seven-year-old son, Jay, and begs the director to give her a chance.",
+        "image": "https://image.tmdb.org/t/p/w500/38EhrEI2PzDEbcXaKh6Mja2TOpH.jpg",
+        "date": "2024-12-18",
+        "score": 7.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1167027",
+        "title_hu": "Ibelin rendkívüli élete",
+        "title_en": "The Remarkable Life of Ibelin",
+        "type": "film",
+        "genres": [
+            "Documentary",
+            "Animation"
+        ],
+        "description": "Fény derül egy ifjú World of Warcraft-játékos titkos életére, amikor online barátai a fiú temetése után kapcsolatba lépnek a családjával.",
+        "image": "https://image.tmdb.org/t/p/w500/iwDsxukhyarhAJjUn1TXhyln627.jpg",
+        "date": "2024-03-08",
+        "score": 8.1,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
