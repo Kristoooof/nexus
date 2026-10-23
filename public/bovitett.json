@@ -356400,49 +356400,66 @@
         "id": "tmdb_457249",
         "tags": [
             "Animation",
-            "Action"
+            "arrowverse",
+            "Action",
+            "based on comic",
+            "edited from tv series"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1796635",
         "tags": [
-            "Adventure",
-            "Science Fiction"
+            "Science Fiction",
+            "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_858096",
         "tags": [
             "Horror",
-            "Thriller",
-            "Fantasy"
+            "Fantasy",
+            "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_204634",
         "tags": [
-            "Drama",
+            "alien",
             "Adventure",
-            "Science Fiction",
             "Action",
-            "Comedy"
+            "superhero",
+            "teacher",
+            "martial arts",
+            "time travel",
+            "magic",
+            "Comedy",
+            "high school",
+            "Science Fiction",
+            "Drama"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1630464",
         "tags": [
-            "Drama"
+            "suicide",
+            "poet",
+            "post-traumatic stress disorder (ptsd)",
+            "nigeria",
+            "colonialism",
+            "Drama",
+            "based on novel or book",
+            "modernity"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1598234",
@@ -356450,187 +356467,282 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_455842",
         "tags": [
+            "holiday",
             "Animation",
+            "retirement",
             "Adventure",
-            "Family"
+            "santa claus",
+            "horse",
+            "reindeer",
+            "Family",
+            "christmas",
+            "north pole"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_712121",
         "tags": [
+            "loneliness",
+            "truth",
+            "shopping mall",
+            "fitness model",
+            "male masturbation",
+            "generation gap",
+            "stalker",
             "Thriller",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1763631",
         "tags": [
-            "Documentary"
+            "ricordu",
+            "Documentary",
+            "sicilia"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_150226",
         "tags": [
+            "spaghetti western",
             "Western"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1512679",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_18910",
         "tags": [
-            "Horror",
-            "Drama",
-            "Thriller",
+            "based on novel or book",
             "Mystery",
-            "Comedy"
+            "supernatural",
+            "Horror",
+            "post-traumatic stress disorder (ptsd)",
+            "vietnam war",
+            "dark comedy",
+            "army",
+            "Comedy",
+            "castle",
+            "Thriller",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_970348",
         "tags": [
-            "Drama"
+            "syrian refugee",
+            "community",
+            "refugee",
+            "photographer",
+            "sympathy",
+            "small town",
+            "Drama",
+            "working class"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_394374",
         "tags": [
-            "Thriller",
-            "Crime"
+            "Crime",
+            "bank robbery",
+            "tunnel",
+            "rain",
+            "wheelchair",
+            "stripper",
+            "computer",
+            "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_14061",
         "tags": [
+            "poet",
+            "love quadrangle",
+            "biography",
             "Romance",
             "History",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_740441",
         "tags": [
-            "Thriller",
             "Crime",
-            "Mystery"
+            "remake",
+            "Mystery",
+            "hacking",
+            "stalker",
+            "serial killer",
+            "phone",
+            "Thriller",
+            "cell phone",
+            "based on novel or book"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_438747",
         "tags": [
             "Animation",
             "Adventure",
-            "Fantasy",
-            "Family",
             "TV Movie",
-            "Comedy"
+            "coronation",
+            "hair",
+            "fairy tale",
+            "Fantasy",
+            "marriage proposal",
+            "Comedy",
+            "princess",
+            "Family"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_193309",
         "tags": [
+            "woman director",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_453201",
         "tags": [
+            "terrorist group",
+            "based on true story",
+            "terrorism",
+            "classroom",
+            "train",
+            "Drama",
             "Thriller",
-            "Drama"
+            "paris, france",
+            "based on novel or book"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_506281",
         "tags": [
-            "Romance",
+            "woman director",
+            "grim",
             "Western",
+            "lesbian relationship",
+            "lesbian",
+            "intimate",
+            "apathetic",
+            "Romance",
+            "lyrical",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_703745",
         "tags": [
+            "ocean",
+            "boat",
+            "Action",
             "Horror",
+            "shark attack",
+            "sequel",
+            "animal attack",
             "Science Fiction",
-            "Action"
+            "scuba diving",
+            "drone"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_807339",
         "tags": [
+            "satanism",
             "Horror",
-            "Thriller"
+            "new york city",
+            "prequel",
+            "occult",
+            "1960s",
+            "manhattan, new york city",
+            "Thriller",
+            "satanic cult"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_532067",
         "tags": [
             "Animation",
+            "supernatural",
+            "seinen",
+            "parody",
+            "sequel",
+            "parallel world",
             "Fantasy",
-            "Comedy"
+            "magic",
+            "Comedy",
+            "fantasy world"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_676685",
         "tags": [
             "Animation",
-            "Adventure",
             "Family",
+            "Adventure",
             "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_2383",
         "tags": [
+            "fur trapping",
             "Adventure",
+            "canada",
+            "brown bear",
+            "wilderness",
+            "rocky mountains",
+            "Drama",
             "Family",
-            "Drama"
+            "puma",
+            "based on novel or book"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_127509",
@@ -356639,61 +356751,88 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_864116",
         "tags": [
-            "Thriller",
             "Crime",
+            "Thriller",
             "Drama",
             "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_13969",
         "tags": [
+            "undercover",
+            "lying",
+            "romcom",
+            "usa president",
             "Romance",
+            "Comedy",
+            "college",
             "Family",
-            "Drama",
-            "Comedy"
+            "daughter",
+            "first lady",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11212",
         "tags": [
-            "Adventure",
-            "Family",
+            "kidnapping",
             "Crime",
-            "Comedy"
+            "baby",
+            "chicago, illinois",
+            "Adventure",
+            "gorilla",
+            "child kidnapping",
+            "stupidity",
+            "Comedy",
+            "Family",
+            "hoodlum"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1592452",
         "tags": [
+            "supernatural",
+            "Mystery",
+            "haunting",
+            "supernatural horror",
+            "entity",
             "Horror",
-            "Mystery"
+            "sequel",
+            "found footage",
+            "evil spirit"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_947478",
         "tags": [
             "Animation",
+            "playful",
             "Adventure",
+            "comic book",
+            "multiverse",
+            "philosophical",
             "Fantasy",
+            "Comedy",
+            "dinosaur",
             "Family",
-            "Comedy"
+            "breaking the fourth wall"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1789754",
@@ -356702,25 +356841,39 @@
             "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_779816",
         "tags": [
+            "private school",
+            "world war ii",
+            "bullying",
+            "hitler youth",
+            "nazi",
             "War",
-            "Drama"
+            "Drama",
+            "holocaust (shoah)",
+            "france"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_12658",
         "tags": [
+            "man woman relationship",
+            "melodramatic",
+            "cohabitant",
+            "feminism",
+            "blunt",
+            "man between two women",
             "Romance",
-            "Comedy"
+            "Comedy",
+            "romcom"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1792256",
@@ -356729,123 +356882,130 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_289222",
         "tags": [
-            "War",
+            "world war ii",
+            "nazi",
+            "zookeeper",
+            "biting",
+            "biography",
             "History",
+            "War",
+            "holocaust (shoah)",
+            "based on true story",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_173235",
         "tags": [
-            "Male Protagonist",
             "Adventure",
-            "Fantasy",
-            "Royal Affairs",
-            "Female Harem",
             "Anti-Hero",
+            "Fantasy",
             "Yandere",
+            "Comedy",
             "Isekai",
-            "Comedy"
+            "Royal Affairs",
+            "Male Protagonist",
+            "Female Harem"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_47154",
         "tags": [
-            "Horror",
-            "Tragedy",
-            "Body Horror",
             "Supernatural",
-            "Episodic",
-            "Urban",
-            "School",
-            "Ghost",
+            "Horror",
+            "Female Protagonist",
             "Philosophy",
+            "Urban",
             "Shoujo",
             "Bullying",
-            "Female Protagonist"
+            "Body Horror",
+            "Tragedy",
+            "School",
+            "Episodic",
+            "Ghost"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_36946",
         "tags": [
-            "Drama",
-            "Male Protagonist",
-            "Scuba Diving",
-            "Sports",
+            "Swimming",
             "Seinen",
-            "Swimming"
+            "Sports",
+            "Drama",
+            "Scuba Diving",
+            "Male Protagonist"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_136290",
         "tags": [
-            "Shounen",
             "Primarily Teen Cast",
-            "Archery",
-            "School",
-            "Male Protagonist",
-            "Rural",
             "Martial Arts",
             "Ninja",
-            "Action"
+            "Action",
+            "Shounen",
+            "Rural",
+            "School",
+            "Archery",
+            "Male Protagonist"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_131377",
         "tags": [
-            "Police",
-            "Slice of Life",
-            "Male Protagonist",
-            "Parenthood",
-            "Seinen",
-            "Female Protagonist",
-            "Heterosexual",
-            "Romance",
-            "Work",
             "Family Life",
-            "Comedy"
+            "Heterosexual",
+            "Work",
+            "Female Protagonist",
+            "Police",
+            "Seinen",
+            "Parenthood",
+            "Romance",
+            "Comedy",
+            "Slice of Life",
+            "Male Protagonist"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_148392",
         "tags": [
-            "Drama",
-            "Revenge",
             "Female Protagonist",
+            "Romance",
+            "Revenge",
             "Full Color",
-            "Romance"
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_152162",
         "tags": [
-            "School",
-            "Drama",
             "Female Protagonist",
             "Fantasy",
+            "Romance",
+            "School",
             "Full Color",
-            "Romance"
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
