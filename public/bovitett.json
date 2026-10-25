@@ -359586,10 +359586,17 @@
         "tags": [
             "Crime",
             "Drama",
+            "tennis player",
+            "marriage",
+            "adultery",
+            "jealousy",
+            "london, england",
+            "blackmail",
+            "detective",
             "Thriller"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_317481",
@@ -359597,7 +359604,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1117465",
@@ -359605,41 +359612,55 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10342",
         "tags": [
-            "Thriller",
-            "Comedy"
+            "scholarship",
+            "parent child relationship",
+            "Comedy",
+            "pornography",
+            "final exam",
+            "graduation",
+            "bed",
+            "class",
+            "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_37672",
         "tags": [
+            "based on play or musical",
             "Drama",
             "Comedy",
-            "Romance"
+            "monterey",
+            "Romance",
+            "marital infidelity",
+            "chance meeting",
+            "polyamory",
+            "hotel room",
+            "extramarital affair"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_757061",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_268676",
         "tags": [
-            "Drama",
-            "Comedy"
+            "Comedy",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_706350",
@@ -359647,16 +359668,16 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_337115",
         "tags": [
-            "Drama",
-            "War"
+            "War",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_754396",
@@ -359664,103 +359685,154 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_339408",
         "tags": [
-            "Drama"
+            "southern usa",
+            "Drama",
+            "based on true story",
+            "preacher",
+            "virginia",
+            "slavery",
+            "19th century",
+            "biography"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_191767",
         "tags": [
+            "yugoslavia",
+            "world war ii",
             "War"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_449574",
         "tags": [
-            "Animation",
+            "disdainful",
+            "distant future",
+            "anime",
+            "Action",
+            "aftercreditsstinger",
             "Science Fiction",
-            "Action"
+            "godzilla",
+            "kaiju",
+            "Animation"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1546",
         "tags": [
+            "becoming an adult",
             "Drama",
-            "Comedy"
+            "Comedy",
+            "hypnosis",
+            "attention deficit hyperactivity disorder (adhd)",
+            "thumb sucking",
+            "high school",
+            "thumb",
+            "first time"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11618",
         "tags": [
             "Mystery",
+            "trauma",
+            "halloween",
             "Fantasy",
+            "castle",
+            "based on novel or book",
+            "painting",
+            "haunted house",
             "Horror",
-            "Thriller"
+            "Thriller",
+            "haunting"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11370",
         "tags": [
-            "Romance",
+            "loss of loved one",
+            "power takeover",
+            "kingdom",
+            "remake",
+            "Action",
             "Adventure",
-            "Action"
+            "Romance",
+            "queen",
+            "based on novel or book",
+            "royalty"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_416859",
         "tags": [
+            "Mystery",
             "Crime",
-            "Thriller",
-            "Mystery"
+            "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1742441",
         "tags": [
+            "horror anthology",
             "Music",
+            "psychological horror",
+            "found footage",
+            "cosmic horror",
+            "anthology",
+            "sequel",
+            "pov (point of view)",
             "Horror",
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1470424",
         "tags": [
+            "flashback",
+            "virtual assistant",
             "Mystery",
+            "artificial intelligence (a.i.)",
+            "group of friends",
             "Horror",
-            "Thriller"
+            "country house",
+            "mysterious",
+            "Thriller",
+            "loudspeaker"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1669915",
         "tags": [
+            "remake",
             "Action",
-            "Romance",
             "Adventure",
+            "Romance",
             "Western"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
