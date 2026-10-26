@@ -360225,148 +360225,224 @@
     {
         "id": "tmdb_1406492",
         "tags": [
+            "Animation",
             "Family",
             "Fantasy",
-            "Horror",
-            "Animation"
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1084409",
         "tags": [
-            "Drama",
             "Thriller",
-            "Crime"
+            "Crime",
+            "based on play or musical",
+            "Drama",
+            "writer"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1032863",
         "tags": [
+            "pretend relationship",
+            "professor",
             "Comedy",
-            "Romance"
+            "romcom",
+            "love",
+            "Romance",
+            "asexuality",
+            "based on novel or book",
+            "biologist"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1857",
         "tags": [
-            "Family",
-            "Action",
             "Animation",
+            "war",
             "Adventure",
-            "Science Fiction"
+            "transformation",
+            "based on toy",
+            "Science Fiction",
+            "based on cartoon",
+            "depressing",
+            "Family",
+            "robot",
+            "Action",
+            "taunting"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1185344",
         "tags": [
+            "Thriller",
+            "president",
+            "u.s. secret service agent",
             "Action",
-            "Thriller"
+            "usa president",
+            "secret service"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1596248",
         "tags": [
+            "meditative",
+            "pre-teen",
+            "legacy",
+            "all black cast",
+            "surreal",
+            "coming of age",
+            "family legacy",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1401459",
         "tags": [
+            "child abuse",
+            "small town",
+            "evangelical christianity",
+            "family drama",
+            "parents",
+            "norway",
+            "societal hypocrisy",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_2493",
         "tags": [
-            "Comedy",
+            "miracle",
             "Adventure",
+            "wrestling",
+            "narration",
+            "Comedy",
             "Fantasy",
-            "Romance"
+            "Romance",
+            "sword fight",
+            "based on novel or book",
+            "dreams",
+            "revenge"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_29826",
         "tags": [
-            "Family",
-            "Fantasy",
+            "Animation",
             "Horror",
-            "Animation"
+            "animación",
+            "Fantasy",
+            "animacion mexicana",
+            "Family",
+            "arts and culture"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1368166",
         "tags": [
             "Thriller",
-            "Mystery"
+            "psychological thriller",
+            "Mystery",
+            "housekeeper",
+            "housemaid",
+            "dominance",
+            "based on novel or book",
+            "attic",
+            "manipulation"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_28298",
         "tags": [
-            "Drama",
+            "literature",
+            "adaptation",
             "Thriller",
-            "Horror"
+            "Horror",
+            "berlin, germany",
+            "strip club",
+            "based on novel or book",
+            "modern day adaptation",
+            "sexual murder",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_49380",
         "tags": [
-            "Action",
-            "Drama",
+            "inner city",
             "Thriller",
-            "Crime"
+            "urban setting",
+            "Crime",
+            "gang",
+            "Action",
+            "Drama"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1574751",
         "tags": [
+            "duchenne muscular dystrophy",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_53048",
         "tags": [
+            "psychological stress",
+            "office clerk",
+            "refusal",
+            "office politics",
             "Comedy",
+            "file clerk",
+            "non conformity",
+            "apathy",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_24238",
         "tags": [
+            "Animation",
+            "australia",
+            "suicide attempt",
+            "approach",
+            "letter",
+            "birthmark",
             "Comedy",
             "Drama",
-            "Animation"
+            "chocolate",
+            "only child"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_345906",
@@ -360375,46 +360451,49 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_14575",
         "tags": [
             "Action",
-            "Drama",
             "Thriller",
+            "Drama",
             "Crime"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1741641",
         "tags": [
+            "Romance",
             "Comedy",
-            "TV Movie",
-            "Romance"
+            "TV Movie"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1792947",
         "tags": [
             "Drama",
-            "Romance",
-            "Science Fiction"
+            "Science Fiction",
+            "Romance"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1097328",
         "tags": [
-            "Comedy"
+            "short film",
+            "Comedy",
+            "mental issues",
+            "dark comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1794154",
@@ -360422,48 +360501,75 @@
             "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_100416",
         "tags": [
-            "Comedy"
+            "work",
+            "Comedy",
+            "office",
+            "prank"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_372411",
         "tags": [
-            "Comedy"
+            "female friendship",
+            "smoking",
+            "fashion",
+            "Comedy",
+            "london, england",
+            "best friend",
+            "drunk",
+            "french riviera"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1797226",
         "tags": [
-            "Music"
+            "Music",
+            "k-pop",
+            "music video",
+            "sing-along"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_232679",
         "tags": [
+            "based on true story",
+            "high school american football",
+            "high school sports",
+            "based on novel or book",
+            "sports",
+            "oakland, california",
+            "american football",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_207270",
         "tags": [
+            "chase",
+            "smoking",
             "Thriller",
-            "Horror"
+            "Horror",
+            "police",
+            "drug addiction",
+            "underground",
+            "detective",
+            "new york city"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_666754",
@@ -360471,43 +360577,53 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_381248",
         "tags": [
-            "Racing",
+            "subtitles",
             "Adventure",
-            "Sport"
+            "narrated game menus",
+            "accessibility options",
+            "Sport",
+            "stereo sound",
+            "Racing",
+            "custom volume controls",
+            "adjustable text size",
+            "adjustable difficulty"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_131939",
         "tags": [
-            "Arcade"
+            "mario",
+            "Arcade",
+            "playable character - luigi",
+            "game & watch: multi screen"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_172904",
         "tags": [
-            "Military",
-            "Shounen",
-            "Action",
-            "Super Power",
-            "Kaiju",
-            "Sci-Fi",
-            "Primarily Male Cast",
             "Guns",
+            "Super Power",
+            "Sci-Fi",
+            "Shounen",
             "Tokusatsu",
+            "Male Protagonist",
             "Henshin",
-            "Swordplay",
-            "Male Protagonist"
+            "Action",
+            "Primarily Male Cast",
+            "Kaiju",
+            "Military",
+            "Swordplay"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
