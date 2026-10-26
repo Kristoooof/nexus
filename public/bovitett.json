@@ -359838,33 +359838,52 @@
     {
         "id": "tmdb_422803",
         "tags": [
-            "Animation",
+            "stop motion",
+            "claymation",
             "Science Fiction",
+            "sequel",
+            "aftercreditsstinger",
+            "Family",
             "Adventure",
             "Comedy",
-            "Family"
+            "sheep farm",
+            "Animation",
+            "sheep",
+            "plasticine"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_157386",
         "tags": [
-            "Drama",
+            "based on young adult novel",
+            "teenager",
+            "introspective",
             "Romance",
-            "Comedy"
+            "Drama",
+            "Comedy",
+            "coming of age",
+            "alcoholism",
+            "based on novel or book",
+            "high school student"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_623491",
         "tags": [
-            "Horror",
-            "Comedy"
+            "babysitter",
+            "satanic ritual",
+            "virgin sacrifice",
+            "sequel",
+            "Comedy",
+            "satanic cult",
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1570751",
@@ -359872,7 +359891,7 @@
             "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_598441",
@@ -359881,151 +359900,203 @@
             "Family"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_8066",
         "tags": [
-            "Drama",
+            "Thriller",
             "Mystery",
-            "Thriller"
+            "suicide attempt",
+            "time warp",
+            "Drama",
+            "psychiatrist",
+            "parallel world",
+            "loss of sense of reality"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_16523",
         "tags": [
+            "lying",
+            "overflowing with imagination",
+            "children's book",
+            "children's perspectives",
             "Fantasy",
+            "maurice sendak",
+            "creature",
+            "Drama",
             "Adventure",
-            "Drama"
+            "based on children's book"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_678772",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_578464",
         "tags": [
-            "Adventure",
-            "Action"
+            "Action",
+            "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_395000",
         "tags": [
-            "Romance"
+            "Romance",
+            "softcore"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_37345",
         "tags": [
-            "Drama",
             "History",
             "Mystery",
-            "Comedy"
+            "Drama",
+            "Comedy",
+            "princess"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_331962",
         "tags": [
-            "Crime",
             "Thriller",
             "Mystery",
-            "Drama"
+            "manslaughter",
+            "police corruption",
+            "Drama",
+            "Crime",
+            "subway",
+            "illegal drugs",
+            "rape",
+            "angel"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1127861",
         "tags": [
-            "Drama",
             "Fantasy",
-            "Family"
+            "Family",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_989662",
         "tags": [
+            "playwright",
+            "dark comedy",
+            "new york city",
             "Drama",
-            "Comedy"
+            "Comedy",
+            "transformation",
+            "aspiring actor",
+            "identity",
+            "pity"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_253",
         "tags": [
             "Thriller",
+            "drug smuggling",
+            "dual identity",
+            "new york city",
+            "london, england",
+            "Action",
             "Adventure",
-            "Action"
+            "sheriff",
+            "based on novel or book",
+            "bomb"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1295400",
         "tags": [
-            "Drama",
+            "dark comedy",
+            "alter ego",
+            "bank robbery",
             "Crime",
-            "Comedy"
+            "Comedy",
+            "Drama",
+            "mental illness",
+            "jail",
+            "childhood trauma",
+            "psychotic"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_913",
         "tags": [
+            "heist",
+            "detective",
             "Romance",
+            "Drama",
             "Crime",
-            "Drama"
+            "gang of thieves",
+            "museum",
+            "remake",
+            "art thief",
+            "billionaire"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_823216",
         "tags": [
-            "Crime",
-            "Action",
             "Thriller",
             "Mystery",
-            "Drama"
+            "Drama",
+            "Action",
+            "Crime"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_553087",
         "tags": [
-            "Drama",
+            "1990s",
             "History",
-            "TV Movie"
+            "based on play or musical",
+            "Drama",
+            "TV Movie",
+            "based on true story"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_252403",
         "tags": [
-            "Documentary"
+            "Documentary",
+            "woman director"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_107254",
@@ -360035,105 +360106,120 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1156125",
         "tags": [
-            "Drama"
+            "Drama",
+            "winter",
+            "forest",
+            "angry",
+            "multiple perspectives",
+            "single father",
+            "tokyo, japan",
+            "village"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1447971",
         "tags": [
-            "Crime",
             "Action",
-            "Thriller"
+            "Thriller",
+            "spy thriller",
+            "Crime"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_55420",
         "tags": [
+            "cosmology",
+            "earth",
+            "planet",
             "Science Fiction",
-            "Drama"
+            "Drama",
+            "tragedy",
+            "ego",
+            "janitor",
+            "affectation"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_217229",
         "tags": [
-            "Gods",
+            "Food",
+            "Long Strip",
+            "Male Protagonist",
             "Fantasy",
             "Full Color",
-            "Male Protagonist",
-            "Food",
-            "Long Strip"
+            "Gods"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_128359",
         "tags": [
             "Body Horror",
-            "Anti-Hero",
-            "Demons",
-            "Full Color",
-            "Tragedy",
-            "Romance",
             "Male Protagonist",
-            "Yandere",
-            "Horror",
-            "Supernatural",
+            "Anti-Hero",
+            "Romance",
+            "Full Color",
+            "Demons",
             "Vampire",
-            "Gore"
+            "Yandere",
+            "Tragedy",
+            "Gore",
+            "Supernatural",
+            "Horror"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_189718",
         "tags": [
-            "Fantasy",
-            "Full Color",
-            "Music",
             "Long Strip",
-            "Drama"
+            "Fantasy",
+            "Drama",
+            "Full Color",
+            "Music"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_195359",
         "tags": [
-            "Fantasy",
-            "Full Color",
-            "Romance",
             "Heterosexual",
             "Long Strip",
             "Female Protagonist",
-            "Drama"
+            "Fantasy",
+            "Romance",
+            "Drama",
+            "Full Color"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_195705",
         "tags": [
-            "Action",
-            "Fantasy",
-            "Full Color",
-            "Male Protagonist",
-            "Isekai",
             "Long Strip",
-            "Martial Arts"
+            "Male Protagonist",
+            "Martial Arts",
+            "Fantasy",
+            "Action",
+            "Full Color",
+            "Isekai"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
