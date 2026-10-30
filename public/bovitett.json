@@ -363274,7 +363274,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1536756",
@@ -363283,46 +363283,71 @@
             "Horror"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1392796",
         "tags": [
+            "camping",
+            "based on novel or book",
+            "Animation",
+            "sequel",
+            "3d animation",
             "Family",
-            "Comedy",
-            "Animation"
+            "christmas",
+            "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_277216",
         "tags": [
-            "Music",
+            "sibling relationship",
             "History",
+            "husband wife relationship",
+            "aids",
+            "police brutality",
+            "rap music",
+            "drug dealer",
+            "Music",
+            "hip-hop",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_123362",
         "tags": [
             "Thriller",
             "Horror",
+            "family secrets",
+            "spanish civil war (1936-39)",
+            "franco regime (francoism)",
+            "neurosurgeon",
+            "spanish second republic (1931-39)",
+            "terminal illness",
+            "political repression",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_429199",
         "tags": [
-            "Comedy",
-            "Drama"
+            "illegal immigration",
+            "working immigrants",
+            "Drama",
+            "european refugee crisis",
+            "war refugees",
+            "syrian refugee",
+            "restaurant management",
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_146218",
@@ -363330,61 +363355,94 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_26558",
         "tags": [
-            "War",
+            "vietnam",
+            "drugs",
+            "veteran",
             "Horror",
+            "War",
+            "nihilism",
+            "poverty",
+            "flashback",
+            "post-traumatic stress disorder (ptsd)",
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_30411",
         "tags": [
-            "Comedy"
+            "mutant",
+            "surfer",
+            "Comedy",
+            "spoof"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_19508",
         "tags": [
+            "computer animation",
+            "cat",
+            "surrealism",
+            "Animation",
+            "sequel",
             "Family",
-            "Comedy",
             "Adventure",
-            "Animation"
+            "villain",
+            "cartoon",
+            "Comedy",
+            "based on comic"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_15873",
         "tags": [
+            "bridge",
+            "explosion",
+            "Action",
+            "commanding",
             "War",
-            "Action"
+            "soldier",
+            "dramatic",
+            "thoughtful",
+            "world war ii"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_13827",
         "tags": [
+            "sports",
+            "surfing",
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9427",
         "tags": [
+            "police",
+            "job interview",
+            "northern england",
+            "son",
+            "father",
+            "striptease",
+            "suicide attempt",
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_629309",
@@ -363394,39 +363452,55 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_736074",
         "tags": [
             "Action",
             "Mystery",
+            "superhero",
+            "halloween",
+            "based on graphic novel",
+            "Crime",
             "Animation",
-            "Crime"
+            "sequel",
+            "tomorrowverse (dc)",
+            "aftercreditsstinger",
+            "holiday"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_12254",
         "tags": [
+            "marriage proposal",
             "Romance",
+            "Drama",
             "Comedy",
+            "based on novel or book",
             "TV Movie",
-            "Drama"
+            "make a match"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1473439",
         "tags": [
-            "Action",
             "Thriller",
-            "Crime"
+            "police lieutenant",
+            "Action",
+            "corruption",
+            "japan",
+            "gambling",
+            "fbi",
+            "Crime",
+            "tokyo, japan"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1707193",
@@ -363436,29 +363510,41 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_748167",
         "tags": [
-            "Science Fiction",
             "Action",
-            "Adventure"
+            "Science Fiction",
+            "teenager",
+            "based on young adult novel",
+            "cliché",
+            "beauty standards",
+            "absurd",
+            "Adventure",
+            "dystopia",
+            "cosmetic surgery"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_726139",
         "tags": [
             "Thriller",
-            "Horror",
+            "bridge",
+            "dog",
             "Action",
+            "Science Fiction",
+            "Horror",
+            "asia",
             "Adventure",
-            "Science Fiction"
+            "incheon",
+            "disaster"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_69449",
@@ -363466,16 +363552,17 @@
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_381002",
         "tags": [
-            "Comedy",
-            "Action"
+            "gambling",
+            "Action",
+            "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1606527",
@@ -363484,390 +363571,393 @@
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_41686",
         "tags": [
-            "Sport"
+            "Sport",
+            "wii u virtual console"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_145471",
         "tags": [
             "Shooter",
-            "Indie"
+            "Indie",
+            "retro",
+            "old school"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_106894",
         "tags": [
-            "War",
             "Historical",
-            "Romance",
+            "Politics",
             "Crossdressing",
             "Action",
-            "Time Skip",
-            "Biographical",
-            "Swordplay",
+            "Ninja",
+            "War",
+            "Romance",
             "Samurai",
             "Male Protagonist",
-            "Politics",
+            "Time Skip",
+            "Drama",
+            "Biographical",
             "Adventure",
-            "Ninja",
-            "Drama"
+            "Swordplay"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_9930",
         "tags": [
-            "Primarily Teen Cast",
-            "Dancing",
-            "Female Protagonist",
-            "Music",
             "Urban",
             "Ensemble Cast",
+            "School",
+            "Primarily Teen Cast",
+            "Dancing",
             "Snowscape",
-            "Idol",
-            "Primarily Female Cast",
             "Cute Girls Doing Cute Things",
-            "School"
+            "Primarily Female Cast",
+            "Female Protagonist",
+            "Music",
+            "Idol"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_20486",
         "tags": [
-            "Dragons",
             "Angels",
-            "Alternate Universe",
             "Sci-Fi",
-            "Fantasy",
-            "Card Battle",
             "Tsundere",
             "Revenge",
-            "Adventure"
+            "Dragons",
+            "Alternate Universe",
+            "Fantasy",
+            "Adventure",
+            "Card Battle"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_87498",
         "tags": [
-            "Classic Literature",
-            "Josei",
-            "Comedy",
-            "Supernatural",
             "Action",
-            "Demons",
             "Primarily Adult Cast",
+            "Supernatural",
+            "Classic Literature",
+            "Drama",
+            "Demons",
             "Adventure",
-            "Drama"
+            "Josei",
+            "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_2950",
         "tags": [
-            "Iyashikei",
-            "Slice of Life",
-            "Kids",
-            "Coming of Age",
-            "Rural",
-            "Anthropomorphism",
-            "Environmental",
-            "Snowscape",
             "Animals",
+            "Kids",
+            "Anthropomorphism",
+            "Coming of Age",
             "Fashion",
-            "Female Protagonist"
+            "Environmental",
+            "Rural",
+            "Snowscape",
+            "Iyashikei",
+            "Female Protagonist",
+            "Slice of Life"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_9213",
         "tags": [
-            "Slice of Life",
-            "Tragedy",
-            "Family Life",
             "Sci-Fi",
-            "Robots",
-            "Music",
+            "Tragedy",
             "Artificial Intelligence",
-            "Band",
             "Amnesia",
-            "Found Family",
+            "Robots",
+            "Family Life",
+            "Drama",
+            "Band",
             "Female Protagonist",
-            "Drama"
+            "Found Family",
+            "Music",
+            "Slice of Life"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_13859",
         "tags": [
-            "Shounen",
-            "Isekai",
-            "Comedy",
-            "Sci-Fi",
             "Virtual World",
             "Ensemble Cast",
-            "Parody",
+            "Sci-Fi",
+            "School",
             "Kuudere",
-            "School"
+            "Isekai",
+            "Shounen",
+            "Parody",
+            "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_21136",
         "tags": [
-            "Meta",
-            "Surreal Comedy",
-            "Comedy",
-            "Female Protagonist",
-            "School Club",
-            "Cute Girls Doing Cute Things",
-            "Parody",
+            "School",
             "Tennis",
-            "Primarily Female Cast",
-            "Sports",
+            "School Club",
+            "Surreal Comedy",
             "Aliens",
-            "School"
+            "Meta",
+            "Cute Girls Doing Cute Things",
+            "Female Protagonist",
+            "Parody",
+            "Sports",
+            "Primarily Female Cast",
+            "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_212618",
         "tags": [
+            "Ensemble Cast",
+            "Action",
             "Mystery",
             "Horror",
-            "Monster Boy",
-            "Curses",
-            "Comedy",
-            "Urban Fantasy",
-            "Fantasy",
-            "Action",
-            "Ensemble Cast",
-            "Seinen",
             "Revenge",
             "Male Protagonist",
-            "Adventure"
+            "Fantasy",
+            "Seinen",
+            "Curses",
+            "Urban Fantasy",
+            "Adventure",
+            "Monster Boy",
+            "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_119753",
         "tags": [
-            "Isekai",
+            "Elf",
+            "Magic",
+            "Male Protagonist",
             "Reincarnation",
             "Fantasy",
             "Assassins",
-            "Gods",
-            "Magic",
-            "Male Protagonist",
+            "Isekai",
             "Adventure",
-            "Elf"
+            "Gods"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_136498",
         "tags": [
-            "Slice of Life",
-            "Romance",
-            "Unrequited Love",
-            "Comedy",
+            "School",
             "Love Triangle",
-            "Seinen",
+            "Romance",
             "Heterosexual",
+            "Seinen",
             "Female Protagonist",
-            "School"
+            "Slice of Life",
+            "Unrequited Love",
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_162064",
         "tags": [
-            "Reincarnation",
-            "Full Color",
-            "Fantasy",
+            "Magic",
             "Action",
             "Long Strip",
-            "Magic",
-            "Male Protagonist"
+            "Full Color",
+            "Male Protagonist",
+            "Reincarnation",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_162288",
         "tags": [
-            "Food",
-            "Slice of Life",
             "Hikikomori",
             "Psychological",
-            "Primarily Adult Cast",
             "Philosophy",
+            "Primarily Adult Cast",
+            "Food",
             "Primarily Female Cast",
-            "Female Protagonist"
+            "Female Protagonist",
+            "Slice of Life"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_145382",
         "tags": [
-            "Female Harem",
-            "Fantasy",
             "Action",
-            "Martial Arts",
             "Male Protagonist",
+            "Drama",
+            "Fantasy",
+            "Female Harem",
             "Adventure",
-            "Drama"
+            "Martial Arts"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_104724",
         "tags": [
-            "Bar",
-            "Shounen",
-            "Medieval",
-            "Comedy",
-            "Demons",
-            "Fantasy",
-            "Coming of Age",
-            "Adventure",
             "Magic",
+            "Coming of Age",
+            "Drama",
+            "Fantasy",
             "Female Protagonist",
-            "Drama"
+            "Shounen",
+            "Bar",
+            "Adventure",
+            "Demons",
+            "Medieval",
+            "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_129183",
         "tags": [
-            "Shounen",
-            "Romance",
-            "Comedy",
-            "Fantasy",
             "Action",
             "Male Protagonist",
-            "Adventure"
+            "Romance",
+            "Fantasy",
+            "Shounen",
+            "Adventure",
+            "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_86820",
         "tags": [
-            "Gore",
             "Psychological",
             "Thriller",
-            "Tragedy",
-            "Yandere",
-            "Bullying",
-            "Sci-Fi",
-            "Survival",
             "Ensemble Cast",
-            "Drama",
-            "Seinen",
+            "Sci-Fi",
+            "School",
+            "Tragedy",
+            "Survival",
             "Revenge",
+            "Seinen",
+            "Yandere",
             "Death Game",
-            "School"
+            "Gore",
+            "Drama",
+            "Bullying"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_109497",
         "tags": [
-            "Romance",
-            "Female Harem",
-            "Fantasy",
-            "Action",
             "Magic",
+            "Action",
+            "Romance",
+            "Fantasy",
+            "Female Harem",
             "Adventure",
             "Drama"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_176812",
         "tags": [
-            "Kingdom Management",
-            "Cultivation",
-            "Reincarnation",
-            "Age Regression",
-            "Full Color",
-            "Fantasy",
+            "Politics",
             "Action",
+            "Time Manipulation",
+            "Full Color",
+            "Cultivation",
+            "Age Regression",
+            "Reincarnation",
             "Heterosexual",
             "Male Protagonist",
-            "Time Manipulation",
-            "Politics",
+            "Fantasy",
+            "Kingdom Management",
             "Adventure",
             "Drama"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_117898",
         "tags": [
-            "Isekai",
-            "Romance",
             "Crossdressing",
-            "Reincarnation",
             "Full Color",
+            "Romance",
+            "Reincarnation",
             "Fantasy",
+            "Isekai",
             "Gods"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_203322",
         "tags": [
-            "Romance",
-            "Comedy",
-            "Full Color",
             "Long Strip",
-            "Heterosexual"
+            "Full Color",
+            "Romance",
+            "Heterosexual",
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_144620",
         "tags": [
-            "Slice of Life",
-            "Advertisement",
-            "Alternate Universe",
-            "Age Regression",
-            "Full Color",
             "Urban",
+            "Advertisement",
+            "Full Color",
             "Long Strip",
+            "Age Regression",
             "Heterosexual",
-            "Female Protagonist"
+            "Alternate Universe",
+            "Female Protagonist",
+            "Slice of Life"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
