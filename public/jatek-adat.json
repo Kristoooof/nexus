@@ -81711,5 +81711,36 @@
         "score": 97.91425010824688,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_41686",
+        "title_en": "Konami's Soccer",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Sport"
+        ],
+        "description": "Fast Action-True to Life-Soccer. Be part of KONAMI's winning team!",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7lvh.jpg",
+        "date": "1985-06-01",
+        "score": 80.07874015748031,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_145471",
+        "title_en": "Ion Fury: Aftershock",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Shooter",
+            "Indie"
+        ],
+        "description": "Ion Fury, the old-school first-person shooter, keeps the bullets and cybernetic body parts flying with Aftershock, a new expansion. Like classic expansions, “Aftershock” offers a brand new Arrange mode. Whether playing for the first time or revisiting Ion Fury, choose Arrange mode to experience the original game but now enhanced with new enemies, weapons and more.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2x79.jpg",
+        "date": "2023-10-02",
+        "score": 80.07167160391909,
+        "age_rating": "16+",
+        "cover_nsfw": false
     }
 ]
