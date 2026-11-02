@@ -146355,6 +146355,226 @@
         "done": true
     },
     {
+        "id": "tmdb_1172129",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_189429",
+        "tags": [
+            "Comedy"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_1691943",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_115732",
+        "tags": [
+            "Comedy"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_195751",
+        "tags": [
+            "drug addiction",
+            "group therapy",
+            "cocaine",
+            "drug rehabilitation",
+            "marijuana",
+            "TV Movie",
+            "drug abuse",
+            "alcohol",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_8386",
+        "tags": [
+            "smoke",
+            "stoner movie",
+            "Comedy",
+            "university"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_14359",
+        "tags": [
+            "sexual abuse",
+            "priest",
+            "nun",
+            "singing",
+            "janitor",
+            "wine",
+            "pedophile",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_1393056",
+        "tags": [
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_27205",
+        "tags": [
+            "Science Fiction",
+            "spy",
+            "intellectual",
+            "Action",
+            "kidnapping",
+            "manipulation",
+            "mission",
+            "allegory",
+            "dreams",
+            "Crime"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_361743",
+        "tags": [
+            "naval aviation",
+            "fighter pilot",
+            "nuclear weapons",
+            "u.s. navy",
+            "Action",
+            "aircraft carrier",
+            "military",
+            "sequel",
+            "Drama"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_1789549",
+        "tags": [
+            "gift",
+            "woman director",
+            "Comedy",
+            "birthday party",
+            "single mom"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_1339274",
+        "tags": [
+            "Thriller",
+            "Horror",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_258255",
+        "tags": [
+            "halloween",
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_10057",
+        "tags": [
+            "porthos",
+            "musketeer",
+            "three musketeers",
+            "17th century",
+            "Comedy",
+            "Action",
+            "based on novel or book",
+            "king of france",
+            "Adventure",
+            "paris, france"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_1050649",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_303991",
+        "tags": [
+            "carousel ",
+            "father-in-law",
+            "Comedy",
+            "new york city",
+            "pregnancy",
+            "loss of loved one",
+            "dark comedy",
+            "Drama",
+            "infidelity"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_433452",
+        "tags": [
+            "short film"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_2654",
+        "tags": [
+            "disappearance",
+            "insanity",
+            "Horror",
+            "new hampshire",
+            "author",
+            "Mystery",
+            "diner",
+            "small town",
+            "paranoia"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_80655",
+        "tags": [
+            "Horror",
+            "Mystery"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
         "id": "igdb_863",
         "tags": [
             "Simulator",
@@ -211170,6 +211390,21 @@
             "Role-playing (RPG)",
             "Adventure",
             "Indie"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "igdb_313597",
+        "tags": [
+            "2.5d",
+            "metroidvania",
+            "Indie",
+            "survival horror",
+            "steam next fest june 2026",
+            "Puzzle",
+            "Adventure",
+            "exploration"
         ],
         "pacing": "Gyors",
         "done": true
@@ -280400,6 +280635,68 @@
             "Romance"
         ],
         "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "anilist_94",
+        "tags": [
+            "Tragedy",
+            "Space",
+            "Primarily Teen Cast",
+            "Military",
+            "Orphan",
+            "Action",
+            "Romance",
+            "Mecha",
+            "Real Robot",
+            "Anti-Hero",
+            "War",
+            "Male Protagonist",
+            "Sci-Fi",
+            "Memory Manipulation",
+            "Drama"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "anilist_99796",
+        "tags": [
+            "Guns",
+            "Virtual World",
+            "Henshin",
+            "Software Development",
+            "Action",
+            "Desert",
+            "Tokusatsu",
+            "Tanned Skin",
+            "Urban Fantasy",
+            "Mystery",
+            "Male Protagonist",
+            "Demons"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "anilist_163542",
+        "tags": [
+            "Female Protagonist",
+            "Guns",
+            "Ensemble Cast",
+            "Urban",
+            "Action",
+            "Comedy",
+            "Achronological Order",
+            "Espionage",
+            "Urban Fantasy",
+            "Mystery",
+            "Male Protagonist",
+            "Asexual",
+            "Primarily Female Cast",
+            "Drama"
+        ],
+        "pacing": "Gyors",
         "done": true
     },
     {
@@ -366336,303 +366633,6 @@
         "done": true
     },
     {
-        "id": "tmdb_1172129",
-        "tags": [
-            "Drama"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_189429",
-        "tags": [
-            "Comedy"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_1691943",
-        "tags": [
-            "Drama"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_115732",
-        "tags": [
-            "Comedy"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_195751",
-        "tags": [
-            "drug addiction",
-            "group therapy",
-            "cocaine",
-            "drug rehabilitation",
-            "marijuana",
-            "TV Movie",
-            "drug abuse",
-            "alcohol",
-            "Drama"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_8386",
-        "tags": [
-            "smoke",
-            "stoner movie",
-            "Comedy",
-            "university"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_14359",
-        "tags": [
-            "sexual abuse",
-            "priest",
-            "nun",
-            "singing",
-            "janitor",
-            "wine",
-            "pedophile",
-            "Drama"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_1393056",
-        "tags": [
-            "Horror"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_27205",
-        "tags": [
-            "Science Fiction",
-            "spy",
-            "intellectual",
-            "Action",
-            "kidnapping",
-            "manipulation",
-            "mission",
-            "allegory",
-            "dreams",
-            "Crime"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_361743",
-        "tags": [
-            "naval aviation",
-            "fighter pilot",
-            "nuclear weapons",
-            "u.s. navy",
-            "Action",
-            "aircraft carrier",
-            "military",
-            "sequel",
-            "Drama"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_1789549",
-        "tags": [
-            "gift",
-            "woman director",
-            "Comedy",
-            "birthday party",
-            "single mom"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_1339274",
-        "tags": [
-            "Thriller",
-            "Horror",
-            "Drama"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_258255",
-        "tags": [
-            "halloween",
-            "Horror"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_10057",
-        "tags": [
-            "porthos",
-            "musketeer",
-            "three musketeers",
-            "17th century",
-            "Comedy",
-            "Action",
-            "based on novel or book",
-            "king of france",
-            "Adventure",
-            "paris, france"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_1050649",
-        "tags": [
-            "Drama"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_303991",
-        "tags": [
-            "carousel ",
-            "father-in-law",
-            "Comedy",
-            "new york city",
-            "pregnancy",
-            "loss of loved one",
-            "dark comedy",
-            "Drama",
-            "infidelity"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_433452",
-        "tags": [
-            "short film"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_2654",
-        "tags": [
-            "disappearance",
-            "insanity",
-            "Horror",
-            "new hampshire",
-            "author",
-            "Mystery",
-            "diner",
-            "small town",
-            "paranoia"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_80655",
-        "tags": [
-            "Horror",
-            "Mystery"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "igdb_313597",
-        "tags": [
-            "2.5d",
-            "metroidvania",
-            "Indie",
-            "survival horror",
-            "steam next fest june 2026",
-            "Puzzle",
-            "Adventure",
-            "exploration"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "anilist_94",
-        "tags": [
-            "Tragedy",
-            "Space",
-            "Primarily Teen Cast",
-            "Military",
-            "Orphan",
-            "Action",
-            "Romance",
-            "Mecha",
-            "Real Robot",
-            "Anti-Hero",
-            "War",
-            "Male Protagonist",
-            "Sci-Fi",
-            "Memory Manipulation",
-            "Drama"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "anilist_99796",
-        "tags": [
-            "Guns",
-            "Virtual World",
-            "Henshin",
-            "Software Development",
-            "Action",
-            "Desert",
-            "Tokusatsu",
-            "Tanned Skin",
-            "Urban Fantasy",
-            "Mystery",
-            "Male Protagonist",
-            "Demons"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "anilist_163542",
-        "tags": [
-            "Female Protagonist",
-            "Guns",
-            "Ensemble Cast",
-            "Urban",
-            "Action",
-            "Comedy",
-            "Achronological Order",
-            "Espionage",
-            "Urban Fantasy",
-            "Mystery",
-            "Male Protagonist",
-            "Asexual",
-            "Primarily Female Cast",
-            "Drama"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
         "id": "anilist_217902",
         "tags": [
             "Heterosexual",
@@ -366647,5 +366647,575 @@
         ],
         "pacing": "Gyors",
         "done": true
+    },
+    {
+        "id": "tmdb_648597",
+        "tags": [
+            "Mystery",
+            "Crime",
+            "Drama",
+            "TV Movie"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_430642",
+        "tags": [
+            "Drama",
+            "TV Movie"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_38230",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1445920",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_11531",
+        "tags": [
+            "Horror",
+            "Mystery"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_9822",
+        "tags": [
+            "Adventure",
+            "Fantasy",
+            "Action",
+            "Family"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_610312",
+        "tags": [
+            "Drama",
+            "Crime"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_454652",
+        "tags": [
+            "History",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_570670",
+        "tags": [
+            "Thriller",
+            "Horror",
+            "Science Fiction"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_103747",
+        "tags": [
+            "Comedy",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1242011",
+        "tags": [
+            "Horror",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_568271",
+        "tags": [
+            "Comedy",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_113921",
+        "tags": [
+            "Western"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_500974",
+        "tags": [
+            "Thriller"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_451945",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_35650",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1336746",
+        "tags": [
+            "Documentary"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_4558",
+        "tags": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_145511",
+        "tags": [
+            "Animation",
+            "Family"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_1125859",
+        "tags": [
+            "Documentary"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_1752864",
+        "tags": [
+            "Fantasy",
+            "Horror",
+            "Mystery"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_192784",
+        "tags": [
+            "Drama",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_136980",
+        "tags": [
+            "Horror",
+            "Science Fiction"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_980078",
+        "tags": [
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_965880",
+        "tags": [
+            "Animation"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_469916",
+        "tags": [
+            "Thriller",
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_340022",
+        "tags": [
+            "Comedy",
+            "Crime",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_986280",
+        "tags": [
+            "Drama",
+            "Comedy",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1698428",
+        "tags": [],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_18747",
+        "tags": [
+            "Drama",
+            "Crime",
+            "Thriller"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1040145",
+        "tags": [
+            "Documentary"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_980026",
+        "tags": [
+            "History",
+            "Drama",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_63687",
+        "tags": [
+            "Nudity",
+            "Crime",
+            "Meta",
+            "Surreal Comedy",
+            "Seinen",
+            "Drawing",
+            "Work",
+            "Horror",
+            "Body Horror",
+            "Ero Guro",
+            "Mystery",
+            "Psychological",
+            "Gore"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "anilist_154917",
+        "tags": [
+            "Necromancy",
+            "Memory Manipulation",
+            "Revenge",
+            "Primarily Adult Cast",
+            "Urban Fantasy",
+            "Torture",
+            "Dungeon",
+            "Full Color",
+            "Action",
+            "Super Power",
+            "Adventure",
+            "Fantasy",
+            "Male Protagonist"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_138684",
+        "tags": [
+            "Horticulture",
+            "School Club",
+            "Shounen",
+            "Primarily Teen Cast",
+            "Heterosexual",
+            "Love Triangle",
+            "Time Skip",
+            "School",
+            "Comedy",
+            "Male Protagonist",
+            "Romance"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_105111",
+        "tags": [
+            "Gods",
+            "Love Triangle",
+            "Drama",
+            "Amnesia",
+            "Slice of Life",
+            "School",
+            "Shoujo",
+            "Comedy",
+            "Male Protagonist",
+            "Yandere",
+            "Time Manipulation",
+            "Female Protagonist",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_119397",
+        "tags": [
+            "Office",
+            "Office Lady",
+            "Heterosexual",
+            "Love Triangle",
+            "Josei",
+            "Work",
+            "Slice of Life",
+            "Comedy",
+            "Super Power",
+            "Supernatural",
+            "Romance",
+            "Male Protagonist"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_30038",
+        "tags": [
+            "Mermaid",
+            "Shounen",
+            "Slavery",
+            "Travel",
+            "Kemonomimi",
+            "Cute Boys Doing Cute Things",
+            "Primarily Child Cast",
+            "Animals",
+            "Primarily Male Cast",
+            "Adventure",
+            "Fantasy",
+            "Disability"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_106727",
+        "tags": [
+            "Anthology",
+            "Shounen",
+            "Crime",
+            "Primarily Animal Cast",
+            "Drama",
+            "Interspecies",
+            "Slice of Life",
+            "Animals",
+            "Fantasy",
+            "Anthropomorphism",
+            "Romance",
+            "Psychological"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_101784",
+        "tags": [
+            "Aliens",
+            "Shounen",
+            "Crime",
+            "Surreal Comedy",
+            "Heterosexual",
+            "Sci-Fi",
+            "School",
+            "Urban",
+            "Comedy",
+            "Male Protagonist",
+            "Romance"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_150441",
+        "tags": [
+            "Aliens",
+            "Shounen",
+            "Police",
+            "Action",
+            "Male Protagonist",
+            "Fantasy"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_112510",
+        "tags": [
+            "Afterlife",
+            "Tragedy",
+            "Primarily Adult Cast",
+            "Idol",
+            "Seinen",
+            "Drama",
+            "Sci-Fi",
+            "Horror",
+            "Police",
+            "Suicide",
+            "Action",
+            "Detective",
+            "Denpa",
+            "Mystery",
+            "Psychological",
+            "Gore"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_100094",
+        "tags": [
+            "4-koma",
+            "Seinen",
+            "Tomboy",
+            "Iyashikei",
+            "Slice of Life",
+            "Parenthood",
+            "Comedy",
+            "Family Life"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_36444",
+        "tags": [
+            "Shounen",
+            "Ninja",
+            "Henshin",
+            "Action",
+            "Male Protagonist",
+            "Super Power",
+            "Youkai"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_100674",
+        "tags": [
+            "Military",
+            "Urban Fantasy",
+            "Seinen",
+            "Drama",
+            "Magic",
+            "Horror",
+            "Gore",
+            "Henshin",
+            "Action",
+            "War",
+            "Super Power",
+            "Yandere",
+            "Mahou Shoujo",
+            "Terrorism"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_43419",
+        "tags": [
+            "Gekiga",
+            "Tragedy",
+            "Autobiographical",
+            "Drawing",
+            "Drama",
+            "Non-fiction",
+            "Historical",
+            "Work",
+            "Slice of Life",
+            "School",
+            "Comedy",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_98672",
+        "tags": [
+            "Shounen",
+            "Female Harem",
+            "Time Skip",
+            "School",
+            "Comedy",
+            "Male Protagonist"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_118706",
+        "tags": [
+            "Reincarnation",
+            "Revenge",
+            "Seinen",
+            "Magic",
+            "Action",
+            "Male Protagonist",
+            "Fantasy"
+        ],
+        "pacing": "Gyors",
+        "done": false
     }
 ]
