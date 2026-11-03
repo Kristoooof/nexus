@@ -367361,74 +367361,97 @@
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_738029",
-        "tags": [],
+        "tags": [
+            "woman director"
+        ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_71622",
         "tags": [
+            "Thriller",
+            "urban myth",
+            "country house",
+            "labyrinth",
+            "supernatural",
+            "family vacation",
+            "paranormal",
             "Horror",
-            "Thriller"
+            "woods"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_343866",
         "tags": [
+            "detective",
             "Drama",
-            "Crime",
             "Thriller",
             "Action",
-            "Mystery"
+            "murder",
+            "Mystery",
+            "Crime"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_67651",
         "tags": [
-            "History",
+            "jesus christ",
             "Drama",
-            "Adventure"
+            "last days",
+            "Adventure",
+            "religion",
+            "History"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_25633",
         "tags": [
+            "mob boss",
             "Drama",
+            "film noir",
+            "ethical dilemma",
+            "hostage situation",
+            "trial lawyer",
+            "dancer",
             "Romance",
+            "showgirl",
             "Crime"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_798580",
         "tags": [
             "Action",
-            "Horror",
-            "Comedy"
+            "Comedy",
+            "interdimensional beings",
+            "Horror"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_17806",
         "tags": [
-            "Drama",
             "Romance",
-            "Comedy"
+            "Comedy",
+            "Drama",
+            "love"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1352049",
@@ -367436,37 +367459,58 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_246741",
         "tags": [
-            "Horror",
-            "Comedy"
+            "mockumentary",
+            "commune",
+            "halloween",
+            "Comedy",
+            "friendship",
+            "zombie",
+            "new zealand",
+            "vampire",
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_920",
         "tags": [
-            "Animation",
             "Family",
+            "villain",
+            "Animation",
+            "Comedy",
+            "friendship",
+            "porsche",
             "Adventure",
-            "Comedy"
+            "sports",
+            "route 66",
+            "success",
+            "car race"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_882569",
         "tags": [
-            "War",
+            "behind enemy lines",
             "Thriller",
-            "Action"
+            "Action",
+            "interpreter",
+            "afghanistan war (2001-2021)",
+            "ambush",
+            "taliban",
+            "War",
+            "afghanistan",
+            "rescue mission"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1432207",
@@ -367474,35 +367518,51 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_134245",
         "tags": [
-            "Horror",
-            "Crime"
+            "Crime",
+            "blood transfusion",
+            "vampire",
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_984",
         "tags": [
+            "ransom",
+            "kidnapping",
             "Thriller",
+            "Action",
+            "san francisco, california",
+            "ambush",
+            "police",
             "Crime",
-            "Action"
+            "chase",
+            "sniper"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_51828",
         "tags": [
+            "love",
             "Drama",
-            "Romance"
+            "writer",
+            "friends in love",
+            "Romance",
+            "based on novel or book",
+            "author",
+            "comedian",
+            "divorce"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_582570",
@@ -367510,7 +367570,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_347477",
@@ -367518,97 +367578,119 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1428295",
         "tags": [
-            "Drama",
             "Romance",
+            "Drama",
+            "1990s",
             "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1096228",
         "tags": [
-            "Documentary"
+            "artificial intelligence (a.i.)",
+            "custody battle",
+            "Documentary",
+            "immigrant",
+            "apartheid",
+            "pedophilia",
+            "south africa",
+            "space travel"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9482",
         "tags": [
+            "superhero",
+            "judge",
             "Science Fiction",
-            "Action"
+            "dystopia",
+            "villain",
+            "Action",
+            "trial",
+            "post-apocalyptic future",
+            "corruption"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_880067",
         "tags": [
-            "Mystery",
-            "Thriller"
+            "Thriller",
+            "violin",
+            "music instrument",
+            "musician",
+            "cheating",
+            "nanny",
+            "violinist",
+            "trauma",
+            "Mystery"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_206951",
         "tags": [
-            "Surreal Comedy",
-            "Isekai",
-            "Fantasy",
-            "Comedy",
-            "Mixed Media",
-            "Gods",
-            "Male Protagonist",
             "Anthropomorphism",
             "Afterlife",
-            "Parody",
+            "Male Protagonist",
+            "Isekai",
+            "Surreal Comedy",
+            "Comedy",
             "Reincarnation",
-            "Episodic"
+            "Episodic",
+            "Gods",
+            "Parody",
+            "Fantasy",
+            "Mixed Media"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_180752",
         "tags": [
-            "Primarily Female Cast",
-            "Matriarchy",
-            "Found Family",
-            "Fantasy",
-            "Comedy",
             "Magic",
-            "Witch",
-            "Demons",
-            "Adventure",
-            "Action",
-            "Henshin",
-            "Male Protagonist",
             "Shounen",
-            "Anachronism"
+            "Witch",
+            "Male Protagonist",
+            "Action",
+            "Comedy",
+            "Matriarchy",
+            "Adventure",
+            "Demons",
+            "Primarily Female Cast",
+            "Anachronism",
+            "Henshin",
+            "Found Family",
+            "Fantasy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_214614",
         "tags": [
-            "Heterosexual",
-            "Full Color",
-            "Fantasy",
             "Long Strip",
-            "Female Protagonist",
-            "Villainess",
+            "Full Color",
             "Drama",
-            "Romance"
+            "Heterosexual",
+            "Female Protagonist",
+            "Romance",
+            "Villainess",
+            "Fantasy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
