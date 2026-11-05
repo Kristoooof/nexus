@@ -369095,32 +369095,53 @@
     {
         "id": "tmdb_565770",
         "tags": [
-            "Science Fiction",
+            "family",
             "Adventure",
+            "armor",
+            "Science Fiction",
+            "family relationships",
+            "job hunting",
+            "mexican american",
+            "superhero",
+            "high tech",
             "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_77016",
         "tags": [
-            "Thriller",
+            "friendship",
+            "shootout",
+            "los angeles, california",
+            "human trafficking",
+            "brutality",
+            "street gang",
+            "Drama",
             "Crime",
-            "Drama"
+            "gang member",
+            "Thriller"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_57876",
         "tags": [
-            "Science Fiction",
             "Horror",
-            "Mystery"
+            "alien",
+            "found footage",
+            "Science Fiction",
+            "ufo",
+            "extraterrestrial",
+            "secret base",
+            "Mystery",
+            "military base",
+            "alien life-form"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1085688",
@@ -369128,28 +369149,36 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_25128",
         "tags": [
-            "Romance",
             "Comedy",
-            "Drama"
+            "Romance",
+            "Drama",
+            "woman director"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_28966",
         "tags": [
+            "love triangle",
+            "dogfight",
             "Romance",
-            "Action",
+            "world war i",
+            "friendship",
             "War",
-            "Drama"
+            "aerial combat",
+            "paris, france",
+            "battlefield",
+            "Drama",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_746081",
@@ -369158,7 +369187,7 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_136665",
@@ -369166,7 +369195,7 @@
             "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1199458",
@@ -369175,24 +369204,27 @@
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9816",
         "tags": [
-            "Family",
+            "musical",
             "Romance",
+            "Family",
+            "ballet dancer",
             "Music",
-            "Drama"
+            "Drama",
+            "ballet"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_766817",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_811058",
@@ -369200,61 +369232,79 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_687342",
         "tags": [
-            "Animation"
+            "biography",
+            "Animation",
+            "mexico",
+            "educational",
+            "benito juárez"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_14717",
         "tags": [
             "Adventure",
-            "Role-playing (RPG)"
+            "death",
+            "anime",
+            "Role-playing (RPG)",
+            "turn-based",
+            "snow",
+            "grinding",
+            "post-apocalyptic",
+            "exploration"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_197078",
         "tags": [
+            "friendship",
             "Visual Novel",
-            "Indie"
+            "school life",
+            "Indie",
+            "love story",
+            "alligator",
+            "high school",
+            "potential love interest",
+            "demo"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_56021",
         "tags": [
-            "Coming of Age",
-            "Age Gap",
-            "Shoujo",
             "Romance",
+            "Coming of Age",
+            "Shoujo",
             "Female Protagonist",
+            "Age Gap",
             "Reincarnation"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_52518",
         "tags": [
-            "Psychological",
-            "Heterosexual",
-            "Yandere",
-            "Amnesia",
-            "Mystery",
             "Romance",
             "Anti-Hero",
+            "Psychological",
             "Male Protagonist",
-            "Seinen"
+            "Yandere",
+            "Seinen",
+            "Amnesia",
+            "Heterosexual",
+            "Mystery"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
