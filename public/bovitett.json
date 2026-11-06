@@ -369606,10 +369606,12 @@
     {
         "id": "tmdb_485730",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "short film",
+            "comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1432592",
@@ -369618,7 +369620,7 @@
             "History"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_428822",
@@ -369627,45 +369629,55 @@
             "Documentary"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_617052",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_391051",
         "tags": [
+            "psychic",
             "Horror",
-            "Mystery"
+            "murder",
+            "Mystery",
+            "psychiatrist"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1508796",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_854586",
         "tags": [
-            "Drama"
+            "Drama",
+            "techno music",
+            "lithuania",
+            "berlin, germany",
+            "coming of age",
+            "broken family",
+            "single mother",
+            "techno"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_587470",
         "tags": [
-            "Comedy",
-            "Music"
+            "Music",
+            "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1304389",
@@ -369673,17 +369685,24 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_334517",
         "tags": [
+            "congo",
+            "based on novel or book",
+            "bravery",
             "Drama",
-            "Thriller",
-            "War"
+            "irish",
+            "united nations",
+            "conflict",
+            "War",
+            "katanga conflict",
+            "Thriller"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1435751",
@@ -369691,7 +369710,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1200026",
@@ -369699,27 +369718,41 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_13754",
         "tags": [
-            "Action",
+            "based on manga",
+            "flying",
+            "yakuza",
+            "urban setting",
+            "urban development",
+            "street children",
             "Adventure",
-            "Animation"
+            "Action",
+            "Animation",
+            "minotaur"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_12335",
         "tags": [
-            "Fantasy",
+            "nazi",
+            "knight",
             "Family",
-            "Animation"
+            "Fantasy",
+            "flying",
+            "children in wartime",
+            "witch",
+            "Animation",
+            "live action and animation",
+            "world war ii"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_639683",
@@ -369727,7 +369760,7 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_212014",
@@ -369735,26 +369768,29 @@
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_62519",
         "tags": [
+            "Crime",
             "Drama",
-            "Crime"
+            "magazine"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_19165",
         "tags": [
-            "Adventure",
             "Family",
-            "Animation"
+            "sequel",
+            "Adventure",
+            "Animation",
+            "dinosaur"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_833420",
@@ -369762,24 +369798,31 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_391290",
         "tags": [
-            "Drama",
-            "Action"
+            "Action",
+            "Drama"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_243938",
         "tags": [
-            "Comedy"
+            "hallucinogen",
+            "sequel",
+            "Comedy",
+            "drinking",
+            "virtual reality",
+            "time travel",
+            "time machine",
+            "hot tub"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1329231",
@@ -369787,104 +369830,152 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_15955",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "stupidity"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1470329",
         "tags": [
-            "Drama",
+            "reincarnation",
             "Fantasy",
-            "Animation"
+            "based on novel or book",
+            "Drama",
+            "Animation",
+            "adult animation"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_22557",
         "tags": [
+            "Comedy",
             "Drama",
-            "Comedy"
+            "second chance",
+            "hokkaido, japan",
+            "road trip",
+            "reconciliation",
+            "family reunion",
+            "unlikely friendship",
+            "redemption"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1723803",
         "tags": [
+            "woman director",
             "Drama",
             "Horror",
+            "independent film",
+            "based on short film",
             "Thriller"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_136835",
         "tags": [
+            "escaped convict",
+            "serial killer",
+            "sadistic",
+            "hostage",
+            "girlfriend",
             "Crime",
+            "prisoner",
+            "sociopath",
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_226857",
         "tags": [
+            "teenage romance",
+            "based on novel or book",
             "Drama",
-            "Romance"
+            "remake",
+            "Romance",
+            "forbidden love",
+            "love"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1175842",
         "tags": [
+            "Family",
             "Fantasy",
-            "Adventure",
-            "Family"
+            "based on novel or book",
+            "time",
+            "Adventure"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_13830",
         "tags": [
+            "yardie",
+            "police chase",
+            "Drama",
             "Crime",
             "Action",
             "Adventure",
-            "Drama"
+            "crime boss",
+            "gang violence",
+            "jamaican posse",
+            "street gang"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_80585",
         "tags": [
-            "Drama",
-            "Romance",
+            "based on play or musical",
             "Comedy",
+            "coming out",
+            "Drama",
+            "record producer",
+            "musical",
+            "Romance",
+            "moral conflict",
+            "rock star",
+            "love triangle",
             "Music"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_419173",
         "tags": [
-            "Turn-based strategy (TBS)",
+            "collaboration",
+            "crossover",
+            "redemption",
+            "Role-playing (RPG)",
             "Adventure",
+            "Turn-based strategy (TBS)",
+            "tragic villain",
             "Visual Novel",
-            "Role-playing (RPG)"
+            "gacha",
+            "dragon",
+            "villain"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     }
 ]
