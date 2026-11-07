@@ -370772,40 +370772,54 @@
     {
         "id": "tmdb_80274",
         "tags": [
-            "Action",
+            "fight",
+            "starship",
+            "war strategy",
             "Adventure",
-            "Science Fiction"
+            "Science Fiction",
+            "intolerance",
+            "earth",
+            "based on novel or book",
+            "Action",
+            "chosen one"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1752153",
         "tags": [
-            "Comedy",
-            "Horror"
+            "Horror",
+            "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_50359",
         "tags": [
-            "Family",
             "Animation",
-            "Comedy"
+            "bunny",
+            "slacker",
+            "easter bunny",
+            "coup d'etat",
+            "rabbit",
+            "villain",
+            "Comedy",
+            "easter",
+            "Family"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_138289",
         "tags": [
-            "Drama",
-            "Romance"
+            "Romance",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1447446",
@@ -370813,7 +370827,7 @@
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_293733",
@@ -370821,54 +370835,66 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_473485",
         "tags": [
-            "Documentary"
+            "museum",
+            "Documentary",
+            "art"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_142061",
         "tags": [
-            "Action",
-            "Animation",
             "Mystery",
-            "Science Fiction"
+            "super power",
+            "provocative",
+            "Animation",
+            "dystopia",
+            "based on graphic novel",
+            "future",
+            "Science Fiction",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1515392",
         "tags": [
-            "Action",
-            "Comedy"
+            "mother daughter relationship",
+            "action comedy",
+            "Comedy",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_177714",
         "tags": [
+            "cartoon",
             "Family",
             "Animation"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_79296",
         "tags": [
-            "Action",
+            "private detective",
             "Comedy",
-            "Romance"
+            "prostitute",
+            "Romance",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_527007",
@@ -370876,7 +370902,7 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_595313",
@@ -370884,18 +370910,25 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_928480",
         "tags": [
             "Mystery",
-            "Adventure",
+            "summer",
+            "island",
+            "shape shifter",
             "Horror",
-            "Fantasy"
+            "friendship",
+            "Fantasy",
+            "Adventure",
+            "detective",
+            "witch",
+            "supernatural creature"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_641555",
@@ -370903,7 +370936,7 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1420043",
@@ -370912,17 +370945,24 @@
             "Music"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_6593",
         "tags": [
-            "Action",
+            "psychic",
+            "giant monster",
+            "giant robot",
             "Adventure",
-            "Science Fiction"
+            "android",
+            "sibling",
+            "dinosaur",
+            "self sacrifice",
+            "Science Fiction",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1583874",
@@ -370930,47 +370970,64 @@
             "Music"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_588778",
         "tags": [
-            "Drama"
+            "Drama",
+            "taking responsibility",
+            "hit by a car"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_439828",
         "tags": [
+            "short film",
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_157849",
         "tags": [
-            "Thriller"
+            "muslim",
+            "intelligence",
+            "espionage",
+            "Thriller",
+            "spy",
+            "torture",
+            "immigrant",
+            "based on novel or book"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_943930",
         "tags": [
-            "Thriller",
+            "Mystery",
+            "philosophical",
             "Horror",
-            "Mystery"
+            "Thriller",
+            "cautionary",
+            "suspenseful",
+            "mysterious",
+            "critical",
+            "ambiguous",
+            "complex"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_463982",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1288877",
@@ -370978,7 +371035,7 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_389615",
@@ -370986,35 +371043,37 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1262620",
         "tags": [
+            "vigilante",
+            "Horror",
             "Thriller",
-            "Horror"
+            "exploitation"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_199066",
         "tags": [
-            "Comedy",
-            "Love Triangle",
-            "Reverse Isekai",
-            "Episodic",
-            "Urban Fantasy",
-            "Slapstick",
             "Supernatural",
-            "Reincarnation",
+            "Reverse Isekai",
             "Age Gap",
+            "Love Triangle",
+            "Slapstick",
             "Parody",
-            "Heterosexual",
+            "Comedy",
+            "Urban Fantasy",
+            "Isekai",
             "Romance",
-            "Isekai"
+            "Episodic",
+            "Heterosexual",
+            "Reincarnation"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
