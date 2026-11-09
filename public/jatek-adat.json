@@ -81892,5 +81892,20 @@
         "score": 80.71829932463773,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_262516",
+        "title_en": "Wolfenstein 3D",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Shooter"
+        ],
+        "description": "Wolfenstein 3D is a first-person shooter presented with rudimentary 3D graphics and a follow-up to the top-down infiltration game Castle Wolfenstein. The game is broken up into levels, each of which is a flat plane divided into areas and rooms by a grid-based pattern of walls and doors, all of equal height. Each level is themed after Nazi bunkers and buildings. To finish a level, the player must traverse through the area to reach an elevator. Levels are grouped together into named episodes, with the final level focusing on a boss fight with a particularly difficult enemy. While traversing the levels, the player must fight Nazi guards and soldiers, dogs, and other enemies while managing supplies of ammunition and health.\n\nWhile later releases of the game included the Nocturnal Missions expansion, this initial release did not.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6yw5.jpg",
+        "date": "1992-05-05",
+        "score": 83.9977631489281,
+        "age_rating": "16+",
+        "cover_nsfw": false
     }
 ]
