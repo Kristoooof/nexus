@@ -372839,42 +372839,60 @@
             "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_718833",
         "tags": [
             "Horror",
-            "Drama"
+            "folk horror",
+            "Drama",
+            "independent film",
+            "fantasy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1631127",
         "tags": [
-            "Documentary"
+            "shell",
+            "ocean",
+            "nature documentary",
+            "marine life",
+            "wildlife",
+            "Documentary",
+            "natural history",
+            "nature"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_18627",
         "tags": [
-            "Fantasy",
+            "son",
             "Adventure",
-            "Science Fiction"
+            "island",
+            "Science Fiction",
+            "cave",
+            "Fantasy",
+            "monster",
+            "giant monster",
+            "weather manipulation",
+            "giant spider"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_461281",
         "tags": [
-            "Drama"
+            "Drama",
+            "the bowery"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_457156",
@@ -372882,7 +372900,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_901908",
@@ -372890,7 +372908,7 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1371789",
@@ -372898,26 +372916,35 @@
             "Romance"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11896",
         "tags": [
+            "mystery writer",
+            "Thriller",
+            "ex-wife",
+            "aspiring writer",
+            "crime fiction writer",
             "Comedy",
+            "writer's block",
+            "train",
             "Crime",
-            "Thriller"
+            "overbearing mother"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_409276",
         "tags": [
-            "Romance",
-            "Drama"
+            "secretary",
+            "Drama",
+            "softcore",
+            "Romance"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1222796",
@@ -372926,57 +372953,83 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_539370",
         "tags": [
-            "Romance",
-            "Drama"
+            "Drama",
+            "Romance"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_26515",
         "tags": [
+            "Horror",
+            "loss of loved one",
+            "cabin",
+            "pumpkin",
+            "halloween",
             "Fantasy",
-            "Horror"
+            "murder",
+            "witch",
+            "demon"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_18415",
         "tags": [
-            "Drama"
+            "suburbia",
+            "vulgarity",
+            "ohio",
+            "prostitution",
+            "Drama",
+            "tornado",
+            "dark comedy",
+            "male friendship"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_609062",
         "tags": [],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_19931",
         "tags": [
-            "Drama"
+            "mother daughter relationship",
+            "chinese american",
+            "based on novel or book",
+            "Drama",
+            "family",
+            "chinese"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10606",
         "tags": [
-            "Thriller",
+            "biography",
             "Adventure",
-            "Science Fiction"
+            "Science Fiction",
+            "experiment",
+            "Thriller",
+            "intelligence",
+            "based on novel or book",
+            "based on true story",
+            "aftermath",
+            "time travel"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_494964",
@@ -372984,54 +373037,80 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11317",
         "tags": [
             "Comedy",
-            "Family"
+            "loss of loved one",
+            "uncle",
+            "sequel",
+            "cousin",
+            "research",
+            "Family",
+            "spring",
+            "holiday"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_3573",
         "tags": [
+            "etiquette",
+            "best friend",
+            "based on novel or book",
+            "england",
+            "london, england",
+            "young woman",
+            "Drama",
             "Comedy",
-            "Romance",
-            "Drama"
+            "victorian england",
+            "Romance"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_552618",
         "tags": [
-            "Comedy",
-            "Romance"
+            "Romance",
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_19494",
         "tags": [
-            "Comedy"
+            "Comedy",
+            "tied up",
+            "kidnapping",
+            "bad boss",
+            "working women",
+            "company reorganization"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1340076",
         "tags": [
-            "Comedy",
             "Horror",
+            "home invasion",
+            "action comedy",
+            "actor",
+            "disturbed",
+            "murder investigation",
+            "Comedy",
             "Action",
-            "Romance"
+            "comedy thriller",
+            "Romance",
+            "unhappy marriage"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_796230",
@@ -373039,33 +373118,52 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_359246",
         "tags": [
+            "darkness",
             "Horror",
-            "Mystery"
+            "photography",
+            "Mystery",
+            "telephone",
+            "investigation",
+            "cellar",
+            "mannequin",
+            "chaos"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1810520",
         "tags": [
-            "Comedy"
+            "patient",
+            "mental hospital",
+            "nurse",
+            "Comedy",
+            "trainee",
+            "unaired tv series pilot"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_323677",
         "tags": [
+            "biography",
             "History",
-            "Drama"
+            "historical figure",
+            "berlin, germany",
+            "racism",
+            "olympic games",
+            "Drama",
+            "sports",
+            "track and field"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_952176",
@@ -373073,55 +373171,79 @@
             "Documentary"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1439",
         "tags": [
+            "death penalty",
             "History",
+            "civil war",
+            "palace",
+            "Drama",
+            "traitor",
+            "daughter",
+            "thailand",
             "Romance",
-            "Drama"
+            "parent child relationship"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_575776",
         "tags": [
-            "Thriller",
             "Horror",
-            "Mystery"
+            "Thriller",
+            "psychotic",
+            "loneliness",
+            "Mystery",
+            "chain smoking",
+            "nurse",
+            "terminal illness",
+            "self-destruction",
+            "obsession"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_994143",
         "tags": [
-            "Horror"
+            "entity",
+            "atmospheric",
+            "Horror",
+            "father and child",
+            "found footage",
+            "analog",
+            "nightmare",
+            "self mutilation"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_26984",
         "tags": [
-            "Family",
-            "TV Movie",
             "Adventure",
-            "Fantasy"
+            "Fantasy",
+            "christmas",
+            "Family",
+            "musical",
+            "TV Movie",
+            "holiday"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_559684",
         "tags": [
-            "Thriller",
-            "Drama"
+            "Drama",
+            "Thriller"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1039905",
@@ -373129,96 +373251,108 @@
             "Drama"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10210",
         "tags": [
+            "fairy",
+            "promise",
             "Fantasy",
-            "Romance",
-            "Comedy"
+            "puck",
+            "luck",
+            "lover",
+            "Comedy",
+            "Romance"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_87093",
         "tags": [
-            "Drama"
+            "biography",
+            "painting",
+            "artist",
+            "hawaii",
+            "Drama",
+            "based on true story",
+            "court case",
+            "husband wife relationship"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_204006",
         "tags": [
+            "Full Color",
+            "Long Strip",
             "Fantasy",
             "Male Protagonist",
-            "Full Color",
             "Action",
-            "Revenge",
-            "Long Strip"
+            "Revenge"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_190055",
         "tags": [
-            "Full Color",
             "Action",
-            "Drama",
-            "Long Strip"
+            "Full Color",
+            "Long Strip",
+            "Drama"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_194052",
         "tags": [
+            "Full Color",
+            "Long Strip",
             "Fantasy",
             "Drama",
-            "Male Protagonist",
-            "Full Color",
-            "Long Strip"
+            "Male Protagonist"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_207511",
         "tags": [
             "Full Color",
             "Heterosexual",
-            "Romance",
-            "Long Strip"
+            "Long Strip",
+            "Romance"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_198630",
         "tags": [
+            "Full Color",
+            "Long Strip",
             "Fantasy",
             "Magic",
-            "Male Protagonist",
-            "Full Color",
-            "Long Strip"
+            "Male Protagonist"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_198846",
         "tags": [
-            "Military",
+            "Full Color",
             "Politics",
-            "Reincarnation",
             "Drama",
             "Male Protagonist",
-            "Full Color"
+            "Reincarnation",
+            "Military"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
