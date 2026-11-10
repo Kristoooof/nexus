@@ -81907,5 +81907,20 @@
         "score": 83.9977631489281,
         "age_rating": "16+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_43673",
+        "title_en": "Quake III: Revolution",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Shooter"
+        ],
+        "description": "Quake III Revolution features several elements adopted from Team Arena, along with a more mission-based single-player mode. It features split-screen multiplayer for up to 4 players, but lacks online play.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9ra2.jpg",
+        "date": "2001-03-27",
+        "score": 81.4383283989698,
+        "age_rating": "16+",
+        "cover_nsfw": false
     }
 ]
