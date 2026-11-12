@@ -376330,23 +376330,31 @@
     {
         "id": "tmdb_13198",
         "tags": [
-            "Comedy",
+            "hitchhiker",
+            "suicide",
+            "camping",
+            "purgatory",
+            "Fantasy",
+            "black hole",
+            "afterlife",
             "Romance",
+            "road trip",
             "Drama",
-            "Fantasy"
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_521007",
         "tags": [
-            "Comedy",
             "Science Fiction",
-            "Romance"
+            "artificial intelligence (a.i.)",
+            "Romance",
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_763025",
@@ -376354,132 +376362,214 @@
             "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_28942",
         "tags": [
+            "toronto, canada",
+            "psychologist",
+            "mutant",
             "Horror",
+            "divorce",
+            "canuxploitation",
+            "transformation",
+            "psychotherapist",
             "Science Fiction"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_631060",
         "tags": [
-            "Horror"
+            "eating disorder",
+            "fraud",
+            "haunted house",
+            "bulimia",
+            "Horror",
+            "based on novel or book",
+            "ghost",
+            "troubled marriage"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11933",
         "tags": [
-            "Comedy",
-            "Adventure"
+            "Adventure",
+            "corpse",
+            "broker",
+            "sheriff",
+            "small town",
+            "yuppie",
+            "wealthy",
+            "drag queen",
+            "Comedy"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1356587",
         "tags": [
-            "Comedy",
+            "Drama",
             "History",
-            "Drama"
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1421903",
         "tags": [
-            "Horror"
+            "village",
+            "england",
+            "monster",
+            "Horror",
+            "peasant",
+            "mute",
+            "satanism",
+            "superstition"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1241052",
         "tags": [
-            "Comedy",
-            "Drama"
+            "identity",
+            "upper class",
+            "2000s",
+            "arkansas",
+            "female friendship",
+            "mother daughter relationship",
+            "coming of age",
+            "Drama",
+            "Comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_14674",
         "tags": [
-            "Western"
+            "old gang",
+            "Western",
+            "train robbery",
+            "grave digging",
+            "gang of outlaws",
+            "former outlaw",
+            "reformed criminal"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_44092",
         "tags": [
-            "Action",
-            "Adventure"
+            "Adventure",
+            "martial arts",
+            "sword fight",
+            "15th century",
+            "wuxia",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_42700",
         "tags": [
-            "Thriller",
-            "Mystery",
+            "world war ii",
+            "murder",
             "War",
-            "Crime"
+            "Thriller",
+            "sociopath",
+            "Crime",
+            "general",
+            "flashback",
+            "conspiracy",
+            "paris, france",
+            "Mystery"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11841",
         "tags": [
+            "teachers and students",
+            "Adventure",
+            "martial arts",
+            "shaolin kung fu",
+            "kammer",
+            "kung fu",
             "Action",
-            "Adventure"
+            "shaolin",
+            "government"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_964",
         "tags": [
+            "tragedy",
+            "phantom",
+            "diva",
             "Horror",
-            "Music"
+            "outcast",
+            "paris, france",
+            "Music",
+            "based on novel or book",
+            "opera"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_39874",
         "tags": [
+            "murder",
+            "gas mask",
+            "Thriller",
+            "slasher",
+            "killing spree",
+            "maniac",
             "Horror",
-            "Thriller"
+            "serial killer",
+            "miner"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_167313",
         "tags": [
             "Animation",
+            "halloween",
+            "3d animation",
             "Fantasy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_365465",
         "tags": [
+            "cute",
+            "creative",
+            "relaxing",
+            "dress-up",
+            "atmospheric",
+            "cozy",
+            "Simulator",
             "Indie",
-            "Simulator"
+            "casual"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     }
 ]
