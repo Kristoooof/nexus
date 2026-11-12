@@ -152761,6 +152761,235 @@
         "done": true
     },
     {
+        "id": "tmdb_13198",
+        "tags": [
+            "hitchhiker",
+            "suicide",
+            "camping",
+            "purgatory",
+            "Fantasy",
+            "black hole",
+            "afterlife",
+            "Romance",
+            "road trip",
+            "Drama",
+            "Comedy"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_521007",
+        "tags": [
+            "Science Fiction",
+            "artificial intelligence (a.i.)",
+            "Romance",
+            "Comedy"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_763025",
+        "tags": [
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_28942",
+        "tags": [
+            "toronto, canada",
+            "psychologist",
+            "mutant",
+            "Horror",
+            "divorce",
+            "canuxploitation",
+            "transformation",
+            "psychotherapist",
+            "Science Fiction"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_631060",
+        "tags": [
+            "eating disorder",
+            "fraud",
+            "haunted house",
+            "bulimia",
+            "Horror",
+            "based on novel or book",
+            "ghost",
+            "troubled marriage"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_11933",
+        "tags": [
+            "Adventure",
+            "corpse",
+            "broker",
+            "sheriff",
+            "small town",
+            "yuppie",
+            "wealthy",
+            "drag queen",
+            "Comedy"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_1356587",
+        "tags": [
+            "Drama",
+            "History",
+            "Comedy"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_1421903",
+        "tags": [
+            "village",
+            "england",
+            "monster",
+            "Horror",
+            "peasant",
+            "mute",
+            "satanism",
+            "superstition"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_1241052",
+        "tags": [
+            "identity",
+            "upper class",
+            "2000s",
+            "arkansas",
+            "female friendship",
+            "mother daughter relationship",
+            "coming of age",
+            "Drama",
+            "Comedy"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_14674",
+        "tags": [
+            "old gang",
+            "Western",
+            "train robbery",
+            "grave digging",
+            "gang of outlaws",
+            "former outlaw",
+            "reformed criminal"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_44092",
+        "tags": [
+            "Adventure",
+            "martial arts",
+            "sword fight",
+            "15th century",
+            "wuxia",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_42700",
+        "tags": [
+            "world war ii",
+            "murder",
+            "War",
+            "Thriller",
+            "sociopath",
+            "Crime",
+            "general",
+            "flashback",
+            "conspiracy",
+            "paris, france",
+            "Mystery"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_11841",
+        "tags": [
+            "teachers and students",
+            "Adventure",
+            "martial arts",
+            "shaolin kung fu",
+            "kammer",
+            "kung fu",
+            "Action",
+            "shaolin",
+            "government"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_964",
+        "tags": [
+            "tragedy",
+            "phantom",
+            "diva",
+            "Horror",
+            "outcast",
+            "paris, france",
+            "Music",
+            "based on novel or book",
+            "opera"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_39874",
+        "tags": [
+            "murder",
+            "gas mask",
+            "Thriller",
+            "slasher",
+            "killing spree",
+            "maniac",
+            "Horror",
+            "serial killer",
+            "miner"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_167313",
+        "tags": [
+            "Animation",
+            "halloween",
+            "3d animation",
+            "Fantasy"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
         "id": "igdb_863",
         "tags": [
             "Simulator",
@@ -217718,6 +217947,22 @@
             "Adventure"
         ],
         "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "igdb_365465",
+        "tags": [
+            "cute",
+            "creative",
+            "relaxing",
+            "dress-up",
+            "atmospheric",
+            "cozy",
+            "Simulator",
+            "Indie",
+            "casual"
+        ],
+        "pacing": "Közepes",
         "done": true
     },
     {
@@ -376328,248 +376573,246 @@
         "done": true
     },
     {
-        "id": "tmdb_13198",
+        "id": "tmdb_501907",
         "tags": [
-            "hitchhiker",
-            "suicide",
-            "camping",
-            "purgatory",
-            "Fantasy",
-            "black hole",
-            "afterlife",
-            "Romance",
-            "road trip",
             "Drama",
-            "Comedy"
+            "Family",
+            "History"
         ],
         "pacing": "Lassú",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_521007",
+        "id": "tmdb_615666",
+        "tags": [
+            "Fantasy",
+            "Family",
+            "Adventure"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_16281",
+        "tags": [
+            "Comedy",
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_11143",
+        "tags": [
+            "Action",
+            "Comedy",
+            "Thriller",
+            "Drama"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_618355",
+        "tags": [
+            "Action",
+            "Science Fiction",
+            "Animation"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_16306",
         "tags": [
             "Science Fiction",
-            "artificial intelligence (a.i.)",
-            "Romance",
-            "Comedy"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_763025",
-        "tags": [
-            "Action"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_28942",
-        "tags": [
-            "toronto, canada",
-            "psychologist",
-            "mutant",
-            "Horror",
-            "divorce",
-            "canuxploitation",
-            "transformation",
-            "psychotherapist",
-            "Science Fiction"
+            "Animation"
         ],
         "pacing": "Közepes",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_631060",
+        "id": "tmdb_658009",
         "tags": [
-            "eating disorder",
-            "fraud",
-            "haunted house",
-            "bulimia",
-            "Horror",
-            "based on novel or book",
-            "ghost",
-            "troubled marriage"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_11933",
-        "tags": [
-            "Adventure",
-            "corpse",
-            "broker",
-            "sheriff",
-            "small town",
-            "yuppie",
-            "wealthy",
-            "drag queen",
-            "Comedy"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_1356587",
-        "tags": [
-            "Drama",
-            "History",
-            "Comedy"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_1421903",
-        "tags": [
-            "village",
-            "england",
-            "monster",
-            "Horror",
-            "peasant",
-            "mute",
-            "satanism",
-            "superstition"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_1241052",
-        "tags": [
-            "identity",
-            "upper class",
-            "2000s",
-            "arkansas",
-            "female friendship",
-            "mother daughter relationship",
-            "coming of age",
-            "Drama",
-            "Comedy"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_14674",
-        "tags": [
-            "old gang",
-            "Western",
-            "train robbery",
-            "grave digging",
-            "gang of outlaws",
-            "former outlaw",
-            "reformed criminal"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_44092",
-        "tags": [
-            "Adventure",
-            "martial arts",
-            "sword fight",
-            "15th century",
-            "wuxia",
-            "Action"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_42700",
-        "tags": [
-            "world war ii",
-            "murder",
-            "War",
-            "Thriller",
-            "sociopath",
-            "Crime",
-            "general",
-            "flashback",
-            "conspiracy",
-            "paris, france",
-            "Mystery"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_11841",
-        "tags": [
-            "teachers and students",
-            "Adventure",
-            "martial arts",
-            "shaolin kung fu",
-            "kammer",
-            "kung fu",
             "Action",
-            "shaolin",
-            "government"
+            "Drama"
         ],
         "pacing": "Gyors",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_964",
+        "id": "tmdb_412013",
         "tags": [
-            "tragedy",
-            "phantom",
-            "diva",
-            "Horror",
-            "outcast",
-            "paris, france",
-            "Music",
-            "based on novel or book",
-            "opera"
+            "Comedy",
+            "Romance"
         ],
-        "pacing": "Közepes",
-        "done": true
+        "pacing": "Lassú",
+        "done": false
     },
     {
-        "id": "tmdb_39874",
+        "id": "tmdb_25866",
         "tags": [
-            "murder",
-            "gas mask",
-            "Thriller",
-            "slasher",
-            "killing spree",
-            "maniac",
-            "Horror",
-            "serial killer",
-            "miner"
+            "Crime",
+            "Comedy"
         ],
         "pacing": "Közepes",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_167313",
+        "id": "tmdb_11310",
         "tags": [
-            "Animation",
-            "halloween",
-            "3d animation",
-            "Fantasy"
+            "Comedy",
+            "Western"
         ],
         "pacing": "Közepes",
-        "done": true
+        "done": false
     },
     {
-        "id": "igdb_365465",
+        "id": "tmdb_9611",
         "tags": [
-            "cute",
-            "creative",
-            "relaxing",
-            "dress-up",
-            "atmospheric",
-            "cozy",
-            "Simulator",
-            "Indie",
-            "casual"
+            "Comedy"
         ],
         "pacing": "Közepes",
-        "done": true
+        "done": false
+    },
+    {
+        "id": "tmdb_4837",
+        "tags": [
+            "Drama",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_19382",
+        "tags": [
+            "Comedy",
+            "War",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "igdb_217909",
+        "tags": [
+            "Turn-based strategy (TBS)",
+            "Strategy",
+            "Role-playing (RPG)"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "igdb_414365",
+        "tags": [
+            "Visual Novel",
+            "Role-playing (RPG)"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "igdb_381237",
+        "tags": [
+            "Platform",
+            "Adventure",
+            "Puzzle"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_141950",
+        "tags": [
+            "Photography",
+            "Bullying",
+            "Denpa",
+            "Action",
+            "Psychological",
+            "Mystery",
+            "Male Protagonist",
+            "Martial Arts",
+            "Super Power",
+            "Memory Manipulation",
+            "Urban",
+            "Cyberpunk",
+            "Coming of Age"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_218099",
+        "tags": [
+            "Primarily Male Cast",
+            "Action",
+            "Survival",
+            "Educational",
+            "Rural",
+            "Sci-Fi",
+            "Male Protagonist",
+            "Drama",
+            "Adventure"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_182445",
+        "tags": [
+            "Amnesia",
+            "Assassins",
+            "Action",
+            "Mystery",
+            "Martial Arts",
+            "Male Protagonist",
+            "Supernatural",
+            "Super Power",
+            "Comedy",
+            "Swordplay",
+            "Drama"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_472",
+        "tags": [
+            "Romance",
+            "Slice of Life",
+            "Robots",
+            "School",
+            "Male Protagonist",
+            "Love Triangle",
+            "Primarily Female Cast",
+            "Iyashikei",
+            "Super Power",
+            "Drama",
+            "Female Harem",
+            "Heterosexual",
+            "Athletics"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_170566",
+        "tags": [
+            "Romance",
+            "Revenge",
+            "Magic",
+            "Female Protagonist",
+            "Full Color",
+            "Age Regression",
+            "Fantasy",
+            "Reincarnation",
+            "Maids",
+            "Slavery",
+            "Long Strip"
+        ],
+        "pacing": "Lassú",
+        "done": false
     }
 ]
