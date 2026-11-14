@@ -378261,88 +378261,134 @@
     {
         "id": "tmdb_1553200",
         "tags": [
+            "anime",
+            "series finale",
             "Animation",
+            "Romance",
             "Drama",
             "Mystery",
-            "Romance"
+            "supernatural",
+            "romance",
+            "sequel",
+            "based on light novel",
+            "japanese animation"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_42501",
         "tags": [
+            "incest",
+            "jazz",
+            "shoplifting",
+            "sanatorium",
             "Drama",
-            "Comedy"
+            "boy scout",
+            "resort sex",
+            "Comedy",
+            "1950s"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_9664",
         "tags": [
-            "Drama",
+            "world war i",
             "History",
-            "War"
+            "War",
+            "Drama",
+            "based on true story",
+            "fighter pilot",
+            "biplane"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_26039",
         "tags": [
+            "overdose",
+            "neo-noir",
+            "revenge",
             "Drama",
+            "Thriller",
+            "alcatraz prison",
+            "organized crime",
             "Crime",
-            "Thriller"
+            "los angeles, california",
+            "based on novel or book"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_10692",
         "tags": [
+            "psychopath",
+            "biography",
+            "rape",
+            "sadistic",
             "Drama",
-            "Crime",
             "Thriller",
-            "Horror"
+            "Horror",
+            "based on true story",
+            "Crime",
+            "chicago, illinois",
+            "prostitute"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1089598",
         "tags": [
-            "Action",
-            "History"
+            "History",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1597647",
         "tags": [
-            "Documentary"
+            "lawyer",
+            "anti-colonialism",
+            "pacifism",
+            "Documentary",
+            "kanak",
+            "humanism",
+            "fln (algerian national liberation front)",
+            "algerian resistance"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1483546",
         "tags": [
+            "absurd",
+            "Adventure",
+            "embarrassed",
             "Animation",
-            "Adventure"
+            "adoring"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "igdb_375315",
         "tags": [
-            "Simulator",
+            "Puzzle",
+            "deep web",
             "Indie",
-            "Puzzle"
+            "Simulator",
+            "nextfest february 2026",
+            "hacking",
+            "simulated operating system"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     }
 ]
