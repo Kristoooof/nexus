@@ -154152,6 +154152,125 @@
         "done": true
     },
     {
+        "id": "tmdb_1553200",
+        "tags": [
+            "anime",
+            "series finale",
+            "Animation",
+            "Romance",
+            "Drama",
+            "Mystery",
+            "supernatural",
+            "romance",
+            "sequel",
+            "based on light novel",
+            "japanese animation"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_42501",
+        "tags": [
+            "incest",
+            "jazz",
+            "shoplifting",
+            "sanatorium",
+            "Drama",
+            "boy scout",
+            "resort sex",
+            "Comedy",
+            "1950s"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_9664",
+        "tags": [
+            "world war i",
+            "History",
+            "War",
+            "Drama",
+            "based on true story",
+            "fighter pilot",
+            "biplane"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_26039",
+        "tags": [
+            "overdose",
+            "neo-noir",
+            "revenge",
+            "Drama",
+            "Thriller",
+            "alcatraz prison",
+            "organized crime",
+            "Crime",
+            "los angeles, california",
+            "based on novel or book"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_10692",
+        "tags": [
+            "psychopath",
+            "biography",
+            "rape",
+            "sadistic",
+            "Drama",
+            "Thriller",
+            "Horror",
+            "based on true story",
+            "Crime",
+            "chicago, illinois",
+            "prostitute"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_1089598",
+        "tags": [
+            "History",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_1597647",
+        "tags": [
+            "lawyer",
+            "anti-colonialism",
+            "pacifism",
+            "Documentary",
+            "kanak",
+            "humanism",
+            "fln (algerian national liberation front)",
+            "algerian resistance"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_1483546",
+        "tags": [
+            "absurd",
+            "Adventure",
+            "embarrassed",
+            "Animation",
+            "adoring"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
         "id": "igdb_863",
         "tags": [
             "Simulator",
@@ -219176,6 +219295,20 @@
             "Platform",
             "comic book character",
             "superpowers"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "igdb_375315",
+        "tags": [
+            "Puzzle",
+            "deep web",
+            "Indie",
+            "Simulator",
+            "nextfest february 2026",
+            "hacking",
+            "simulated operating system"
         ],
         "pacing": "Közepes",
         "done": true
@@ -378259,136 +378392,370 @@
         "done": true
     },
     {
-        "id": "tmdb_1553200",
+        "id": "tmdb_982843",
         "tags": [
-            "anime",
-            "series finale",
-            "Animation",
-            "Romance",
             "Drama",
+            "Adventure",
+            "Science Fiction"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_10495",
+        "tags": [
+            "Adventure",
+            "Family",
+            "Action",
+            "Drama"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_569547",
+        "tags": [
             "Mystery",
-            "supernatural",
-            "romance",
-            "sequel",
-            "based on light novel",
-            "japanese animation"
+            "Thriller",
+            "Science Fiction"
         ],
-        "pacing": "Lassú",
-        "done": true
+        "pacing": "Közepes",
+        "done": false
     },
     {
-        "id": "tmdb_42501",
+        "id": "tmdb_1480158",
         "tags": [
-            "incest",
-            "jazz",
-            "shoplifting",
-            "sanatorium",
-            "Drama",
-            "boy scout",
-            "resort sex",
+            "Documentary"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_31646",
+        "tags": [
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_637536",
+        "tags": [
+            "Romance",
+            "Thriller",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_11235",
+        "tags": [
             "Comedy",
-            "1950s"
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_9664",
+        "id": "tmdb_21348",
         "tags": [
-            "world war i",
+            "Family",
+            "Animation",
+            "Adventure",
+            "Fantasy"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_13850",
+        "tags": [
+            "Family",
+            "Animation"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_1320386",
+        "tags": [
+            "Documentary",
+            "History"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_10971",
+        "tags": [
+            "Action",
             "History",
+            "Drama"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_70435",
+        "tags": [
+            "Action",
+            "Thriller"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_779029",
+        "tags": [
             "War",
-            "Drama",
-            "based on true story",
-            "fighter pilot",
-            "biplane"
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_26039",
+        "id": "tmdb_1287520",
         "tags": [
-            "overdose",
-            "neo-noir",
-            "revenge",
-            "Drama",
             "Thriller",
-            "alcatraz prison",
-            "organized crime",
             "Crime",
-            "los angeles, california",
-            "based on novel or book"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_10692",
-        "tags": [
-            "psychopath",
-            "biography",
-            "rape",
-            "sadistic",
-            "Drama",
-            "Thriller",
-            "Horror",
-            "based on true story",
-            "Crime",
-            "chicago, illinois",
-            "prostitute"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_1089598",
-        "tags": [
             "History",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_565310",
+        "tags": [
+            "Comedy",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_15849",
+        "tags": [
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_29812",
+        "tags": [
+            "Crime",
+            "TV Movie",
+            "Thriller",
+            "Mystery",
             "Action"
         ],
         "pacing": "Gyors",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_1597647",
+        "id": "tmdb_124157",
         "tags": [
-            "lawyer",
-            "anti-colonialism",
-            "pacifism",
-            "Documentary",
-            "kanak",
-            "humanism",
-            "fln (algerian national liberation front)",
-            "algerian resistance"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_1483546",
-        "tags": [
-            "absurd",
-            "Adventure",
-            "embarrassed",
-            "Animation",
-            "adoring"
+            "Crime",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": true
+        "done": false
     },
     {
-        "id": "igdb_375315",
+        "id": "tmdb_664",
         "tags": [
-            "Puzzle",
-            "deep web",
-            "Indie",
-            "Simulator",
-            "nextfest february 2026",
-            "hacking",
-            "simulated operating system"
+            "Adventure",
+            "Action",
+            "Drama"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_1226578",
+        "tags": [
+            "Crime",
+            "Horror",
+            "Mystery"
         ],
         "pacing": "Közepes",
-        "done": true
+        "done": false
+    },
+    {
+        "id": "igdb_309816",
+        "tags": [
+            "Strategy",
+            "Card & Board Game",
+            "Turn-based strategy (TBS)",
+            "Role-playing (RPG)"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "anilist_169402",
+        "tags": [
+            "Primarily Teen Cast",
+            "Artificial Intelligence",
+            "Male Protagonist",
+            "Ensemble Cast",
+            "Cute Boys Doing Cute Things",
+            "Superhero",
+            "Action",
+            "Super Power",
+            "Card Battle",
+            "Comedy",
+            "Slice of Life",
+            "Shounen"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_170650",
+        "tags": [
+            "Fishing",
+            "Female Protagonist",
+            "Foreign",
+            "Shoujo",
+            "Male Protagonist",
+            "Royal Affairs",
+            "Torture",
+            "Fantasy",
+            "Heterosexual",
+            "Arranged Marriage",
+            "Ojou-sama",
+            "Comedy",
+            "Romance"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_7367",
+        "tags": [
+            "Ninja",
+            "Primarily Child Cast",
+            "Adventure",
+            "Full CGI",
+            "Action",
+            "Super Power",
+            "Orphan",
+            "Comedy",
+            "Shounen"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_5252",
+        "tags": [
+            "Swordplay",
+            "Male Protagonist",
+            "Action",
+            "Fantasy",
+            "Super Power",
+            "Pirates",
+            "Kuudere",
+            "Comedy",
+            "Shounen"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_97619",
+        "tags": [
+            "Crime",
+            "Seinen",
+            "Swordplay",
+            "Adventure",
+            "Male Protagonist",
+            "Drama",
+            "Samurai",
+            "Action",
+            "Cultivation",
+            "Assassins",
+            "Mafia",
+            "Gore",
+            "Comedy",
+            "Primarily Adult Cast"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_103237",
+        "tags": [
+            "Primarily Female Cast",
+            "Female Protagonist",
+            "Primarily Teen Cast",
+            "CGI",
+            "School",
+            "Sports",
+            "Cute Girls Doing Cute Things",
+            "Boarding School",
+            "Idol",
+            "Athletics",
+            "Kemonomimi",
+            "Slice of Life"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_9917",
+        "tags": [
+            "Dragons",
+            "Kids",
+            "Battle Royale",
+            "Proxy Battle",
+            "Adventure",
+            "Action",
+            "Fantasy",
+            "Animals",
+            "Comedy"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_99528",
+        "tags": [
+            "Vampire",
+            "Tragedy",
+            "Adventure",
+            "Male Protagonist",
+            "Supernatural",
+            "War",
+            "Action",
+            "Super Power",
+            "Gore",
+            "Werewolf",
+            "Revenge"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_2175",
+        "tags": [
+            "Agriculture",
+            "Female Protagonist",
+            "Foreign",
+            "Tragedy",
+            "Iyashikei",
+            "Adventure",
+            "Agender",
+            "Drama",
+            "Motorcycles",
+            "Philosophy",
+            "Fantasy",
+            "Kuudere"
+        ],
+        "pacing": "Gyors",
+        "done": false
     }
 ]

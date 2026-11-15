@@ -183933,5 +183933,337 @@
         "score": 7.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_982843",
+        "title_hu": "A nagy árvíz",
+        "title_en": "Planes: Fire & Rescue",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Adventure",
+            "Drama"
+        ],
+        "description": "A Föld talán utolsó napján egy elárasztott lakásban zajló élet-halál harc hamar az emberiség túlélésének egyetlen reménysugarává válik.",
+        "image": "https://image.tmdb.org/t/p/w500/gSKv9arzWzhCPYk2bUpX40fssAi.jpg",
+        "date": "2025-09-18",
+        "score": 6.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10495",
+        "title_hu": "Karate kölyök 3.",
+        "title_en": "Bāhubali: The Beginning",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Family",
+            "Drama",
+            "Adventure"
+        ],
+        "description": "Kreese gondosan felépített élete romokba dől, amikor karateiskolája megsemmisítő vereséget szenved Danieltől és Mr. Miyagitől. Felkeresi régi, még Vietnamban megismert barátját, Terryt, akiből időközben kíméletlen üzletember lett. Kreese megígéri Danielnek, hogy segít bosszút állni ellenfelein.",
+        "image": "https://image.tmdb.org/t/p/w500/v5B7oHbHlxNkSGzwE1OnGIaV0Zs.jpg",
+        "date": "1989-06-16",
+        "score": 5.919,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_569547",
+        "title_hu": "Fekete tükör - Interaktív",
+        "title_en": "Black Mirror: Bandersnatch",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Science Fiction",
+            "Mystery"
+        ],
+        "description": "1984-ben járunk, amikor is egy fiatal programozó elkezdi megkérdőjelezni a valóságot, mialatt egy fantasy-regény videójáték adaptációját készíti.",
+        "image": "https://image.tmdb.org/t/p/w500/fR0VZ0VE598zl1lrYf7IfBqEwQ2.jpg",
+        "date": "2018-12-28",
+        "score": 6.758,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1480158",
+        "title_hu": "Terrell & T.O.",
+        "title_en": "Terrell & T.O.",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "This feature-length documentary traces the meteoric rise of one of the most talented, accomplished, and polarizing athletes of America's most popular sport and examines his role as the preeminent \"prima donna\" wide receiver of his era, while catching up with Owens in present-day to see how he is evolving and discovering a new personal path forward.",
+        "image": "https://image.tmdb.org/t/p/w500/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg",
+        "date": "2026-11-05",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_31646",
+        "title_hu": "Piranha 2. - Repülő gyilkosok",
+        "title_en": "Piranha II: The Spawning",
+        "type": "film",
+        "genres": [
+            "Horror"
+        ],
+        "description": "A Karib-tenger partvidékén egy elsüllyedt hajó után könnyűbúvárok kutatnak. Váratlanul piranha-raj támadja meg őket, és elszabadul a pokol, mert a piranhák kíméletlenül gyilkolnak... A húsevő halak az Amazonasból származnak, és repülni is tudnak. A levegőben legalább olyan veszélyesek, mint a vízben...",
+        "image": "https://image.tmdb.org/t/p/w500/dZ4saucOL2nOGVvDwdS12F5t31B.jpg",
+        "date": "1982-07-13",
+        "score": 4.27,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_637536",
+        "title_hu": "Chị Chị Em Em",
+        "title_en": "Sister Sister",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Romance"
+        ],
+        "description": "This is a psychological film exploring the love story revolving around two beautiful women - Thien Kim and Bao Nhi. Face to face in a game where only one person wins, when the happiness of a small home is about to be swept away by a storm, who will fiercely fight for what they want and who will resign to keep peaceful?",
+        "image": "https://image.tmdb.org/t/p/w500/2bAjCwJ1sZMtpr1GywZSboKqXW1.jpg",
+        "date": "2019-12-18",
+        "score": 5.5,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11235",
+        "title_hu": "Porunk hőse",
+        "title_en": "Local Hero",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Mac, egy hatalmas olajtársaság főnöke, ellátogat egy kis skót halászfaluba. A férfinak meg kell győznie a lakosokat, hogy hagyják el otthonukat, mivel a vállalat olajfinomítót akar építeni a település helyére. Az emberek többsége elfogadja a hatalmas kártérítést és készen áll a költözésre. Az öreg Ben azonban nem hajlandó eladni a házát. Mac kénytelen hosszabb ideig maradni az Isten háta mögötti helyen és végül elvarázsolja a gyönyörű táj és az emberek kedvessége. Egyre több kételye támad küldetésével kapcsolatban.",
+        "image": "https://image.tmdb.org/t/p/w500/lED8w3CML6uMc2XMur2g3HhYRm2.jpg",
+        "date": "1983-02-17",
+        "score": 6.795,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_21348",
+        "title_hu": "Kirikou és a boszorkány",
+        "title_en": "Kirikou and the Sorceress",
+        "type": "film",
+        "genres": [
+            "Fantasy",
+            "Adventure",
+            "Animation",
+            "Family"
+        ],
+        "description": "Kirikouról, a néger kisfiúról már születése pillanatában kiderül, hogy nem mindennapi teremtés. Azonnal tud beszélni, járni és rögtön felfogja, hogy szülőfaluja elkeserítő helyzetbe jutott. A nyomorúság okozója Karaba, a boszorkány, aki elapasztotta az éltető forrásokat, eltünteti a férfiakat, és minden módon sanyargatja az embereket. A kis Kirikou vállalkozik rá, hogy megmenti szülőfaluját a pusztulástól. De mielőtt harcba indul, szeretné megfejteni, hogy mitől ilyen gonosz a boszorkány? A választ bölcs öregapjától tudja meg és ez el is dönti a harcmodort...",
+        "image": "https://image.tmdb.org/t/p/w500/3fawMZ623Gxju8iJf5vsMJWazut.jpg",
+        "date": "1998-12-09",
+        "score": 7.358,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_13850",
+        "title_hu": "A Dél dala – Rémusz bácsi meséi",
+        "title_en": "Song of the South",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Animation"
+        ],
+        "description": "Rémusz bácsi , a jószívű mesemondó mesél egy fiatal fiúnak ,a szélhámos Nyúlról, a ravasz Rókáról és a lassú észjárású Medvéről.",
+        "image": "https://image.tmdb.org/t/p/w500/lFlWpfcw8TCmZ88jw6e943vEbtu.jpg",
+        "date": "1946-11-20",
+        "score": 6.453,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1320386",
+        "title_hu": "Israel Palestina på svensk TV 1958–1989",
+        "title_en": "Israel Palestine on Swedish TV 1958-1989",
+        "type": "film",
+        "genres": [
+            "Documentary",
+            "History"
+        ],
+        "description": "Archival film maestro Göran Hugo Olsson has assembled—from a vast catalogue of footage in the vaults of Sweden’s national television service SVT—accounts of the Israeli-Palestinian conflict as witnessed and represented by Swedish journalists. Stories of the beginning of the Israeli state interwoven with the Palestinian struggle for independence. News coverage with Yasser Arafat and interviews with Israeli foreign minister Abba Eban during a visit to Sweden unseen since first broadcast. From the tenth anniversary of Israel’s founding to the First Intifada, perspectives and encounters with statesmen, civilians, revolutionaries, and intellectuals tell the story from myriad angles of an evolving media landscape, revivifying a history of the ongoing conflict.",
+        "image": "https://image.tmdb.org/t/p/w500/hsYn1sE53GEzVuAX2wR8G6tNq5Z.jpg",
+        "date": "2024-10-04",
+        "score": 9.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10971",
+        "title_hu": "A Titanic éjszakája",
+        "title_en": "A Night to Remember",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Action",
+            "History"
+        ],
+        "description": "Századunk egyik legmegrázóbb katasztrófája sokszor megihlette már a filmeseket. A Titanic éjszakája volt a téma első nagyszabású feldolgozása és egyben - mindmáig - a legtényszerűbb. Walter Lord kiindulópontul szolgáló dokumentumregényét már nemzedékek olvasták ronggyá. Most, az új, romantikus filmváltozat világsikere után érdemes felidézni: mi is történt valójában...",
+        "image": "https://image.tmdb.org/t/p/w500/9KANHBsGdS7hNjcL0MpBbKu1poQ.jpg",
+        "date": "1958-07-03",
+        "score": 7.659,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_70435",
+        "title_hu": "A bűn hálójában",
+        "title_en": "Haywire",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller"
+        ],
+        "description": "Mallory Kane magasan képzett ügynök, aki az amerikai kormány részére megbízásokat teljesítő biztonsági vállalatnak dolgozik, és a világ legveszélyesebb sarkaiban hajt végre feladatokat. Egy sikeres akció után azonban gyilkossággal vádolják, és hamarosan profi bérgyilkosok hada kezdi üldözni, akik minden trükkjét ismerik. Mallory rádöbben: valaki elárulta. Több országhatáron átkelve menekül hatóságok és magáncégek specialistái elől, miközben a lehetőségei egyre szűkülnek. Sarokba szorítva Mallory briliáns -és veszélyes- csapdát állít, hogy végre tisztázza magát, és kiderítse, ki az igazi áruló.",
+        "image": "https://image.tmdb.org/t/p/w500/2VQYNFVp8k6OMfbow7zluGdbpPo.jpg",
+        "date": "2011-11-01",
+        "score": 5.703,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_779029",
+        "title_hu": "Csata a Csangdzsin-tónál",
+        "title_en": "The Battle at Lake Changjin",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "description": "A koreai háború második szakaszában járunk, amikor a harcok egyre jobban eldurvultak.",
+        "image": "https://image.tmdb.org/t/p/w500/wf0qaU8kuK4e0hXBg0ukD2AxnN8.jpg",
+        "date": "2021-09-30",
+        "score": 6.396,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1287520",
+        "title_hu": "November 1963",
+        "title_en": "Deathstalker",
+        "type": "film",
+        "genres": [
+            "History",
+            "Crime",
+            "Thriller",
+            "Drama"
+        ],
+        "description": "A powerful swordsman known as Deathstalker recovers a cursed amulet from a corpse-strewn battlefield. Marked by dark magic and hunted by monstrous assassins, he must face the rising evil and break the curse.",
+        "image": "https://image.tmdb.org/t/p/w500/ujp2aHu1lWMjAGoletnsmv3mcMn.jpg",
+        "date": "2026-11-20",
+        "score": 0.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_565310",
+        "title_hu": "A búcsú",
+        "title_en": "Cat on a Hot Tin Roof",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Egy kínai család tagjai rájönnek, hogy a nagymamának már csak hónapjai maradtak hátra. Úgy döntenek, nem árulják el neki a rossz hírt, és egy esküvő szervezésébe kezdenek, hogy elvonják az idős hölgy figyelmét a közelgő végzetes időpontról.",
+        "image": "https://image.tmdb.org/t/p/w500/7ht2IMGynDSVQGvAXhAb83DLET8.jpg",
+        "date": "2019-07-12",
+        "score": 7.416,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_15849",
+        "title_hu": "A múmia",
+        "title_en": "The Substitute 2: School's Out",
+        "type": "film",
+        "genres": [
+            "Horror"
+        ],
+        "description": "Boris Karloff legendás alakítása mérföldkővé vált a mozi krónikájában.  Egy múmiát 3700 év után véletlenül életre kelt egy brit régészcsoport. Egy visszatekintésből kiderül, hogy a múmia Im-Ho-Tep főpap volt, akit élve bebalzsamoztak, hogy megpróbálják feltámasztani a Vesta-szűzet, akit szeretett, és akit feláldoztak. Az életre kelt múmia elindul, hogy megtalálja elveszett szerelmét. Ma, több, mint 50 évvel A múmia első bemutatása után ez a borongós, álomszerű film időtlen remeke marad nem csak a műfajnak, hanem az egyetemes filmtörténetnek is.",
+        "image": "https://image.tmdb.org/t/p/w500/2xBZlGMOfDBfLr1AGUpl8nvL7IL.jpg",
+        "date": "1932-12-22",
+        "score": 6.745,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_29812",
+        "title_hu": "A félelmek iskolája 2: Beépülve",
+        "title_en": "Man of the House",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Mystery",
+            "Thriller",
+            "Crime",
+            "TV Movie"
+        ],
+        "description": "Egy utcai lövöldözés során megölik Randall Thomassont, a hátrányos és nehezen kezelhető diákok kiváló tanárát. Bátyja, a kommandós Karl átveszi testvére helyét az iskolában, hogy kiderítse, kik ölték meg Randallt. Nyomozása hatalmas vihart kavar, a diákok többször is merényletet próbálnak elkövetni ellene. Karl, két társa segítségével hamarosan rájön, hogy bár a Testvérek a tettesek, a háttérben egy szervezett csoport áll, akik lopott autók átalakításával és eladásával üzletelnek, és testvérének azért kellett meghalnia, mert tudomást szerzett az iskola illegális tevékenységéről.",
+        "image": "https://image.tmdb.org/t/p/w500/y5Y2Ee3zRROBcaaTif4cybsy1wu.jpg",
+        "date": "1998-08-01",
+        "score": 6.522,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_124157",
+        "title_hu": "Tolvajok",
+        "title_en": "A Grand Day Out",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Crime"
+        ],
+        "description": "Macao Park profi tolvaj, akinek épp egy nagyon drága gyémántra fáj a foga. Egy hongkongi maffiózó kaszinójában őrzik Makaón, és úgy tervezi, a rablás után egyszerűen visszavásároltatja az ékszert a tulajdonosával. Az akcióhoz meglehetősen zilált csapatot sikerül összegyűjtenie. Egykori társát, akivel négy évvel korábban haraggal váltak el; egy gyönyörű lányt, aki az átverés és a kötélmászás mestere; egy bájgúnárt, aki a huzalok kezelésében kiváló; egy idősödő csalót; valamint az ékszertolvajlásra specializálódott Chent két emberével. Csatlakozik még hozzájuk a szép Julie, aki a széfekhez ért, valamint nem várt módon Park volt barátnője is, aki épp a börtönből szabadul. Hogy Park dolga még nehezebb legyen, a csapat pár tagjára már egyébként is vadászik a rendőrség. Ezek után nem csoda, ha akció közben semmi sem úgy sül el, ahogyan azt eltervezték.",
+        "image": "https://image.tmdb.org/t/p/w500/tB26UY6RBbv7zs5MVzbcL2gpbJO.jpg",
+        "date": "2012-07-25",
+        "score": 6.747,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_664",
+        "title_hu": "Twister",
+        "title_en": "Twister",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "description": "Oklahomában az utóbbi ötven év legnagyobb vihara készülődik. Erre a viharra várt a két rivális tudóscsoport, akik most akarják beírni nevüket a tudósok nagykönyvébe. Mindkét \"viharvadász\" csapat elsőként akarja saját berendezését bejuttatni a tornádó belsejébe, hogy értékes adatokat nyerjenek a forgószél viselkedéséről. Amelyiknek sikerül, megfejtheti a tornádó rejtélyét, és számtalan életet menthet meg. De ehhez egyenesen a szörnyeteg útjába kell állniuk, és mindig az örvénylő légoszlop előtt kell járniuk, megbecsülve kiszámíthatatlan mozgását.",
+        "image": "https://image.tmdb.org/t/p/w500/d4ie3f6QTvNw40V770Uzo87SDZn.jpg",
+        "date": "1996-05-10",
+        "score": 6.581,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1226578",
+        "title_hu": "Longlegs - A rém",
+        "title_en": "Longlegs",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Horror",
+            "Mystery"
+        ],
+        "description": "Lee Harkert, az ifjú és tehetséges FBI-ügynököt egy sorozatgyilkos  megoldatlan ügyével bízzák meg. Ahogy a nyomozás egyre bonyolultabbá válik - az okkult bizonyítékok sorával - Harker rájön, hogy személyes kapcsolata lehet a gyilkossal és gyorsan kell cselekednie, hogy megakadályozzon egy újabb vérontást.",
+        "image": "https://image.tmdb.org/t/p/w500/gSy0vCKwp2Zar075K6idlpYo45N.jpg",
+        "date": "2024-07-10",
+        "score": 6.522,
+        "age_rating": "16+",
+        "cover_nsfw": false
     }
 ]
