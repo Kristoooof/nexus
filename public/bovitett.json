@@ -155666,6 +155666,180 @@
         "done": true
     },
     {
+        "id": "tmdb_1709391",
+        "tags": [
+            "Family",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_1064486",
+        "tags": [
+            "Animation",
+            "foster family",
+            "adult animation",
+            "stop motion",
+            "Drama",
+            "difficult childhood",
+            "Comedy",
+            "depression",
+            "death in childbirth",
+            "death of father"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_254320",
+        "tags": [
+            "Romance",
+            "romance",
+            "punishment",
+            "woods",
+            "suicide attempt",
+            "boat",
+            "dystopia",
+            "Drama",
+            "Comedy",
+            "hotel"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_20721",
+        "tags": [
+            "Action",
+            "undercover",
+            "revenge",
+            "Thriller",
+            "fight",
+            "police",
+            "martial arts",
+            "Crime",
+            "gangster",
+            "hitman"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_29266",
+        "tags": [
+            "Romance",
+            "19th century",
+            "War",
+            "napoleon bonaparte",
+            "romantic drama",
+            "historical epic",
+            "napoleonic wars",
+            "Drama",
+            "History",
+            "war of 1812",
+            "historical drama"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_617986",
+        "tags": [
+            "Crime",
+            "Thriller",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_350650",
+        "tags": [
+            "Animation",
+            "robot",
+            "monkey",
+            "hoverboard",
+            "time travel",
+            "Family",
+            "cat",
+            "Comedy",
+            "Science Fiction",
+            "Adventure",
+            "Fantasy",
+            "anime",
+            "time bomb"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_539649",
+        "tags": [
+            "parenthood",
+            "remake",
+            "Mystery",
+            "Thriller",
+            "woman director",
+            "shocking",
+            "Horror",
+            "falling in lake",
+            "gloomy",
+            "mysterious"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_586047",
+        "tags": [
+            "guilt",
+            "Action",
+            "superhuman strength",
+            "Mystery",
+            "Thriller",
+            "greed",
+            "secret organization",
+            "bromance",
+            "brain tumor",
+            "Science Fiction",
+            "death"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_4193",
+        "tags": [
+            "island",
+            "Mystery",
+            "Thriller",
+            "Crime",
+            "based on novel or book",
+            "Drama",
+            "greece",
+            "murder mystery",
+            "murder",
+            "detective",
+            "holiday resort"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_170522",
+        "tags": [
+            "Animation",
+            "roman empire",
+            "Family",
+            "Comedy",
+            "3d animation",
+            "Adventure"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
         "id": "igdb_863",
         "tags": [
             "Simulator",
@@ -220760,6 +220934,56 @@
         "tags": [
             "j2me",
             "Racing"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "igdb_400786",
+        "tags": [
+            "train simulator",
+            "Simulator",
+            "Indie"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "igdb_266382",
+        "tags": [
+            "football",
+            "soccer manager",
+            "Sport",
+            "Simulator",
+            "Strategy",
+            "soccer",
+            "football manager"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "igdb_418468",
+        "tags": [
+            "turn-based rpg",
+            "turn-based combat",
+            "parody",
+            "Visual Novel",
+            "based on - manga",
+            "unlockable event",
+            "Role-playing (RPG)",
+            "Adventure",
+            "gacha",
+            "crossover",
+            "Turn-based strategy (TBS)"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "igdb_328110",
+        "tags": [
+            "Role-playing (RPG)"
         ],
         "pacing": "Közepes",
         "done": true
@@ -380422,227 +380646,173 @@
         "done": true
     },
     {
-        "id": "tmdb_1709391",
+        "id": "tmdb_1481529",
         "tags": [
-            "Family",
-            "Drama"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_1064486",
-        "tags": [
-            "Animation",
-            "foster family",
-            "adult animation",
-            "stop motion",
-            "Drama",
-            "difficult childhood",
-            "Comedy",
-            "depression",
-            "death in childbirth",
-            "death of father"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_254320",
-        "tags": [
-            "Romance",
-            "romance",
-            "punishment",
-            "woods",
-            "suicide attempt",
-            "boat",
-            "dystopia",
-            "Drama",
-            "Comedy",
-            "hotel"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_20721",
-        "tags": [
-            "Action",
-            "undercover",
-            "revenge",
             "Thriller",
-            "fight",
-            "police",
-            "martial arts",
-            "Crime",
-            "gangster",
-            "hitman"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_29266",
-        "tags": [
-            "Romance",
-            "19th century",
-            "War",
-            "napoleon bonaparte",
-            "romantic drama",
-            "historical epic",
-            "napoleonic wars",
-            "Drama",
-            "History",
-            "war of 1812",
-            "historical drama"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_617986",
-        "tags": [
-            "Crime",
-            "Thriller",
-            "Drama"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_350650",
-        "tags": [
-            "Animation",
-            "robot",
-            "monkey",
-            "hoverboard",
-            "time travel",
-            "Family",
-            "cat",
-            "Comedy",
-            "Science Fiction",
-            "Adventure",
-            "Fantasy",
-            "anime",
-            "time bomb"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_539649",
-        "tags": [
-            "parenthood",
-            "remake",
-            "Mystery",
-            "Thriller",
-            "woman director",
-            "shocking",
-            "Horror",
-            "falling in lake",
-            "gloomy",
-            "mysterious"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_586047",
-        "tags": [
-            "guilt",
-            "Action",
-            "superhuman strength",
-            "Mystery",
-            "Thriller",
-            "greed",
-            "secret organization",
-            "bromance",
-            "brain tumor",
-            "Science Fiction",
-            "death"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_4193",
-        "tags": [
-            "island",
-            "Mystery",
-            "Thriller",
-            "Crime",
-            "based on novel or book",
-            "Drama",
-            "greece",
-            "murder mystery",
-            "murder",
-            "detective",
-            "holiday resort"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_170522",
-        "tags": [
-            "Animation",
-            "roman empire",
-            "Family",
-            "Comedy",
-            "3d animation",
             "Adventure"
         ],
         "pacing": "Gyors",
-        "done": true
+        "done": false
     },
     {
-        "id": "igdb_400786",
+        "id": "tmdb_1050981",
         "tags": [
-            "train simulator",
-            "Simulator",
+            "Drama",
+            "History"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1483525",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1766192",
+        "tags": [
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_1241478",
+        "tags": [
+            "Drama",
+            "History"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_24253",
+        "tags": [
+            "Mystery",
+            "Thriller",
+            "Action",
+            "Drama",
+            "Crime"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_1261763",
+        "tags": [
+            "Fantasy",
+            "Drama",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_2292",
+        "tags": [
+            "Comedy"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_1406607",
+        "tags": [
+            "Drama",
+            "Comedy"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_24739",
+        "tags": [
+            "Thriller",
+            "Romance",
+            "Science Fiction",
+            "Comedy"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_286565",
+        "tags": [
+            "Romance",
+            "Mystery",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "igdb_244593",
+        "tags": [
             "Indie"
         ],
         "pacing": "Közepes",
-        "done": true
+        "done": false
     },
     {
-        "id": "igdb_266382",
+        "id": "anilist_203275",
         "tags": [
-            "football",
-            "soccer manager",
-            "Sport",
-            "Simulator",
-            "Strategy",
-            "soccer",
-            "football manager"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "igdb_418468",
-        "tags": [
-            "turn-based rpg",
-            "turn-based combat",
-            "parody",
-            "Visual Novel",
-            "based on - manga",
-            "unlockable event",
-            "Role-playing (RPG)",
+            "CGI",
+            "Fantasy",
+            "Urban Fantasy",
             "Adventure",
-            "gacha",
-            "crossover",
-            "Turn-based strategy (TBS)"
+            "Action",
+            "Female Protagonist",
+            "Virtual World",
+            "Gore",
+            "Video Games",
+            "Death Game",
+            "Male Protagonist"
         ],
         "pacing": "Gyors",
-        "done": true
+        "done": false
     },
     {
-        "id": "igdb_328110",
+        "id": "anilist_212521",
         "tags": [
-            "Role-playing (RPG)"
+            "Reincarnation",
+            "Fantasy",
+            "Parenthood",
+            "Demons",
+            "Action",
+            "Long Strip",
+            "Full Color",
+            "Slice of Life",
+            "Male Protagonist"
         ],
-        "pacing": "Közepes",
-        "done": true
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_208094",
+        "tags": [
+            "Fantasy",
+            "Romance",
+            "Long Strip",
+            "Female Protagonist",
+            "Villainess",
+            "Full Color"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_151133",
+        "tags": [
+            "Fantasy",
+            "Demons",
+            "Action",
+            "Drama",
+            "Full Color"
+        ],
+        "pacing": "Gyors",
+        "done": false
     }
 ]
