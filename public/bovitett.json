@@ -381676,63 +381676,101 @@
             "Comedy"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1773350",
         "tags": [
-            "TV Movie",
-            "Romance"
+            "texas",
+            "western",
+            "christmas",
+            "roundup",
+            "Romance",
+            "horse ranch",
+            "horse therapy",
+            "TV Movie"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_618344",
         "tags": [
-            "Action",
+            "Fantasy",
+            "superhero",
             "Adventure",
+            "dc animated movie universe (dcamu)",
+            "bitter",
+            "based on comic",
+            "hopeless",
+            "depressing",
             "Animation",
-            "Fantasy"
+            "Action",
+            "disrespectful"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1656220",
         "tags": [
-            "Drama"
+            "search and rescue",
+            "legal dispute",
+            "Drama",
+            "refugees",
+            "water rescue"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1035982",
         "tags": [
             "Mystery",
+            "mockumentary",
+            "haunted manor",
+            "halloween",
+            "hotel",
+            "cult",
+            "woods",
+            "found footage",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_77459",
         "tags": [
-            "Family",
+            "Fantasy",
             "Adventure",
+            "journey",
+            "musical",
+            "3d animation",
+            "monster",
             "Animation",
-            "Fantasy"
+            "3d",
+            "Family",
+            "romantic",
+            "paris, france"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1628123",
         "tags": [
-            "Music"
+            "seoul, south korea",
+            "boy band",
+            "concert",
+            "live music",
+            "comeback",
+            "Music",
+            "k-pop",
+            "live"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1322379",
@@ -381741,80 +381779,117 @@
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1383247",
         "tags": [
+            "female protagonist",
+            "revenge",
             "Action",
             "Thriller"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1679",
         "tags": [
-            "Action",
+            "giant monster",
             "Science Fiction",
-            "Horror"
+            "island",
+            "japan",
+            "sequel",
+            "monster",
+            "Action",
+            "disaster",
+            "Horror",
+            "nightclub"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_11308",
         "tags": [
+            "satire",
+            "rape",
+            "based on novel or book",
             "Drama",
-            "Comedy"
+            "prostitute",
+            "Comedy",
+            "hotel",
+            "bomb",
+            "fight"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_265189",
         "tags": [
-            "Drama"
+            "cowardliness",
+            "family relationships",
+            "coward",
+            "avalanche",
+            "Drama",
+            "husband wife relationship",
+            "family vacation",
+            "dark comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_39203",
         "tags": [
             "Mystery",
             "Adventure",
-            "Animation"
+            "bewildered",
+            "mystery",
+            "suspense",
+            "thief",
+            "Animation",
+            "anime",
+            "detective",
+            "shounen"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_824",
         "tags": [
-            "Music",
+            "poet",
+            "musical",
+            "Romance",
             "Drama",
-            "Romance"
+            "fairy",
+            "courtesan",
+            "Music",
+            "duke",
+            "nightclub",
+            "paris, france"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_180861",
         "tags": [
-            "Gods",
-            "Drama",
-            "Fantasy",
-            "Magic",
-            "Royal Affairs",
-            "Long Strip",
-            "Female Protagonist",
-            "Swordplay",
             "Reincarnation",
-            "Full Color",
-            "Romance"
+            "Fantasy",
+            "Female Protagonist",
+            "Magic",
+            "Romance",
+            "Drama",
+            "Swordplay",
+            "Long Strip",
+            "Royal Affairs",
+            "Gods",
+            "Full Color"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
