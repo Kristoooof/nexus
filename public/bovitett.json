@@ -382592,13 +382592,20 @@
     {
         "id": "tmdb_479455",
         "tags": [
-            "Adventure",
-            "Comedy",
+            "paris, france",
+            "london, england",
+            "sequel",
             "Science Fiction",
-            "Action"
+            "based on comic",
+            "Adventure",
+            "co-workers relationship",
+            "Comedy",
+            "Action",
+            "sahara desert",
+            "secret organization"
         ],
         "pacing": "Gyors",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_347647",
@@ -382606,93 +382613,122 @@
             "Thriller"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_361292",
         "tags": [
-            "Mystery",
+            "telepathy",
+            "paranormal phenomena",
+            "berlin, germany",
+            "berlin wall",
+            "fascism",
             "Drama",
+            "dance performance",
+            "1970s",
+            "Mystery",
             "Horror"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_37707",
         "tags": [
             "Science Fiction",
+            "rape",
+            "experiment",
+            "scientist",
+            "dna",
+            "dead cat",
+            "genetics",
+            "laboratory",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1049471",
         "tags": [
+            "hollywood star",
+            "public humiliation",
+            "duringcreditsstinger",
+            "cancel culture",
+            "Drama",
             "Comedy",
-            "Drama"
+            "personal demons",
+            "extortion",
+            "dark comedy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_138",
         "tags": [
+            "superstition",
+            "monster",
+            "transylvania",
+            "vampire",
+            "spider",
+            "based on novel or book",
+            "transformation",
             "Horror"
         ],
         "pacing": "Közepes",
-        "done": false
+        "done": true
     },
     {
         "id": "tmdb_1710886",
         "tags": [
-            "Drama"
+            "Drama",
+            "sexy"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_175773",
         "tags": [
-            "Fantasy",
-            "Romance",
             "Female Protagonist",
-            "Full Color",
-            "Reincarnation"
+            "Romance",
+            "Reincarnation",
+            "Fantasy",
+            "Full Color"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_46761",
         "tags": [
-            "Comedy",
-            "Romance",
-            "Primarily Teen Cast",
+            "Delinquents",
             "Female Protagonist",
             "Male Harem",
+            "Primarily Teen Cast",
             "Crossdressing",
-            "Delinquents",
+            "Romance",
             "Tomboy",
-            "Heterosexual",
+            "Love Triangle",
             "Gender Bending",
-            "Love Triangle"
+            "Comedy",
+            "Heterosexual"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     },
     {
         "id": "anilist_180483",
         "tags": [
-            "Fantasy",
             "Romance",
             "Guns",
-            "Full Color",
             "Long Strip",
+            "Fantasy",
+            "Full Color",
             "Heterosexual"
         ],
         "pacing": "Lassú",
-        "done": false
+        "done": true
     }
 ]
