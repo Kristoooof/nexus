@@ -82298,5 +82298,39 @@
         "score": 99.39961492224782,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "igdb_199146",
+        "title_en": "Moonleap",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Platform",
+            "Puzzle",
+            "Strategy",
+            "Adventure",
+            "Indie"
+        ],
+        "description": "In search of a more beautiful night, the moon child descends to retrieve some shooting stars.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8jva.jpg",
+        "date": "2023-04-11",
+        "score": 80.91840700632515,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "igdb_241776",
+        "title_en": "Pokémon Añil",
+        "title_hu": "",
+        "type": "jatek",
+        "genres": [
+            "Role-playing (RPG)"
+        ],
+        "description": "Pokémon Añil is the fourth video game created by EricLostie after \"Pokémon Opalo\". Kanto returns, but this time from a perspective never seen before, with a much deeper story and improved graphics.",
+        "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7fvz.jpg",
+        "date": "2023-03-23",
+        "score": 86.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]

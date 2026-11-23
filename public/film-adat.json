@@ -188974,5 +188974,103 @@
         "score": 8.143,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_9513",
+        "title_hu": "Garfield 2",
+        "title_en": "Balkan Line",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Family",
+            "Adventure"
+        ],
+        "description": "Londonba utazik Garfield gazdája, Jon, hogy megkérje barátnője, az állatorvos Liz kezét. A lasagne-zabáló cicó persze nem hagyja annyiban a dolgot, és utána megy. Garfield találkozik a Herceggel, a királyi származású macskával, aki éppen akkor örököl egy kastélyt. Sőt, nemcsak találkozik, de helyet is cserélnek, így a hatalmas birtok Garfield otthona lesz. A világ leglustább macskája királyi ellátásban részesül, komornyikja van, és egész állatkertnyi négylábú szolgája és híve. Lord Dargis rossz szemmel nézi mindezt. Mivel ő a következő az öröklési sorban, el akarja tüntetni a(z ál)Herceget.",
+        "image": "https://image.tmdb.org/t/p/w500/ibSDDdnyQfDv7BiB0R0P419EkBY.jpg",
+        "date": "2006-06-15",
+        "score": 5.611,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_630586",
+        "title_hu": "Halálos kitérő 7. - Az örökség",
+        "title_en": "Shallow Hal",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Thriller"
+        ],
+        "description": "Jen öt barátjával az Appalache-hegységben kirándul. Barátjának javaslatára letérnek a kijelölt turistaútvonalról, hogy megnézzenek egy polgárháborús erődítményt. A romok felé igyekezve egy, a 19. század óta az erdőben elszigetelten élő közösséggel találkoznak, akik örökösöknek hívják magukat. Vezetőjük, John Venable mindent megtesz annak érdekében, hogy az örökösök életére ne legyen befolyással a külvilág...",
+        "image": "https://image.tmdb.org/t/p/w500/m5Dc2CeGSR2vZxzYRuhK8297d70.jpg",
+        "date": "2021-01-26",
+        "score": 5.951,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_83389",
+        "title_hu": "Fent, a Pipacs-dombon",
+        "title_en": "Wallace & Gromit: Vengeance Most Fowl",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Drama"
+        ],
+        "description": "1963 Japánban kétféle szemlélet uralkodott, amiket a második világháború elvesztése határozott meg döntően. A társadalom egy része elfelejtve a tradíciókat, a demokrácia és Nyugat bűvöletében szorgalmazta a modernizációt, míg mások a nemzeti összetartás, az emlékezés jegyében kívánták feleleveníteni az ősi értékeket. E később diákmozgalmakkal is teli időszakban (1968-ban a tokiói egyetemen futótűzként terjednek az összecsapásokkal járó megmozdulások) ismerjük meg történetünk főhősnőjét, Matsuzaki Umit (Nagasawa Masami). A fiatal lány évekkel ezelőtt veszítette el az édesapját, édesanyja pedig az Egyesült Államokba utazott. A teljes család után vágyakozó Umi dolgos háziasszonyként látja el ugyan az otthonában adódó teendőket: főz, mos, takarít, gondját viseli a húgának. Napi feladatait azonban egy furcsa rituáléval indítja: minden reggel zászlójelzésekkel küld üzenetet a tengerre, várva, hogy rég eltűnt édesapja hazatérjen.",
+        "image": "https://image.tmdb.org/t/p/w500/44kKodrSxvUr8Ze4ljo5c2tvkKd.jpg",
+        "date": "2011-07-16",
+        "score": 7.509,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1802674",
+        "title_hu": "Hot Wheels Let's Race: Attack of the T-Rex",
+        "title_en": "Hot Wheels Let's Race: Attack of the T-Rex",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Family",
+            "Action"
+        ],
+        "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
+        "image": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg",
+        "date": "2026-10-20",
+        "score": 7.22,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_447273",
+        "title_hu": "Hófehérke",
+        "title_en": "Snow White",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Fantasy"
+        ],
+        "description": "A Disney-klasszikus élőszereplős adaptációja a West Side Story fiatal színésznőjének, Rachel Zegler főszereplésével.",
+        "image": "https://image.tmdb.org/t/p/w500/sAs0dSu2NJvI1nFltMx3uTda8b0.jpg",
+        "date": "2025-03-19",
+        "score": 4.231,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_61053",
+        "title_hu": "La maldición del Padre Cardona",
+        "title_en": "The Curse of Father Cardona",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "description": "A Catholic priest goes to a small town to solve some strange things that are happening there, things that come from the unknown, and gets involved in a romantic relationship with a young woman of the village.",
+        "image": "https://image.tmdb.org/t/p/w500/pwmmsBrj4y487p2VkyKTFAmQA9o.jpg",
+        "date": "2005-10-06",
+        "score": 5.3,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
