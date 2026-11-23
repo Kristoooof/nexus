@@ -188560,5 +188560,419 @@
         "score": 0.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1215919",
+        "title_hu": "Lent a mélyben",
+        "title_en": "Up in Smoke",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Horror"
+        ],
+        "description": "Kate Rafter hazatért, miután szörnyű dolgokat élt át a háború sújtotta Irakban, és elvesztette édesanyját is. Amíg édesanyja hagyatékát rendezi, egyre inkább az az érzése, hogy a szomszédban valami furcsa és ijesztő dolog zajlik.",
+        "image": "https://image.tmdb.org/t/p/w500/jAAisYWtrGuX4tIsqsOuJ87fF7n.jpg",
+        "date": "2026-01-30",
+        "score": 7.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_635744",
+        "title_hu": "Bőrnyakúak 4 - Visszatérés",
+        "title_en": "Zombies of the Third Reich",
+        "type": "film",
+        "genres": [
+            "War"
+        ],
+        "description": "Ronan Jackson őrnagyot, az Izraeli Védelmi Erők kiváló vadászpilótáját és egy amerikai szenátor fiát lelőtték, miközben átrepül Szíria légterén. Miután Jackson csodával határos módon túlélte a balesetet, a Hezbollah fegyveresei fogságába esik. A Dave Torres őrmester vezette elit katonákból álló osztag saját életét kockáztatja annak reményében, hogy megmentsenek egy szövetségest, akivel még soha nem találkoztak.",
+        "image": "https://image.tmdb.org/t/p/w500/khfROCFfPs4oAYd4HWuEtMja9Js.jpg",
+        "date": "2019-10-01",
+        "score": 6.524,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11455",
+        "title_hu": "A nagy szívás",
+        "title_en": "Run Sweetheart Run",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Comedy"
+        ],
+        "description": "A két tökfej útja az országúton keresztezi egymást. Cheech, aki szinte szétfüvezte az egész életét, az autójával lerobban a kietlen autópályán. Jobb híján stoppolni kezd, így találkozik Chonggal, a gazdag apuka unatkozó, és nem mellesleg ugyancsak füvező fiacskájával. Ennek örömére rögvest kitalálják, hogy valami jó minőségű anyagot kellene szerezni. Ezzel kezdetét veszi a kalandos, sőt, veszélyekkel teli utazás Kalifornián keresztül egészen Mexikóig és vissza: fűvel, fával, csajokkal és zsarukkal.",
+        "image": "https://image.tmdb.org/t/p/w500/eYC7o0sm5nxw6qN8HAAENXrjmub.jpg",
+        "date": "1978-09-15",
+        "score": 6.635,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1301310",
+        "title_hu": "Zombies of the Third Reich",
+        "title_en": "Sugar & Spice",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "History"
+        ],
+        "description": "When Jack and Diane find themselves in an unexpected adult situation, the A-Squad comes to their rescue. In order to help their friend Diane, the A-Squad goes where no cheerleader has gone before: taking on a little after-school project known as bank robbery. But the A-Squad does things their way -- with sugar and spice -- forever changing their friendship, their future and the nation's notion of teen spirit.",
+        "image": "https://image.tmdb.org/t/p/w500/hjrgOWoruk9ea0tXaN8l2gtmkeH.jpg",
+        "date": "2025-06-10",
+        "score": 4.1,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_16723",
+        "title_hu": "Sugar & Spice",
+        "title_en": "C.H.U.D.",
+        "type": "film",
+        "genres": [
+            "Crime",
+            "Comedy",
+            "Drama"
+        ],
+        "description": "A rash of bizarre murders in New York City seems to point to a group of grotesquely deformed vagrants living in the sewers. A courageous policeman, a photojournalist and his girlfriend, and a nutty bum, who seems to know a lot about the creatures, band together to try and determine what the creatures are and how to stop them.",
+        "image": "https://image.tmdb.org/t/p/w500/fN3xeuVsPaiEKYm65uHSO9JVmeb.jpg",
+        "date": "2001-01-24",
+        "score": 6.483,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1752312",
+        "title_hu": "Papi Ricky: La Película",
+        "title_en": "Artus – Le Show XXL",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "description": "",
+        "image": "https://image.tmdb.org/t/p/w500/y0EhzwaNnpMezpIDNoBcRCoAhMN.jpg",
+        "date": "2026-08-27",
+        "score": 7.76,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_32631",
+        "title_hu": "A préda",
+        "title_en": "Lupin the Third: The Legend of the Gold of Babylon",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "description": "Egy számítógépekkel foglalkozó amerikai üzletember, Paul Racine Japánba utazik.  Egy bárban megismerkedik a gyönyörű, de titokzatos Kiriná-val. Döbbenten látja, amint Kiriná-t éppen meggyilkolják. A gyilkos egy vérszomjas nindzsa, Kinjo, aki még soha nem hagyott életben egyetlen szemtanút sem. Ő a préda: menekülnie kell. Egy gyakorlott nindzsa-mester segítségével megtanulja, hogyan védheti meg magát az üldözőivel szemben és hogyan lehet esélye az életbenmaradásra, amikor elérkezik a nap és szemtől szemben áll majd Kinjó-val...",
+        "image": "https://image.tmdb.org/t/p/w500/cq9sztX77bRR7GQxDy6g7f642aG.jpg",
+        "date": "1995-02-24",
+        "score": 5.7,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_23730",
+        "title_hu": "C.H.U.D.",
+        "title_en": "Bears",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ],
+        "description": "Filmmakers Alastair Fothergill and Keith Scholey chronicle a year in the lives of an Alaskan brown bear named Sky and her cubs, Scout and Amber. Their saga begins as the bears emerge from hibernation at the end of winter. As time passes, the bear family must work together to find food and stay safe from other predators, especially other bears. Although their world is exciting, it is also risky, and the cubs' survival hinges on family togetherness.",
+        "image": "https://image.tmdb.org/t/p/w500/8BVw5RIDBTZwdMAR1VKpAkwrMjj.jpg",
+        "date": "1984-08-31",
+        "score": 5.6,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_50456",
+        "title_hu": "Hanna - Gyilkos természet",
+        "title_en": "Surviving Christmas",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Adventure"
+        ],
+        "description": "Hanna egyszerű kamaszlánynak látszik. De olyan erős, gyors, ravasz és kitartó, mint egy profi zsoldos katona. Apja, a CIA egykori ügynöke az északi sarkkörön túl, Finnország néptelen tundráin nevelte fel. Amikor a férfi úgy érzi, hogy a lány felkészült, visszaküldi a civilizált világba, és egy feladatot bíz rá. Hanna egy számára teljesen ismeretlen közegbe kerül, amit eddig csak könyvekből ismert.",
+        "image": "https://image.tmdb.org/t/p/w500/wF5fUvc1nGJfvXhsrUdkkIc5sHE.jpg",
+        "date": "2011-04-07",
+        "score": 6.588,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_25673",
+        "title_hu": "Egy hely a nap alatt / Hely a napon",
+        "title_en": "Space Pirate Captain Harlock",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Crime"
+        ],
+        "description": "Egy szegény anyagi háttérrel rendelkező fiú jómódú nagybátyja gyárában szeretne karriert befutni. Két nőhöz is szoros szerelmi kapcsolat fűzi: egy vagyonos, férjes asszonyhoz és a gyár egyik munkáslányához, akit teherbe ejtett. Ez utóbbi nagyban hátráltatja a ranglétrán való feljebbjutását, ezért elhatározza, hogy megöli a lányt. Mielőtt tervét végrehajtaná, a lány halálos balesetet szenved. A bíróság azonban őt teszi felelőssé a történtekért és halálra ítéli.",
+        "image": "https://image.tmdb.org/t/p/w500/rfiTwlabHUfz2AEyOsh4LhI29E3.jpg",
+        "date": "1951-06-12",
+        "score": 7.3,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_15566",
+        "title_hu": "Túlélni a karácsonyt",
+        "title_en": "Star Trek: Section 31",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Romance"
+        ],
+        "description": "Amikor Drew Latham (Ben Affleck) úgy dönt, hogy bérel magának egy családot az ünnepekre, akkor elszabadul a pokol, kitör a viszály és a feje tetejére áll minden. Drew belefárad abba, hogy mindig egyedül tölti a karácsonyt és egy olyan ajánlatot tesz a Valco-családnak (James Gandolfini, Christina Applegate és Catherine O'Hara), amit talán jobb lett volna, ha visszautasítanak. Így viszont a bosszantó vendégük és az idegesítő kívánságai rémálommá teszik a békés ünnepet. Eközben mi, nézők, jókat derülhetünk a nagy családi felforduláson.",
+        "image": "https://image.tmdb.org/t/p/w500/k8rqwjusEI14zuFbXcUAugwjLFC.jpg",
+        "date": "2004-09-21",
+        "score": 5.735,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_18947",
+        "title_hu": "Rockhajó",
+        "title_en": "Drifting Home",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Comedy"
+        ],
+        "description": "Az 1960-as években az amerikai rádióállomások 24 órában nyomatták a RockandRollt, de Angliában, a Beatles és a Rolling Stones szülőhazájában az egyetlen adót, ahol fogni lehetett a zenei forradalom új stílusát, egy kalózrádió sugározta, méghozzá egy hajóról. Richard Curtis egy szívmelengető és vidám történetet tár elénk a kalózrádiós csapatról, akik 25 millió brit rádióhallgató szívét hódították meg azzal, hogy a kormány és a rendőrség folyamatos fenyegetése ellenére egy hajóról sugározták a ‘60-as évek generációjának meghatározó zenéjét. Egy hajóról, ami innen kapta nevét is: Rockhajó.",
+        "image": "https://image.tmdb.org/t/p/w500/2qY5zSFVcRxjWjcrCgcYFosmeqC.jpg",
+        "date": "2009-04-01",
+        "score": 7.226,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_877957",
+        "title_hu": "A ház lelke",
+        "title_en": "The Forgotten Battle",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Fantasy",
+            "Adventure"
+        ],
+        "description": "A hatodikos Kosuke és Natsume ugyanabban a tömbházban nőttek fel. Egy nap a nyári szünetben, miközben a bontásra váró tömbházban játszanak, furcsa jelenségben lesz részük. Maguk körül csak a hatalmas tengert látják. Vajon Kosuke és a többiek visszatalálnak a saját világukba? Elkezdődnek a nyári búcsúzások.",
+        "image": "https://image.tmdb.org/t/p/w500/5RLOFjk0RvGc6GDLQGFTqALQUQ2.jpg",
+        "date": "2022-09-09",
+        "score": 7.377,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10341",
+        "title_hu": "A világ végéig",
+        "title_en": "Hand of Death",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Science Fiction",
+            "Adventure"
+        ],
+        "description": "Ez a remek zenékre vágott, sok európai, sőt ázsiai, ausztráliai országon \"átvágtató\" filozófikus sci-fi 10 éve készült - és az akkori \"közeljövőben\" (1999-ben) játszódik.  Az éppen bankrablóknak segítő fiatal nő, Claire, a Párizsba vezető úton megismerkedik egy titokzatos idegennel, akit úgy tűnik nem csak a CIA, hanem magánemberek is üldöznek. Sam beszél apja találmányáról, melynek segítségével a vakok is láthatják az élet egy bizonyos szeletét. A rövid találkozás Claire-t, világkörüli utazásba hajszolja. A hajszához hamarosan egyre több idegen is csatlakozik, többek között Claire vőlegénye. Az úticél Ausztrália, de az út Párizs, Berlin, Moszkva, Tokió nagyvárosait is keresztezi. Amikor repülőgépük felszáll, egy villámlás cikázik át az égbolton... vajon ez a világ vége?",
+        "image": "https://image.tmdb.org/t/p/w500/naP3GzNwagWSKpRPubl3a6t1k9f.jpg",
+        "date": "1991-09-12",
+        "score": 6.697,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_800345",
+        "title_hu": "Carter",
+        "title_en": "Run Hide Fight: Infidels",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "description": "Egy férfi arra ébred, hogy minden emléke elveszett, majd a fülében lévő készülékből jövő titokzatos hang parancsára veszélyekben bővelkedő, túszmentő küldetésre indul.",
+        "image": "https://image.tmdb.org/t/p/w500/dFiVeMB4F4QWvLNb9iY9gxibYVf.jpg",
+        "date": "2022-08-05",
+        "score": 5.963,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_17918",
+        "title_hu": "Mocsárlény",
+        "title_en": "Xeno",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Science Fiction"
+        ],
+        "description": "Egy kutatótudós véletlenül sétáló, beszélő iszapkupaccá változtatja magát, félig-növény, félig-mocsár és félig-ember lesz. Emberi része még mindig gyöngéd érzelmeket táplál szerelme iránt, és megvédi őt a saját végzetétől, és a tudóstársaktól.",
+        "image": "https://image.tmdb.org/t/p/w500/tug6GMGLdC3xGfvhQW1ran0Z9tV.jpg",
+        "date": "1982-02-19",
+        "score": 5.42,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_958196",
+        "title_hu": "Bent",
+        "title_en": "Consent",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "description": "Nemo, a csúcskategóriás műkincstolvaj csapdába esik egy New York-i penthouse-ban, miután egy rablás nem a tervek szerint alakul. Bezárva a felbecsülhetetlen értékű műkincseken kívül semmi mással, minden ravaszságát és találékonyságát be kell vetnie a túléléshez.",
+        "image": "https://image.tmdb.org/t/p/w500/oyymxC51cVmeSzErsz6IsGUjia8.jpg",
+        "date": "2023-03-09",
+        "score": 5.67,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_956964",
+        "title_hu": "Le Consentement",
+        "title_en": "Tom and Jerry & The Wizard of Oz",
+        "type": "film",
+        "genres": [
+            "History",
+            "Drama"
+        ],
+        "description": "After a deadly storm, Tom and Jerry find themselves stranded on an unknown island ruled by the evil Wizard of Oz. As they try to find their way back home, they worry for their master Dorothy's safety.",
+        "image": "https://image.tmdb.org/t/p/w500/8QTo3OgSqS09jFYPwQWXyx0fi2W.jpg",
+        "date": "2023-10-11",
+        "score": 6.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1100795",
+        "title_hu": "Mr. Monk utolsó esete: A Monk-film",
+        "title_en": "LEGO Marvel Avengers: Code Red",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Crime",
+            "Mystery",
+            "TV Movie"
+        ],
+        "description": "Mr. Monk újra nyomozni kezd, amikor a mostohalánya esküvője előtt a vőlegény tragikus körülmények között meghal.",
+        "image": "https://image.tmdb.org/t/p/w500/uEqphfoeLAD60whLUMyHUOeajbI.jpg",
+        "date": "2023-12-08",
+        "score": 6.845,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_49852",
+        "title_hu": "Diótörő",
+        "title_en": "The Immigrant",
+        "type": "film",
+        "genres": [
+            "Adventure",
+            "Fantasy",
+            "Family"
+        ],
+        "description": "Csodálatos karácsonyi képeket és hangulatot találunk Andrej Koncsalovszkij Diótörő filmváltozatában. Ez a legújabb,  adaptáció 1920 karácsonyán, Bécsben játszódik. A kis Mary egy különleges diótörő játékfigurát kap ajándékba keresztapjától. A kislány boldogan fekszik le aludni, de álmában megelevenedik a Diótörő és más játékai is, majd kezdetét veszi egy varázslatos utazás a fantázia világába. A fabáburól kiderül, hogy elvarázsolt herceg, s a kis Mary vele összefogva veszi fel a küzdelmet a gonosz Patkánykirállyal és alattvalóival. Amikor a Diótörőt túszul ejtik a gonosz patkányok, Mary kis játékaival mentőakciót indít kiszabadításáért.",
+        "image": "https://image.tmdb.org/t/p/w500/efPRp5HcMZuup2s20nPWFPhgYqT.jpg",
+        "date": "2010-11-24",
+        "score": 4.967,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1154598",
+        "title_hu": "LEGO Marvel Bosszúállók: Vörös kód",
+        "title_en": "Leave No Trace",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Action",
+            "Family",
+            "Science Fiction"
+        ],
+        "description": "A Bosszúállók New York megmentésére érkeznek a városba, ahol kiderül, hogy Fekete Özvegy és Vörös Őr között nem felhőtlen az apa-lánya viszony, ráadásul Vörös Őr rejtélyes körülmények között el is tűnik. A szálak a gonosz Gyűjtőhöz vezetnek, aki foglyul ejti azokat, akiknek a „vörös” szó szerepel a nevében. Fekete Özvegy és a többi Bosszúálló minden követ megmozgat, hogy megtalálják Vörös Őrt, ezért elindulnak, hogy felkutassák a Gyűjtő rejtekhelyét és kiszabadítsák az elrabolt szuperhősöket.",
+        "image": "https://image.tmdb.org/t/p/w500/pChipRAtlt36DzeF5kCJWdxuYtS.jpg",
+        "date": "2023-10-26",
+        "score": 6.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_16372",
+        "title_hu": "Az ártatlanok",
+        "title_en": "The Gendarme Takes Off",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery"
+        ],
+        "description": "A fiatal nevelőnő egy óriási birtokon neveli az árva Florát, és testvérét, Milest. A nevelőnő rájön, hogy a birtok korábbi lakóinak szelleme nem hagyják a gyermekeket nyugton, ezért elhatározza, hogy szembeszáll a természetfeletti erőkkel.",
+        "image": "https://image.tmdb.org/t/p/w500/idqvLBmlEHUITMnQ0EJ6Yb5TpVw.jpg",
+        "date": "1961-11-24",
+        "score": 7.475,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_12182",
+        "title_hu": "Dalok ismerkedéshez",
+        "title_en": "Sukiyaki Western Django",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Music",
+            "Romance"
+        ],
+        "description": "Véletlenül találkozik egymással Nick és Norah, a két magányos tinédzser. Ettől kezdve együtt járják a New York-i utcákat. Céljuk, hogy a nagyváros zenés klubjait végigjárva megkeressék, hol lép fel titokban a kedvenc rockegyüttesük. A hosszúra nyúló éjszaka számos izgalmas kalandot, meglepetést tartogat számukra, a kapcsolatuk is egyre bensőségesebbé válik. Mire a Nap felkel, a bonyodalmak ellenére közel kerülnek egymáshoz.",
+        "image": "https://image.tmdb.org/t/p/w500/5CAy2wHfkjFYLnSSPUM5iZqaKoL.jpg",
+        "date": "2008-10-03",
+        "score": 6.442,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1084199",
+        "title_hu": "Társ",
+        "title_en": "Companion",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "description": "Változnak az idők, változnak a szerelmes történetek is. Ebben például néhány fiatal pár együtt lazul egy hétvégét az egyikük házában. Azután fokozatosan kiderül, hogy mindenki másért van ott, mást akar, másra vágyik. Van, aki a házban elrejtett rengeteg pénzt szemelte ki magának. Van, aki sokkal több szabadságot szeretne. Van, aki egyikük halálát kívánja. És van, aki a modern technikának köszönheti a létezését… A film hátborzongató thriller egy jól ismert alaphelyzetben: néhány fiatal egy házban összezárva, ahol elszabadulnak, és egyre durvább kanyarokat vesznek az események De meghökkentően fordulatos: van benne néhány olyan meglepetés, amitől minden nézőnek tátva marad majd a szája.",
+        "image": "https://image.tmdb.org/t/p/w500/hav6FIfXvBz3yHfr0FXACjMIdb6.jpg",
+        "date": "2025-01-22",
+        "score": 6.989,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_289",
+        "title_hu": "Casablanca",
+        "title_en": "Casablanca",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Az apolitikus amerikai Rick kávéházat vezet Casablancában. A bár szélhámosok, szerencsejátékosok és vízumra várók találkozóhelye. Váratlanul feltűnik Rick hajdani szerelme férjével, Victor Lászlóval. László egy koncentrációs táborból megszökött ellenálló, akit a nácik keresnek. Ilsa egy évvel korábban azért hagyta el Ricket, hogy a nehéz helyzetben férje mellett legyen. A románc ismét fellobban, a nő végleg szerelmével, a cinikus Rickkel akar maradni.",
+        "image": "https://image.tmdb.org/t/p/w500/z8ZUUTNCTq3DNKzZd3XhGBicCNw.jpg",
+        "date": "1943-01-15",
+        "score": 8.143,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
