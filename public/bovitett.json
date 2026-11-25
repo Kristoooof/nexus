@@ -159320,6 +159320,193 @@
         "done": true
     },
     {
+        "id": "tmdb_9377",
+        "tags": [
+            "Comedy",
+            "breaking the fourth wall",
+            "independence",
+            "teen movie",
+            "high school",
+            "caper",
+            "coming of age",
+            "chicago, illinois"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_10661",
+        "tags": [
+            "Comedy",
+            "palestinian-israeli conflict",
+            "hairdresser",
+            "middle east",
+            "mossad",
+            "israel",
+            "Action",
+            "secret identity",
+            "new york city"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_44040",
+        "tags": [
+            "murder",
+            "lights out",
+            "Horror",
+            "Thriller",
+            "flickering light",
+            "Mystery",
+            "sole survivor",
+            "devil",
+            "trapped",
+            "supernatural"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "tmdb_393850",
+        "tags": [
+            "sexual frustration",
+            "lust",
+            "teenage boy",
+            "espionage",
+            "Drama",
+            "fetishism",
+            "widow",
+            "sexual humiliation"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_672647",
+        "tags": [
+            "cancer",
+            "based on short story",
+            "Romance",
+            "love",
+            "small town",
+            "time loop",
+            "Fantasy",
+            "loss of mother",
+            "love story"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_3001",
+        "tags": [
+            "swinging 60s",
+            "art museum",
+            "Comedy",
+            "theft",
+            "Romance",
+            "forgery",
+            "art thief",
+            "Crime",
+            "caper comedy",
+            "insurance fraud"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_1444466",
+        "tags": [
+            "Romance",
+            "Action",
+            "Drama"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_493006",
+        "tags": [
+            "secret agent",
+            "Crime",
+            "satellite",
+            "tokyo, japan",
+            "Action",
+            "Mystery",
+            "framed for a crime",
+            "woman lawyer",
+            "Animation",
+            "falsely accused",
+            "detective"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_17169",
+        "tags": [
+            "orangutan",
+            "Comedy",
+            "Action",
+            "Adventure",
+            "bare knuckle boxing",
+            "mafia",
+            "fight",
+            "motorcycle gang",
+            "motorcycle",
+            "martial arts"
+        ],
+        "pacing": "Gyors",
+        "done": true
+    },
+    {
+        "id": "tmdb_2469",
+        "tags": [
+            "madness",
+            "Comedy",
+            "stockholm syndrome",
+            "Romance",
+            "prison",
+            "Drama",
+            "madrid, spain",
+            "porn actor",
+            "ex-detainee",
+            "kidnapping"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_599",
+        "tags": [
+            "new year's eve",
+            "diva",
+            "loss of sense of reality",
+            "jealousy",
+            "butler",
+            "delusion",
+            "Drama",
+            "screenwriter"
+        ],
+        "pacing": "Lassú",
+        "done": true
+    },
+    {
+        "id": "tmdb_1559984",
+        "tags": [
+            "based on children's book",
+            "Family",
+            "Comedy",
+            "TV Movie",
+            "Science Fiction",
+            "alien invasion",
+            "middle school"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
         "id": "igdb_863",
         "tags": [
             "Simulator",
@@ -224571,6 +224758,17 @@
             "pokemon",
             "unofficial",
             "fangame"
+        ],
+        "pacing": "Közepes",
+        "done": true
+    },
+    {
+        "id": "igdb_39347",
+        "tags": [
+            "block matching",
+            "Puzzle",
+            "wii virtual console",
+            "puzzle games with stories"
         ],
         "pacing": "Közepes",
         "done": true
@@ -385804,201 +386002,245 @@
         "done": true
     },
     {
-        "id": "tmdb_9377",
+        "id": "tmdb_13489",
         "tags": [
-            "Comedy",
-            "breaking the fourth wall",
-            "independence",
-            "teen movie",
-            "high school",
-            "caper",
-            "coming of age",
-            "chicago, illinois"
-        ],
-        "pacing": "Közepes",
-        "done": true
-    },
-    {
-        "id": "tmdb_10661",
-        "tags": [
-            "Comedy",
-            "palestinian-israeli conflict",
-            "hairdresser",
-            "middle east",
-            "mossad",
-            "israel",
-            "Action",
-            "secret identity",
-            "new york city"
-        ],
-        "pacing": "Gyors",
-        "done": true
-    },
-    {
-        "id": "tmdb_44040",
-        "tags": [
-            "murder",
-            "lights out",
-            "Horror",
             "Thriller",
-            "flickering light",
-            "Mystery",
-            "sole survivor",
-            "devil",
-            "trapped",
-            "supernatural"
+            "Comedy",
+            "Horror"
         ],
         "pacing": "Közepes",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_393850",
-        "tags": [
-            "sexual frustration",
-            "lust",
-            "teenage boy",
-            "espionage",
-            "Drama",
-            "fetishism",
-            "widow",
-            "sexual humiliation"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_672647",
-        "tags": [
-            "cancer",
-            "based on short story",
-            "Romance",
-            "love",
-            "small town",
-            "time loop",
-            "Fantasy",
-            "loss of mother",
-            "love story"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_3001",
-        "tags": [
-            "swinging 60s",
-            "art museum",
-            "Comedy",
-            "theft",
-            "Romance",
-            "forgery",
-            "art thief",
-            "Crime",
-            "caper comedy",
-            "insurance fraud"
-        ],
-        "pacing": "Lassú",
-        "done": true
-    },
-    {
-        "id": "tmdb_1444466",
+        "id": "tmdb_11121",
         "tags": [
             "Romance",
-            "Action",
             "Drama"
         ],
-        "pacing": "Gyors",
-        "done": true
+        "pacing": "Lassú",
+        "done": false
     },
     {
-        "id": "tmdb_493006",
+        "id": "tmdb_1072699",
         "tags": [
-            "secret agent",
             "Crime",
-            "satellite",
-            "tokyo, japan",
-            "Action",
-            "Mystery",
-            "framed for a crime",
-            "woman lawyer",
-            "Animation",
-            "falsely accused",
-            "detective"
+            "Thriller",
+            "Action"
         ],
         "pacing": "Gyors",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_17169",
+        "id": "tmdb_120852",
         "tags": [
-            "orangutan",
-            "Comedy",
-            "Action",
-            "Adventure",
-            "bare knuckle boxing",
-            "mafia",
-            "fight",
-            "motorcycle gang",
-            "motorcycle",
-            "martial arts"
+            "Thriller",
+            "Horror"
         ],
-        "pacing": "Gyors",
-        "done": true
+        "pacing": "Közepes",
+        "done": false
     },
     {
-        "id": "tmdb_2469",
+        "id": "tmdb_50357",
         "tags": [
-            "madness",
-            "Comedy",
-            "stockholm syndrome",
+            "Thriller",
+            "Horror",
+            "Science Fiction"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_11133",
+        "tags": [
+            "Thriller",
+            "Horror"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "tmdb_4251",
+        "tags": [
             "Romance",
-            "prison",
-            "Drama",
-            "madrid, spain",
-            "porn actor",
-            "ex-detainee",
-            "kidnapping"
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_599",
+        "id": "tmdb_39346",
         "tags": [
-            "new year's eve",
-            "diva",
-            "loss of sense of reality",
-            "jealousy",
-            "butler",
-            "delusion",
-            "Drama",
-            "screenwriter"
+            "Family",
+            "Fantasy",
+            "Comedy",
+            "Adventure"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_41003",
+        "tags": [
+            "Romance",
+            "Drama"
         ],
         "pacing": "Lassú",
-        "done": true
+        "done": false
     },
     {
-        "id": "tmdb_1559984",
+        "id": "tmdb_351901",
         "tags": [
-            "based on children's book",
+            "Crime",
+            "Thriller",
+            "Action"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_9576",
+        "tags": [
+            "Romance",
+            "Comedy"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_791155",
+        "tags": [
             "Family",
             "Comedy",
-            "TV Movie",
             "Science Fiction",
-            "alien invasion",
-            "middle school"
+            "Action"
         ],
-        "pacing": "Közepes",
-        "done": true
+        "pacing": "Gyors",
+        "done": false
     },
     {
-        "id": "igdb_39347",
+        "id": "tmdb_75258",
         "tags": [
-            "block matching",
-            "Puzzle",
-            "wii virtual console",
-            "puzzle games with stories"
+            "Animation",
+            "Fantasy",
+            "Family",
+            "Adventure"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_1427",
+        "tags": [
+            "Crime",
+            "Fantasy",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_1829270",
+        "tags": [
+            "Documentary"
         ],
         "pacing": "Közepes",
-        "done": true
+        "done": false
+    },
+    {
+        "id": "tmdb_2567",
+        "tags": [
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "tmdb_813418",
+        "tags": [
+            "Action",
+            "Thriller",
+            "Science Fiction",
+            "Crime",
+            "Fantasy"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "tmdb_1716604",
+        "tags": [
+            "Animation",
+            "Music",
+            "Comedy",
+            "TV Movie"
+        ],
+        "pacing": "Közepes",
+        "done": false
+    },
+    {
+        "id": "anilist_108379",
+        "tags": [
+            "Josei",
+            "Romance",
+            "Primarily Adult Cast",
+            "Supernatural",
+            "Comedy",
+            "Parody",
+            "Ghost",
+            "Heterosexual",
+            "Slice of Life",
+            "Mystery"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_106922",
+        "tags": [
+            "Comedy",
+            "MILF",
+            "Iyashikei",
+            "Family Life",
+            "Food",
+            "Cute Girls Doing Cute Things",
+            "Female Protagonist",
+            "Episodic",
+            "Primarily Adult Cast",
+            "Seinen"
+        ],
+        "pacing": "Lassú",
+        "done": false
+    },
+    {
+        "id": "anilist_100497",
+        "tags": [
+            "Romance",
+            "Outdoor Activities",
+            "Comedy",
+            "Primarily Teen Cast",
+            "Wilderness",
+            "Shounen",
+            "School Club",
+            "Female Protagonist",
+            "Heterosexual",
+            "Slice of Life",
+            "Adventure"
+        ],
+        "pacing": "Gyors",
+        "done": false
+    },
+    {
+        "id": "anilist_103677",
+        "tags": [
+            "School",
+            "Supernatural",
+            "Love Triangle",
+            "Ensemble Cast",
+            "Slice of Life",
+            "Seinen",
+            "Drama"
+        ],
+        "pacing": "Lassú",
+        "done": false
     }
 ]
