@@ -190396,5 +190396,370 @@
         "score": 7.0,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_20077",
+        "title_hu": "Batman és Drakula",
+        "title_en": "The Batman vs. Dracula",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Action",
+            "Fantasy",
+            "Mystery"
+        ],
+        "description": "Miközben Gotham City a sötétség leple alatt alszik, két legendás figura szárnyra kap. Az egyikük a várost vámpírhadsereggé változtatja, a másik minden tőle telhetőt megtesz, hogy megakadályozza ezt a rémtettet. De Drakula nem közönséges ellenség: természetfeletti erővel bír, villámgyors, és képes a gondolatokat irányítani. Ezzel szemben a Sötét Lovag hipermodern eszközarzenálja ellenére is halandó ember, így kettejük összecsapása örökre Batman szárnyát szegheti. A két főhős mellett olyan kedvencek is szerepelnek, mint Joker, Pingvin és a sorozatban elsőként felbukkanó Vicky Vale, nem mondható hát más, mint hogy ez az egész estés rajfilm vérfagyasztóan nagyszerű!",
+        "image": "https://image.tmdb.org/t/p/w500/8uKIqZBXfxhflenI2LkNZIHUp7I.jpg",
+        "date": "2005-10-18",
+        "score": 7.03,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_13496",
+        "title_hu": "Törvényen kívül",
+        "title_en": "American Outlaws",
+        "type": "film",
+        "genres": [
+            "Western",
+            "Action"
+        ],
+        "description": "Jesse James (Colin Farrell) csak egy volt a Missouri és Liberty mellett élő békés farmerek közül. Talán soha nem ismerjük meg a nevét, ha egy korrupt vasúttársaság nem igyekszik, az eszközökben sem válogatva, a környék földjeinek megszerzésére. Jesse és barátja, Cole Younger (Scott Caan) egy fiatalokból álló csapatot toboroz a társaság és pribékjei visszaszorítására. Ádáz harc kezdődik a felek között, és a földrablók kíméletlen hajszát indítanak ellene. Jessenek egyre több ellenséggel kell szembe néznie, miután a fejére kitűzött busás vérdíj ígérete a barátokat is megszédíti.",
+        "image": "https://image.tmdb.org/t/p/w500/6soz6KAYXgWG0slbndLpwKUvXe2.jpg",
+        "date": "2001-08-17",
+        "score": 5.903,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_12702",
+        "title_hu": "Rémecskék 3.",
+        "title_en": "Critters 3",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Horror",
+            "Science Fiction"
+        ],
+        "description": "A szőrös teniszlabdára emlékeztető, csintalannak tűnő, ám roppant rosszindulatú földönkívüliek nem mondtak le tervükről, hogy mindent fölzabálnak Földünkön, az embereket is beleértve. Ezúttal az egyik lepusztult New York-i lakóházat szemelték ki maguknak, ott húzzák meg magukat. Persze nem nyughatnak! Féktelen étvágyuknak a lakók látják a kárát, akik érthető módon rossz néven veszik, hogy a tévéből ellesett ötletekkel terrorizálják őket. Az összecsapás kimenetele azonban aligha lehet kétséges, a kétségbesett lakók a ház tetejére menekülnek.",
+        "image": "https://image.tmdb.org/t/p/w500/5L71HGSxohanvpRVFh6AVEUW5Ye.jpg",
+        "date": "1991-12-11",
+        "score": 5.3,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1777",
+        "title_hu": "Fahrenheit 9/11",
+        "title_en": "Fahrenheit 9/11",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "Kiindulásul véve a sokat vitatott 2000-es választásokat, Moore bemutatja George W. Bush valószerűtlen felemelkedését, melynek eredményeként az olaj-bizniszben tevékenykedő bukott üzletemberből a világ vezető nagyhatalmának első embere lett. Ezt követően Moore felnyitja Bush privát Pandora szelencéjét: bemutatja milyen szoros baráti szálak fűzik a családot és üzlettársaik körét, a Szaúd-Arábiai királyi családhoz és a bin Laden-rokonsághoz. Az Iraki háború kitörésekor Moore mély együttérzéssel és visszafojtott haraggal vizsgálja az emberi szenvedéseket. Miközben az amerikai hátországot elárasztják a háború következményeivel birkózó családok hatásos portréi, az amerikai katonáknak a kiábrándultsággal és az iraki frontvonal valós borzalmaival kell szembenézniük. A helyzet abszurditását és botrányosságát csak fokozza Moore beszámolója arról, hogy az üzleti élet vezetői hogyan igyekeztek hasznot húzni az emberi szenvedésből, az iraki olajból és az amerikai adófizetők véréből és dollárjaiból?",
+        "image": "https://image.tmdb.org/t/p/w500/u4EnADV1KK2uLo8o0wzgd6E9CXE.jpg",
+        "date": "2004-06-25",
+        "score": 7.093,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_54054",
+        "title_hu": "A szingli fejvadász",
+        "title_en": "One for the Money",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "description": "Stephanie Plum (Katherine Heigl) teljesen le van égve: már fél éve munkanélküli, és a tartozásai miatt a kocsiját is elvették. Mivel sürgősen pénzre van szüksége, kijátssza az utolsó lapját: meggyőzi hanyag unokatestvérét, hogy adjon neki munkát a vállalatában óvadékbehajtó ügynökként. Stephanie első megbízásával rögtön a környék legnagyobb simlise, az ex-zsaru és gyilkossági gyanúsított Joe Morelli (Jason O'Mara) nyomába szegődik - annak Joe Morelli-nek, aki a gimi idején elcsábította, majd lepattintotta. Nyakon csípni Morellit érzelmi és anyagi értelemben egyaránt kielégítő bosszú lenne, de miközben Stephanie megtanulja a szakma fortélyait Rangertől, vagány és vérprofi kollégájától, arra is rájön, hogy a Morelli elleni vád talán nem is teljesen megalapozott.",
+        "image": "https://image.tmdb.org/t/p/w500/msNJqXBALTrPySPvOnHDZaBwVUw.jpg",
+        "date": "2012-01-26",
+        "score": 5.55,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_12837",
+        "title_hu": "A méhek titkos élete",
+        "title_en": "The Secret Life of Bees",
+        "type": "film",
+        "genres": [
+            "Family",
+            "Adventure",
+            "Drama"
+        ],
+        "description": "A '60-as évek Amerikájában járunk. A 14 éves Lily Owens félárva. Édesapja, T. Ray nem sokat törődik egy szem gyermekével, kivéve akkor ha büntetni lehet őt valamiért. Lily édesanyja, Deborah egy szörnyű balesetben halt meg. Lily mindennek szemtanúja volt és sosem tudta ezt feldolgozni. Egyik nap, amikor Rosaleen a fekete házvezetőnőjük elindul hogy a szavazójegyzékbe vetesse magát, Lily elkíséri. Útjuk során beléjük kötnek helyi rasszisták, és az összetűzésből bebörtönzés és kegyetlenkedés kerekedik. Lilyt apja kihozza ugyan, de Rosaleenért nem hajlandó semmit sem tenni. Lily megszökik, és sikeresen kimenti Rosaleent is. Elindulnak kettesben, hogy Deborah nyomába eredjenek több mint 10 év távlatából. És amit három méhészkedéssel foglalkozó fekete nővér személyében találnak az áldás és öröm mindkettejük életében. Lily sokat megtanul az élet és a méhek dolgairól, és talán édesanyjáról is sikerül többet kiderítenie.",
+        "image": "https://image.tmdb.org/t/p/w500/kTPygd3Delr6P6X7UkRmQ8bcraw.jpg",
+        "date": "2008-09-17",
+        "score": 7.481,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_18912",
+        "title_hu": "Angst",
+        "title_en": "Angst",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Crime",
+            "Horror"
+        ],
+        "description": "A férfi éppen szabadul a börtönből. Mások ilyenkor azzal foglalkoznak, hogy vajon mi várja őket odakint a szabad világban, hogy hová mennek, kit látogatnak meg először, és egyáltalán, hogy hogyan illeszkedjenek be következő életükbe. Ez a férfi ezzel szemben csak egy gondolatot forgat a fejében: hogyan, milyen körülmények között fog újra embert ölni. Nem is tétlenkedik sokáig, beveszi magát egy házba, és várja, hogy a lakók hazatérjenek… Az „Angst” teljesen valós történet, az osztrák Werner Kniesek története, aki a filmben látható rémségeket 1980-ban követte el. Gerald Kargl rendező szinte dokumentarista stílusban tárja elénk az eseményeket, és ezt segítik a szórványos kommentárok a főszereplő részéről, melyek tartalmilag bizonyítják, hogy egy meglehetősen beteg elme szüleményei.",
+        "image": "https://image.tmdb.org/t/p/w500/l8wTd2hkf8CIGJ7BrhFPB5VZSOb.jpg",
+        "date": "1983-01-01",
+        "score": 7.052,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_10822",
+        "title_hu": "Kegyetlen báj",
+        "title_en": "Savage Grace",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Barbara Daly a társadalmilag felette álló Brooks Baeklandhez megy feleségül, hogy a férfin keresztül pénzhez és befolyáshoz jusson. Bár gyönyörű és karizmatikus, Barbara mégsem illik előkelő férjéhez. Első s egyben egyetlen gyermekük, Tony születése azonban ahelyett, hogy rendezné kapcsolatukat, még inkább megingatja az eleve ingatag lábakon álló házasság törékeny egyensúlyát. Ahogy Tony növekszik, úgy válik akaratlanul is eszközzé szülei pszichológiai és szexuális játékaiban. A tragédia elkerülhetetlen, s a sokkoló tabuk is felszínre kerülnek.",
+        "image": "https://image.tmdb.org/t/p/w500/r0a3BJ6NlWcDTK0xpJm2NhzVgMo.jpg",
+        "date": "2007-09-20",
+        "score": 5.667,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_7500",
+        "title_hu": "Szonatina",
+        "title_en": "Sonatine",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "description": "Murakava (Takeshi Kitano) a tokiói jakuza egyik legmegbízhatóbbtagja. A főnökök ugyanakkor tartanak is tőle, féltve hatalmukat. Ezért amikor Okinava-ban kitör a háború két rivális banda között, Murakava-t és embereit küldik el rendet csinálni, abban a reményben, hátha nem mindegyikük tér vissza élve erről a küldetésről... A Szonatina ízig-vérig igazi Takeshi Kitano film. Megtalálható benne a rá jellemző brutalitás, de emellett rajta kívül szinte senki más nem képes így ábrázolni ezeknek a kegyetlen gengsztereknek a lelki világát, illetve a japánok - legalábbis európai szemmel nézve - különös viszonyát a halálhoz.",
+        "image": "https://image.tmdb.org/t/p/w500/dN9YZkBLXjC4pHpY7DNpJwUWufQ.jpg",
+        "date": "1993-09-10",
+        "score": 7.523,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_41215",
+        "title_hu": "Fekete halál",
+        "title_en": "Black Death",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History",
+            "Horror"
+        ],
+        "description": "1348-at írunk, mikor Európára a pestis rémisztő és pusztító árnyéka vetül. Miközben a fekete halál tizedeli a lakosságot, félelem szülte babonás történetek terjednek az emberek között. Az egyik szerint van egy rejtett falu, hol a pestis nem szedi áldozatait: egy szellemidéző vissza tudja hozni a holtakat az élők közé. Ulric (Sean Bean ? A gyűrűk ura, A trónok harca) rettegett lovag. Az egyház őt kéri fel, hogy derítse ki az igazságot a faluval kapcsolatban. Csatlakozik hozzá egy fiatal szerzetes és néhány katona is, ám az utazók legmélyebb rémálmaikban sem találkozhatnának azzal a borzalommal, amely a faluban vár rájuk.",
+        "image": "https://image.tmdb.org/t/p/w500/fUBYH0tFSyjN5F7dAdCw2AOsGEt.jpg",
+        "date": "2010-06-07",
+        "score": 6.08,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11712",
+        "title_hu": "Sanjuro",
+        "title_en": "Sanjuro",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Action",
+            "Comedy"
+        ],
+        "description": "A faluban felüti a fejét egy pletyka, hogy a falu egyik vezetője korrupt. Kilenc fiatal falusi szamuráj nagy lelkesen meg is próbálja felszámolni a korrupciót és együtt várják a falu másik befolyásos emberének, Kurofujinak a képviselőit. Izgatott beszélgetésük közben az egyik sötét sarokból előmászik egy éppen ott alvó szamuráj, aki miután keresetlen szavakkal, de vaslogikával levezeti a fiataloknak, hogy nagyon át lettek verve, a segítségükre siet. A korruptnak tartott vezetőt (aki a fiatalok egyikének a nagybátyja) elrabolja Kurofuji bandája és a kis csapat élén a meglehetősen faragatlan, de remek taktikai és stratégiai (nem mellékesen pedig nagyszerű harci) képességekkel megáldott ronin megkezdi a kiszabadításának kivitelezését. Ez persze nem olyan egyszerű, mert Kurofujit és az elrabolt vezetőt, Mutsutat egy egész hadsereg védi, akiknek vezetője egy szintén jóképességű szamuráj, Hanbei.",
+        "image": "https://image.tmdb.org/t/p/w500/6Dp9qhZuRaGU03gzyiuMgUPQG7G.jpg",
+        "date": "1962-01-01",
+        "score": 7.934,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_400106",
+        "title_hu": "Tündék és orkok",
+        "title_en": "Bright",
+        "type": "film",
+        "genres": [
+            "Fantasy",
+            "Action",
+            "Thriller"
+        ],
+        "description": "Egy világban ahol mágikus lények élnek közöttünk, a fajok közti feszültség egyre fokozódik. A Los Angeles utcáin szolgáló Daryl és ork kollégája nagy erejű varázstárgyra bukkan, és egy megjövendölt háború közepén találják magukat.",
+        "image": "https://image.tmdb.org/t/p/w500/bamMYBZ9ntoRfBWPvfKIXqVZDGX.jpg",
+        "date": "2017-12-22",
+        "score": 6.163,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_768362",
+        "title_hu": "Eltűnt",
+        "title_en": "Missing",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "description": "Amikor édesanyja eltűnik, miközben új barátjával Kolumbiában nyaral, June válaszok utáni keresését a nemzetközi bürokrácia akadályozza. A több ezer mérfölddel távolabb, Los Angelesben rekedt June kreatívan használja a karnyújtásnyira lévő legújabb technológiát, hogy megpróbálja megtalálni, mielőtt túl késő lenne.",
+        "image": "https://image.tmdb.org/t/p/w500/zPhAPwRkkgx800mYmN6MHYAJAvX.jpg",
+        "date": "2023-01-19",
+        "score": 7.37,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1333141",
+        "title_hu": "Lesbian Space Princess",
+        "title_en": "Lesbian Space Princess",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Science Fiction",
+            "Adventure"
+        ],
+        "description": "A space princess is thrust out of her sheltered life into a galactic quest to save her bounty hunter ex-girlfriend from the straight white maliens.",
+        "image": "https://image.tmdb.org/t/p/w500/bmf6spk0WZ10lz4eAK95P1zRB4F.jpg",
+        "date": "2025-09-11",
+        "score": 3.767,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_28468",
+        "title_hu": "A kulcs",
+        "title_en": "The Key",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "description": "Nino Rolf évek óta él házasságban a nála fiatalabb, bájos Teresával. A nőnek kielégíthetetlen szexuális vágya van, míg a férfi, úgy tűnik, csak a múltban él. Amikor a családban megjelenik László, lányuk fasiszta nézeteket valló vőlegénye, Nino a feleségét szinte az ifjú karjaiba taszítja. A helyzet még pikánsabbá válik, amikor a házastársak megtalálják egymás féltve őrzött naplóit.",
+        "image": "https://image.tmdb.org/t/p/w500/fsfWsQQ5uzmvfjyrWMgVrVYyP44.jpg",
+        "date": "1983-10-19",
+        "score": 6.032,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_316727",
+        "title_hu": "A megtisztulás éjszakája: Választási év",
+        "title_en": "The Purge: Election Year",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Horror",
+            "Thriller"
+        ],
+        "description": "Két éve annak, hogy Leo Barnes (Frank Grillo) nem állt bosszút az őt ért sérelmekért a Megtisztulás Éjszakájának alkalmával. Napjainkban Charlie Roan (Elizabeth Mitchell) szenátor védelmét biztosítja. A nő az elnöki posztra pályázik, ehhez azonban túl kell élnie az éjszakát, melyen nincsenek korlátok. Amikor egy árulás következtében az éjszakát Washington utcáin kell tölteniük, mindkettejük élete komoly veszélybe kerül.",
+        "image": "https://image.tmdb.org/t/p/w500/8mf46f8mwnIKWtDVImCJOiNyKZM.jpg",
+        "date": "2016-06-29",
+        "score": 6.382,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_80271",
+        "title_hu": "LOL",
+        "title_en": "LOL",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Comedy",
+            "Romance"
+        ],
+        "description": "A YouTube, az iTunes és a Facebook által összekapcsolt világban Lola és barátai a gimnáziumi romantika és barátság kihívásaival néznek szembe, miközben elkerülik a néha fennhéjázó és zavarodott szüleiket. Amikor Lola anyja, Anne \"véletlenül\" elolvassa tinédzser lánya naplóját, rájön, milyen szélesre nőtt a kommunikációs szakadék közöttük.",
+        "image": "https://image.tmdb.org/t/p/w500/AlnBUoKzzPnczrzzxuh0SYwDa3Z.jpg",
+        "date": "2012-02-10",
+        "score": 6.086,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_27932",
+        "title_hu": "Airport '75",
+        "title_en": "Airport 1975",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Action"
+        ],
+        "description": "A Columbia Airlines 409-es, Los Angelesbe tartó járata menetrend szerint felszáll a washingtoni Dulles repülőtérről. Az utasok között ott van Mrs. Patroni a légitársaság elnökének felesége, két apáca, a vese-áltültetésre váró Janice Abbott és az őt kísérő anyja. A 409-es járat felszállása után súlyos baleset történik. Egy magánrepülőgép, melynek pilótája szívrohamot kap, beleütközik az utasszállítóba és jelentős károkat okoz benne. Megsebesül a gép kapitánya is. A légörvény szinte kitépi a helyéről a gép másodkapitányát, így Nancy Pryorra, a rangidős stewardessre vár a feladat, hogy az ellenőrző torony és a sérült kapitány utasításait követve megpróbáljon a géppel landolni.",
+        "image": "https://image.tmdb.org/t/p/w500/1Qhv89L7wu54eLdd9LLTgnO3cJZ.jpg",
+        "date": "1974-10-18",
+        "score": 5.8,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_537921",
+        "title_hu": "Az utolsó nagy kaland",
+        "title_en": "Fixed",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy"
+        ],
+        "description": "Miután egy kutya megtudja, hogy ivartalanítják, 24 órája van, hogy összehozzon egy utolsó tökös kalandot a fiúkkal ebben a felnőtteknek szóló obszcén vígjátékban.",
+        "image": "https://image.tmdb.org/t/p/w500/8vOtX1BX3CYd4oe2OPXQPB8VDQM.jpg",
+        "date": "2025-08-13",
+        "score": 6.198,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_41171",
+        "title_hu": "Karácsony",
+        "title_en": "Noel",
+        "type": "film",
+        "genres": [
+            "Drama"
+        ],
+        "description": "Egymástól merőben különböző személyiségek keresik a megértést és a könyörületet karácsony idején. Rose középkorú, elvált nő, akinek az édesanyja kórházban van, előrehaladott Alzheimer-kórban szenved. Rose szeretne mégegy lehetőséget kapni, hogy elmondja neki, mennyire szereti, ám az anyja már nem ismeri meg. A rendőrtiszt Mike egy pincér rögeszméjének célpontja lesz. Artie meg van győződve arról, hogy Mike az ő néhai feleségének a reinkarnációja. Mellesleg Mike a szép Ninát készült elvenni, de úgy tűnik, hogy a féltékenysége szétzilálja a kapcsolatukat.",
+        "image": "https://image.tmdb.org/t/p/w500/xeCquqYtO6vaNvnK7v1NtbMOyfP.jpg",
+        "date": "2004-11-12",
+        "score": 5.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1714803",
+        "title_hu": "Sex in Drag",
+        "title_en": "Sex in Drag",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "An intimate, unfiltered portrait of Sherry Vine - a performer who’s spent her life straddling gender, sexuality, and the unforgiving streets of New York City. What begins as a bawdy tale of her first hookup in drag with a drug dealer evolves into a deeper meditation on what it means to be desired—not just as a spectacle, but as a person. In Sex in Drag, Sherry Vine reflects on her most formative sexcapades and how defying labels, navigating secrecy, and grappling with hetero norms have led her to a love life in the margins. With sharp wit and aching honesty, Sherry dismantles the binary thinking around sexuality and challenges the shame and rigidity that still cling to queer desire.",
+        "image": "",
+        "date": "2025-09-29",
+        "score": 0.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_381",
+        "title_hu": "Fogjunk tolvajt!",
+        "title_en": "To Catch a Thief",
+        "type": "film",
+        "genres": [
+            "Mystery",
+            "Romance",
+            "Thriller"
+        ],
+        "description": "John Robie a macska, híres ékszertolvaj visszavonultan él a francia Riviérán. Évek óta nem űzi hivatását, mikor a környék gazdagjait sorozatos rablások tartják rettegésben. Persze mindenki Robie-ra gyanakszik, aki, hogy mentse a bőrét, úgy dönt, maga fogja kinyomozni a tolvaj kilétét...",
+        "image": "https://image.tmdb.org/t/p/w500/PdiGeoOaW2CoDFDUWDUwZjFozs.jpg",
+        "date": "1955-08-03",
+        "score": 7.3,
+        "age_rating": "16+",
+        "cover_nsfw": false
     }
 ]
