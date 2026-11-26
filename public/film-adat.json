@@ -190094,5 +190094,307 @@
         "score": 6.1,
         "age_rating": "12+",
         "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_576845",
+        "title_hu": "Utolsó éjszaka a Sohóban",
+        "title_en": "That's My Boy",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "description": "Eloise szenvedélye a divattervezés. Rejtélyes módon képes belépni a hatvanas évekbe, ahol találkozik bálványával, egy káprázatos feltörekvő énekessel. Ám az 1960-as évek Londonja nem teljesen az, aminek tűnik: olyan, mintha az idő szétesne, és ennek megvannak a maga baljós következményei...",
+        "image": "https://image.tmdb.org/t/p/w500/fIXLJ0jMu0NkNOaFm7ccjQ2ATeh.jpg",
+        "date": "2021-10-09",
+        "score": 7.253,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_689249",
+        "title_hu": "A nagy pénzrablás - A sorozat népszerűségének titka",
+        "title_en": "Money Heist: The Phenomenon",
+        "type": "film",
+        "genres": [
+            "Documentary"
+        ],
+        "description": "Dokumentumfilm arról, hogyan és miért lett A nagy pénzrablás, illetve a Professzor és szimpatikus tolvajcsapata ekkora siker világszerte.",
+        "image": "https://image.tmdb.org/t/p/w500/YkN0CmWq8zuDUPgnnWgFyGdpas.jpg",
+        "date": "2020-04-03",
+        "score": 7.4,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_682532",
+        "title_hu": "John and the Hole",
+        "title_en": "John and the Hole",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Thriller",
+            "Horror"
+        ],
+        "description": "Vérfagyasztó pszichológiai thriller, amelyben egy fiú egy lyukba zárva tartja fogva a családját.",
+        "image": "https://image.tmdb.org/t/p/w500/vZ28AYbKm8cZdvnWlfCASOmH2ag.jpg",
+        "date": "2021-08-06",
+        "score": 5.359,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_843906",
+        "title_hu": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+        "title_en": "Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Mystery"
+        ],
+        "description": "Scooby-Doo és barátai egy furcsa tárgyat találnak a semmi közepén, Kansasben; a véletlen folytán pont ugyanott, ahol Bátor, Eustace és Muriel élnek.",
+        "image": "https://image.tmdb.org/t/p/w500/rlQJnQfPgaSGQtyMw35VOIqoIsj.jpg",
+        "date": "2021-09-14",
+        "score": 7.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1373873",
+        "title_hu": "Husband Father Killer: The Alyssa Pladl Story",
+        "title_en": "Husband Father Killer: The Alyssa Pladl Story",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "Crime",
+            "TV Movie"
+        ],
+        "description": "As a young teen, Alyssa has a relationship with abusive 21-year-old Steven, but their path takes a dark turn after she has his child, so she gives her up for adoption. Years later, their now 17-year-old daughter, seeks them out, and Steven manipulates her into an affair, neglecting his family.",
+        "image": "https://image.tmdb.org/t/p/w500/g4egqiCIKR1jQTr9zl0uN0smtpN.jpg",
+        "date": "2024-10-19",
+        "score": 6.5,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_26578",
+        "title_hu": "Sólyom és a nepper",
+        "title_en": "The Falcon and the Snowman",
+        "type": "film",
+        "genres": [
+            "Thriller",
+            "Drama",
+            "Crime"
+        ],
+        "description": "Nem erős oldala Chrisnek a tanulás. A fiú kimarad az iskolából. Az apja azonban nem akarja, hogy elkallódjon, ezért a kapcsolata révén munkát szerez neki a titkos hírközpontban. Az egész világról ide futnak be az amerikai titkosszolgálat ügynökeinek szigorúan bizalmas jelentései. Chris azon töri a fejét, hogyan lehetne ebből sok pénzt csinálni. A barátjával elhatározza, hogy az információt megpróbálja eladni az oroszoknak. Mindez beláthatatlan következménnyel jár. A film igaz történeten alapszik.",
+        "image": "https://image.tmdb.org/t/p/w500/oDeaorrKpjzYgH1c9ePoJ3x9qvw.jpg",
+        "date": "1985-01-25",
+        "score": 6.4,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_117352",
+        "title_hu": "クレヨンしんちゃん 超時空！嵐を呼ぶオラの花嫁",
+        "title_en": "Crayon Shinchan the Movie: Super-Dimension! The Storm Called My Bride",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "description": "Shin-chan is approached by his time-traveling future bride-to-be Tamiko, who asks him to help save his adult self from the ruler of Neo Tokio.",
+        "image": "https://image.tmdb.org/t/p/w500/zUoLr4wvk45t19HdrNWFGp0RtbG.jpg",
+        "date": "2010-04-17",
+        "score": 7.6,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1119937",
+        "title_hu": "Geri Dönənlər",
+        "title_en": "The Returners",
+        "type": "film",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "description": "Seven friends decide to play a game at their dinner party, in which each member needs to read aloud all incoming text messages or put phone calls on speaker for all to hear. This causes many revelations to materialize.",
+        "image": "https://image.tmdb.org/t/p/w500/qx7gQbHWVG33LdzLhfdPuqkeiYK.jpg",
+        "date": "2022-12-28",
+        "score": 6.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_38358",
+        "title_hu": "Az utolsó ördögűzés",
+        "title_en": "The Last Exorcism",
+        "type": "film",
+        "genres": [
+            "Horror",
+            "Thriller",
+            "Mystery"
+        ],
+        "description": "Amikor Cotton Marcus atya megérkezik Louis Sweetzer louisianai birtokára, csak egy újabb szokványos \"ördögűzésre\" számít valami zavart elméjű vallási fanatikuson. Csakhogy a mélyen hívő Sweetzer utolsó kétségbeesésében hívta a prédikátort, mert biztos benne, hogy tizenéves lányát, Nellt valóban megszállta a démon. Marcus atyát egyre jobban gyötri a lelkiismeret, amiért az évek során emberek sokaságát forgatta ki a pénzéből, ezért úgy dönt: egy stábbal vallomásos dokumentumfilmet forgat utolsó ördögűzéséről. A farmon azonban a gonosz olyan tombolása fogadja, amelyre semmi sem készíthette fel, és amely alapjaiban forgat fel mindent, amiben hitt. Nincs hát más választása: meg kell mentenie Nellt - és önmagukat -, mielőtt túl késő lenne.",
+        "image": "https://image.tmdb.org/t/p/w500/x6lqtOkBiNMTfbqHWllskr7LjZg.jpg",
+        "date": "2010-08-27",
+        "score": 5.683,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1863",
+        "title_hu": "Napraforgó",
+        "title_en": "Sunflower",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "War"
+        ],
+        "description": "Giovanna és Antonio nem sokkal azelőtt köt házasságot, hogy a férfit az orosz frontra küldenék. Antonio-t félholtan egy kedves orosz parasztlány, Mascia rejti el az orosz katonák elől. Miközben a férfi gondját viseli - természetesen - beleszeret. Antonio is hasonló érzelmeket táplál iránta, és hamarosan feleségül veszi. Az Olaszországban maradt Giovanna azonban egykori férje keresésére indul Oroszországba...",
+        "image": "https://image.tmdb.org/t/p/w500/svVi4bAr9HWRquL1Padd3NcMEGy.jpg",
+        "date": "1970-03-14",
+        "score": 7.511,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_471498",
+        "title_hu": "Oxigén",
+        "title_en": "Oxygen",
+        "type": "film",
+        "genres": [
+            "Science Fiction",
+            "Thriller",
+            "Horror"
+        ],
+        "description": "Liz egy hibernációs kapszulában tér magához, emlékek nélkül. Liz körül egyre fogy az oxigén, és a túlélés érdekében vissza kell emlékeznie arra, hogy ki ő. Nincs menekülés és csak 90 perc maradt az életéből.",
+        "image": "https://image.tmdb.org/t/p/w500/cngTImXjkJ0KrW3aCQcWXmcpdkJ.jpg",
+        "date": "2021-05-12",
+        "score": 6.613,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_11577",
+        "title_hu": "Pat Garrett és Billy, a kölyök",
+        "title_en": "King Tweety",
+        "type": "film",
+        "genres": [
+            "Western",
+            "Drama",
+            "History"
+        ],
+        "description": "Garrett és Billy kölyök valaha együtt rótta az utakat, illegalitásba burkolózva. Garrett egy idő után úgy dönt, a tisztesség útjára lép, és rendőrnek áll. Nem sokkal később bebörtönzi régi barátját. Billy azonban megszökik, és meggyilkolja Garrett két helyettesét. Garrett kénytelen hajtóvadászatot rendezni hajdani legjobb barátja, Billy elfogására. Sokan akarják Billyt holtan látni: bankárok, földbirtokosok és a terület kormányzója is. Alias, az újságíró is Billy után veti magát. Ő látta a szökését, és be akar állni a csapatába, hogy saját szemével győződjön meg arról, hogyan válik a férfi legendává. Menekülése közben Billy nem hajlandó rejtőzködni, és hamarosan össze is találkozik Garrett-tel. Barátságukról biztosítják egymást, bár tudják, hogy hamarosan egyiküknek meg kell halni.",
+        "image": "https://image.tmdb.org/t/p/w500/kkhYWjgJRURO4HTrYOaNrND4DoG.jpg",
+        "date": "1973-05-23",
+        "score": 7.2,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_952217",
+        "title_hu": "Csőrike király",
+        "title_en": "One Piece: Dead End Adventure",
+        "type": "film",
+        "genres": [
+            "Animation",
+            "Comedy",
+            "Family",
+            "Adventure",
+            "Fantasy",
+            "Mystery"
+        ],
+        "description": "Desperate for cash, the Straw Hat Pirates enter a secret race between pirate crews known as the Dead End Competition. There, they must battle against powerful people, including the bounty hunter who wants to kill Gasparde and a climatic battle with Marine-turned-pirate Captain Gasparde.",
+        "image": "https://image.tmdb.org/t/p/w500/cnx4QIbvvUxKlbxY9RJ3x10aUw7.jpg",
+        "date": "2022-06-13",
+        "score": 6.7,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1318335",
+        "title_hu": "Les Rayons et les Ombres",
+        "title_en": "Family Plot",
+        "type": "film",
+        "genres": [
+            "Drama",
+            "History"
+        ],
+        "description": "Spiritualist Blanche Tyler and her cab-driving boyfriend encounter a pair of serial kidnappers while trailing a missing heir in California.",
+        "image": "https://image.tmdb.org/t/p/w500/TPo1gsNCswrgyxrqdGN44OmPuH.jpg",
+        "date": "2026-03-18",
+        "score": 7.36,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_348898",
+        "title_hu": "Marshall's Miracle",
+        "title_en": "Boiler Room",
+        "type": "film",
+        "genres": [
+            "TV Movie",
+            "Family"
+        ],
+        "description": "A college dropout gets a job as a broker for a suburban investment firm and is on the fast track to success—but the job might not be as legitimate as it sounds.",
+        "image": "https://image.tmdb.org/t/p/w500/dXOWIURPHNtRogxmv44oTE9zVa8.jpg",
+        "date": "2015-08-28",
+        "score": 6.4,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_939541",
+        "title_hu": "Christmas at the Kringles",
+        "title_en": "Christmas at the Kringles",
+        "type": "film",
+        "genres": [
+            "Action",
+            "Horror",
+            "Comedy"
+        ],
+        "description": "After moving to a quiet suburban neighborhood, the Seversons meet the Kringles, a family that celebrates Christmas year-round. When Mark, the father, discovers the Kringles' sinister yuletide intentions, he teams up with a badass Santa in a high-stakes, action-packed fight to save his family.",
+        "image": "https://image.tmdb.org/t/p/w500/oVxkhheRVWSacimUZBuMemQX85E.jpg",
+        "date": "2026-10-29",
+        "score": 6.0,
+        "age_rating": "16+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1165366",
+        "title_hu": "De Gaulle - Az ellenállás hajnala",
+        "title_en": "De Gaulle: Résistance",
+        "type": "film",
+        "genres": [
+            "History",
+            "Drama",
+            "War"
+        ],
+        "description": "1940 júniusa. Franciaország összeomlik, és fegyverszünetet köt. A káosz közepette azonban egy férfi nem hajlandó feladni. Az esélyekkel dacolva, egyedül ez az ismeretlen tábornok Londonba menekül, hogy megmentse a szabadság megmaradt részét.  (Csillag Lajos)",
+        "image": "https://image.tmdb.org/t/p/w500/nwgEAaNjsnzTa1QFDE8kDS5VsDr.jpg",
+        "date": "2026-06-03",
+        "score": 7.8,
+        "age_rating": "12+",
+        "cover_nsfw": false
+    },
+    {
+        "id": "tmdb_1773334",
+        "title_hu": "Our Holiday Playbook",
+        "title_en": "Our Holiday Playbook",
+        "type": "film",
+        "genres": [
+            "Romance",
+            "TV Movie",
+            "Comedy"
+        ],
+        "description": "Returning home for Christmas, Lexi recruits a former football star to pose as her boyfriend for her family's annual flag football rivalry, but their fake romance soon turns into something real.",
+        "image": "https://image.tmdb.org/t/p/w500/sSgjBkHCdhyPj0l9YWwVwxeXV6D.jpg",
+        "date": "2026-11-20",
+        "score": 7.0,
+        "age_rating": "12+",
+        "cover_nsfw": false
     }
 ]
